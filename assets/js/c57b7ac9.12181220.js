@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[34961],{3930:e=>{e.exports="/luminescent-team-dev/pokedex/walrein"}}]);
