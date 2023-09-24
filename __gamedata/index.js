@@ -28,6 +28,7 @@ import itemNames from './english_ss_itemname.json';
 import moveEnum from './moveEnum.json';
 import smogonMoves from './smogonMoves.json';
 import EvolutionData from './evolution.json';
+import tutorMoves from './tutor_moves.json';
 
 export {
   PersonalTable,
@@ -53,4 +54,5 @@ export {
   moveEnum,
   smogonMoves,
   EvolutionData,
+  tutorMoves
 };
