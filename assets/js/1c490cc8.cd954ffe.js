@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[36492],{57063:e=>{e.exports="/pokedex/obstagoon"}}]);

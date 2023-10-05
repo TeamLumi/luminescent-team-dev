@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[64720],{74489:e=>{e.exports="/pokedex/makuhita"}}]);

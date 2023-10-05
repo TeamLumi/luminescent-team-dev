@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[79787],{47982:e=>{e.exports="/pokedex/marshtomp"}}]);

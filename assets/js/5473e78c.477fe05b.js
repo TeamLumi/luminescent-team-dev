@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[20090],{4395:e=>{e.exports="/pokedex/magikarp"}}]);

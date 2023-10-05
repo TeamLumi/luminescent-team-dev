@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[21125],{89017:e=>{e.exports="/pokedex/pelipper"}}]);

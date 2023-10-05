@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[75225],{33726:e=>{e.exports="/pokedex/oddish"}}]);

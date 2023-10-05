@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[88009],{76216:e=>{e.exports="/pokedex/spinda"}}]);

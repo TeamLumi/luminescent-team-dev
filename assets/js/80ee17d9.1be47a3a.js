@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[83955],{50465:e=>{e.exports="/pokedex/roserade"}}]);

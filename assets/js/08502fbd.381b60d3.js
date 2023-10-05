@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[34677],{8746:e=>{e.exports="/pokedex/kadabra"}}]);

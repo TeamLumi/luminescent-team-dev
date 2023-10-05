@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[36687],{58134:e=>{e.exports="/pokedex/togetic"}}]);
