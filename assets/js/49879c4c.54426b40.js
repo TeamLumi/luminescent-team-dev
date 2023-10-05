@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[66465],{18584:e=>{e.exports="/pokedex/meditite"}}]);

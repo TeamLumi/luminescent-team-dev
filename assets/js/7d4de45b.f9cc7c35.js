@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[99844],{35215:e=>{e.exports="/pokedex/sentret"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[41853],{77425:e=>{e.exports="/pokedex/torterra"}}]);

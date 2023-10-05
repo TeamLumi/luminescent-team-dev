@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[62060],{99982:e=>{e.exports="/pokedex/natu"}}]);

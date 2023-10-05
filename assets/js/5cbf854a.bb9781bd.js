@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[2245],{98353:e=>{e.exports="/pokedex/shiftry"}}]);

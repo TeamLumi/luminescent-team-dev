@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[90771],{92623:e=>{e.exports="/pokedex/celebi"}}]);

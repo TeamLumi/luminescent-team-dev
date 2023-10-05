@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[29437],{76559:e=>{e.exports="/pokedex/yanmega"}}]);

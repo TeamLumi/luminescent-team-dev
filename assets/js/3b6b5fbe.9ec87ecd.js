@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[15166],{40851:e=>{e.exports="/pokedex/umbreon"}}]);

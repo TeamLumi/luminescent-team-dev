@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[2048],{27233:e=>{e.exports="/pokedex/miltank"}}]);

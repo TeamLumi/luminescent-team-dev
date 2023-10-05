@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[38340],{552:e=>{e.exports="/pokedex/lotad"}}]);
