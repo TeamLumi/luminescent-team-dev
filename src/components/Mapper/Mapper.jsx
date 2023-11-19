@@ -102,6 +102,16 @@ export const Mapper = ({ pokemonList }) => {
   const [fixedShopList, setFixedShops] = useState([]);
   const [heartScaleShopList, setHeartScaleShop] = useState([]);
 
+  const [currentTime, setCurrentTime] = useState(Date.now());
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentTime(Date.now());
+    }, 100); // Update every 100 milliseconds (adjust as needed for your animation speed)
+
+    return () => clearInterval(interval); // Clear interval on component unmount
+  }, []);
+
   useEffect(() => {
     setEncounterList(setAllEncounters(locationName))
   }, [encOptions])
@@ -185,8 +195,21 @@ export const Mapper = ({ pokemonList }) => {
     return{GroundEnc: allGroundEnc, SurfEnc: allSurfEnc, RodEnc: rodEnc}
   }
 
+  const drawPulse = (ctx, x, y, w, h) => {
+    const pulseSpeed = .0025; // Adjust the speed of the pulse effect
+    const maxPulseSize = 10; // Adjust the maximum size of the pulse effect
+  
+    let pulseSize = (Math.sin(currentTime * pulseSpeed) + 1) * 0.25 * maxPulseSize;
+  
+    ctx.save();
+    ctx.strokeStyle = 'rgba(255, 0, 0, 0.8)'; // Adjust color and opacity of the pulse effect
+    ctx.lineWidth = 3;
+  
+    ctx.strokeRect(x - pulseSize / 2, y - pulseSize / 2, w + pulseSize, h + pulseSize);
+    ctx.restore();
+  };
+  
   const drawOverlay = (ctx) => {
-
     coordinates.forEach(coord => {
       // Draw zone outlines
       ctx.beginPath();
@@ -196,6 +219,7 @@ export const Mapper = ({ pokemonList }) => {
       ctx.lineTo(coord.x, coord.y + coord.h);
       ctx.closePath();
       if (locationList.includes(coord.name)) { // locationList is the list of locations you can find mons
+        drawPulse(ctx, coord.x, coord.y, coord.w, coord.h);
         ctx.fillStyle = `rgba(${colors.enc.r}, ${colors.enc.g}, ${colors.enc.b}, ${colors.enc.a})`;
         ctx.fill();
       }
@@ -241,8 +265,6 @@ export const Mapper = ({ pokemonList }) => {
       setScriptItems(getScriptItems(zoneId));
       setFixedShops(getFixedShops(zoneId));
       setHeartScaleShop(getHeartScaleShopItems(zoneId));
-
-      drawOverlay(context);
     };
 
     myCanvas.current.addEventListener('click', handleClick);
@@ -255,7 +277,7 @@ export const Mapper = ({ pokemonList }) => {
       myCanvas.current.removeEventListener('mousemove', handleMouseMove);
       myCanvas.current.removeEventListener('mouseleave', handleMouseLeave);
     };
-  }, [encOptions, pokemonName])
+  }, [encOptions, pokemonName, locationName, hoveredZone, locationList, currentTime])
 
   function handleMouseMove(event) {
     const rect = myCanvas.current.getBoundingClientRect();
