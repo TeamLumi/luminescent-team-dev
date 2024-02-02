@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[68500],{285108:e=>{e.exports="/luminescent-team-dev/pokedex/noibat"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[293374],{473330:e=>{e.exports="/luminescent-team-dev/pokedex/glitch-kabutops"}}]);

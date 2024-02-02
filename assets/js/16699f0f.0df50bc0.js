@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[159694],{810374:e=>{e.exports="/luminescent-team-dev/pokedex/meloetta-pirouette"}}]);

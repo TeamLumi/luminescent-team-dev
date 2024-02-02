@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[116006],{505857:e=>{e.exports="/luminescent-team-dev/pokedex/gimmighoul-chest"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[415056],{285431:e=>{e.exports="/luminescent-team-dev/pokedex/furfrou-natural"}}]);

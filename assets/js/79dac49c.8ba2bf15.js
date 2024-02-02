@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[201675],{244507:e=>{e.exports="/luminescent-team-dev/pokedex/blank-plate-arceus"}}]);

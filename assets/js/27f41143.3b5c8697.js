@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[942830],{579619:e=>{e.exports="/luminescent-team-dev/pokedex/eiscue-noice"}}]);

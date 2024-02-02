@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[52748],{83014:e=>{e.exports="/luminescent-team-dev/pokedex/torchic"}}]);

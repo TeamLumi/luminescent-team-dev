@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[776638],{407797:e=>{e.exports="/luminescent-team-dev/pokedex/mesprit"}}]);

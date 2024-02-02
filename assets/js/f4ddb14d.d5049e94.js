@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[13214],{547842:e=>{e.exports="/luminescent-team-dev/pokedex/arcanine-frenzied-lord-of-the-isles"}}]);

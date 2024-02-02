@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[867649],{149563:e=>{e.exports="/luminescent-team-dev/pokedex/kleavor-frenzied-lord-of-the-woods"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[692174],{493350:e=>{e.exports="/luminescent-team-dev/pokedex/mienfoo"}}]);

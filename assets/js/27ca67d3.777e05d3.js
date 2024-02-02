@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[378220],{243797:e=>{e.exports="/luminescent-team-dev/pokedex/haunter-glitch-ghost"}}]);

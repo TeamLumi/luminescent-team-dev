@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[944298],{454792:e=>{e.exports="/luminescent-team-dev/pokedex/furfrou-la-reine"}}]);

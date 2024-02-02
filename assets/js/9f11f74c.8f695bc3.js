@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[429489],{250462:e=>{e.exports="/luminescent-team-dev/pokedex/polteageist-antique"}}]);

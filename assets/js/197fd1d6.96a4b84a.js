@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[561173],{898494:e=>{e.exports="/luminescent-team-dev/pokedex/deoxys-defense"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[457958],{207018:e=>{e.exports="/luminescent-team-dev/pokedex/tandemaus"}}]);

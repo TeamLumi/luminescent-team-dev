@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[600526],{774213:e=>{e.exports="/luminescent-team-dev/pokedex/oricorio-sensu"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[616327],{748880:e=>{e.exports="/luminescent-team-dev/pokedex/dudunsparce-three-segment"}}]);

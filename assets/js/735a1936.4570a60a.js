@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[435053],{505305:e=>{e.exports="/luminescent-team-dev/pokedex/sinistea-phony"}}]);

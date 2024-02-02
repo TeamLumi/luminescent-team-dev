@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[583957],{155220:e=>{e.exports="/luminescent-team-dev/pokedex/vivillon-meadow"}}]);

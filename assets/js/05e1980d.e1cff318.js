@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[888973],{24367:e=>{e.exports="/luminescent-team-dev/pokedex/pikachu-sinnoh-cap"}}]);

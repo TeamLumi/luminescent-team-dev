@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[725038],{394114:e=>{e.exports="/luminescent-team-dev/pokedex/gmax-kingler"}}]);

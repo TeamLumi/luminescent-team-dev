@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[201073],{440821:e=>{e.exports="/luminescent-team-dev/pokedex/swadloon"}}]);

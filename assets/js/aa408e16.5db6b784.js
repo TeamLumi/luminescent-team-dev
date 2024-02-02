@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[26878],{789127:e=>{e.exports="/luminescent-team-dev/pokedex/fearow"}}]);

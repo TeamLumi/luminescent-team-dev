@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[808203],{813544:e=>{e.exports="/luminescent-team-dev/pokedex/aegislash-blade"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[560137],{722252:e=>{e.exports="/luminescent-team-dev/pokedex/walking-wake"}}]);

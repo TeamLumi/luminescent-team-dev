@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[435742],{532244:e=>{e.exports="/luminescent-team-dev/pokedex/glitch-aerodactyl"}}]);
