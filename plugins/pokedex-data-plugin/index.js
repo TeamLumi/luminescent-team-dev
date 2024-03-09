@@ -76,15 +76,6 @@ function pokedexDataPlugin(context, options) {
         },
       };
 
-      actions.addRoute({
-        path: options.routeBasePath + "mapper",
-        component: options.mapComponent,
-        exact: true,
-        modules: {
-          pokemonList: pokemonListJson,
-        }
-      });
-
       const pokemonRedirectRoutes = [];
       const pokemonRoutes = [];
       await Promise.all(
