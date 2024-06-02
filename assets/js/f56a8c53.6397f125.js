@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[16067],{13786:e=>{e.exports="/luminescent-team-dev/pokedex/lickilicky"}}]);

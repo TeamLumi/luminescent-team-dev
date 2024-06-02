@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[474749],{600790:e=>{e.exports="/luminescent-team-dev/pokedex/furfrou-matron"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[929161],{912572:e=>{e.exports="/luminescent-team-dev/pokedex/keldeo-ordinary"}}]);

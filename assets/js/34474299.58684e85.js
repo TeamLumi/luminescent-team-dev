@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[358329],{871837:e=>{e.exports="/luminescent-team-dev/pokedex/duraludon"}}]);

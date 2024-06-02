@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[500112],{236743:e=>{e.exports="/luminescent-team-dev/pokedex/mawile"}}]);

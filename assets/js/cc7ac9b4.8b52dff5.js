@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[522998],{498785:e=>{e.exports="/luminescent-team-dev/pokedex/dracozolt"}}]);

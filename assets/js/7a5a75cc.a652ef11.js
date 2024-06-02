@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[433371],{424206:e=>{e.exports="/luminescent-team-dev/pokedex/gourgeist-average"}}]);

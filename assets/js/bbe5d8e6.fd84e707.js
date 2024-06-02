@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[829443],{495071:e=>{e.exports="/luminescent-team-dev/pokedex/oricorio-pom-pom"}}]);

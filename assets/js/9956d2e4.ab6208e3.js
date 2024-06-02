@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[384808],{752323:e=>{e.exports="/luminescent-team-dev/pokedex/urshifu-single-strike"}}]);

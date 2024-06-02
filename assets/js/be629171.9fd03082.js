@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[757382],{454651:e=>{e.exports="/luminescent-team-dev/pokedex/whismur"}}]);

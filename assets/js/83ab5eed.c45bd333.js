@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[642736],{448379:e=>{e.exports="/luminescent-team-dev/pokedex/basculin-blue-striped"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[12754],{80870:e=>{e.exports="/luminescent-team-dev/pokedex/azumarill"}}]);

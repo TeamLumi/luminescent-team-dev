@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[687493],{855072:e=>{e.exports="/luminescent-team-dev/pokedex/swanna"}}]);

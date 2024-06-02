@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[585394],{916964:e=>{e.exports="/luminescent-team-dev/pokedex/tatsugiri-droopy-form-false-dragon-titan"}}]);

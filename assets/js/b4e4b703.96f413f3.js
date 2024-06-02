@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[790254],{673665:e=>{e.exports="/luminescent-team-dev/pokedex/deoxys-speed"}}]);

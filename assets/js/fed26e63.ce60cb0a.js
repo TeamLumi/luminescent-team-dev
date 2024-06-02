@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[840103],{901692:e=>{e.exports="/luminescent-team-dev/pokedex/darmanitan-zen"}}]);

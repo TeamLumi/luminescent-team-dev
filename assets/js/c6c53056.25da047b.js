@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[610511],{145288:e=>{e.exports="/luminescent-team-dev/pokedex/butterfree"}}]);

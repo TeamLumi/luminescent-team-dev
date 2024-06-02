@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[485156],{745403:e=>{e.exports="/luminescent-team-dev/pokedex/tornadus-incarnate"}}]);

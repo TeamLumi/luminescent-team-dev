@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[145289],{776062:e=>{e.exports="/luminescent-team-dev/pokedex/lycanroc-midnight"}}]);

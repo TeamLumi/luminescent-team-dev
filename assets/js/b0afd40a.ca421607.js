@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[71787],{18803:e=>{e.exports="/luminescent-team-dev/pokedex/machoke"}}]);

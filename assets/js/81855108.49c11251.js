@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[525169],{792692:e=>{e.exports="/luminescent-team-dev/pokedex/palafin-zero"}}]);

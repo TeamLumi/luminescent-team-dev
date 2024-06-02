@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[622850],{780840:e=>{e.exports="/luminescent-team-dev/pokedex/sawsbuck-autumn"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[887115],{590127:e=>{e.exports="/luminescent-team-dev/pokedex/furfrou-diamond"}}]);

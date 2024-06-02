@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[669489],{975730:e=>{e.exports="/luminescent-team-dev/pokedex/electrode-frenzied-lord-of-the-hollow"}}]);

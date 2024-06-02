@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[247927],{729679:e=>{e.exports="/luminescent-team-dev/pokedex/xerneas-neutral"}}]);

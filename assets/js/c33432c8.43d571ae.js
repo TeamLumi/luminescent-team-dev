@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[209451],{998807:e=>{e.exports="/luminescent-team-dev/pokedex/skeledirge"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[1764],{58427:e=>{e.exports="/luminescent-team-dev/pokedex/loudred"}}]);

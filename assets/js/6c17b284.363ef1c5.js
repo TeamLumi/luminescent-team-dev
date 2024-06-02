@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[628234],{95220:e=>{e.exports="/luminescent-team-dev/pokedex/dartrix"}}]);

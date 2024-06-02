@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[373094],{806373:e=>{e.exports="/luminescent-team-dev/pokedex/starmie"}}]);

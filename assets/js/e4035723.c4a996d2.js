@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[557424],{750075:e=>{e.exports="/luminescent-team-dev/pokedex/totem-kommo-o"}}]);
