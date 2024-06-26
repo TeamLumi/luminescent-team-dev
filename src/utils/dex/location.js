@@ -13,6 +13,7 @@ lines.slice(1).forEach(line => {
 
 function getZoneCodeFromCSV(zoneId) {
   if (!zoneId) {
+    console.warn("Invalid Zone Id", zoneId);
     return null;
   }
   return AreaMap[zoneId]?.Zone_Code;
@@ -31,7 +32,10 @@ function getZoneNameFromZoneCode(zoneCode) {
     return null;
   }
   const zoneId = Object.keys(AreaMap).find(key => AreaMap[key]?.Zone_Code === zoneCode.toUpperCase());
-  const zoneName = AreaMap[zoneId].Actual
+  if (!zoneId) {
+    console.warn("This zoneCode doesn't have a zoneId", zoneCode);
+  }
+  const zoneName = AreaMap[zoneId]?.Actual
   return zoneName;
 }
 
@@ -120,6 +124,7 @@ function getZoneIdFromZoneName(zoneName) {
 
 function getFieldItemsFromZoneID(zoneID) {
   if(typeof zoneID !== 'number' || zoneID < 0) {
+    console.warn("Invalid zoneID", zoneID);
     return [];
   }
 

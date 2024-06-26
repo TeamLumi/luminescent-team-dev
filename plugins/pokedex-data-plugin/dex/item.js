@@ -15,7 +15,7 @@ function getItemString(itemId = 0) {
 
 function getItemImageUrl(itemName="") {
   const splitItemName = itemName.replace("’", "").split(" ").join("_");
-  return `/img/Item_${splitItemName}.webp`;
+  return `/img/items/Item_${splitItemName}.webp`;
 }
 
 function getTMImageUrl(moveType="") {

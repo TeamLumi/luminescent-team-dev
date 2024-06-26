@@ -38,6 +38,10 @@ function getRegularShopItems(zoneId) {
 
 function getScriptItems(zoneId) {
   const zoneCode = getZoneCodeFromCSV(zoneId);
+  if (!zoneCode) {
+    console.warn("Invalid zoneCode: ", zoneCode);
+    return [];
+  }
   const lookup = zoneCode.slice(0, 3).toLowerCase();
   const result = [];
 
