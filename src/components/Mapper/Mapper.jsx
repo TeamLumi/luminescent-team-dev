@@ -99,12 +99,13 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     honey: [],
     event: [],
   });
+  const [itemsList, setItemsList] = useState({ field: [], hidden: [], scripted: [] })
   const [fieldItemsList, setFieldItems] = useState([]);
   const [hiddenItemsList, setHiddenItems] = useState([]);
   const [shopItemsList, setShopItems] = useState([]);
-  const [scriptItemsList, setScriptItems] = useState([]);
   const [fixedShopList, setFixedShops] = useState([]);
   const [heartScaleShopList, setHeartScaleShop] = useState([]);
+
 
   const [selectedTab, setSelectedTab] = useState(
     new URLSearchParams(window.location.search).has('trainerId') ? 1 : 0
@@ -114,7 +115,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     setSelectedTab(newTab);
   };
 
-  // Handle URL query parameters for trainer ID
+  //Handle URL query parameters for trainer ID
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const trainerId = params.get('trainerId');
@@ -201,6 +202,18 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const handleCloseSettings = () => {
     setShowSettings(false);
   };
+
+  const getAllItems = (zoneId) => {
+    const fieldItems = getFieldItemsFromZoneID(zoneId);
+    const hiddenItems = getHiddenItemsFromZoneID(zoneId);
+    const scriptItems = getScriptItems(zoneId);
+    return {
+      field: fieldItems,
+      hidden: hiddenItems,
+      scripted: scriptItems,
+    }
+  };
+
 
   const setAllEncounters = (zoneId) => {
     const areaEncounters = getAreaEncounters(zoneId, GAMEDATA3);
@@ -379,6 +392,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
           selectedTrainer={selectedTrainer}
           setSelectedTrainer={setSelectedTrainer}
           openTrainerModal={openTrainerModal}
+          itemsList={itemsList}
           routeId={selectedLocation}
           selectedTab={selectedTab}
           onTabChange={handleTabChange}
