@@ -39,6 +39,14 @@ function getZoneNameFromZoneCode(zoneCode) {
   return zoneName;
 }
 
+function getZoneNameFromZoneIdCSV(zoneId) {
+  if (!zoneId) {
+    return null;
+  }
+  const zoneName = AreaMap[zoneId]?.Actual
+  return zoneName;
+}
+
 // This next section uses the in game files for the zone names
 function getZoneNameFromDisplayName(displayName) {
   if(displayName === undefined) return null;
@@ -142,6 +150,7 @@ function getHiddenItemsFromZoneID(zoneID) {
 export {
   getZoneIdFromZoneName,
   getZoneNameFromZoneId,
+  getZoneNameFromZoneIdCSV,
   getZoneCodeFromCSV,
   getZoneIdFromZoneCode,
   getZoneNameFromZoneCode,
