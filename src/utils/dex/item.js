@@ -67,7 +67,8 @@ function getScriptItems(zoneId, mode=GAMEDATA2) {
     console.warn("Invalid zoneCode: ", zoneCode);
     return [];
   }
-  const lookup = zoneCode.slice(0, 3).toLowerCase();
+  const lookupLength = zoneCode.startsWith("C") || zoneCode.startsWith("T") ? 3 : 4
+  const lookup = zoneCode.slice(0, lookupLength).toLowerCase();
   const result = [];
 
   Object.keys(modeItemMap).forEach(key => {

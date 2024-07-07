@@ -38,6 +38,7 @@ const typeNameVanilla = require('./gamedataVanilla/english_ss_typename.json');
 const moveNamesVanilla = require('./gamedataVanilla/english_ss_wazaname.json');
 const moveInfoVanilla = require('./gamedataVanilla/english_ss_wazainfo.json');
 const itemNamesVanilla = require('./gamedataVanilla/english_ss_itemname.json');
+const itemInfoVanilla = require('./gamedataVanilla/english_ss_iteminfo.json');
 
 //Custom files
 const moveEnumVanilla = require('./gamedataVanilla/moveEnum.json');
@@ -86,6 +87,7 @@ const typeName2 = require('./gamedata2.0/english_ss_typename.json');
 const moveNames2 = require('./gamedata2.0/english_ss_wazaname.json');
 const moveInfo2 = require('./gamedata2.0/english_ss_wazainfo.json');
 const itemNames2 = require('./gamedata2.0/english_ss_itemname.json');
+const itemInfo2 = require('./gamedata2.0/english_ss_iteminfo.json');
 
 //Custom files
 const moveEnum2 = require('./gamedata2.0/moveEnum.json');
@@ -133,6 +135,7 @@ const typeName3 = require('./gamedata3.0/english_ss_typename.json');
 const moveNames3 = require('./gamedata3.0/english_ss_wazaname.json');
 const moveInfo3 = require('./gamedata3.0/english_ss_wazainfo.json');
 const itemNames3 = require('./gamedata3.0/english_ss_itemname.json');
+const itemInfo3 = require('./gamedata3.0/english_ss_iteminfo.json');
 
 //Custom files
 const moveEnum3 = require('./gamedata3.0/moveEnum.json');
@@ -174,6 +177,11 @@ const ItemNames = { // english_ss_itemname.json
   [GAMEDATAV]: itemNamesVanilla,
   [GAMEDATA2]: itemNames2,
   [GAMEDATA3]: itemNames3, // found in common_msbt for 3.0
+};
+const ItemInfo = {
+  [GAMEDATAV]: itemInfoVanilla,
+  [GAMEDATA2]: itemInfo2,
+  [GAMEDATA3]: itemInfo3,
 };
 const NatureNames = { // english_ss_seikaku.json
   [GAMEDATAV]: natureNamesVanilla,
@@ -371,6 +379,7 @@ module.exports = {
   AreaNames,
   DisplayNames,
   ItemNames,
+  ItemInfo,
   NatureNames,
   AbilityNames,
   AbilityInfo,
