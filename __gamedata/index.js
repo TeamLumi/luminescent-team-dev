@@ -37,6 +37,7 @@ import typeName from './english_ss_typename.json';
 import moveNames from './english_ss_wazaname.json';
 import moveInfo from './english_ss_wazainfo.json';
 import itemNames from './english_ss_itemname.json';
+import itemInfo from './english_ss_iteminfo.json';
 
 //Custom files
 import moveEnum from './moveEnum.json';
@@ -70,6 +71,7 @@ export {
   moveInfo,
   ItemTable,
   itemNames,
+  itemInfo,
   moveEnum,
   smogonMoves,
   EvolutionData,
