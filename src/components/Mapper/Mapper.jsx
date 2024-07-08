@@ -42,7 +42,9 @@ import {
   getSurfingIncenseEncounter,
   getSwarmEncounter,
   getAllIncenseEncounters,
-  getMapperRoutesFromPokemonId
+  getMapperRoutesFromPokemonId,
+  getAllHoneyTreeEncounters,
+  getEventEncounters,
 } from '../../utils/dex/encounters';
 import TrainersModal from './Trainers/TrainersModal';
 
@@ -132,7 +134,13 @@ export const Mapper = ({ pokemonList }) => {
     enc: { r: 247, g: 0, b: 0, a: 0.7 },
   });
 
-  const [encounterList, setEncounterList] = useState({ GroundEnc: [], SurfEnc: [], RodEnc: [] });
+  const [encounterList, setEncounterList] = useState({
+    GroundEnc: [],
+    SurfEnc: [],
+    RodEnc: [],
+    honey: [],
+    event: [],
+  });
   const [trainerList, setTrainerList] = useState([]);
   const [itemsList, setItemsList] = useState({ field: [], hidden: [], scripted: [] })
   const [shopItemsList, setShopItems] = useState([]);
@@ -513,7 +521,13 @@ export const Mapper = ({ pokemonList }) => {
   const setAllEncounters = (zoneId) => {
     const areaEncounters = getAreaEncounters(zoneId);
     if (!areaEncounters) {
-      return {GroundEnc: [], SurfEnc: [], RodEnc: []};
+      return {
+        GroundEnc: [],
+        SurfEnc: [],
+        RodEnc: [],
+        honey: [],
+        event: [],
+      };
     }
 
     const allGroundEnc = getAllGroundEncounters(areaEncounters);
@@ -523,6 +537,8 @@ export const Mapper = ({ pokemonList }) => {
     const incenseEnc = getAllIncenseEncounters(areaEncounters);
     const allSurfEnc = getAllSurfingEncounters(areaEncounters);
     const surfIncenseEnc = getSurfingIncenseEncounter(areaEncounters);
+    const honeyTreeEnc = getAllHoneyTreeEncounters(areaEncounters);
+    const eventEncounters = getEventEncounters(areaEncounters);
 
     // This section is for the grass encounters only
     if (allGroundEnc.length > 0) {
@@ -569,7 +585,13 @@ export const Mapper = ({ pokemonList }) => {
     // This section is for the Rod Encounters only
     const rodEnc = getAllRodEncounters(areaEncounters, encOptions.rod)
 
-    return{GroundEnc: allGroundEnc, SurfEnc: allSurfEnc, RodEnc: rodEnc}
+    return{
+      GroundEnc: allGroundEnc,
+      SurfEnc: allSurfEnc,
+      RodEnc: rodEnc,
+      honey: honeyTreeEnc,
+      event: eventEncounters,
+    }
   }
 
   function getHoverFillStyle() {
@@ -665,7 +687,7 @@ export const Mapper = ({ pokemonList }) => {
   return (
     <div className="mapper">
       <header style={{display: "flex", justifyContent: "center", marginTop: "1rem"}}>
-        <h2 style={{width: "fit-content"}}>Luminescent Platinum Mapper (Beta 1.0.0)</h2>
+        <h2 style={{width: "fit-content"}}>Luminescent Platinum Mapper (Beta 1.1.0)</h2>
       </header>
       <div
         className="canvasCol"
