@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[522060],{581247:e=>{e.exports="/luminescent-team-dev/pokedex/dolliv"}}]);

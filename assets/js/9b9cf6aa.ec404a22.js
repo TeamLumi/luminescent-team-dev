@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[240591],{576672:e=>{e.exports="/luminescent-team-dev/pokedex/whirlipede"}}]);

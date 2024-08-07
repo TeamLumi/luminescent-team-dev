@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[337386],{523131:e=>{e.exports="/luminescent-team-dev/pokedex/quaquaval"}}]);

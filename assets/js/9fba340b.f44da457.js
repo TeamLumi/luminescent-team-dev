@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[246807],{744732:e=>{e.exports="/luminescent-team-dev/pokedex/snover"}}]);

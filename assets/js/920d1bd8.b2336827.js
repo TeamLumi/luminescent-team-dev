@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[384768],{278642:e=>{e.exports="/luminescent-team-dev/pokedex/cherubi"}}]);

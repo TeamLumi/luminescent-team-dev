@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[115160],{238169:e=>{e.exports="/luminescent-team-dev/pokedex/delphox"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[976028],{372210:e=>{e.exports="/luminescent-team-dev/pokedex/kecleon"}}]);

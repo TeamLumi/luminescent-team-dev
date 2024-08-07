@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[501168],{731614:e=>{e.exports="/luminescent-team-dev/pokedex/oranguru"}}]);

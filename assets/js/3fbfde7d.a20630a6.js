@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[357972],{228781:e=>{e.exports="/luminescent-team-dev/pokedex/wynaut"}}]);

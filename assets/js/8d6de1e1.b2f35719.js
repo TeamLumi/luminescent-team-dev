@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[431664],{250925:e=>{e.exports="/luminescent-team-dev/pokedex/gmax-corviknight"}}]);

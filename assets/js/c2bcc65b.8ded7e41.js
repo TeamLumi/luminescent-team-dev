@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[655089],{877072:e=>{e.exports="/luminescent-team-dev/pokedex/swimming-build-koraidon"}}]);

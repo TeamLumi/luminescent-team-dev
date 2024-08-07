@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[209166],{256171:e=>{e.exports="/luminescent-team-dev/pokedex/floragato"}}]);

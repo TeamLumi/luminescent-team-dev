@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[870986],{422819:e=>{e.exports="/luminescent-team-dev/pokedex/croagunk"}}]);

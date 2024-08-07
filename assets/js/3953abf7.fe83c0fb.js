@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[874477],{232848:e=>{e.exports="/luminescent-team-dev/pokedex/frenzied-lord-of-the-tundra-hisui-avalugg"}}]);

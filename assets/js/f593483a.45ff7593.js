@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[616520],{895377:e=>{e.exports="/luminescent-team-dev/pokedex/revravroom-ruchbah-starmobile-revavroom"}}]);

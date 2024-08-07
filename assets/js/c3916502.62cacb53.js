@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[290233],{62820:e=>{e.exports="/luminescent-team-dev/pokedex/bouffalant"}}]);

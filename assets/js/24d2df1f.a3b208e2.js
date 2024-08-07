@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[515914],{521529:e=>{e.exports="/luminescent-team-dev/pokedex/totem-gumshoos"}}]);
