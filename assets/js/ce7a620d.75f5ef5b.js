@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[544843],{102775:e=>{e.exports="/luminescent-team-dev/pokedex/coalossal"}}]);

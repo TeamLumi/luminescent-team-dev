@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[112616],{454024:e=>{e.exports="/luminescent-team-dev/pokedex/exeggcute"}}]);

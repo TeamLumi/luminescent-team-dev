@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[8703],{22562:e=>{e.exports="/luminescent-team-dev/pokedex/alola-meowth"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[358299],{692628:e=>{e.exports="/luminescent-team-dev/pokedex/dragonair"}}]);

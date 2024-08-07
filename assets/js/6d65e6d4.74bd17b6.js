@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[271961],{521749:e=>{e.exports="/luminescent-team-dev/pokedex/dewgong-spookydevthing"}}]);
