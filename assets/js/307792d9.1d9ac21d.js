@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[288273],{138464:e=>{e.exports="/luminescent-team-dev/pokedex/clodsire"}}]);

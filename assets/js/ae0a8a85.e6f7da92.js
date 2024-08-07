@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[65365],{22554:e=>{e.exports="/luminescent-team-dev/pokedex/sandaconda"}}]);

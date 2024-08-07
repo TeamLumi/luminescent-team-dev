@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[917028],{129564:e=>{e.exports="/luminescent-team-dev/pokedex/galar-yamask"}}]);

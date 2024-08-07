@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[305729],{539931:e=>{e.exports="/luminescent-team-dev/pokedex/phony-form-sinistea"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[125018],{204355:e=>{e.exports="/luminescent-team-dev/pokedex/arbok"}}]);

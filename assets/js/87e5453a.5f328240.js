@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[82241],{220338:e=>{e.exports="/luminescent-team-dev/pokedex/entei"}}]);

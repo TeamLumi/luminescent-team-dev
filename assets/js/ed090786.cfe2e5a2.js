@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[625757],{897602:e=>{e.exports="/luminescent-team-dev/pokedex/galar-darumaka"}}]);

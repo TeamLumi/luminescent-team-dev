@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[423653],{438234:e=>{e.exports="/luminescent-team-dev/pokedex/gulpin"}}]);

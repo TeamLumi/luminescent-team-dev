@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[159098],{619841:e=>{e.exports="/luminescent-team-dev/pokedex/jangmo-o"}}]);

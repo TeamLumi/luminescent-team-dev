@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[724145],{456909:e=>{e.exports="/luminescent-team-dev/pokedex/chespin"}}]);

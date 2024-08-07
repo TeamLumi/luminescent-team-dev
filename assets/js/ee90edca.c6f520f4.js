@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[121852],{931481:e=>{e.exports="/luminescent-team-dev/pokedex/mareep"}}]);

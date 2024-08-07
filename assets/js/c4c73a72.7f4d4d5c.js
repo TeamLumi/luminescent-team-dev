@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[135382],{954076:e=>{e.exports="/luminescent-team-dev/pokedex/magnemite"}}]);

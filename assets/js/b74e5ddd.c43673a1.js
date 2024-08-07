@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[859264],{507386:e=>{e.exports="/luminescent-team-dev/pokedex/blitzle"}}]);

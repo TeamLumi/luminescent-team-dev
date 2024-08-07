@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[856860],{95016:e=>{e.exports="/luminescent-team-dev/pokedex/electabuzz"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[25951],{602294:e=>{e.exports="/luminescent-team-dev/pokedex/frenzied-lady-of-the-ridge-hisui-lilligant"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[84528],{500298:e=>{e.exports="/luminescent-team-dev/pokedex/quaking-earth-titan-iron-treads"}}]);

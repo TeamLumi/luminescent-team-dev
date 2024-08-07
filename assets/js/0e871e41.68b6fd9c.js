@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[291573],{170453:e=>{e.exports="/luminescent-team-dev/pokedex/grimmsnarl"}}]);

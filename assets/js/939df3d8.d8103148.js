@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[927189],{364085:e=>{e.exports="/luminescent-team-dev/pokedex/solgaleo"}}]);

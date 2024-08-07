@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[300885],{715451:e=>{e.exports="/luminescent-team-dev/pokedex/archen"}}]);

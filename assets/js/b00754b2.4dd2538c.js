@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[229654],{268500:e=>{e.exports="/luminescent-team-dev/pokedex/glastrier"}}]);
