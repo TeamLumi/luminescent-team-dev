@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[761330],{618242:e=>{e.exports="/luminescent-team-dev/pokedex/ekans"}}]);
