@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[155514],{196937:e=>{e.exports="/luminescent-team-dev/pokedex/zygarde-50"}}]);

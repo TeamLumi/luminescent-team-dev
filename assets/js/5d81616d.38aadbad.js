@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[617177],{670978:e=>{e.exports="/luminescent-team-dev/pokedex/glimmora"}}]);

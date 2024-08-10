@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[410748],{113743:e=>{e.exports="/luminescent-team-dev/pokedex/mega-gyarados"}}]);

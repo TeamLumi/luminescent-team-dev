@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[227532],{582952:e=>{e.exports="/luminescent-team-dev/pokedex/cornerstone-mask-ogerpon"}}]);
