@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[476089],{993517:e=>{e.exports="/luminescent-team-dev/pokedex/raticate"}}]);

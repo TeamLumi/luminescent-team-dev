@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[210652],{19185:e=>{e.exports="/luminescent-team-dev/pokedex/two-segment-form-dudunsparce"}}]);

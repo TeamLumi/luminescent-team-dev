@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[338508],{487847:e=>{e.exports="/luminescent-team-dev/pokedex/trubbish"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[799697],{84560:e=>{e.exports="/luminescent-team-dev/pokedex/splash-plate-arceus"}}]);

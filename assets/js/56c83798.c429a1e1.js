@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[495258],{827939:e=>{e.exports="/luminescent-team-dev/pokedex/glide-mode-miraidon"}}]);

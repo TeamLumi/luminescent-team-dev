@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[315062],{130055:e=>{e.exports="/luminescent-team-dev/pokedex/sandslash"}}]);
