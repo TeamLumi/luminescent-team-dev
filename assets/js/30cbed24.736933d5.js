@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[834972],{551566:e=>{e.exports="/luminescent-team-dev/pokedex/trevenant"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[533587],{273312:e=>{e.exports="/luminescent-team-dev/pokedex/scyther"}}]);

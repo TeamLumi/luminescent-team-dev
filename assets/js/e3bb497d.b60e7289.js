@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[632233],{797975:e=>{e.exports="/luminescent-team-dev/pokedex/espeon"}}]);
