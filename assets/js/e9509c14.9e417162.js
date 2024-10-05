@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[129518],{481911:e=>{e.exports="/luminescent-team-dev/pokedex/politoed"}}]);

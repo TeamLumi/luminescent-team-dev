@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[552965],{971848:e=>{e.exports="/luminescent-team-dev/pokedex/rellor"}}]);

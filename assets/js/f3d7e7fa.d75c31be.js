@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[19449],{828508:e=>{e.exports="/luminescent-team-dev/pokedex/galar-zen-mode-darmanitan"}}]);
