@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[794774],{393964:e=>{e.exports=JSON.parse('{"moveId":422,"name":"Thunder Fang","desc":"The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.","type":12,"damageType":1,"maxPP":24,"power":65,"accuracy":95}')}}]);

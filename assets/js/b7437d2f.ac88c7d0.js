@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[614501],{375928:e=>{e.exports=JSON.parse('{"moveId":459,"name":"Roar of Time","desc":"The user blasts the target with power that distorts even time. The user can\u2019t move on the next turn.","type":15,"damageType":2,"maxPP":8,"power":150,"accuracy":90}')}}]);

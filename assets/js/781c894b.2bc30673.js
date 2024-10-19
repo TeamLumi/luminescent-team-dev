@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[801081],{918307:e=>{e.exports=JSON.parse('{"moveId":491,"name":"Acid Spray","desc":"The user spits fluid that works to melt the target. This harshly lowers the target\u2019s Sp. Def stat.","type":3,"damageType":2,"maxPP":32,"power":40,"accuracy":100}')}}]);

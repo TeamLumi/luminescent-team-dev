@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[531272],{117146:e=>{e.exports=JSON.parse('{"moveId":414,"name":"Earth Power","desc":"The user makes the ground under the target erupt with power. This may also lower the target\u2019s Sp. Def stat.","type":4,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

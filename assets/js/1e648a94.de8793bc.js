@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[528848],{355811:e=>{e.exports=JSON.parse('{"moveId":791,"name":"Life Dew","desc":"The user scatters mysterious water around and restores the HP of itself and its ally Pok\xe9mon in the battle.","type":10,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

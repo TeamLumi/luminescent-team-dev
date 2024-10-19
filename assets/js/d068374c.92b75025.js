@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[135333],{99627:e=>{e.exports=JSON.parse('{"moveId":688,"name":"Trop Kick","desc":"The user lands an intense kick of tropical origins on the target. This also lowers the target\'s Attack stat.","type":11,"damageType":1,"maxPP":24,"power":70,"accuracy":100}')}}]);

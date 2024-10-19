@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[20742],{342027:e=>{e.exports=JSON.parse('{"moveId":600,"name":"Powder","desc":"The user covers the target in a combustible powder. If the target uses a Fire-type move, the powder explodes and damages the target.","type":6,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

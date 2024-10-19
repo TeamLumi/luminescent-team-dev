@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[71673],{460886:e=>{e.exports=JSON.parse('{"moveId":265,"name":"Smelling Salts","desc":"This attack\u2019s power is doubled when used on a target with paralysis. This also cures the target\u2019s paralysis, however.","type":0,"damageType":1,"maxPP":16,"power":70,"accuracy":100}')}}]);

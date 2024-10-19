@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[313042],{530466:e=>{e.exports=JSON.parse('{"moveId":442,"name":"Iron Head","desc":"The user slams the target with its steel-hard head. This may also make the target flinch.","type":8,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

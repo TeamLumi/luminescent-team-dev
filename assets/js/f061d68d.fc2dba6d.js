@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[879806],{45070:e=>{e.exports=JSON.parse('{"moveId":351,"name":"Shock Wave","desc":"The user strikes the target with a quick jolt of electricity. This attack never misses.","type":12,"damageType":2,"maxPP":32,"power":60,"accuracy":101}')}}]);

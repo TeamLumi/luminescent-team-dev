@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[955266],{364188:e=>{e.exports=JSON.parse('{"moveId":901,"name":"Blood Moon","desc":"Cannot be used twice in a row.","type":0,"damageType":1,"maxPP":8,"power":140,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[766840],{30700:e=>{e.exports=JSON.parse('{"moveId":453,"name":"Aqua Jet","desc":"The user lunges at the target at a speed that makes it almost invisible. This move always goes first.","type":10,"damageType":1,"maxPP":32,"power":40,"accuracy":100}')}}]);

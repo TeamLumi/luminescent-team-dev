@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[515425],{335026:e=>{e.exports=JSON.parse('{"moveId":527,"name":"Electroweb","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":12,"damageType":2,"maxPP":24,"power":55,"accuracy":95}')}}]);

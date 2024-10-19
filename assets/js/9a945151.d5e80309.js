@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[959971],{522248:e=>{e.exports=JSON.parse('{"moveId":72,"name":"Mega Drain","desc":"A nutrient-draining attack. The user\u2019s HP is restored by half the damage taken by the target.","type":11,"damageType":2,"maxPP":24,"power":60,"accuracy":100}')}}]);

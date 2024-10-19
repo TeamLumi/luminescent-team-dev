@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[478532],{46968:e=>{e.exports=JSON.parse('{"moveId":309,"name":"Meteor Mash","desc":"The target is hit with a hard punch fired like a meteor. This may also raise the user\u2019s Attack stat.","type":8,"damageType":1,"maxPP":16,"power":90,"accuracy":90}')}}]);

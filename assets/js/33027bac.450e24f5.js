@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[66265],{707457:e=>{e.exports=JSON.parse('{"moveId":141,"name":"Leech Life","desc":"The user drains the target\u2019s blood. The user\u2019s HP is restored by half the damage taken by the target.","type":6,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

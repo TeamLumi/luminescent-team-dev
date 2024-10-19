@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[989604],{602572:e=>{e.exports=JSON.parse('{"moveId":118,"name":"Metronome","desc":"The user waggles a finger and stimulates its brain into randomly using nearly any move.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

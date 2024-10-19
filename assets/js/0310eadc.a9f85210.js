@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[463762],{740709:e=>{e.exports=JSON.parse('{"moveId":569,"name":"Ion Deluge","desc":"The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves.","type":12,"damageType":0,"maxPP":40,"power":0,"accuracy":101}')}}]);

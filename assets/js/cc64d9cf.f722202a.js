@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[10894],{744177:e=>{e.exports=JSON.parse('{"moveId":66,"name":"Submission","desc":"The user grabs the target and recklessly dives for the ground. This also damages the user a little.","type":1,"damageType":1,"maxPP":32,"power":110,"accuracy":100}')}}]);

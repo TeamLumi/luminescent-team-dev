@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[523528],{241485:e=>{e.exports=JSON.parse('{"moveId":1,"name":"Pound","desc":"The target is physically pounded with a long tail, a foreleg, or the like.","type":0,"damageType":1,"maxPP":56,"power":40,"accuracy":100}')}}]);

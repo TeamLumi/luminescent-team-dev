@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[189023],{729595:e=>{e.exports=JSON.parse('{"moveId":326,"name":"Extrasensory","desc":"The user attacks with an odd, unseeable power. This may also make the target flinch.","type":13,"damageType":2,"maxPP":32,"power":80,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[192540],{843104:e=>{e.exports=JSON.parse('{"moveId":472,"name":"Wonder Room","desc":"The user creates a bizarre area in which Pok\xe9mon\u2019s Defense and Sp. Def stats are swapped for five turns.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[606259],{449987:e=>{e.exports=JSON.parse('{"moveId":296,"name":"Mist Ball","desc":"A mist-like flurry of down envelops and damages the target. This may also lower the target\u2019s Sp. Atk stat.","type":13,"damageType":2,"maxPP":8,"power":95,"accuracy":100}')}}]);

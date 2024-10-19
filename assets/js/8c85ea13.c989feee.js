@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[81082],{305220:e=>{e.exports=JSON.parse('{"moveId":466,"name":"Ominous Wind","desc":"The user blasts the target with a gust of repulsive wind. This may also raise all the user\'s stats at once.","type":7,"damageType":2,"maxPP":8,"power":60,"accuracy":100}')}}]);

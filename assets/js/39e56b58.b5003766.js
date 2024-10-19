@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[611123],{172486:e=>{e.exports=JSON.parse('{"moveId":830,"name":"Stone Axe","desc":"High critical hit ratio  Damages target with splinters each turn.","type":5,"damageType":0,"maxPP":24,"power":65,"accuracy":90}')}}]);

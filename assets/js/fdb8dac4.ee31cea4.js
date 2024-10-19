@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[148038],{890427:e=>{e.exports=JSON.parse('{"moveId":346,"name":"Water Sport","desc":"The user soaks the battlefield with water. This weakens Fire-type moves for five turns.","type":10,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

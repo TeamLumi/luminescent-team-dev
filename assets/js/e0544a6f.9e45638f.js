@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[688850],{384423:e=>{e.exports=JSON.parse('{"moveId":710,"name":"Liquidation","desc":"The user slams into the target using a full-force blast of water. This may also lower the target\u2019s Defense stat.","type":10,"damageType":1,"maxPP":16,"power":85,"accuracy":100}')}}]);

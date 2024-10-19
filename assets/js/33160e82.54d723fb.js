@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[617537],{254399:e=>{e.exports=JSON.parse('{"moveId":413,"name":"Brave Bird","desc":"The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.","type":2,"damageType":1,"maxPP":24,"power":120,"accuracy":100}')}}]);

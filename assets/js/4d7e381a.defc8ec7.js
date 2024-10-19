@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[472225],{534666:e=>{e.exports=JSON.parse('{"moveId":900,"name":"Magical Torque","desc":"Magical Torque inflicts damage and has a 30% chance of confusing the target.","type":17,"damageType":0,"maxPP":16,"power":100,"accuracy":100}')}}]);

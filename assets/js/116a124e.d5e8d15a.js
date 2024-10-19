@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[795954],{523316:e=>{e.exports=JSON.parse('{"moveId":444,"name":"Stone Edge","desc":"The user stabs the target from below with sharpened stones. Critical hits land more easily.","type":5,"damageType":1,"maxPP":8,"power":100,"accuracy":80}')}}]);

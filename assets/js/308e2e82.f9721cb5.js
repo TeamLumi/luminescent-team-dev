@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[769071],{179199:e=>{e.exports=JSON.parse('{"moveId":151,"name":"Acid Armor","desc":"The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.","type":3,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

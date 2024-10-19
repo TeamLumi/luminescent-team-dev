@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[954010],{988955:e=>{e.exports=JSON.parse('{"moveId":145,"name":"Bubble","desc":"A spray of countless bubbles is jetted at the opposing Pok\xe9mon. This may also lower their Speed stat.","type":10,"damageType":2,"maxPP":48,"power":40,"accuracy":100}')}}]);

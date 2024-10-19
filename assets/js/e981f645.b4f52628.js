@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[537465],{504968:e=>{e.exports=JSON.parse('{"moveId":665,"name":"Ice Hammer","desc":"The user swings and hits with its strong, heavy fist. It lowers the user\u2019s Speed, however.","type":14,"damageType":1,"maxPP":16,"power":100,"accuracy":90}')}}]);

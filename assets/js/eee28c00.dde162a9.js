@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[760265],{270221:e=>{e.exports=JSON.parse('{"moveId":70,"name":"Strength","desc":"The target is slugged with a punch thrown at maximum power. It\u2019s also one of the Pok\xe9tch\u2019s hidden moves.","type":0,"damageType":1,"maxPP":24,"power":100,"accuracy":100}')}}]);

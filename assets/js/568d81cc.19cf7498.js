@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[275626],{936868:e=>{e.exports=JSON.parse('{"moveId":559,"name":"Fusion Bolt","desc":"The user throws down a giant lightning bolt. This move\'s power is increased when influenced by an enormous flame.","type":12,"damageType":1,"maxPP":8,"power":100,"accuracy":100}')}}]);

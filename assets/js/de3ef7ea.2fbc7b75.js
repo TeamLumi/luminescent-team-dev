@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[356495],{459013:e=>{e.exports=JSON.parse('{"moveId":477,"name":"Telekinesis","desc":"The user makes the target float with its psychic power. The target is easier to hit for three turns.","type":13,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

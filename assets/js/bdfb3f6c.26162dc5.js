@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[876357],{650241:e=>{e.exports=JSON.parse('{"moveId":203,"name":"Endure","desc":"The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

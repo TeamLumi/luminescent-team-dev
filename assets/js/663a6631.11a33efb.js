@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[243604],{881393:e=>{e.exports=JSON.parse('{"moveId":321,"name":"Tickle","desc":"The user tickles the target into laughing, reducing its Attack and Defense stats.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

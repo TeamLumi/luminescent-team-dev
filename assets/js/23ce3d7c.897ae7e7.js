@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[470729],{428740:e=>{e.exports=JSON.parse('{"moveId":293,"name":"Camouflage","desc":"The user\'s type is changed depending on its environment, such as at water\'s edge, in grass, or in a cave.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

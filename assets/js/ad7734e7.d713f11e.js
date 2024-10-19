@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[538436],{368203:e=>{e.exports=JSON.parse('{"moveId":152,"name":"Crabhammer","desc":"The target is hammered with a large pincer. Critical hits land more easily.","type":10,"damageType":1,"maxPP":16,"power":100,"accuracy":90}')}}]);

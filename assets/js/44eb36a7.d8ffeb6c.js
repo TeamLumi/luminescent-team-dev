@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[738549],{227940:e=>{e.exports=JSON.parse('{"moveId":190,"name":"Octazooka","desc":"The user attacks by spraying ink in the target\u2019s face or eyes. This may also lower the target\u2019s accuracy.","type":10,"damageType":2,"maxPP":16,"power":65,"accuracy":85}')}}]);

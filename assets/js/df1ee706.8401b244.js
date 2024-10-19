@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[151914],{798970:e=>{e.exports=JSON.parse('{"moveId":546,"name":"Techno Blast","desc":"The user fires a beam of light at its target. The move\u2019s type changes depending on the Drive the user holds.","type":0,"damageType":2,"maxPP":8,"power":120,"accuracy":100}')}}]);

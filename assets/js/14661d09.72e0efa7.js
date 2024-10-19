@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[469220],{735931:e=>{e.exports=JSON.parse('{"moveId":174,"name":"Curse","desc":"A move that works differently for the Ghost type than for all other types.","type":7,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

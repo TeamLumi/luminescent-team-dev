@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[469790],{441112:e=>{e.exports=JSON.parse('{"moveId":366,"name":"Tailwind","desc":"The user whips up a turbulent whirlwind that ups the Speed stats of the user and its allies for four turns.","type":2,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

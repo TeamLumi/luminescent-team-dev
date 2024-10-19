@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[211802],{648390:e=>{e.exports=JSON.parse('{"moveId":86,"name":"Thunder Wave","desc":"The user launches a weak jolt of electricity that paralyzes the target.","type":12,"damageType":0,"maxPP":32,"power":0,"accuracy":90}')}}]);

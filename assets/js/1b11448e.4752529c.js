@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[2546],{664417:e=>{e.exports=JSON.parse('{"moveId":185,"name":"Feint Attack","desc":"The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.","type":16,"damageType":1,"maxPP":32,"power":60,"accuracy":101}')}}]);

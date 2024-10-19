@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[486347],{478434:e=>{e.exports=JSON.parse('{"moveId":769,"name":"Max Mindstorm","desc":"This is a Psychic-type attack Dynamax Pok\xe9mon use. The user turns the ground into Psychic Terrain for five turns.","type":13,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

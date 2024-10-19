@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[215442],{938400:e=>{e.exports=JSON.parse('{"moveId":400,"name":"Night Slash","desc":"The user slashes the target the instant an opportunity arises. Critical hits land more easily.","type":16,"damageType":1,"maxPP":24,"power":70,"accuracy":100}')}}]);

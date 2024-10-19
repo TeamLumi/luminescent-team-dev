@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[874762],{467240:e=>{e.exports=JSON.parse('{"moveId":613,"name":"Oblivion Wing","desc":"The user absorbs its target\u2019s HP. The user\u2019s HP is restored by over half of the damage taken by the target.","type":2,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

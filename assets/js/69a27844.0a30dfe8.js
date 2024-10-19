@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[976235],{240963:e=>{e.exports=JSON.parse('{"moveId":96,"name":"Meditate","desc":"The user meditates to awaken the power deep within its body and raise its Attack stat.","type":13,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

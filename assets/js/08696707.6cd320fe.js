@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[226212],{584545:e=>{e.exports=JSON.parse('{"moveId":90,"name":"Fissure","desc":"The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.","type":4,"damageType":1,"maxPP":8,"power":1,"accuracy":30}')}}]);

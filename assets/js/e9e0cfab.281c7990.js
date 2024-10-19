@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[67445],{470155:e=>{e.exports=JSON.parse('{"moveId":785,"name":"Branch Poke","desc":"The user attacks the target by poking it with a sharply pointed branch.","type":11,"damageType":1,"maxPP":64,"power":40,"accuracy":100}')}}]);

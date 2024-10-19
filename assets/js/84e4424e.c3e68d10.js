@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[899784],{146074:e=>{e.exports=JSON.parse('{"moveId":48,"name":"Supersonic","desc":"The user generates odd sound waves from its body that confuse the target.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":55}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[42432],{332852:e=>{e.exports=JSON.parse('{"moveId":377,"name":"Heal Block","desc":"For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.","type":13,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

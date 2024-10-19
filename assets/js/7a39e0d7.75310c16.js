@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[363685],{530191:e=>{e.exports=JSON.parse('{"moveId":34,"name":"Body Slam","desc":"The user drops onto the target with its full body weight. This may also leave the target with paralysis.","type":0,"damageType":1,"maxPP":24,"power":85,"accuracy":100}')}}]);

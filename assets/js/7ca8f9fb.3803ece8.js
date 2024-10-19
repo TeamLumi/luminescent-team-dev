@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[278587],{593082:e=>{e.exports=JSON.parse('{"moveId":134,"name":"Kinesis","desc":"The user distracts the target by bending a spoon. This lowers the target\u2019s accuracy.","type":13,"damageType":0,"maxPP":24,"power":0,"accuracy":80}')}}]);

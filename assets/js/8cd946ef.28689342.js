@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[970084],{344061:e=>{e.exports=JSON.parse('{"moveId":607,"name":"Hold Hands","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

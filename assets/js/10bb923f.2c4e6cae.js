@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[45717],{387989:e=>{e.exports=JSON.parse('{"moveId":568,"name":"Noble Roar","desc":"Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":100}')}}]);

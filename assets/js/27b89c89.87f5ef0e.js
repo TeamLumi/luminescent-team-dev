@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[362904],{693669:e=>{e.exports=JSON.parse('{"moveId":780,"name":"Pyro Ball","desc":"The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn.","type":9,"damageType":1,"maxPP":8,"power":120,"accuracy":90}')}}]);

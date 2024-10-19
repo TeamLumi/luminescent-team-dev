@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[802012],{197372:e=>{e.exports=JSON.parse('{"moveId":147,"name":"Spore","desc":"The user scatters bursts of spores that induce sleep.","type":11,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

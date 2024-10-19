@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[317090],{420759:e=>{e.exports=JSON.parse('{"moveId":53,"name":"Flamethrower","desc":"The target is scorched with an intense blast of fire. This may also leave the target with a burn.","type":9,"damageType":2,"maxPP":24,"power":90,"accuracy":100}')}}]);

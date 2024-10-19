@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[293469],{758349:e=>{e.exports=JSON.parse('{"moveId":443,"name":"Magnet Bomb","desc":"The user launches steel bombs that stick to the target. This attack never misses.","type":8,"damageType":1,"maxPP":32,"power":60,"accuracy":101}')}}]);

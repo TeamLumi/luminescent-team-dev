@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[594199],{626743:e=>{e.exports=JSON.parse('{"moveId":870,"name":"Flower Trick","desc":"Never misses; always results in a critical hit.","type":11,"damageType":0,"maxPP":16,"power":70,"accuracy":0}')}}]);

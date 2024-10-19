@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[89872],{208455:e=>{e.exports=JSON.parse('{"moveId":324,"name":"Signal Beam","desc":"The user attacks with a sinister beam of light. This may also confuse the target.","type":6,"damageType":2,"maxPP":24,"power":75,"accuracy":100}')}}]);

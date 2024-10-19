@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[406757],{901643:e=>{e.exports=JSON.parse('{"moveId":353,"name":"Doom Desire","desc":"Two turns after this move is used, a concentrated bundle of light blasts the target.","type":8,"damageType":2,"maxPP":8,"power":140,"accuracy":100}')}}]);

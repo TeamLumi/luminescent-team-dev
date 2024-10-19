@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[560699],{848890:e=>{e.exports=JSON.parse('{"moveId":871,"name":"Torch Song","desc":"Raises user\u2019s Special Attack.","type":9,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

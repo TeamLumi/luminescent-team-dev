@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[797210],{726153:e=>{e.exports=JSON.parse('{"moveId":697,"name":"Oceanic Operetta","desc":"The user, Primarina, summons a massive amount of water using its Z-Power and attacks the target with full force.","type":10,"damageType":2,"maxPP":1.6,"power":195,"accuracy":101}')}}]);

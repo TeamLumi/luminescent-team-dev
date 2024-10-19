@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[383298],{52172:e=>{e.exports=JSON.parse('{"moveId":572,"name":"Petal Blizzard","desc":"The user stirs up a violent petal blizzard and attacks everything around it.","type":11,"damageType":1,"maxPP":24,"power":90,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[698990],{870136:e=>{e.exports=JSON.parse('{"moveId":476,"name":"Rage Powder","desc":"The user scatters a cloud of irritating powder to draw attention to itself. Opposing Pok\xe9mon aim only at the user.","type":6,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

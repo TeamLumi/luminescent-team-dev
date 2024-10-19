@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[44284],{665776:e=>{e.exports=JSON.parse('{"moveId":251,"name":"Beat Up","desc":"The user gets all party Pok\xe9mon to attack the target. The more party Pok\xe9mon, the greater the number of attacks.","type":16,"damageType":1,"maxPP":16,"power":1,"accuracy":100}')}}]);

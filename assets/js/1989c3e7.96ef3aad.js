@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[310426],{467288:e=>{e.exports=JSON.parse('{"moveId":82,"name":"Dragon Rage","desc":"This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage.","type":15,"damageType":2,"maxPP":16,"power":1,"accuracy":100}')}}]);

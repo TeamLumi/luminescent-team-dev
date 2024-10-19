@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[283301],{975160:e=>{e.exports=JSON.parse('{"moveId":26,"name":"Jump Kick","desc":"The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself.","type":1,"damageType":1,"maxPP":16,"power":100,"accuracy":95}')}}]);

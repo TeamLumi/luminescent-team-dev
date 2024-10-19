@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[299351],{120217:e=>{e.exports=JSON.parse('{"moveId":303,"name":"Slack Off","desc":"The user slacks off, restoring its own HP by up to half of its max HP.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

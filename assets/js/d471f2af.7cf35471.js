@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[205313],{488586:e=>{e.exports=JSON.parse('{"moveId":686,"name":"Revelation Dance","desc":"The user attacks the target by dancing very hard. The user\'s type determines the type of this move.","type":0,"damageType":2,"maxPP":24,"power":90,"accuracy":100}')}}]);

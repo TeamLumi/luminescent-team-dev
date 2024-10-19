@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[914743],{730095:e=>{e.exports=JSON.parse('{"moveId":299,"name":"Blaze Kick","desc":"The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn.","type":9,"damageType":1,"maxPP":16,"power":90,"accuracy":100}')}}]);

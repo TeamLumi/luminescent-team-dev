@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[27115],{139910:e=>{e.exports=JSON.parse('{"moveId":210,"name":"Fury Cutter","desc":"The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.","type":6,"damageType":1,"maxPP":32,"power":40,"accuracy":95}')}}]);

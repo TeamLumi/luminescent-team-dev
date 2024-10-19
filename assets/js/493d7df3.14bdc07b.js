@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[719765],{615417:e=>{e.exports=JSON.parse('{"moveId":855,"name":"Lumina Crash","desc":"Harshly lowers target\u2019s Special Defense.","type":13,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

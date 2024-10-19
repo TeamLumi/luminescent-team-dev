@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[783909],{759764:e=>{e.exports=JSON.parse('{"moveId":908,"name":"Burning Bulwark","desc":"The user\u2019s intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it.","type":9,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[917392],{632945:e=>{e.exports=JSON.parse('{"moveId":860,"name":"Population Bomb","desc":"Hits 1-10 times in a row.","type":0,"damageType":0,"maxPP":16,"power":20,"accuracy":90}')}}]);

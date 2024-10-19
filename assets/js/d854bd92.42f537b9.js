@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[785296],{996791:e=>{e.exports=JSON.parse('{"moveId":281,"name":"Yawn","desc":"The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

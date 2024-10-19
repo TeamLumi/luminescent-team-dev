@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[69703],{78373:e=>{e.exports=JSON.parse('{"moveId":319,"name":"Metal Sound","desc":"A horrible sound like scraping metal harshly lowers the target\u2019s Sp. Def stat.","type":8,"damageType":0,"maxPP":64,"power":0,"accuracy":85}')}}]);

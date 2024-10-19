@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[402670],{722742:e=>{e.exports=JSON.parse('{"moveId":332,"name":"Aerial Ace","desc":"The user confounds the target with speed, then slashes. This attack never misses.","type":2,"damageType":1,"maxPP":32,"power":60,"accuracy":101}')}}]);

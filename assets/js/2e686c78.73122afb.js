@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[370810],{470569:e=>{e.exports=JSON.parse('{"moveId":298,"name":"Teeter Dance","desc":"The user performs a wobbly dance that confuses the Pok\xe9mon around it.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

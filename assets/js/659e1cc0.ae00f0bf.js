@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[852351],{619498:e=>{e.exports=JSON.parse('{"moveId":773,"name":"Max Overgrowth","desc":"This is a Grass-type attack Dynamax Pok\xe9mon use. The user turns the ground into Grassy Terrain for five turns.","type":11,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

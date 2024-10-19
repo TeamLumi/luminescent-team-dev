@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[21168],{678202:e=>{e.exports=JSON.parse('{"moveId":864,"name":"Salt Cure","desc":"Deals damage each turn; Steel and Water types are more affected.","type":5,"damageType":0,"maxPP":24,"power":40,"accuracy":100}')}}]);

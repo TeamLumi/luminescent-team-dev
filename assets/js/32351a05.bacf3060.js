@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[791534],{93299:e=>{e.exports=JSON.parse('{"moveId":223,"name":"Dynamic Punch","desc":"The user punches the target with full, concentrated power. This confuses the target if it hits.","type":1,"damageType":1,"maxPP":8,"power":100,"accuracy":50}')}}]);

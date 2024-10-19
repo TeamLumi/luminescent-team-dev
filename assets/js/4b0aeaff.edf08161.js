@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[19499],{188801:e=>{e.exports=JSON.parse('{"moveId":671,"name":"Spotlight","desc":"The user shines a spotlight on the target so that only the target will be attacked during the turn.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

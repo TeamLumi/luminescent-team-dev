@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[714367],{558250:e=>{e.exports=JSON.parse('{"moveId":545,"name":"Searing Shot","desc":"The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.","type":9,"damageType":2,"maxPP":8,"power":100,"accuracy":100}')}}]);

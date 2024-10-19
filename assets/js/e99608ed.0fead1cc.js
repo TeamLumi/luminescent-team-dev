@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[389556],{27018:e=>{e.exports=JSON.parse('{"moveId":828,"name":"Psyshield Bash","desc":"Raises user\u2019s Defense and Special Defense.","type":13,"damageType":0,"maxPP":112,"power":10,"accuracy":90}')}}]);

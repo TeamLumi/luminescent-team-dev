@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[267893],{372519:e=>{e.exports=JSON.parse('{"moveId":79,"name":"Sleep Powder","desc":"The user scatters a big cloud of sleep-inducing dust around the target.","type":11,"damageType":0,"maxPP":24,"power":0,"accuracy":75}')}}]);

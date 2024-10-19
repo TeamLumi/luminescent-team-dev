@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[400860],{193690:e=>{e.exports=JSON.parse('{"moveId":800,"name":"Meteor Beam","desc":"In this two-turn attack, the user gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn.","type":5,"damageType":2,"maxPP":16,"power":120,"accuracy":90}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[899327],{285417:e=>{e.exports=JSON.parse('{"moveId":56,"name":"Hydro Pump","desc":"The target is blasted by a huge volume of water launched under great pressure.","type":10,"damageType":2,"maxPP":8,"power":110,"accuracy":80}')}}]);

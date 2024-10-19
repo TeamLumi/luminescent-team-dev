@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[793299],{47069:e=>{e.exports=JSON.parse('{"moveId":862,"name":"Glaive Rush","desc":"Attacks from opposing Pok\xe9mon during the next turn cannot miss and will inflict double damage.","type":15,"damageType":0,"maxPP":8,"power":120,"accuracy":100}')}}]);

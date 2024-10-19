@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[899422],{568803:e=>{e.exports=JSON.parse('{"moveId":595,"name":"Mystical Fire","desc":"The user attacks by breathing a special, hot fire. This also lowers the target\u2019s Sp. Atk stat.","type":9,"damageType":2,"maxPP":16,"power":75,"accuracy":100}')}}]);

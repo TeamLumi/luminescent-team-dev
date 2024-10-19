@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[477441],{259155:e=>{e.exports=JSON.parse('{"moveId":78,"name":"Stun Spore","desc":"The user scatters a cloud of numbing powder that paralyzes the target.","type":11,"damageType":0,"maxPP":48,"power":0,"accuracy":75}')}}]);

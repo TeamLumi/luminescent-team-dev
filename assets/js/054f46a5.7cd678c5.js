@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[979004],{493287:e=>{e.exports=JSON.parse('{"moveId":389,"name":"Sucker Punch","desc":"This move enables the user to attack first. This move fails if the target is not readying an attack.","type":16,"damageType":1,"maxPP":8,"power":70,"accuracy":100}')}}]);

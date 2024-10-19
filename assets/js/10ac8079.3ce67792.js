@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[720090],{586299:e=>{e.exports=JSON.parse('{"moveId":116,"name":"Focus Energy","desc":"The user takes a deep breath and focuses so that critical hits land more easily.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

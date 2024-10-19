@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[888278],{329517:e=>{e.exports=JSON.parse('{"moveId":300,"name":"Mud Sport","desc":"The user kicks up mud on the battlefield. This weakens Electric-type moves for five turns.","type":4,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

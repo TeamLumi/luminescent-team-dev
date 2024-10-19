@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[207799],{376989:e=>{e.exports=JSON.parse('{"moveId":851,"name":"Tera Blast","desc":"Changes type when the user has Terastallized.","type":0,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[19980],{595628:e=>{e.exports=JSON.parse('{"moveId":515,"name":"Final Gambit","desc":"The user risks everything to attack its target. The user faints but does damage equal to its HP.","type":1,"damageType":2,"maxPP":8,"power":1,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[824073],{490878:e=>{e.exports=JSON.parse('{"moveId":822,"name":"Fiery Wrath","desc":"The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pok\xe9mon flinch.","type":16,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

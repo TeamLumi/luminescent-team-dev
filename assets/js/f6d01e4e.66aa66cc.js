@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[493247],{371316:e=>{e.exports=JSON.parse('{"moveId":608,"name":"Baby-Doll Eyes","desc":"The user stares at the target with its baby-doll eyes, which lowers the target\u2019s Attack stat. This move always goes first.","type":17,"damageType":0,"maxPP":48,"power":0,"accuracy":100}')}}]);

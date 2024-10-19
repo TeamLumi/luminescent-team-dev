@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[655448],{46412:e=>{e.exports=JSON.parse('{"moveId":330,"name":"Muddy Water","desc":"The user attacks by shooting muddy water at opposing Pok\xe9mon. This may also lower their accuracy.","type":10,"damageType":2,"maxPP":16,"power":90,"accuracy":85}')}}]);

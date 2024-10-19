@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[312572],{563252:e=>{e.exports=JSON.parse('{"moveId":328,"name":"Sand Tomb","desc":"The user traps the target inside a harshly raging sandstorm for four to five turns.","type":4,"damageType":1,"maxPP":24,"power":35,"accuracy":85}')}}]);

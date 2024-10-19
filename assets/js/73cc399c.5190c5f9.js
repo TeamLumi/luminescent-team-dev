@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[947282],{851985:e=>{e.exports=JSON.parse('{"moveId":465,"name":"Seed Flare","desc":"The user emits a shock wave from its body to attack its target. This may also harshly lower the target\u2019s Sp. Def stat.","type":11,"damageType":2,"maxPP":8,"power":120,"accuracy":85}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[445275],{877969:e=>{e.exports=JSON.parse('{"moveId":587,"name":"Fairy Lock","desc":"By locking down the battlefield, the user keeps all Pok\xe9mon from fleeing during the next turn.","type":17,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

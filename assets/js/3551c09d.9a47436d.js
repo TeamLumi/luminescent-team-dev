@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[778930],{399131:e=>{e.exports=JSON.parse('{"moveId":692,"name":"Dragon Hammer","desc":"The user uses its body like a hammer to attack the target and inflict damage.","type":15,"damageType":1,"maxPP":24,"power":90,"accuracy":100}')}}]);

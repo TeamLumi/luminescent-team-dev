@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[322288],{186468:e=>{e.exports=JSON.parse('{"moveId":327,"name":"Sky Uppercut","desc":"The user attacks the target with an uppercut thrown skyward with force.","type":1,"damageType":1,"maxPP":24,"power":85,"accuracy":90}')}}]);

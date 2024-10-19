@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[611597],{33009:e=>{e.exports=JSON.parse('{"moveId":826,"name":"Eerie Spell","desc":"The user attacks with its tremendous psychic power. This also removes 3 PP from the target\'s last move.","type":13,"damageType":2,"maxPP":8,"power":80,"accuracy":100}')}}]);

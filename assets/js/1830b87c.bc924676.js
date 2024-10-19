@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[164043],{314770:e=>{e.exports=JSON.parse('{"moveId":569,"name":"Ion Deluge","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":12,"damageType":0,"maxPP":40,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[879501],{338175:e=>{e.exports=JSON.parse('{"moveId":149,"name":"Psywave","desc":"The target is attacked with an odd psychic wave. The attack varies in intensity.","type":13,"damageType":2,"maxPP":24,"power":1,"accuracy":100}')}}]);

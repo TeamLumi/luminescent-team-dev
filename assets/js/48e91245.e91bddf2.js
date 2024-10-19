@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[255665],{842124:e=>{e.exports=JSON.parse('{"moveId":605,"name":"Dazzling Gleam","desc":"The user damages opposing Pok\xe9mon by emitting a powerful flash.","type":17,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

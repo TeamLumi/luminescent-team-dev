@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[736237],{325083:e=>{e.exports=JSON.parse('{"moveId":411,"name":"Focus Blast","desc":"The user heightens its mental focus and unleashes its power. This may also lower the target\u2019s Sp. Def stat.","type":1,"damageType":2,"maxPP":8,"power":120,"accuracy":70}')}}]);

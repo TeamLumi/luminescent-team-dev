@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[838411],{515278:e=>{e.exports=JSON.parse('{"moveId":699,"name":"Soul-Stealing 7-Star Strike","desc":"After obtaining Z-Power, the user, Marshadow, punches and kicks the target consecutively with full force.","type":7,"damageType":1,"maxPP":1.6,"power":195,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[169486],{129629:e=>{e.exports=JSON.parse('{"moveId":13,"name":"Razor Wind","desc":"In this two-turn attack, blades of wind hit opposing Pok\xe9mon on the second turn. Critical hits land more easily.","type":0,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

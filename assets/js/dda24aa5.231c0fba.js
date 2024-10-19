@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[936271],{905549:e=>{e.exports=JSON.parse('{"moveId":892,"name":"Double Shock","desc":"After using this move, the user will no longer be Electric type.","type":12,"damageType":0,"maxPP":8,"power":120,"accuracy":100}')}}]);

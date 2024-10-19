@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[894086],{775949:e=>{e.exports=JSON.parse('{"moveId":52,"name":"Ember","desc":"The target is attacked with small flames. This may also leave the target with a burn.","type":9,"damageType":2,"maxPP":40,"power":40,"accuracy":100}')}}]);

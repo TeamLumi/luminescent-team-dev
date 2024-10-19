@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[52876],{472391:e=>{e.exports=JSON.parse('{"moveId":363,"name":"Natural Gift","desc":"The user draws power to attack by using its held Berry. The Berry determines the move\'s type and power.","type":0,"damageType":1,"maxPP":24,"power":1,"accuracy":100}')}}]);

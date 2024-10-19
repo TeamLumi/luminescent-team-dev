@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[927756],{854009:e=>{e.exports=JSON.parse('{"moveId":261,"name":"Will-O-Wisp","desc":"The user shoots a sinister flame at the target to inflict a burn.","type":9,"damageType":0,"maxPP":24,"power":0,"accuracy":85}')}}]);

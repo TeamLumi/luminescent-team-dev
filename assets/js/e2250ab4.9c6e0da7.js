@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[819967],{16219:e=>{e.exports=JSON.parse('{"moveId":216,"name":"Return","desc":"This full-power attack grows more powerful the more the user likes its Trainer.","type":0,"damageType":1,"maxPP":32,"power":70,"accuracy":100}')}}]);

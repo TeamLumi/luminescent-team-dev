@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[681527],{122212:e=>{e.exports=JSON.parse('{"moveId":146,"name":"Dizzy Punch","desc":"The target is hit with rhythmically launched punches. This may also leave the target confused.","type":0,"damageType":1,"maxPP":16,"power":70,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[575522],{633889:e=>{e.exports=JSON.parse('{"moveId":92,"name":"Toxic","desc":"A move that leaves the target badly poisoned. Its poison damage worsens every turn.","type":3,"damageType":0,"maxPP":16,"power":0,"accuracy":90}')}}]);

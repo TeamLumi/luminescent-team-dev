@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[112892],{722595:e=>{e.exports=JSON.parse('{"moveId":522,"name":"Struggle Bug","desc":"While resisting, the user attacks opposing Pok\xe9mon. This lowers the Sp. Atk stats of those hit.","type":6,"damageType":2,"maxPP":32,"power":50,"accuracy":100}')}}]);

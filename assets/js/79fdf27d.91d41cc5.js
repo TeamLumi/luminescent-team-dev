@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[431073],{746994:e=>{e.exports=JSON.parse('{"moveId":154,"name":"Fury Swipes","desc":"The target is raked with sharp claws or scythes quickly two to five times in a row.","type":0,"damageType":1,"maxPP":24,"power":18,"accuracy":80}')}}]);

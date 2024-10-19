@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[524619],{332703:e=>{e.exports=JSON.parse('{"moveId":466,"name":"Ominous Wind","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":7,"damageType":2,"maxPP":8,"power":60,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[200856],{511482:e=>{e.exports=JSON.parse('{"moveId":211,"name":"Steel Wing","desc":"The target is hit with wings of steel. This may also raise the user\u2019s Defense stat.","type":8,"damageType":1,"maxPP":40,"power":70,"accuracy":90}')}}]);

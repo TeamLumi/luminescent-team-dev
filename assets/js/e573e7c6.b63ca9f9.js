@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[87621],{724490:e=>{e.exports=JSON.parse('{"moveId":502,"name":"Ally Switch","desc":"The user teleports using a strange power and switches places with one of its allies.","type":13,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

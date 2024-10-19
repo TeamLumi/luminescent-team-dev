@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[379475],{3293:e=>{e.exports=JSON.parse('{"moveId":503,"name":"Scald","desc":"The user shoots boiling hot water at its target. This may also leave the target with a burn.","type":10,"damageType":2,"maxPP":24,"power":80,"accuracy":100}')}}]);

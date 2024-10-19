@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[769888],{551138:e=>{e.exports=JSON.parse('{"moveId":612,"name":"Power-Up Punch","desc":"Striking opponents over and over makes the user\u2019s fists harder. Hitting a target raises the Attack stat.","type":1,"damageType":1,"maxPP":32,"power":40,"accuracy":100}')}}]);

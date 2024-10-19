@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[305283],{130182:e=>{e.exports=JSON.parse('{"moveId":433,"name":"Trick Room","desc":"The user creates a bizarre area in which slower Pok\xe9mon get to move first for five turns.","type":13,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

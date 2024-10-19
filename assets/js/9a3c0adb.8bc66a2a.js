@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[184612],{574416:e=>{e.exports=JSON.parse('{"moveId":534,"name":"Razor Shell","desc":"The user cuts its target with sharp shells. This may also lower the target\u2019s Defense stat.","type":10,"damageType":1,"maxPP":16,"power":75,"accuracy":95}')}}]);

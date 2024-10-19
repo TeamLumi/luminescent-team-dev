@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[844436],{477534:e=>{e.exports=JSON.parse('{"moveId":5,"name":"Mega Punch","desc":"The target is slugged by a punch thrown with muscle-packed power.","type":0,"damageType":1,"maxPP":32,"power":80,"accuracy":100}')}}]);

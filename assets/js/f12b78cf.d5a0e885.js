@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[696714],{326351:e=>{e.exports=JSON.parse('{"moveId":181,"name":"Powder Snow","desc":"The user attacks with a chilling gust of powdery snow. This may also freeze opposing Pok\xe9mon.","type":14,"damageType":2,"maxPP":40,"power":40,"accuracy":100}')}}]);

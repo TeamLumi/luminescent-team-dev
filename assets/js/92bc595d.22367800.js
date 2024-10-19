@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[600728],{974160:e=>{e.exports=JSON.parse('{"moveId":42,"name":"Pin Missile","desc":"Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.","type":6,"damageType":1,"maxPP":32,"power":25,"accuracy":95}')}}]);

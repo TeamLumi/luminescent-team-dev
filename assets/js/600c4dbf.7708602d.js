@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[599660],{348421:e=>{e.exports=JSON.parse('{"moveId":854,"name":"Last Respects","desc":"Damages increases the more party Pok\xe9mon have been defeated.","type":7,"damageType":0,"maxPP":16,"power":50,"accuracy":100}')}}]);

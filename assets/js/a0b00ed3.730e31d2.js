@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[898042],{924822:e=>{e.exports=JSON.parse('{"moveId":755,"name":"Fishious Rend","desc":"The user rends the target with its hard gills. If the user attacks before the target, the power of this move is doubled.","type":10,"damageType":1,"maxPP":16,"power":85,"accuracy":100}')}}]);

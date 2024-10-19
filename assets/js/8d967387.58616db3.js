@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[256999],{724371:e=>{e.exports=JSON.parse('{"moveId":802,"name":"Misty Explosion","desc":"The user attacks everything around it and faints upon using this move. This move\'s power is increased on Misty Terrain.","type":17,"damageType":2,"maxPP":8,"power":100,"accuracy":100}')}}]);

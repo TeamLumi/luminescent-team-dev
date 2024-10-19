@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[551124],{298554:e=>{e.exports=JSON.parse('{"moveId":341,"name":"Mud Shot","desc":"The user attacks by hurling a blob of mud at the target. This also lowers the target\u2019s Speed stat.","type":4,"damageType":2,"maxPP":24,"power":55,"accuracy":95}')}}]);

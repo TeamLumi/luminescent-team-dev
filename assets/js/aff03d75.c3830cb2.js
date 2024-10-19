@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[180569],{213691:e=>{e.exports=JSON.parse('{"moveId":301,"name":"Ice Ball","desc":"The user attacks the target for five turns. The move\u2019s power increases each time it hits.","type":14,"damageType":1,"maxPP":32,"power":30,"accuracy":90}')}}]);

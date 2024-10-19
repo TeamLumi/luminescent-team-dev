@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[853400],{788404:e=>{e.exports=JSON.parse('{"moveId":679,"name":"Lunge","desc":"The user makes a lunge at the target, attacking with full force. This also lowers the target\u2019s Attack stat.","type":6,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

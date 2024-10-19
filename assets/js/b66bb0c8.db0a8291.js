@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[901120],{983221:e=>{e.exports=JSON.parse('{"moveId":64,"name":"Peck","desc":"The target is jabbed with a sharply pointed beak or horn.","type":2,"damageType":1,"maxPP":56,"power":35,"accuracy":100}')}}]);

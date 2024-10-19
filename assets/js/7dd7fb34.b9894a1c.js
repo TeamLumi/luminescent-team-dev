@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[765164],{867228:e=>{e.exports=JSON.parse('{"moveId":354,"name":"Psycho Boost","desc":"The user attacks the target at full power. The attack\u2019s recoil harshly lowers the user\u2019s Sp. Atk stat.","type":13,"damageType":2,"maxPP":8,"power":140,"accuracy":90}')}}]);

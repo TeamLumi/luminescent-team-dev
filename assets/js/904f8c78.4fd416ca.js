@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[485183],{316318:e=>{e.exports=JSON.parse('{"moveId":761,"name":"Max Knuckle","desc":"This is a Fighting-type attack Dynamax Pok\xe9mon use. This raises ally Pok\xe9mon\'s Attack stats.","type":1,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

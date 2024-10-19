@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[632070],{960917:e=>{e.exports=JSON.parse('{"moveId":454,"name":"Attack Order","desc":"The user calls out its underlings to pummel the target. Critical hits land more easily.","type":6,"damageType":1,"maxPP":24,"power":90,"accuracy":100}')}}]);

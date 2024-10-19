@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[66958],{944508:e=>{e.exports=JSON.parse('{"moveId":793,"name":"False Surrender","desc":"The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses.","type":16,"damageType":1,"maxPP":16,"power":80,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[376231],{848309:e=>{e.exports=JSON.parse('{"moveId":704,"name":"Shell Trap","desc":"The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on opposing Pok\xe9mon.","type":9,"damageType":2,"maxPP":8,"power":150,"accuracy":100}')}}]);

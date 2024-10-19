@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[842124],{769995:e=>{e.exports=JSON.parse('{"moveId":575,"name":"Parting Shot","desc":"With a parting threat, the user lowers the target\u2019s Attack and Sp. Atk stats. Then it switches with a party Pok\xe9mon.","type":16,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

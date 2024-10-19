@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[964676],{333515:e=>{e.exports=JSON.parse('{"moveId":777,"name":"Decorate","desc":"The user sharply raises the target\'s Attack and Sp. Atk stats by decorating the target.","type":17,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

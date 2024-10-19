@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[635636],{766620:e=>{e.exports=JSON.parse('{"moveId":15,"name":"Cut","desc":"The target is cut with a scythe or claw. It\u2019s also one of the Pok\xe9tch\u2019s hidden moves.","type":11,"damageType":1,"maxPP":40,"power":60,"accuracy":100}')}}]);

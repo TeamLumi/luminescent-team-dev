@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[731272],{555254:e=>{e.exports=JSON.parse('{"moveId":729,"name":"Zippy Zap","desc":"The user attacks the target with bursts of electricity at high speed. This move always goes first and results in a critical hit.","type":12,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

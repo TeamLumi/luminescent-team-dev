@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[756610],{716040:e=>{e.exports=JSON.parse('{"moveId":475,"name":"Autotomize","desc":"The user sheds part of its body to make itself lighter and sharply raise its Speed stat.","type":8,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

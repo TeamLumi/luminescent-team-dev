@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[293346],{453301:e=>{e.exports=JSON.parse('{"moveId":667,"name":"High Horsepower","desc":"The user fiercely attacks the target using its entire body.","type":4,"damageType":1,"maxPP":16,"power":95,"accuracy":95}')}}]);

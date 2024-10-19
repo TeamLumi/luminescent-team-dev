@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[593786],{992946:e=>{e.exports=JSON.parse('{"moveId":721,"name":"Plasma Fists","desc":"The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.","type":12,"damageType":1,"maxPP":24,"power":100,"accuracy":100}')}}]);

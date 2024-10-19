@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[302870],{858407:e=>{e.exports=JSON.parse('{"moveId":911,"name":"Tachyon Cutter","desc":"The user attacks by launching particle blades at the target twice in a row. This attack never misses.","type":8,"damageType":2,"maxPP":16,"power":50,"accuracy":101}')}}]);

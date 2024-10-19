@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[914707],{261565:e=>{e.exports=JSON.parse('{"moveId":107,"name":"Minimize","desc":"The user compresses its body to make itself look smaller, which sharply raises its evasiveness.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

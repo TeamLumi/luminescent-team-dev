@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[153431],{704245:e=>{e.exports=JSON.parse('{"moveId":585,"name":"Moonblast","desc":"Borrowing the power of the moon, the user attacks the target. This may also lower the target\u2019s Sp. Atk stat.","type":17,"damageType":2,"maxPP":24,"power":95,"accuracy":100}')}}]);

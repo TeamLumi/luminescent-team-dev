@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[549935],{449160:e=>{e.exports=JSON.parse('{"moveId":229,"name":"Rapid Spin","desc":"A spin attack that can also eliminate such moves as Bind, Wrap, and Leech Seed. This also raises the user\u2019s Speed stat.","type":0,"damageType":1,"maxPP":64,"power":50,"accuracy":100}')}}]);

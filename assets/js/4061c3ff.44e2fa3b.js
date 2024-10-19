@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[457805],{983074:e=>{e.exports=JSON.parse('{"moveId":732,"name":"Pika Papow","desc":"The more Pikachu loves its Trainer, the greater the move\u2019s power. It never misses.","type":12,"damageType":2,"maxPP":32,"power":1,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[655998],{95670:e=>{e.exports=JSON.parse('{"moveId":616,"name":"Land\u2019s Wrath","desc":"The user gathers the energy of the land and focuses that power on opposing Pok\xe9mon to damage them.","type":4,"damageType":1,"maxPP":16,"power":90,"accuracy":100}')}}]);

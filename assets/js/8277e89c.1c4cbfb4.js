@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[254355],{951950:e=>{e.exports=JSON.parse('{"moveId":717,"name":"Nature\u2019s Madness","desc":"The user hits the target with the force of nature. It halves the target\'s HP.","type":17,"damageType":2,"maxPP":16,"power":1,"accuracy":90}')}}]);

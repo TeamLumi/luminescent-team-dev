@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[635555],{254951:e=>{e.exports=JSON.parse('{"moveId":548,"name":"Secret Sword","desc":"The user cuts with its long horn. The odd power contained in the horn does physical damage to the target.","type":1,"damageType":2,"maxPP":16,"power":85,"accuracy":100}')}}]);

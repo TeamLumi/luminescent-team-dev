@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[89717],{40742:e=>{e.exports=JSON.parse('{"moveId":768,"name":"Max Wyrmwind","desc":"This is a Dragon-type attack Dynamax Pok\xe9mon use. This lowers the target\u2019s Attack stat.","type":15,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[557054],{774107:e=>{e.exports=JSON.parse('{"moveId":460,"name":"Spacial Rend","desc":"The user tears the target along with the space around it. Critical hits land more easily.","type":15,"damageType":2,"maxPP":8,"power":100,"accuracy":95}')}}]);

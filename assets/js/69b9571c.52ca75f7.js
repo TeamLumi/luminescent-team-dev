@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[605561],{190652:e=>{e.exports=JSON.parse('{"moveId":602,"name":"Magnetic Flux","desc":"The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pok\xe9mon with the Plus or Minus Ability.","type":12,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

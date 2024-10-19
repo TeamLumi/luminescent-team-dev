@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[192316],{885274:e=>{e.exports=JSON.parse('{"moveId":43,"name":"Leer","desc":"The user gives opposing Pok\xe9mon an intimidating leer that lowers the Defense stat.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":100}')}}]);

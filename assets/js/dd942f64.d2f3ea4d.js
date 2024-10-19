@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[930203],{148447:e=>{e.exports=JSON.parse('{"moveId":677,"name":"Anchor Shot","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":8,"damageType":1,"maxPP":32,"power":80,"accuracy":100}')}}]);

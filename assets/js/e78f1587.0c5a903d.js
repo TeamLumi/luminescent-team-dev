@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[807902],{323362:e=>{e.exports=JSON.parse('{"moveId":578,"name":"Crafty Shield","desc":"The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage.","type":17,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

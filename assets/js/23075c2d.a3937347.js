@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[770449],{274976:e=>{e.exports=JSON.parse('{"moveId":576,"name":"Topsy-Turvy","desc":"All stat changes affecting the target turn topsy-turvy and become the opposite of what they were.","type":16,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

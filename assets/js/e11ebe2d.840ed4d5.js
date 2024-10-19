@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[623868],{361611:e=>{e.exports=JSON.parse('{"moveId":289,"name":"Snatch","desc":"The user steals the effects of any attempts to use a healing or stat-changing move.","type":16,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

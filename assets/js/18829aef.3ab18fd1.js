@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[278259],{695294:e=>{e.exports=JSON.parse('{"moveId":342,"name":"Poison Tail","desc":"The user hits the target with its tail. This may also poison the target. Critical hits land more easily.","type":3,"damageType":1,"maxPP":40,"power":50,"accuracy":100}')}}]);

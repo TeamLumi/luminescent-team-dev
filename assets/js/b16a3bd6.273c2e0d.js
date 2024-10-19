@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[336635],{606687:e=>{e.exports=JSON.parse('{"moveId":668,"name":"Strength Sap","desc":"The user restores its HP by the same amount as the target\u2019s Attack stat. It also lowers the target\u2019s Attack stat.","type":11,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

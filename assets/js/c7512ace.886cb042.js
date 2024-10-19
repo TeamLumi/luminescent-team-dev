@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[410729],{581297:e=>{e.exports=JSON.parse('{"moveId":591,"name":"Diamond Storm","desc":"The user whips up a storm of diamonds to damage opposing Pok\xe9mon. This may also sharply raise the user\u2019s Defense stat.","type":5,"damageType":1,"maxPP":8,"power":100,"accuracy":95}')}}]);

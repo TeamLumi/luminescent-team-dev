@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[806437],{660401:e=>{e.exports=JSON.parse('{"moveId":738,"name":"Sappy Seed","desc":"The user grows a gigantic stalk that scatters seeds to attack the target. The seeds drain the target\u2019s HP every turn.","type":11,"damageType":1,"maxPP":16,"power":100,"accuracy":90}')}}]);

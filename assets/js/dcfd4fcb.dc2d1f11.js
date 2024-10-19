@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[106893],{159427:e=>{e.exports="/luminescent-team-dev/pokedex/hatenna"}}]);

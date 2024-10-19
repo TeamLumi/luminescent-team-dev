@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[546913],{499865:e=>{e.exports=JSON.parse('{"moveId":554,"name":"Ice Burn","desc":"On the second turn, an ultracold, freezing wind surrounds the target. This may leave the target with a burn.","type":14,"damageType":2,"maxPP":8,"power":140,"accuracy":90}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[801624],{957153:e=>{e.exports=JSON.parse('{"moveId":836,"name":"Mountain Gale","desc":"Lowers user\u2019s Speed.","type":14,"damageType":0,"maxPP":16,"power":100,"accuracy":85}')}}]);

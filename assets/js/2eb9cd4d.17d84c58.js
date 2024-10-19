@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[910776],{598165:e=>{e.exports=JSON.parse('{"moveId":187,"name":"Belly Drum","desc":"The user maximizes its Attack stat in exchange for HP equal to half its max HP.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

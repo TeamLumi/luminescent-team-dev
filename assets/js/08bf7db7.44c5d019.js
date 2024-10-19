@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[420634],{179586:e=>{e.exports=JSON.parse('{"moveId":253,"name":"Uproar","desc":"The user attacks in an uproar for three turns. During that time, no Pok\xe9mon can fall asleep.","type":0,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

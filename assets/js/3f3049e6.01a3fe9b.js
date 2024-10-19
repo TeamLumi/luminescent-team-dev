@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[560351],{810027:e=>{e.exports=JSON.parse('{"moveId":294,"name":"Tail Glow","desc":"The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat.","type":6,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

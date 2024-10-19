@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[540237],{903508:e=>{e.exports=JSON.parse('{"moveId":592,"name":"Steam Eruption","desc":"The user immerses the target in superheated steam. This may also leave the target with a burn.","type":10,"damageType":2,"maxPP":8,"power":110,"accuracy":95}')}}]);

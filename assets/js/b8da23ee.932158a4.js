@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[528523],{733587:e=>{e.exports=JSON.parse('{"moveId":778,"name":"Drum Beating","desc":"The user plays its drum, controlling the drum\'s roots to attack the target. This also lowers the target\'s Speed stat.","type":11,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

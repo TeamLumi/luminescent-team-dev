@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[474200],{342976:e=>{e.exports=JSON.parse('{"moveId":673,"name":"Laser Focus","desc":"The user concentrates intensely. The attack on the next turn always results in a critical hit.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

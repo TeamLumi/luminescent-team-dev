@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[756320],{165913:e=>{e.exports=JSON.parse('{"moveId":208,"name":"Milk Drink","desc":"The user restores its own HP by up to half of its max HP. It may also be used to heal an ally\u2019s HP outside of battle.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

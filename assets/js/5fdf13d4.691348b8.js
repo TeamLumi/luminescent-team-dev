@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[410742],{258347:e=>{e.exports=JSON.parse('{"moveId":127,"name":"Waterfall","desc":"The user charges at the target and may make it flinch. It\u2019s also one of the Pok\xe9tch\u2019s hidden moves.","type":10,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

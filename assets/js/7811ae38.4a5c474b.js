@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[993611],{543152:e=>{e.exports=JSON.parse('{"moveId":122,"name":"Lick","desc":"The target is licked with a long tongue, causing damage. This may also leave the target with paralysis.","type":7,"damageType":1,"maxPP":48,"power":30,"accuracy":100}')}}]);

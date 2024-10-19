@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[265079],{173710:e=>{e.exports=JSON.parse('{"moveId":222,"name":"Magnitude","desc":"The user attacks everything around it with a ground-shaking quake. Its power varies.","type":4,"damageType":1,"maxPP":48,"power":1,"accuracy":100}')}}]);

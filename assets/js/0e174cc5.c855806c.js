@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[592570],{109420:e=>{e.exports=JSON.parse('{"moveId":714,"name":"Moongeist Beam","desc":"The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Abilities.","type":7,"damageType":2,"maxPP":8,"power":100,"accuracy":100}')}}]);

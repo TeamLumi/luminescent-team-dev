@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[587970],{529409:e=>{e.exports=JSON.parse('{"moveId":888,"name":"Twin Beam","desc":"Hits twice in one turn.","type":13,"damageType":1,"maxPP":16,"power":40,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[226654],{864140:e=>{e.exports=JSON.parse('{"moveId":815,"name":"Scorching Sands","desc":"The user throws scorching sand at the target to attack. This may also leave the target with a burn.","type":4,"damageType":2,"maxPP":16,"power":70,"accuracy":100}')}}]);

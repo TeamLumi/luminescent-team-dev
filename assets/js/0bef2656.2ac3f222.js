@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[69475],{626211:e=>{e.exports=JSON.parse('{"moveId":89,"name":"Earthquake","desc":"The user sets off an earthquake that strikes every Pok\xe9mon around it.","type":4,"damageType":1,"maxPP":16,"power":100,"accuracy":100}')}}]);

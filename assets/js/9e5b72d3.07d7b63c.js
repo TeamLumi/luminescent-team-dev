@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[251752],{762442:e=>{e.exports=JSON.parse('{"moveId":514,"name":"Retaliate","desc":"The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move\u2019s power is increased.","type":0,"damageType":1,"maxPP":8,"power":70,"accuracy":100}')}}]);

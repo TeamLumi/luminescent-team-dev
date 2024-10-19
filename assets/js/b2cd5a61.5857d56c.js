@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[192441],{769650:e=>{e.exports=JSON.parse('{"moveId":68,"name":"Counter","desc":"A retaliation move that counters any physical attack, inflicting double the damage taken.","type":1,"damageType":1,"maxPP":32,"power":1,"accuracy":100}')}}]);

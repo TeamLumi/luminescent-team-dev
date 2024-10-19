@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[84950],{841550:e=>{e.exports=JSON.parse('{"moveId":446,"name":"Stealth Rock","desc":"The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pok\xe9mon that switch into battle.","type":5,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

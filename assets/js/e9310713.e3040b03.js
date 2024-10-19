@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[851591],{763459:e=>{e.exports=JSON.parse('{"moveId":180,"name":"Spite","desc":"The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.","type":7,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

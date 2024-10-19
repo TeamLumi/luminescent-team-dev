@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[567330],{884445:e=>{e.exports=JSON.parse('{"moveId":95,"name":"Hypnosis","desc":"The user employs hypnotic suggestion to make the target fall into a deep sleep.","type":13,"damageType":0,"maxPP":32,"power":0,"accuracy":60}')}}]);

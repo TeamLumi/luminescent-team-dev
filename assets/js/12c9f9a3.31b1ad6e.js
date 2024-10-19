@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[686260],{164796:e=>{e.exports=JSON.parse('{"moveId":456,"name":"Heal Order","desc":"The user calls out its underlings to heal it. The user regains up to half of its max HP.","type":6,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

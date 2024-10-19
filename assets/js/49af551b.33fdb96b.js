@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[70564],{355249:e=>{e.exports=JSON.parse('{"moveId":47,"name":"Sing","desc":"A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":55}')}}]);

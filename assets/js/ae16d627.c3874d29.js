@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[176435],{595044:e=>{e.exports=JSON.parse('{"moveId":262,"name":"Memento","desc":"The user faints when using this move. In return, this harshly lowers the target\u2019s Attack and Sp. Atk stats.","type":16,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[578215],{900495:e=>{e.exports=JSON.parse('{"moveId":507,"name":"Sky Drop","desc":"The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.","type":2,"damageType":1,"maxPP":16,"power":60,"accuracy":100}')}}]);

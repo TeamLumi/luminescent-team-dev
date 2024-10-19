@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[93253],{558267:e=>{e.exports=JSON.parse('{"moveId":264,"name":"Focus Punch","desc":"The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.","type":1,"damageType":1,"maxPP":32,"power":150,"accuracy":100}')}}]);

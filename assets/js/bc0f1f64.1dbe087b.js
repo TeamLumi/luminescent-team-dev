@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[281603],{722013:e=>{e.exports=JSON.parse('{"moveId":228,"name":"Pursuit","desc":"The power of this attack move is doubled if it\u2019s used on a target that\u2019s switching out of battle.","type":16,"damageType":1,"maxPP":32,"power":40,"accuracy":100}')}}]);

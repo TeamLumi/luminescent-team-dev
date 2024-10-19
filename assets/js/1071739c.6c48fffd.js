@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[789225],{104756:e=>{e.exports=JSON.parse('{"moveId":137,"name":"Glare","desc":"The user intimidates the target with the pattern on its belly to cause paralysis.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":100}')}}]);

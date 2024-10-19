@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[934091],{787424:e=>{e.exports=JSON.parse('{"moveId":103,"name":"Screech","desc":"An earsplitting screech harshly lowers the target\u2019s Defense stat.","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":85}')}}]);

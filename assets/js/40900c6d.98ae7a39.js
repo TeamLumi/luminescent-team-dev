@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[712198],{985788:e=>{e.exports=JSON.parse('{"moveId":574,"name":"Disarming Voice","desc":"Letting out a charming cry, the user does emotional damage to opposing Pok\xe9mon. This attack never misses.","type":17,"damageType":2,"maxPP":24,"power":40,"accuracy":101}')}}]);

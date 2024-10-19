@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[787882],{283131:e=>{e.exports=JSON.parse('{"moveId":586,"name":"Boomburst","desc":"The user attacks everything around it with the destructive power of a terrible, explosive sound.","type":0,"damageType":2,"maxPP":16,"power":140,"accuracy":100}')}}]);

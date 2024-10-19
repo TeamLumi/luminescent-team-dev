@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[678247],{525608:e=>{e.exports=JSON.parse('{"moveId":890,"name":"Armor Cannon","desc":"Lowers user\u2019s Defense and Special Defense.","type":9,"damageType":1,"maxPP":8,"power":100,"accuracy":100}')}}]);

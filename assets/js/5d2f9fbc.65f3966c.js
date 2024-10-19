@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[258724],{528913:e=>{e.exports=JSON.parse('{"moveId":259,"name":"Torment","desc":"The user torments and enrages the target, making it incapable of using the same move twice in a row.","type":16,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

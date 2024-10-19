@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[841936],{197113:e=>{e.exports=JSON.parse('{"moveId":49,"name":"Sonic Boom","desc":"The target is hit with a destructive shock wave that always inflicts 20 HP damage.","type":0,"damageType":2,"maxPP":32,"power":1,"accuracy":90}')}}]);

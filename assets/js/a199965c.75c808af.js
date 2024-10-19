@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[148416],{521913:e=>{e.exports=JSON.parse('{"moveId":526,"name":"Work Up","desc":"The user is roused, and its Attack and Sp. Atk stats increase.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

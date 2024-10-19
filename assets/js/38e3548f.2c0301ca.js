@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[775671],{51761:e=>{e.exports=JSON.parse('{"moveId":707,"name":"Stomping Tantrum","desc":"Driven by frustration, the user attacks the target. If the user\u2019s previous move has failed, the power of this move doubles.","type":4,"damageType":1,"maxPP":16,"power":75,"accuracy":100}')}}]);

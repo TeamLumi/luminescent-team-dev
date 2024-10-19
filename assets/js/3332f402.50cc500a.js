@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[892616],{74387:e=>{e.exports=JSON.parse('{"moveId":881,"name":"Chilly Reception","desc":"Switches out and summons a snowstorm lasting 5 turns.","type":14,"damageType":2,"maxPP":16,"power":0,"accuracy":0}')}}]);

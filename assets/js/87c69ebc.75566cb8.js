@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[307646],{967544:e=>{e.exports=JSON.parse('{"moveId":138,"name":"Dream Eater","desc":"The user eats the dreams of a sleeping target. The user\u2019s HP is restored by half the damage taken by the target.","type":13,"damageType":2,"maxPP":24,"power":100,"accuracy":100}')}}]);

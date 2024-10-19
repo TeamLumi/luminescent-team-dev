@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[166083],{250252:e=>{e.exports=JSON.parse('{"moveId":224,"name":"Megahorn","desc":"Using its tough and impressive horn, the user rams into the target with no letup.","type":6,"damageType":1,"maxPP":16,"power":120,"accuracy":85}')}}]);

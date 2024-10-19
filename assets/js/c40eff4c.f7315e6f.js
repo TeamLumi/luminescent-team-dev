@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[27359],{699431:e=>{e.exports=JSON.parse('{"moveId":124,"name":"Sludge","desc":"Unsanitary sludge is hurled at the target. This may also poison the target.","type":3,"damageType":2,"maxPP":32,"power":65,"accuracy":100}')}}]);

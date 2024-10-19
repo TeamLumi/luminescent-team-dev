@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[809512],{139706:e=>{e.exports=JSON.parse('{"moveId":463,"name":"Magma Storm","desc":"The target becomes trapped within a maelstrom of fire that rages for four to five turns.","type":9,"damageType":2,"maxPP":8,"power":100,"accuracy":75}')}}]);

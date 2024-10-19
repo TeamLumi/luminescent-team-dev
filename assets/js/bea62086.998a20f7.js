@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[121418],{362455:e=>{e.exports=JSON.parse('{"moveId":447,"name":"Grass Knot","desc":"The user snares the target with grass and trips it. The heavier the target, the greater the move\u2019s power.","type":11,"damageType":2,"maxPP":32,"power":1,"accuracy":100}')}}]);

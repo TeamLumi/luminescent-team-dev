@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[731450],{582879:e=>{e.exports=JSON.parse('{"moveId":676,"name":"Pollen Puff","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":6,"damageType":2,"maxPP":24,"power":90,"accuracy":100}')}}]);

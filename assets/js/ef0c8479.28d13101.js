@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[625892],{192004:e=>{e.exports=JSON.parse('{"moveId":58,"name":"Ice Beam","desc":"The target is struck with an icy-cold beam of energy. This may also leave the target frozen.","type":14,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[593454],{240114:e=>{e.exports=JSON.parse('{"moveId":381,"name":"Lucky Chant","desc":"The user chants an incantation toward the sky, preventing opposing Pok\xe9mon from landing critical hits for five turns.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[301834],{264437:e=>{e.exports=JSON.parse('{"moveId":726,"name":"Let\u2019s Snuggle Forever","desc":"After obtaining Z-Power, the user, Mimikyu, punches the target with full force.","type":17,"damageType":1,"maxPP":1.6,"power":190,"accuracy":101}')}}]);

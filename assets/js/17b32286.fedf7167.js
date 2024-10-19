@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[892743],{124076:e=>{e.exports=JSON.parse('{"moveId":531,"name":"Heart Stamp","desc":"The user unleashes a vicious blow after its cute act makes the target less wary. This may also make the target flinch.","type":13,"damageType":1,"maxPP":40,"power":60,"accuracy":100}')}}]);

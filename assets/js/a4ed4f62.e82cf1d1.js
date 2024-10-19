@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[323177],{888144:e=>{e.exports=JSON.parse('{"moveId":716,"name":"Zing Zap","desc":"A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.","type":12,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

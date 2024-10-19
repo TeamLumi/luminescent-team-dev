@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[86574],{11983:e=>{e.exports=JSON.parse('{"moveId":555,"name":"Snarl","desc":"The user yells as if it\u2019s ranting about something, which lowers the Sp. Atk stats of opposing Pok\xe9mon.","type":16,"damageType":2,"maxPP":24,"power":55,"accuracy":95}')}}]);

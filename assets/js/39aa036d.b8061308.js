@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[553855],{612423:e=>{e.exports=JSON.parse('{"moveId":469,"name":"Wide Guard","desc":"The user and its allies are protected from wide-ranging attacks for one turn.","type":5,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

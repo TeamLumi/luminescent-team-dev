@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[205085],{644507:e=>{e.exports=JSON.parse('{"moveId":689,"name":"Instruct","desc":"The user instructs the target to use the target\u2019s last move again.","type":13,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

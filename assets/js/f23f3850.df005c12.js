@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[65723],{174171:e=>{e.exports=JSON.parse('{"moveId":566,"name":"Phantom Force","desc":"The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.","type":7,"damageType":1,"maxPP":16,"power":90,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[54954],{655873:e=>{e.exports=JSON.parse('{"moveId":847,"name":"Wildbolt Storm","desc":"May paralyze target.","type":12,"damageType":1,"maxPP":16,"power":100,"accuracy":80}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[445262],{690923:e=>{e.exports=JSON.parse('{"moveId":410,"name":"Vacuum Wave","desc":"The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.","type":1,"damageType":2,"maxPP":48,"power":40,"accuracy":100}')}}]);

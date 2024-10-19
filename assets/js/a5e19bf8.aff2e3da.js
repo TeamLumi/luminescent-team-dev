@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[510310],{377836:e=>{e.exports=JSON.parse('{"moveId":813,"name":"Triple Axel","desc":"A consecutive three-kick attack that becomes more powerful with each successful hit.","type":14,"damageType":1,"maxPP":16,"power":20,"accuracy":90}')}}]);

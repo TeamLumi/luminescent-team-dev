@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[192471],{643298:e=>{e.exports=JSON.parse('{"moveId":757,"name":"Max Flare","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":9,"damageType":1,"maxPP":16,"power":100,"accuracy":101}')}}]);

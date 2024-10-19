@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[714097],{955488:e=>{e.exports=JSON.parse('{"moveId":376,"name":"Trump Card","desc":"The fewer PP this move has, the greater its power.","type":0,"damageType":2,"maxPP":8,"power":1,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[28903],{701840:e=>{e.exports=JSON.parse('{"moveId":228,"name":"Pursuit","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":16,"damageType":1,"maxPP":32,"power":40,"accuracy":100}')}}]);

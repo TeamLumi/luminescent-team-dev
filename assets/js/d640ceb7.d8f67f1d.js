@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[534411],{189647:e=>{e.exports=JSON.parse('{"moveId":243,"name":"Mirror Coat","desc":"A retaliation move that counters any special attack, inflicting double the damage taken.","type":13,"damageType":2,"maxPP":32,"power":1,"accuracy":100}')}}]);

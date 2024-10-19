@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[371280],{572074:e=>{e.exports=JSON.parse('{"moveId":112,"name":"Barrier","desc":"The user throws up a sturdy wall that sharply raises its Defense stat.","type":13,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

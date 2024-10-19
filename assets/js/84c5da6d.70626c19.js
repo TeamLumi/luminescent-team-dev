@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[507973],{612502:e=>{e.exports=JSON.parse('{"moveId":598,"name":"Eerie Impulse","desc":"The user\u2019s body generates an eerie impulse. Exposing the target to it harshly lowers the target\u2019s Sp. Atk stat.","type":12,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

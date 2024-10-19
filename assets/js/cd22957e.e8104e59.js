@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[475740],{255897:e=>{e.exports=JSON.parse('{"moveId":536,"name":"Leaf Tornado","desc":"The user attacks its target by encircling it in sharp leaves. This attack may also lower the target\u2019s accuracy.","type":11,"damageType":2,"maxPP":16,"power":65,"accuracy":90}')}}]);

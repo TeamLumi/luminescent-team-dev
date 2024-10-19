@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[619009],{518816:e=>{e.exports=JSON.parse('{"moveId":405,"name":"Bug Buzz","desc":"The user generates a damaging sound wave by vibration. This may also lower the target\u2019s Sp. Def stat.","type":6,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

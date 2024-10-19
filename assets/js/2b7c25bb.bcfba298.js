@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[850081],{937876:e=>{e.exports=JSON.parse('{"moveId":532,"name":"Horn Leech","desc":"The user drains the target\'s energy with its horns. The user\'s HP is restored by half the damage taken by the target.","type":11,"damageType":1,"maxPP":16,"power":75,"accuracy":100}')}}]);

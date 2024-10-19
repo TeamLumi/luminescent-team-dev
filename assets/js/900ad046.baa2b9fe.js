@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[909402],{257645:e=>{e.exports=JSON.parse('{"moveId":231,"name":"Iron Tail","desc":"The target is slammed with a steel-hard tail. This may also lower the target\u2019s Defense stat.","type":8,"damageType":1,"maxPP":24,"power":100,"accuracy":75}')}}]);

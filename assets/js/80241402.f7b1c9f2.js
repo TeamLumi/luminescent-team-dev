@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[98379],{612534:e=>{e.exports=JSON.parse('{"moveId":184,"name":"Scary Face","desc":"The user frightens the target with a scary face to harshly lower its Speed stat.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

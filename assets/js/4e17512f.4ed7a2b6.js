@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[317103],{505980:e=>{e.exports=JSON.parse('{"moveId":189,"name":"Mud-Slap","desc":"The user hurls mud in the target\u2019s face to inflict damage and lower its accuracy.","type":4,"damageType":2,"maxPP":16,"power":20,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[997146],{899992:e=>{e.exports=JSON.parse('{"moveId":38,"name":"Double-Edge","desc":"A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot.","type":0,"damageType":1,"maxPP":24,"power":120,"accuracy":100}')}}]);

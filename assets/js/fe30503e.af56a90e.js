@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[46941],{871878:e=>{e.exports=JSON.parse('{"moveId":798,"name":"Steel Roller","desc":"The user attacks while destroying the terrain. This move fails when the ground hasn\u2019t turned into a terrain.","type":8,"damageType":1,"maxPP":8,"power":130,"accuracy":100}')}}]);

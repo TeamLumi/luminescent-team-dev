@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[753827],{801106:e=>{e.exports=JSON.parse('{"moveId":850,"name":"Take Heart","desc":"Heals user\u2019s status conditions and raises its stats.","type":13,"damageType":2,"maxPP":16,"power":0,"accuracy":0}')}}]);

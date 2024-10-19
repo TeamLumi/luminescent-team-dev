@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[707739],{465137:e=>{e.exports=JSON.parse('{"moveId":209,"name":"Spark","desc":"The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.","type":12,"damageType":1,"maxPP":32,"power":65,"accuracy":100}')}}]);

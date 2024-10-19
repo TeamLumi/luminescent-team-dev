@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[689815],{434554:e=>{e.exports=JSON.parse('{"moveId":842,"name":"Shelter","desc":"Raises Defense and Evasion.","type":8,"damageType":2,"maxPP":16,"power":0,"accuracy":0}')}}]);

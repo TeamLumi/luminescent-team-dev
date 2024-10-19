@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[112927],{130104:e=>{e.exports=JSON.parse('{"moveId":6,"name":"Pay Day","desc":"Numerous coins are hurled at the target to inflict damage. Money is earned after the battle.","type":0,"damageType":1,"maxPP":32,"power":40,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[68329],{578303:e=>{e.exports=JSON.parse('{"moveId":313,"name":"Fake Tears","desc":"The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.","type":16,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

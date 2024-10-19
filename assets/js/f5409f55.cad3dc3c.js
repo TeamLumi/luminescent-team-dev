@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[431961],{582207:e=>{e.exports=JSON.parse('{"moveId":666,"name":"Floral Healing","desc":"The user restores the target\'s HP by up to half of its max HP. It restores more HP when the terrain is grass.","type":17,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[558100],{980624:e=>{e.exports=JSON.parse('{"moveId":615,"name":"Thousand Waves","desc":"The user attacks with a wave that crawls along the ground. Those it hits can\'t flee from battle.","type":4,"damageType":1,"maxPP":16,"power":90,"accuracy":100}')}}]);

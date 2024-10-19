@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[811118],{34783:e=>{e.exports=JSON.parse('{"moveId":217,"name":"Present","desc":"The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however.","type":0,"damageType":1,"maxPP":24,"power":1,"accuracy":90}')}}]);

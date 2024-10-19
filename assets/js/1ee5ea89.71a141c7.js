@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[836862],{946336:e=>{e.exports=JSON.parse('{"moveId":288,"name":"Grudge","desc":"If the user faints, the user\u2019s grudge fully depletes the PP of the opponent\u2019s move that knocked it out.","type":7,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

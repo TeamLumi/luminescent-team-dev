@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[85661],{557418:e=>{e.exports=JSON.parse('{"moveId":544,"name":"Gear Grind","desc":"The user attacks by throwing steel gears at its target twice.","type":8,"damageType":1,"maxPP":24,"power":50,"accuracy":85}')}}]);

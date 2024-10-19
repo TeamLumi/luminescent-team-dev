@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[5315],{410569:e=>{e.exports=JSON.parse('{"moveId":753,"name":"Octolock","desc":"The user locks the target in and prevents it from fleeing. This move also lowers the target\'s Defense and Sp. Def every turn.","type":1,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

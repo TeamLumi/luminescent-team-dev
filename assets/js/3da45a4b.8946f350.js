@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[593876],{921195:e=>{e.exports=JSON.parse('{"moveId":260,"name":"Flatter","desc":"Flattery is used to confuse the target. However, this also raises the target\u2019s Sp. Atk stat.","type":16,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

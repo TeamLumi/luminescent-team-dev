@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[107115],{591085:e=>{e.exports=JSON.parse('{"moveId":489,"name":"Coil","desc":"The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.","type":3,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

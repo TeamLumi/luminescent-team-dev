@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[291854],{562377:e=>{e.exports=JSON.parse('{"moveId":845,"name":"Ceaseless Edge","desc":"High critical hit ratio  Damages target with splinters each turn.","type":16,"damageType":0,"maxPP":24,"power":65,"accuracy":90}')}}]);

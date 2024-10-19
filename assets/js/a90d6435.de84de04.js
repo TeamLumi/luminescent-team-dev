@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[885635],{834093:e=>{e.exports=JSON.parse('{"moveId":577,"name":"Draining Kiss","desc":"The user steals the target\u2019s HP with a kiss. The user\u2019s HP is restored by over half of the damage taken by the target.","type":17,"damageType":2,"maxPP":16,"power":50,"accuracy":100}')}}]);

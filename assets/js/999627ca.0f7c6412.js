@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[284579],{677114:e=>{e.exports=JSON.parse('{"moveId":252,"name":"Fake Out","desc":"This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.","type":0,"damageType":1,"maxPP":16,"power":40,"accuracy":100}')}}]);

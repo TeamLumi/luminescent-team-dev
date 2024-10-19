@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[944788],{521078:e=>{e.exports=JSON.parse('{"moveId":54,"name":"Mist","desc":"The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.","type":14,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[981487],{68045:e=>{e.exports=JSON.parse('{"moveId":479,"name":"Smack Down","desc":"The user throws a stone or similar projectile to attack the target. A flying Pok\xe9mon will fall to the ground when it\u2019s hit.","type":5,"damageType":1,"maxPP":24,"power":50,"accuracy":100}')}}]);

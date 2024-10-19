@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[284717],{951523:e=>{e.exports=JSON.parse('{"moveId":713,"name":"Sunsteel Strike","desc":"The user slams into the target with the force of a meteor. This move can be used on the target regardless of its Abilities.","type":8,"damageType":1,"maxPP":8,"power":100,"accuracy":100}')}}]);

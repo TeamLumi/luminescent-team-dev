@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[91705],{477440:e=>{e.exports=JSON.parse('{"moveId":421,"name":"Shadow Claw","desc":"The user slashes with a sharp claw made from shadows. Critical hits land more easily.","type":7,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[172515],{431934:e=>{e.exports=JSON.parse('{"moveId":113,"name":"Light Screen","desc":"A wondrous wall of light is put up to reduce damage from special attacks for five turns.","type":13,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

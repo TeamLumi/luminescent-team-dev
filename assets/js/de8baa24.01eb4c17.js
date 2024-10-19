@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[518450],{302121:e=>{e.exports=JSON.parse('{"moveId":402,"name":"Seed Bomb","desc":"The user slams a barrage of hard-shelled seeds down on the target from above.","type":11,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

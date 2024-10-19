@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[823819],{278271:e=>{e.exports=JSON.parse('{"moveId":702,"name":"Extreme Evoboost","desc":"After obtaining Z-Power, the user, Eevee, gets energy from its evolved friends and boosts its stats sharply.","type":0,"damageType":0,"maxPP":1.6,"power":0,"accuracy":101}')}}]);

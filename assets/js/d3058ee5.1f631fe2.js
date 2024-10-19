@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[946615],{369775:e=>{e.exports=JSON.parse('{"moveId":8,"name":"Ice Punch","desc":"The target is punched with an icy fist. This may also leave the target frozen.","type":14,"damageType":1,"maxPP":24,"power":75,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[425359],{71996:e=>{e.exports=JSON.parse('{"moveId":310,"name":"Astonish","desc":"The user attacks the target while shouting in a startling fashion. This may also make the target flinch.","type":7,"damageType":1,"maxPP":24,"power":30,"accuracy":100}')}}]);

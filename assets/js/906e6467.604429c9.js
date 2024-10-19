@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[452337],{945321:e=>{e.exports=JSON.parse('{"moveId":123,"name":"Smog","desc":"The target is attacked with a discharge of filthy gases. This may also poison the target.","type":3,"damageType":2,"maxPP":32,"power":30,"accuracy":70}')}}]);

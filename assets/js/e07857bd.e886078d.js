@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[194779],{67881:e=>{e.exports=JSON.parse('{"moveId":603,"name":"Gigaton Hammer","desc":"The user swings itself around to attack with its huge hammer. This move can\'t be used twice in a row.","type":8,"damageType":1,"maxPP":8,"power":160,"accuracy":100}')}}]);

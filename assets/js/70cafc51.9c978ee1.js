@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[694530],{228903:e=>{e.exports=JSON.parse('{"moveId":483,"name":"Quiver Dance","desc":"The user lightly performs a beautiful, mystic dance. This boosts the user\u2019s Sp. Atk, Sp. Def, and Speed stats.","type":6,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

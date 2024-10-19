@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[688497],{368948:e=>{e.exports=JSON.parse('{"moveId":530,"name":"Dual Chop","desc":"The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row.","type":15,"damageType":1,"maxPP":24,"power":40,"accuracy":90}')}}]);

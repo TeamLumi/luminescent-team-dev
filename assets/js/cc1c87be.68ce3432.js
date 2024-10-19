@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[180666],{790045:e=>{e.exports=JSON.parse('{"moveId":33,"name":"Tackle","desc":"A physical attack in which the user charges and slams into the target with its whole body.","type":0,"damageType":1,"maxPP":56,"power":40,"accuracy":100}')}}]);

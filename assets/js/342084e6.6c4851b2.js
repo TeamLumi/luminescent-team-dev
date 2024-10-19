@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[290639],{559741:e=>{e.exports=JSON.parse('{"moveId":527,"name":"Electroweb","desc":"The user attacks and captures opposing Pok\xe9mon using an electric net. This lowers their Speed stats.","type":12,"damageType":2,"maxPP":24,"power":55,"accuracy":95}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[428110],{842451:e=>{e.exports=JSON.parse('{"moveId":775,"name":"Clangorous Soul","desc":"The user raises all its stats by using some of its HP.","type":15,"damageType":0,"maxPP":8,"power":0,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[569696],{546645:e=>{e.exports=JSON.parse('{"moveId":539,"name":"Night Daze","desc":"The user lets loose a pitch-black shock wave at its target. This may also lower the target\u2019s accuracy.","type":16,"damageType":2,"maxPP":16,"power":85,"accuracy":100}')}}]);

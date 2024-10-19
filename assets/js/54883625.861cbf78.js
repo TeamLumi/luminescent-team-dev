@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[925487],{683862:e=>{e.exports=JSON.parse('{"moveId":501,"name":"Quick Guard","desc":"The user protects itself and its allies from priority moves.","type":1,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

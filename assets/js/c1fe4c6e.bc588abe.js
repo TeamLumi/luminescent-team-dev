@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[344751],{667280:e=>{e.exports=JSON.parse('{"moveId":457,"name":"Head Smash","desc":"The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.","type":5,"damageType":1,"maxPP":8,"power":150,"accuracy":80}')}}]);

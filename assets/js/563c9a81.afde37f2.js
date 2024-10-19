@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[177298],{489073:e=>{e.exports=JSON.parse('{"moveId":254,"name":"Stockpile","desc":"The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

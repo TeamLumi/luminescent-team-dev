@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[640657],{565237:e=>{e.exports=JSON.parse('{"moveId":866,"name":"Mortal Spin","desc":"Removes entry hazards and trap move effects, and poisons opposing Pok\xe9mon.","type":3,"damageType":0,"maxPP":24,"power":30,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[651761],{55139:e=>{e.exports=JSON.parse('{"moveId":486,"name":"Electro Ball","desc":"The user hurls an electric orb at the target. The faster the user is than the target, the greater the move\u2019s power.","type":12,"damageType":2,"maxPP":16,"power":1,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[1197],{793760:e=>{e.exports=JSON.parse('{"moveId":268,"name":"Charge","desc":"The user boosts the power of the Electric move it uses on the next turn. This also raises the user\u2019s Sp. Def stat.","type":12,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

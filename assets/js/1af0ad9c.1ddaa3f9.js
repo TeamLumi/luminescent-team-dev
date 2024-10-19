@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[133542],{454160:e=>{e.exports=JSON.parse('{"moveId":878,"name":"Collision Course","desc":"Boosted even more if it\u2019s super-effective.","type":1,"damageType":0,"maxPP":8,"power":100,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[944726],{305597:e=>{e.exports=JSON.parse('{"moveId":661,"name":"Baneful Bunker","desc":"In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact.","type":3,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

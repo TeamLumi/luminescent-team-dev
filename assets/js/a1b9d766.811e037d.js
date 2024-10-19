@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[732383],{269905:e=>{e.exports=JSON.parse('{"moveId":153,"name":"Explosion","desc":"The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.","type":0,"damageType":1,"maxPP":8,"power":250,"accuracy":100}')}}]);

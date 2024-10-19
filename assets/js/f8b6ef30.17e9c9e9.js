@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[448124],{153653:e=>{e.exports=JSON.parse('{"moveId":772,"name":"Max Darkness","desc":"This is a Dark-type attack Dynamax Pok\xe9mon use. This lowers the target\u2019s Sp. Def stat.","type":16,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

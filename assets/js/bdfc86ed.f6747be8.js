@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[246988],{447160:e=>{e.exports=JSON.parse('{"moveId":67,"name":"Low Kick","desc":"A powerful low kick that makes the target fall over. The heavier the target, the greater the move\u2019s power.","type":1,"damageType":1,"maxPP":32,"power":1,"accuracy":100}')}}]);

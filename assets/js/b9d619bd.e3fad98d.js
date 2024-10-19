@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[442858],{219240:e=>{e.exports=JSON.parse('{"moveId":360,"name":"Gyro Ball","desc":"The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move\u2019s power.","type":8,"damageType":1,"maxPP":8,"power":1,"accuracy":100}')}}]);

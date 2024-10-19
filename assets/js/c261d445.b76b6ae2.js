@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[105601],{160974:e=>{e.exports=JSON.parse('{"moveId":424,"name":"Fire Fang","desc":"The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.","type":9,"damageType":1,"maxPP":24,"power":65,"accuracy":100}')}}]);

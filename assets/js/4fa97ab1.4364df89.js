@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[783617],{679876:e=>{e.exports=JSON.parse('{"moveId":837,"name":"Victory Dance","desc":"Raises Attack and Defense.","type":1,"damageType":2,"maxPP":16,"power":0,"accuracy":0}')}}]);

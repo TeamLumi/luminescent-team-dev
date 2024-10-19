@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[354012],{5088:e=>{e.exports=JSON.parse('{"moveId":120,"name":"Self-Destruct","desc":"The user attacks everything around it by causing an explosion. The user faints upon using this move.","type":0,"damageType":1,"maxPP":8,"power":200,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[435403],{67898:e=>{e.exports=JSON.parse('{"moveId":371,"name":"Payback","desc":"The user stores power, then attacks. If the user moves after the target, this attack\u2019s power will be doubled.","type":16,"damageType":1,"maxPP":16,"power":50,"accuracy":100}')}}]);

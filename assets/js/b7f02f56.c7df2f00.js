@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[232710],{276308:e=>{e.exports=JSON.parse('{"moveId":274,"name":"Assist","desc":"The user hurriedly and randomly uses a move among those known by ally Pok\xe9mon.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

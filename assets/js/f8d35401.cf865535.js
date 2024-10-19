@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[282080],{823058:e=>{e.exports=JSON.parse('{"moveId":248,"name":"Future Sight","desc":"Two turns after this move is used, a hunk of psychic energy attacks the target.","type":13,"damageType":2,"maxPP":16,"power":120,"accuracy":100}')}}]);

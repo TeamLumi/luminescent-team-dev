@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[281177],{485595:e=>{e.exports=JSON.parse('{"moveId":170,"name":"Mind Reader","desc":"The user senses the target\u2019s movements with its mind to ensure its next attack does not miss the target.","type":0,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[369595],{155657:e=>{e.exports=JSON.parse('{"moveId":192,"name":"Zap Cannon","desc":"The user fires an electric blast like a cannon to inflict damage and cause paralysis.","type":12,"damageType":2,"maxPP":8,"power":120,"accuracy":50}')}}]);

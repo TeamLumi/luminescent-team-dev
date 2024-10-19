@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[925384],{782095:e=>{e.exports=JSON.parse('{"moveId":143,"name":"Sky Attack","desc":"A second-turn attack move where critical hits land more easily. This may also make the target flinch.","type":2,"damageType":1,"maxPP":8,"power":140,"accuracy":90}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[15656],{933093:e=>{e.exports=JSON.parse('{"moveId":865,"name":"Triple Dive","desc":"Hits 3 times in a row.","type":10,"damageType":0,"maxPP":16,"power":30,"accuracy":95}')}}]);

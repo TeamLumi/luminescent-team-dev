@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[51936],{948081:e=>{e.exports=JSON.parse('{"moveId":240,"name":"Rain Dance","desc":"The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.","type":10,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

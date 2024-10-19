@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[836712],{746165:e=>{e.exports=JSON.parse('{"moveId":409,"name":"Drain Punch","desc":"An energy-draining punch. The user\u2019s HP is restored by half the damage taken by the target.","type":1,"damageType":1,"maxPP":16,"power":75,"accuracy":100}')}}]);

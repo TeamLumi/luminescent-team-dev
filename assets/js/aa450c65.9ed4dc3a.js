@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[526475],{828093:e=>{e.exports=JSON.parse('{"moveId":218,"name":"Frustration","desc":"This full-power attack grows more powerful the less the user likes its Trainer.","type":0,"damageType":1,"maxPP":32,"power":1,"accuracy":100}')}}]);

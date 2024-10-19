@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[780628],{349412:e=>{e.exports=JSON.parse('{"moveId":200,"name":"Outrage","desc":"The user rampages and attacks for two to three turns. The user then becomes confused.","type":15,"damageType":1,"maxPP":16,"power":120,"accuracy":100}')}}]);

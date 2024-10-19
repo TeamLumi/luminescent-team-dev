@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[603262],{946774:e=>{e.exports=JSON.parse('{"moveId":471,"name":"Power Split","desc":"The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[527629],{895274:e=>{e.exports=JSON.parse('{"moveId":397,"name":"Rock Polish","desc":"The user polishes its body to reduce drag. This sharply raises the Speed stat.","type":5,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

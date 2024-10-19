@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[176037],{932758:e=>{e.exports=JSON.parse('{"moveId":256,"name":"Swallow","desc":"The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

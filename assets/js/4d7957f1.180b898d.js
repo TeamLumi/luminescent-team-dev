@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[195802],{355347:e=>{e.exports=JSON.parse('{"moveId":563,"name":"Rototiller","desc":"Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Pok\xe9mon.","type":4,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[170471],{364254:e=>{e.exports=JSON.parse('{"moveId":275,"name":"Ingrain","desc":"The user lays roots that restore its HP on every turn. Because it\u2019s rooted, it can\u2019t switch out.","type":11,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

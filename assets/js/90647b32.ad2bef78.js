@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[608128],{459302:e=>{e.exports=JSON.parse('{"moveId":435,"name":"Discharge","desc":"The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.","type":12,"damageType":2,"maxPP":24,"power":80,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[658852],{763669:e=>{e.exports=JSON.parse('{"moveId":884,"name":"Pounce","desc":"Lowers opponent\u2019s Speed.","type":6,"damageType":0,"maxPP":32,"power":50,"accuracy":100}')}}]);

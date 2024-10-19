@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[800800],{452319:e=>{e.exports=JSON.parse('{"moveId":709,"name":"Accelerock","desc":"The user smashes into the target at high speed. This move always goes first.","type":5,"damageType":1,"maxPP":32,"power":40,"accuracy":100}')}}]);

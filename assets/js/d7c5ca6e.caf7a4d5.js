@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[416635],{781510:e=>{e.exports=JSON.parse('{"moveId":571,"name":"Forest\u2019s Curse","desc":"The user puts a forest curse on the target. The target is now Grass type as well.","type":11,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

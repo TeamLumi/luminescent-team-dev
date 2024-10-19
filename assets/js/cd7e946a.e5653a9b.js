@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[820118],{585229:e=>{e.exports=JSON.parse('{"moveId":306,"name":"Crush Claw","desc":"The user slashes the target with hard and sharp claws. This may also lower the target\u2019s Defense stat.","type":0,"damageType":1,"maxPP":16,"power":75,"accuracy":95}')}}]);

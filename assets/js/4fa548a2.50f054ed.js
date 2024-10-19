@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[786995],{912067:e=>{e.exports=JSON.parse('{"moveId":2,"name":"Karate Chop","desc":"The target is attacked with a sharp chop. Critical hits land more easily.","type":1,"damageType":1,"maxPP":40,"power":50,"accuracy":100}')}}]);

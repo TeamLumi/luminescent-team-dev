@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[915895],{851687:e=>{e.exports=JSON.parse('{"moveId":877,"name":"Ruination","desc":"Halves the opponent\u2019s HP.","type":16,"damageType":1,"maxPP":16,"power":0,"accuracy":90}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[609348],{964470:e=>{e.exports=JSON.parse('{"moveId":49,"name":"Sonic Boom","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":0,"damageType":2,"maxPP":32,"power":1,"accuracy":90}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[73696],{30473:e=>{e.exports=JSON.parse('{"moveId":581,"name":"Misty Terrain","desc":"This protects Pok\xe9mon on the ground from status conditions and halves damage from Dragon-type moves for five turns.","type":17,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

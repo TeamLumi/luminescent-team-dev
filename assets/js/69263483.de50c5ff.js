@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[100082],{984175:e=>{e.exports=JSON.parse('{"moveId":73,"name":"Leech Seed","desc":"A seed is planted on the target. It steals some HP from the target every turn.","type":11,"damageType":0,"maxPP":16,"power":0,"accuracy":90}')}}]);

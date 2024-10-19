@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[126732],{344279:e=>{e.exports=JSON.parse('{"moveId":757,"name":"Max Flare","desc":"This is a Fire-type attack Dynamax Pok\xe9mon use. The user intensifies the sun for five turns.","type":9,"damageType":1,"maxPP":16,"power":100,"accuracy":101}')}}]);

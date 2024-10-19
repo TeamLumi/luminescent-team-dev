@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[442994],{440926:e=>{e.exports=JSON.parse('{"moveId":302,"name":"Needle Arm","desc":"The user attacks by wildly swinging its thorny arms. This may also make the target flinch.","type":11,"damageType":1,"maxPP":24,"power":90,"accuracy":100}')}}]);

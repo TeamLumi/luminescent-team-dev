@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[115809],{519076:e=>{e.exports=JSON.parse('{"moveId":437,"name":"Leaf Storm","desc":"The user whips up a storm of leaves around the target. The attack\u2019s recoil harshly lowers the user\u2019s Sp. Atk stat.","type":11,"damageType":2,"maxPP":8,"power":130,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[366514],{541582:e=>{e.exports=JSON.parse('{"moveId":37,"name":"Thrash","desc":"The user rampages and attacks for two to three turns. The user then becomes confused.","type":0,"damageType":1,"maxPP":16,"power":120,"accuracy":100}')}}]);

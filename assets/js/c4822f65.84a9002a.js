@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[49512],{883039:e=>{e.exports=JSON.parse('{"moveId":821,"name":"Freezing Glare","desc":"The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.","type":13,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[61591],{442726:e=>{e.exports=JSON.parse('{"moveId":499,"name":"Clear Smog","desc":"The user attacks the target by throwing a clump of special mud. All stat changes are returned to normal.","type":3,"damageType":2,"maxPP":24,"power":50,"accuracy":101}')}}]);

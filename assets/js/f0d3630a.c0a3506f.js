@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[126675],{901063:e=>{e.exports=JSON.parse('{"moveId":357,"name":"Miracle Eye","desc":"Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit.","type":13,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

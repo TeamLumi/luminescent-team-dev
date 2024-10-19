@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[80265],{558491:e=>{e.exports=JSON.parse('{"moveId":537,"name":"Steamroller","desc":"The user crushes its target by rolling over the target with its rolled-up body. This may also make the target flinch.","type":6,"damageType":1,"maxPP":32,"power":65,"accuracy":100}')}}]);

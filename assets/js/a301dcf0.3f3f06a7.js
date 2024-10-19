@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[7456],{379391:e=>{e.exports=JSON.parse('{"moveId":494,"name":"Entrainment","desc":"The user dances with an odd rhythm that compels the target to mimic it, making the target\u2019s Ability the same as the user\u2019s.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

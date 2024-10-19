@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[287453],{810781:e=>{e.exports=JSON.parse('{"moveId":529,"name":"Drill Run","desc":"The user crashes into its target while rotating its body like a drill. Critical hits land more easily.","type":4,"damageType":1,"maxPP":16,"power":80,"accuracy":95}')}}]);

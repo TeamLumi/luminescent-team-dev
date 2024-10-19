@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[878411],{425184:e=>{e.exports=JSON.parse('{"moveId":62,"name":"Aurora Beam","desc":"The target is hit with a rainbow-colored beam. This may also lower the target\u2019s Attack stat.","type":14,"damageType":2,"maxPP":24,"power":75,"accuracy":100}')}}]);

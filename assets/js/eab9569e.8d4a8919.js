@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[212958],{720015:e=>{e.exports=JSON.parse('{"moveId":810,"name":"Corrosive Gas","desc":"The user surrounds everything around it with highly acidic gas and melts away items they hold.","type":3,"damageType":0,"maxPP":64,"power":0,"accuracy":100}')}}]);

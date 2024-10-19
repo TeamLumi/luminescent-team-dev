@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[11208],{848932:e=>{e.exports=JSON.parse('{"moveId":111,"name":"Defense Curl","desc":"The user curls up to conceal weak spots and raise its Defense stat.","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[114289],{136640:e=>{e.exports=JSON.parse('{"moveId":430,"name":"Flash Cannon","desc":"The user gathers all its light energy and releases it all at once. This may also lower the target\u2019s Sp. Def stat.","type":8,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[122870],{590092:e=>{e.exports=JSON.parse('{"moveId":238,"name":"Cross Chop","desc":"The user delivers a double chop with its forearms crossed. Critical hits land more easily.","type":1,"damageType":1,"maxPP":8,"power":100,"accuracy":80}')}}]);

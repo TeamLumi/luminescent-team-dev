@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[972112],{903073:e=>{e.exports=JSON.parse('{"moveId":160,"name":"Conversion","desc":"The user changes its type to become the same type as the move at the top of the list of moves it knows.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

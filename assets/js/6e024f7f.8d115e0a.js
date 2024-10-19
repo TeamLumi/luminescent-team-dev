@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[797667],{350796:e=>{e.exports=JSON.parse('{"moveId":827,"name":"Dire Claw","desc":"High critical hit ratio  May poison, paralyze or make the opponent drowsy.","type":3,"damageType":0,"maxPP":128,"power":15,"accuracy":80}')}}]);

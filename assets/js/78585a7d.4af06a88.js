@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[936057],{606974:e=>{e.exports=JSON.parse('{"moveId":316,"name":"Odor Sleuth","desc":"Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[410149],{522453:e=>{e.exports=JSON.parse('{"moveId":427,"name":"Psycho Cut","desc":"The user tears at the target with blades formed by psychic power. Critical hits land more easily.","type":13,"damageType":1,"maxPP":32,"power":70,"accuracy":100}')}}]);

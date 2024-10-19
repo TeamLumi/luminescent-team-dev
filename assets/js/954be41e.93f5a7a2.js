@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[310127],{69978:e=>{e.exports=JSON.parse('{"moveId":429,"name":"Mirror Shot","desc":"The user lets loose a flash of energy at the target from its polished body. This may also lower the target\'s accuracy.","type":8,"damageType":2,"maxPP":16,"power":65,"accuracy":85}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[64690],{708139:e=>{e.exports=JSON.parse('{"moveId":176,"name":"Conversion 2","desc":"The user changes its type to make itself resistant to the type of the attack the target used last.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

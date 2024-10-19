@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[88726],{997275:e=>{e.exports=JSON.parse('{"moveId":142,"name":"Lovely Kiss","desc":"With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":75}')}}]);

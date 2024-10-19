@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[790290],{417206:e=>{e.exports=JSON.parse('{"moveId":325,"name":"Shadow Punch","desc":"The user throws a punch from the shadows. This attack never misses.","type":7,"damageType":1,"maxPP":32,"power":60,"accuracy":101}')}}]);

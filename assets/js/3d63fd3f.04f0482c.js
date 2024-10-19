@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[53958],{267895:e=>{e.exports=JSON.parse('{"moveId":117,"name":"Bide","desc":"The user endures attacks for two turns, then strikes back to cause double the damage taken.","type":0,"damageType":1,"maxPP":16,"power":1,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[988842],{244697:e=>{e.exports=JSON.parse('{"moveId":839,"name":"Barb Barrage","desc":"Inflicts double damage if the target has a status condition.","type":3,"damageType":0,"maxPP":16,"power":60,"accuracy":100}')}}]);

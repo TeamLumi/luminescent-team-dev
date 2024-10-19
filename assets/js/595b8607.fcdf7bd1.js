@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[353605],{950023:e=>{e.exports=JSON.parse('{"moveId":213,"name":"Attract","desc":"If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

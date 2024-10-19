@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[239326],{802729:e=>{e.exports=JSON.parse('{"moveId":3,"name":"Double Slap","desc":"The target is slapped repeatedly, back and forth, two to five times in a row.","type":0,"damageType":1,"maxPP":16,"power":15,"accuracy":85}')}}]);

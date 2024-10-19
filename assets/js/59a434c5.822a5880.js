@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[219180],{92472:e=>{e.exports=JSON.parse('{"moveId":805,"name":"Terrain Pulse","desc":"The user utilizes the power of the terrain to attack. This move\'s type and power changes depending on the terrain when it\'s used.","type":0,"damageType":2,"maxPP":16,"power":50,"accuracy":100}')}}]);

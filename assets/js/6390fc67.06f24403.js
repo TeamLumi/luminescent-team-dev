@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[862403],{57140:e=>{e.exports=JSON.parse('{"moveId":811,"name":"Coaching","desc":"The user properly coaches its ally Pok\xe9mon, boosting their Attack and Defense stats.","type":1,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

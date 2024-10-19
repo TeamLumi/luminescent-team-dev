@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[481451],{558139:e=>{e.exports=JSON.parse('{"moveId":258,"name":"Hail","desc":"The user summons a hailstorm lasting five turns. It damages all Pok\xe9mon except Ice types.","type":14,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

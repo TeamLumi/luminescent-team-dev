@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[192551],{111757:e=>{e.exports=JSON.parse('{"moveId":790,"name":"Strange Steam","desc":"The user attacks the target by emitting steam. This may also confuse the target.","type":17,"damageType":2,"maxPP":16,"power":90,"accuracy":95}')}}]);

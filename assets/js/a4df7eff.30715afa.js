@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[582811],{620594:e=>{e.exports=JSON.parse('{"moveId":186,"name":"Sweet Kiss","desc":"The user kisses the target with a sweet, angelic cuteness that causes confusion.","type":17,"damageType":0,"maxPP":16,"power":0,"accuracy":75}')}}]);

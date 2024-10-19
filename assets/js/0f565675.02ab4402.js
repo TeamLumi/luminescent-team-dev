@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[51895],{300565:e=>{e.exports=JSON.parse('{"moveId":423,"name":"Ice Fang","desc":"The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.","type":14,"damageType":1,"maxPP":24,"power":65,"accuracy":95}')}}]);

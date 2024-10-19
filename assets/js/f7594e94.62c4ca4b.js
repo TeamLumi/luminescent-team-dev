@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[656563],{83369:e=>{e.exports=JSON.parse('{"moveId":812,"name":"Flip Turn","desc":"After making its attack, the user rushes back to switch places with a party Pok\xe9mon in waiting.","type":10,"damageType":1,"maxPP":32,"power":60,"accuracy":100}')}}]);

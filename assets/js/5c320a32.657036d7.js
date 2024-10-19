@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[958855],{38800:e=>{e.exports=JSON.parse('{"moveId":856,"name":"Order Up","desc":"The user elegantly strikes, boosting a stat based on the Tatsugiri\u2019s form if held in its mouth.","type":15,"damageType":0,"maxPP":16,"power":80,"accuracy":100}')}}]);

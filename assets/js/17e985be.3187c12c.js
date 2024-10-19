@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[23601],{191503:e=>{e.exports=JSON.parse('{"moveId":126,"name":"Fire Blast","desc":"The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.","type":9,"damageType":2,"maxPP":8,"power":110,"accuracy":85}')}}]);

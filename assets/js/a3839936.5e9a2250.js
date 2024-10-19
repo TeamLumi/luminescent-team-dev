@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[269146],{169904:e=>{e.exports=JSON.parse('{"moveId":809,"name":"Poltergeist","desc":"The user attacks the target by controlling the target\u2019s item. The move fails if the target doesn\u2019t have an item.","type":7,"damageType":1,"maxPP":8,"power":110,"accuracy":90}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[311464],{96656:e=>{e.exports=JSON.parse('{"moveId":165,"name":"Struggle","desc":"This attack is used in desperation only if the user has no PP. It also damages the user a little.","type":0,"damageType":1,"maxPP":1.6,"power":50,"accuracy":101}')}}]);

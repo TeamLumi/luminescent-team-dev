@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[384110],{956321:e=>{e.exports=JSON.parse('{"moveId":540,"name":"Psystrike","desc":"The user materializes an odd psychic wave to attack the target. This attack does physical damage.","type":13,"damageType":2,"maxPP":16,"power":100,"accuracy":100}')}}]);

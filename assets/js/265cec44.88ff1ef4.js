@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[363514],{496205:e=>{e.exports=JSON.parse('{"moveId":893,"name":"Gigaton Hammer","desc":"Cannot be used twice in a row.","type":8,"damageType":0,"maxPP":8,"power":160,"accuracy":100}')}}]);

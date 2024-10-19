@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[841129],{427849:e=>{e.exports=JSON.parse('{"moveId":392,"name":"Aqua Ring","desc":"The user envelops itself in a veil made of water. It regains some HP every turn.","type":10,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

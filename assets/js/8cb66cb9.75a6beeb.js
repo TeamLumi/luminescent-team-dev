@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[335699],{396004:e=>{e.exports=JSON.parse('{"moveId":337,"name":"Dragon Claw","desc":"The user slashes the target with huge sharp claws.","type":15,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

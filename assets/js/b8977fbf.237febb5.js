@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[321723],{974400:e=>{e.exports=JSON.parse('{"moveId":898,"name":"Noxious Torque","desc":"Noxious Torque inflicts damage and has a 30% chance of poisoning the target.","type":3,"damageType":0,"maxPP":16,"power":100,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[307008],{764605:e=>{e.exports=JSON.parse('{"moveId":879,"name":"Electro Drift","desc":"Boosted even more if it\u2019s super-effective.","type":12,"damageType":1,"maxPP":8,"power":100,"accuracy":100}')}}]);

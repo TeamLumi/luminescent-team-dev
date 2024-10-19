@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[32562],{881578:e=>{e.exports=JSON.parse('{"moveId":712,"name":"Spectral Thief","desc":"The user hides in the target\u2019s shadow, steals the target\u2019s stat boosts, and then attacks.","type":7,"damageType":1,"maxPP":16,"power":90,"accuracy":100}')}}]);

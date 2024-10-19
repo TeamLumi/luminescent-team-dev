@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[189109],{935170:e=>{e.exports=JSON.parse('{"moveId":743,"name":"Max Guard","desc":"This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[481639],{593990:e=>{e.exports=JSON.parse('{"moveId":552,"name":"Fiery Dance","desc":"Cloaked in flames, the user attacks the target by dancing and flapping its wings. This may also raise the user\'s Sp. Atk stat.","type":9,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

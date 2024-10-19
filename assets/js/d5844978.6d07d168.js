@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[705572],{972233:e=>{e.exports=JSON.parse('{"moveId":528,"name":"Wild Charge","desc":"The user shrouds itself in electricity and smashes into its target. This also damages the user a little.","type":12,"damageType":1,"maxPP":24,"power":90,"accuracy":100}')}}]);

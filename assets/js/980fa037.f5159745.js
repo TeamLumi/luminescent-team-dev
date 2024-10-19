@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[336864],{609307:e=>{e.exports=JSON.parse('{"moveId":523,"name":"Bulldoze","desc":"The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit.","type":4,"damageType":1,"maxPP":32,"power":60,"accuracy":100}')}}]);

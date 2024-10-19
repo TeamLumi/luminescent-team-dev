@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[334347],{702386:e=>{e.exports=JSON.parse('{"moveId":286,"name":"Imprison","desc":"If opposing Pok\xe9mon know any move also known by the user, they are prevented from using it.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

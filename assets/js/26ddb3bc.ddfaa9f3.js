@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[634651],{242854:e=>{e.exports=JSON.parse('{"moveId":221,"name":"Sacred Fire","desc":"The target is razed with a mystical fire of great intensity. This may also leave the target with a burn.","type":9,"damageType":1,"maxPP":8,"power":100,"accuracy":95}')}}]);

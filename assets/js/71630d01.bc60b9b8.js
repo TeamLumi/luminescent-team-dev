@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[202426],{779732:e=>{e.exports=JSON.parse('{"moveId":29,"name":"Headbutt","desc":"The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.","type":0,"damageType":1,"maxPP":24,"power":70,"accuracy":100}')}}]);

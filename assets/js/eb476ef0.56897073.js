@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[714266],{613626:e=>{e.exports=JSON.parse('{"moveId":899,"name":"Combat Torque","desc":"Combat Torque inflicts damage and has a 30% chance of paralyzing the target.","type":1,"damageType":0,"maxPP":16,"power":100,"accuracy":100}')}}]);

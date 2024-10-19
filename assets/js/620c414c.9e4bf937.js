@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[922325],{140247:e=>{e.exports=JSON.parse('{"moveId":157,"name":"Rock Slide","desc":"Large boulders are hurled at opposing Pok\xe9mon to inflict damage. This may also make the opposing Pok\xe9mon flinch.","type":5,"damageType":1,"maxPP":16,"power":75,"accuracy":90}')}}]);

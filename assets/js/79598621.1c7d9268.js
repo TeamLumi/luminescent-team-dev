@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[274301],{524953:e=>{e.exports=JSON.parse('{"moveId":97,"name":"Agility","desc":"The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.","type":13,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

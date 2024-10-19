@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[509065],{51880:e=>{e.exports=JSON.parse('{"moveId":271,"name":"Trick","desc":"The user catches the target off guard and swaps its held item with its own.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

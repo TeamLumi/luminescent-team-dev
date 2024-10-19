@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[855068],{356560:e=>{e.exports=JSON.parse('{"moveId":144,"name":"Transform","desc":"The user transforms into a copy of the target right down to having the same move set.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

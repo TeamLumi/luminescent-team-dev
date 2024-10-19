@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[308509],{548485:e=>{e.exports=JSON.parse('{"moveId":179,"name":"Reversal","desc":"An all-out attack that becomes more powerful the less HP the user has.","type":1,"damageType":1,"maxPP":24,"power":1,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[145483],{395380:e=>{e.exports=JSON.parse('{"moveId":35,"name":"Wrap","desc":"A long body, vines, or the like are used to wrap and squeeze the target for four to five turns.","type":0,"damageType":1,"maxPP":32,"power":15,"accuracy":90}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[965513],{141944:e=>{e.exports=JSON.parse('{"moveId":480,"name":"Storm Throw","desc":"The user strikes the target with a fierce blow. This attack always results in a critical hit.","type":1,"damageType":1,"maxPP":16,"power":60,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[555268],{93189:e=>{e.exports=JSON.parse('{"moveId":77,"name":"Poison Powder","desc":"The user scatters a cloud of poisonous dust that poisons the target.","type":3,"damageType":0,"maxPP":56,"power":0,"accuracy":75}')}}]);

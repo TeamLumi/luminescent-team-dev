@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[706365],{490145:e=>{e.exports=JSON.parse('{"moveId":434,"name":"Draco Meteor","desc":"Comets are summoned down from the sky onto the target. The attack\u2019s recoil harshly lowers the user\u2019s Sp. Atk stat.","type":15,"damageType":2,"maxPP":8,"power":130,"accuracy":90}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[61348],{58878:e=>{e.exports=JSON.parse('{"moveId":764,"name":"Max Ooze","desc":"This is a Poison-type attack Dynamax Pok\xe9mon use. This raises ally Pok\xe9mon\'s Sp. Atk stats.","type":3,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

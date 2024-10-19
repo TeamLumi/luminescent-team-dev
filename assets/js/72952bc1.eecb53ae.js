@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[989826],{927413:e=>{e.exports=JSON.parse('{"moveId":704,"name":"Shell Trap","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":9,"damageType":2,"maxPP":8,"power":150,"accuracy":100}')}}]);

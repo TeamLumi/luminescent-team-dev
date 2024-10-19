@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[576042],{310802:e=>{e.exports=JSON.parse('{"moveId":368,"name":"Metal Burst","desc":"The user retaliates with much greater force against the opponent that last inflicted damage on it.","type":8,"damageType":1,"maxPP":16,"power":1,"accuracy":100}')}}]);

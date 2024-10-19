@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[237151],{359609:e=>{e.exports=JSON.parse('{"moveId":80,"name":"Petal Dance","desc":"The user attacks the target by scattering petals for two to three turns. The user then becomes confused.","type":11,"damageType":2,"maxPP":16,"power":120,"accuracy":100}')}}]);

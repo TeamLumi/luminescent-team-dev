@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[290147],{234232:e=>{e.exports=JSON.parse('{"moveId":81,"name":"String Shot","desc":"Opposing Pok\xe9mon are bound with silk blown from the user\u2019s mouth that harshly lowers the Speed stat.","type":6,"damageType":0,"maxPP":64,"power":0,"accuracy":95}')}}]);

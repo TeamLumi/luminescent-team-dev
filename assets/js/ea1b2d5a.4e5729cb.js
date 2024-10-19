@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[181825],{586285:e=>{e.exports=JSON.parse('{"moveId":173,"name":"Snore","desc":"This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.","type":0,"damageType":2,"maxPP":24,"power":50,"accuracy":100}')}}]);

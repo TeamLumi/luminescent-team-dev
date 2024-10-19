@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[947190],{197337:e=>{e.exports=JSON.parse('{"moveId":51,"name":"Acid","desc":"Opposing Pok\xe9mon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.","type":3,"damageType":2,"maxPP":48,"power":40,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[953140],{422187:e=>{e.exports=JSON.parse('{"moveId":441,"name":"Gunk Shot","desc":"The user shoots filthy garbage at the target to attack. This may also poison the target.","type":3,"damageType":1,"maxPP":8,"power":120,"accuracy":80}')}}]);

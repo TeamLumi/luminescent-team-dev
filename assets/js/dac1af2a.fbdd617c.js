@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[801261],{743282:e=>{e.exports=JSON.parse('{"moveId":226,"name":"Baton Pass","desc":"The user switches places with a party Pok\xe9mon in waiting and passes along any stat changes.","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[350094],{185341:e=>{e.exports=JSON.parse('{"moveId":846,"name":"Bleakwind Storm","desc":"May cause frostbite.","type":2,"damageType":1,"maxPP":16,"power":100,"accuracy":80}')}}]);

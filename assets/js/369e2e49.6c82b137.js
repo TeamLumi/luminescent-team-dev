@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[768921],{62642:e=>{e.exports=JSON.parse('{"moveId":31,"name":"Fury Attack","desc":"The target is jabbed repeatedly with a horn or beak two to five times in a row.","type":0,"damageType":1,"maxPP":32,"power":15,"accuracy":85}')}}]);

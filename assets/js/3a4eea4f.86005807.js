@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[532464],{223886:e=>{e.exports=JSON.parse('{"moveId":358,"name":"Wake-Up Slap","desc":"This attack inflicts big damage on a sleeping target. This also wakes the target up, however.","type":1,"damageType":1,"maxPP":16,"power":70,"accuracy":100}')}}]);

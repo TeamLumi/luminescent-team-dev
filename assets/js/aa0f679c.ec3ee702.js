@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[901605],{667651:e=>{e.exports=JSON.parse('{"moveId":355,"name":"Roost","desc":"The user lands and rests its body. This move restores the user\u2019s HP by up to half of its max HP.","type":2,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

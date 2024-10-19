@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[134356],{895895:e=>{e.exports=JSON.parse('{"moveId":420,"name":"Ice Shard","desc":"The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.","type":14,"damageType":1,"maxPP":48,"power":40,"accuracy":100}')}}]);

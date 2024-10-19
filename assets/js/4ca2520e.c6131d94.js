@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[590384],{561964:e=>{e.exports=JSON.parse('{"moveId":17,"name":"Wing Attack","desc":"The target is struck with large, imposing wings spread wide to inflict damage.","type":2,"damageType":1,"maxPP":56,"power":60,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[575932],{565266:e=>{e.exports=JSON.parse('{"moveId":754,"name":"Bolt Beak","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":12,"damageType":1,"maxPP":16,"power":85,"accuracy":100}')}}]);

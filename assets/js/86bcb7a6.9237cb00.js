@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[442774],{105396:e=>{e.exports=JSON.parse('{"moveId":841,"name":"Bitter Malice","desc":"Inflicts double damage if the target has a status condition.","type":7,"damageType":1,"maxPP":16,"power":75,"accuracy":100}')}}]);

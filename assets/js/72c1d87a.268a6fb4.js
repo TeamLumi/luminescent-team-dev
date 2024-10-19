@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[438817],{484938:e=>{e.exports=JSON.parse('{"moveId":816,"name":"Jungle Healing","desc":"The user becomes one with the jungle, restoring HP and healing any status conditions of itself and its ally Pok\xe9mon in battle.","type":11,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

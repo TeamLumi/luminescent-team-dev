@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[992708],{364984:e=>{e.exports=JSON.parse('{"moveId":317,"name":"Rock Tomb","desc":"Boulders are hurled at the target. This also lowers the target\u2019s Speed stat by preventing its movement.","type":5,"damageType":1,"maxPP":24,"power":60,"accuracy":95}')}}]);

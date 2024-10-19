@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[898679],{79208:e=>{e.exports=JSON.parse('{"moveId":803,"name":"Grassy Glide","desc":"Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.","type":11,"damageType":1,"maxPP":32,"power":70,"accuracy":100}')}}]);

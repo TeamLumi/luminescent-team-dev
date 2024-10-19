@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[854594],{294669:e=>{e.exports=JSON.parse('{"moveId":535,"name":"Heat Crash","desc":"The user slams its target with its flame-covered body. The more the user outweighs the target, the greater the move\'s power.","type":9,"damageType":1,"maxPP":16,"power":1,"accuracy":100}')}}]);

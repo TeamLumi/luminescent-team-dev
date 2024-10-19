@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[6235],{762803:e=>{e.exports=JSON.parse('{"moveId":734,"name":"Buzzy Buzz","desc":"The user shoots a jolt of electricity to attack the target. This also leaves the target with paralysis.","type":12,"damageType":2,"maxPP":32,"power":60,"accuracy":100}')}}]);

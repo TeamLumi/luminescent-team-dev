@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[756366],{489672:e=>{e.exports=JSON.parse('{"moveId":347,"name":"Calm Mind","desc":"The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.","type":13,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

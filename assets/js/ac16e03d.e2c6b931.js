@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[317222],{394454:e=>{e.exports=JSON.parse('{"moveId":916,"name":"Supercell Slam","desc":"The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead.","type":12,"damageType":1,"maxPP":24,"power":100,"accuracy":95}')}}]);

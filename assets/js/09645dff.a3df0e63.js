@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[991817],{678407:e=>{e.exports=JSON.parse('{"moveId":601,"name":"Geomancy","desc":"The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.","type":17,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

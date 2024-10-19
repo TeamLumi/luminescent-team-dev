@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[128303],{849267:e=>{e.exports=JSON.parse('{"moveId":844,"name":"Infernal Parade","desc":"Inflicts double damage if the target has a status condition.","type":7,"damageType":1,"maxPP":24,"power":60,"accuracy":100}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[340157],{196479:e=>{e.exports=JSON.parse('{"moveId":607,"name":"Hold Hands","desc":"The user and an ally hold hands. This makes them very happy.","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

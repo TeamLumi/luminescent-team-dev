@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[773352],{694556:e=>{e.exports=JSON.parse('{"moveId":909,"name":"Thunderclap","desc":"This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack.","type":12,"damageType":2,"maxPP":8,"power":70,"accuracy":100}')}}]);

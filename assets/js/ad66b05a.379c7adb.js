@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[609237],{993594:e=>{e.exports=JSON.parse('{"moveId":496,"name":"Round","desc":"The user attacks the target with a song. Others can join in the Round to increase the power of the attack.","type":0,"damageType":2,"maxPP":24,"power":60,"accuracy":100}')}}]);
