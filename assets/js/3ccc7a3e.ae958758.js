@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[70375],{646951:e=>{e.exports=JSON.parse('{"moveId":843,"name":"Triple Arrows","desc":"Raises critical hit ratio and lowers target\u2019s Defense.","type":1,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);
