@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[117024],{363573:e=>{e.exports="/luminescent-team-dev/pokedex/servine"}}]);

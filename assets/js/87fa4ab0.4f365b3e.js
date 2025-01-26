@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[909796],{964378:e=>{e.exports="/luminescent-team-dev/pokedex/caramel-swirl-ribbon-alcremie"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[278570],{535986:e=>{e.exports="/luminescent-team-dev/pokedex/stony-cliff-titan-klawf"}}]);

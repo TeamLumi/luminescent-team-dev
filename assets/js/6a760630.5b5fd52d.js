@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[376334],{763908:e=>{e.exports="/luminescent-team-dev/pokedex/azurill"}}]);

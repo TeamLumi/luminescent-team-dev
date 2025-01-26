@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[877099],{784998:e=>{e.exports="/luminescent-team-dev/pokedex/klinklang"}}]);

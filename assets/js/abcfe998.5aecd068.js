@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[179142],{84599:e=>{e.exports="/luminescent-team-dev/pokedex/gliding-build-koraidon"}}]);

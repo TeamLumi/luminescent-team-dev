@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[10621],{566597:e=>{e.exports="/luminescent-team-dev/pokedex/gigalith"}}]);
