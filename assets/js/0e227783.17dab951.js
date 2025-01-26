@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[815175],{198619:e=>{e.exports=JSON.parse('{"moveId":244,"name":"Psych Up","desc":"The user hypnotizes itself into copying any stat change made by the target.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

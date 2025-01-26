@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[875305],{601732:e=>{e.exports=JSON.parse('{"moveId":338,"name":"Frenzy Plant","desc":"The user slams the target with the roots of an enormous tree. The user can\u2019t move on the next turn.","type":11,"damageType":2,"maxPP":8,"power":150,"accuracy":90}')}}]);

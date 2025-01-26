@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[577702],{753448:e=>{e.exports=JSON.parse('{"moveId":835,"name":"Chloroblast","desc":"User receives recoil damage.","type":11,"damageType":1,"maxPP":8,"power":150,"accuracy":95}')}}]);

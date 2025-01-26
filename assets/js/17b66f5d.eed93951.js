@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[404864],{961165:e=>{e.exports=JSON.parse('{"moveId":513,"name":"Reflect Type","desc":"The user reflects the target\u2019s type, making the user the same type as the target.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

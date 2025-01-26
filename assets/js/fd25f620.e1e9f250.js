@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[258165],{274211:e=>{e.exports=JSON.parse('{"moveId":336,"name":"Howl","desc":"The user howls loudly to raise the spirit of itself and allies. This raises their Attack stats.","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

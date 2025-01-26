@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[191493],{393535:e=>{e.exports=JSON.parse('{"moveId":542,"name":"Hurricane","desc":"The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.","type":2,"damageType":2,"maxPP":16,"power":110,"accuracy":70}')}}]);

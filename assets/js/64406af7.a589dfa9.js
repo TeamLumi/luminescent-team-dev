@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[569467],{196874:e=>{e.exports=JSON.parse('{"moveId":439,"name":"Rock Wrecker","desc":"The user launches a huge boulder at the target to attack. The user can\u2019t move on the next turn.","type":5,"damageType":1,"maxPP":8,"power":150,"accuracy":90}')}}]);

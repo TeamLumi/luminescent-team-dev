@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[739425],{214309:e=>{e.exports=JSON.parse('{"moveId":760,"name":"Max Strike","desc":"This is a Normal-type attack Dynamax Pok\xe9mon use. This lowers the target\u2019s Speed stat.","type":0,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

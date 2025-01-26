@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[784],{733938:e=>{e.exports=JSON.parse('{"moveId":882,"name":"Tidy Up","desc":"Removes the effects of entry hazards and Substitute, and boosts user\u2019s Attack and Speed.","type":0,"damageType":2,"maxPP":16,"power":0,"accuracy":0}')}}]);

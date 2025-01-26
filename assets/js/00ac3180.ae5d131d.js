@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[146260],{429868:e=>{e.exports=JSON.parse('{"moveId":809,"name":"Poltergeist","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":7,"damageType":1,"maxPP":8,"power":110,"accuracy":90}')}}]);

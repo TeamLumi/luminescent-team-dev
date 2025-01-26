@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[500433],{853988:e=>{e.exports=JSON.parse('{"moveId":824,"name":"Glacial Lance","desc":"The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pok\xe9mon.","type":14,"damageType":1,"maxPP":8,"power":120,"accuracy":100}')}}]);

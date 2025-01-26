@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[471565],{625714:e=>{e.exports=JSON.parse('{"moveId":379,"name":"Power Trick","desc":"The user employs its psychic power to switch its Attack stat with its Defense stat.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

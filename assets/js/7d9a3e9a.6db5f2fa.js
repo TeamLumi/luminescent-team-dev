@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[331932],{629321:e=>{e.exports=JSON.parse('{"moveId":720,"name":"Mind Blown","desc":"The user attacks everything around it by causing its own head to explode. This also damages the user.","type":9,"damageType":2,"maxPP":8,"power":150,"accuracy":100}')}}]);

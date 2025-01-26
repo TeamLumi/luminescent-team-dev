@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[350937],{596862:e=>{e.exports=JSON.parse('{"moveId":359,"name":"Hammer Arm","desc":"The user swings and hits with its strong, heavy fist. It lowers the user\u2019s Speed, however.","type":1,"damageType":1,"maxPP":16,"power":100,"accuracy":90}')}}]);

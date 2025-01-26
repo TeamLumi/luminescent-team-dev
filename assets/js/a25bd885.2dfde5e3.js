@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[272552],{869378:e=>{e.exports=JSON.parse('{"moveId":619,"name":"Precipice Blades","desc":"The user attacks opposing Pok\xe9mon by manifesting the power of the land in fearsome blades of stone.","type":4,"damageType":1,"maxPP":16,"power":120,"accuracy":85}')}}]);

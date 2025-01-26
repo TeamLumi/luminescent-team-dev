@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[778256],{810872:e=>{e.exports=JSON.parse('{"moveId":163,"name":"Slash","desc":"The target is attacked with a slash of claws or blades. Critical hits land more easily.","type":0,"damageType":1,"maxPP":32,"power":70,"accuracy":100}')}}]);

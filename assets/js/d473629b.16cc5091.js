@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[702541],{992075:e=>{e.exports=JSON.parse('{"moveId":558,"name":"Fusion Flare","desc":"The user brings down a giant flame. This move\u2019s power is increased when influenced by an enormous lightning bolt.","type":9,"damageType":2,"maxPP":8,"power":100,"accuracy":100}')}}]);

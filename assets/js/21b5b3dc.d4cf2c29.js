@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[238371],{27969:e=>{e.exports=JSON.parse('{"moveId":407,"name":"Dragon Rush","desc":"The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.","type":15,"damageType":1,"maxPP":16,"power":100,"accuracy":85}')}}]);

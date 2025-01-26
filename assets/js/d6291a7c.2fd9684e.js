@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[413438],{107896:e=>{e.exports=JSON.parse('{"moveId":504,"name":"Shell Smash","desc":"The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

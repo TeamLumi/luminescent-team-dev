@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[763507],{87424:e=>{e.exports=JSON.parse('{"moveId":506,"name":"Hex","desc":"This relentless attack does massive damage to a target affected by status conditions.","type":7,"damageType":2,"maxPP":16,"power":65,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[125939],{500804:e=>{e.exports=JSON.parse('{"moveId":426,"name":"Mud Bomb","desc":"The user launches a hard-packed mud ball to attack. This may also lower the target\u2019s accuracy.","type":4,"damageType":2,"maxPP":16,"power":65,"accuracy":85}')}}]);

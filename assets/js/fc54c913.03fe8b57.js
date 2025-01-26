@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[681777],{598629:e=>{e.exports=JSON.parse('{"moveId":193,"name":"Foresight","desc":"Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

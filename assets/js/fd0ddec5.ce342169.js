@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[274905],{973464:e=>{e.exports=JSON.parse('{"moveId":584,"name":"Fairy Wind","desc":"The user stirs up a fairy wind and strikes the target with it.","type":17,"damageType":2,"maxPP":48,"power":40,"accuracy":100}')}}]);

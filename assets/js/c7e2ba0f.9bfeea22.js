@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[626415],{592769:e=>{e.exports=JSON.parse('{"moveId":263,"name":"Facade","desc":"This attack move doubles its power if the user is poisoned, burned, or paralyzed.","type":0,"damageType":1,"maxPP":32,"power":70,"accuracy":100}')}}]);

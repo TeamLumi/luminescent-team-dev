@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[48588],{305281:e=>{e.exports=JSON.parse('{"moveId":40,"name":"Poison Sting","desc":"The user stabs the target with a poisonous stinger. This may also poison the target.","type":3,"damageType":1,"maxPP":56,"power":15,"accuracy":100}')}}]);

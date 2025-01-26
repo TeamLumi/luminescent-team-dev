@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[479381],{534967:e=>{e.exports=JSON.parse('{"moveId":731,"name":"Floaty Fall","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":2,"damageType":1,"maxPP":24,"power":90,"accuracy":95}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[824190],{718607:e=>{e.exports=JSON.parse('{"moveId":158,"name":"Hyper Fang","desc":"The user bites hard on the target with its sharp front fangs. This may also make the target flinch.","type":0,"damageType":1,"maxPP":24,"power":80,"accuracy":90}')}}]);

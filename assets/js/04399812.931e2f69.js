@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[234938],{378009:e=>{e.exports=JSON.parse('{"moveId":418,"name":"Bullet Punch","desc":"The user strikes the target with tough punches as fast as bullets. This move always goes first.","type":8,"damageType":1,"maxPP":48,"power":40,"accuracy":100}')}}]);

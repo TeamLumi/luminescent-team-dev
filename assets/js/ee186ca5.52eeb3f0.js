@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[788547],{109569:e=>{e.exports=JSON.parse('{"moveId":250,"name":"Whirlpool","desc":"The user traps the target in a violent swirling whirlpool for four to five turns.","type":10,"damageType":2,"maxPP":24,"power":35,"accuracy":85}')}}]);

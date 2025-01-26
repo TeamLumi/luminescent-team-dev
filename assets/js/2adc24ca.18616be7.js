@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[227935],{10890:e=>{e.exports=JSON.parse('{"moveId":478,"name":"Magic Room","desc":"The user creates a bizarre area in which Pok\xe9mon\u2019s held items lose their effects for five turns.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

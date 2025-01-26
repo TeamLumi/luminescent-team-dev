@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[912427],{738286:e=>{e.exports=JSON.parse('{"moveId":171,"name":"Nightmare","desc":"A sleeping target sees a nightmare that inflicts some damage every turn.","type":7,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

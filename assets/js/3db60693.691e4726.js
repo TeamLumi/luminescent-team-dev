@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[263124],{865364:e=>{e.exports=JSON.parse('{"moveId":678,"name":"Psychic Terrain","desc":"This protects Pok\xe9mon on the ground from priority moves and powers up Psychic-type moves for five turns.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

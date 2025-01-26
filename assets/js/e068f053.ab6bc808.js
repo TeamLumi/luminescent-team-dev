@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[949049],{859624:e=>{e.exports=JSON.parse('{"moveId":705,"name":"Fleur Cannon","desc":"The user unleashes a strong beam. The attack\'s recoil harshly lowers the user\'s Sp. Atk stat.","type":17,"damageType":2,"maxPP":8,"power":130,"accuracy":90}')}}]);

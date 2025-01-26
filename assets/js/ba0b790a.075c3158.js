@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[875474],{278087:e=>{e.exports=JSON.parse('{"moveId":787,"name":"Apple Acid","desc":"The user attacks the target with an acidic liquid created from tart apples. This also lowers the target\'s Sp. Def stat.","type":11,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

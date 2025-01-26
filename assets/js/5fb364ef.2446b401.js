@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[226860],{948068:e=>{e.exports=JSON.parse('{"moveId":436,"name":"Lava Plume","desc":"The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.","type":9,"damageType":2,"maxPP":24,"power":80,"accuracy":100}')}}]);

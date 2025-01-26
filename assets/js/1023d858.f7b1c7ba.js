@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[139128],{602593:e=>{e.exports=JSON.parse('{"moveId":682,"name":"Burn Up","desc":"To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.","type":9,"damageType":2,"maxPP":8,"power":130,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[638392],{13616:e=>{e.exports=JSON.parse('{"moveId":455,"name":"Defend Order","desc":"The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.","type":6,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

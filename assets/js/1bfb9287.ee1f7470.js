@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[368793],{754362:e=>{e.exports=JSON.parse('{"moveId":270,"name":"Helping Hand","desc":"The user assists an ally by boosting the power of that ally\u2019s attack.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

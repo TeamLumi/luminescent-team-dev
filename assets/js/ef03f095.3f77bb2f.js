@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[124802],{407900:e=>{e.exports=JSON.parse('{"moveId":204,"name":"Charm","desc":"The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target\u2019s Attack stat.","type":17,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

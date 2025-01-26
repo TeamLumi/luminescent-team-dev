@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[980858],{178287:e=>{e.exports=JSON.parse('{"moveId":618,"name":"Origin Pulse","desc":"The user attacks opposing Pok\xe9mon with countless beams of light that glow a deep and brilliant blue.","type":10,"damageType":2,"maxPP":16,"power":110,"accuracy":85}')}}]);

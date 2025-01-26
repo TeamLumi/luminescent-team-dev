@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[10107],{992030:e=>{e.exports=JSON.parse('{"moveId":790,"name":"Strange Steam","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":17,"damageType":2,"maxPP":16,"power":90,"accuracy":95}')}}]);

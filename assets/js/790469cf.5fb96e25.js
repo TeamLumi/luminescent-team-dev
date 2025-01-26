@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[847871],{186957:e=>{e.exports=JSON.parse('{"moveId":488,"name":"Flame Charge","desc":"Cloaking itself in flame, the user attacks the target. Then, building up more power, the user raises its Speed stat.","type":9,"damageType":1,"maxPP":32,"power":50,"accuracy":100}')}}]);

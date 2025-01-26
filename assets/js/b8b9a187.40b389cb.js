@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[266268],{873544:e=>{e.exports=JSON.parse('{"moveId":517,"name":"Inferno","desc":"The user attacks by engulfing the target in an intense fire. This leaves the target with a burn.","type":9,"damageType":2,"maxPP":8,"power":100,"accuracy":50}')}}]);

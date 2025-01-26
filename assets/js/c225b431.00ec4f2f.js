@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[687795],{775789:e=>{e.exports=JSON.parse('{"moveId":199,"name":"Lock-On","desc":"The user takes sure aim at the target. This ensures the next attack does not miss the target.","type":0,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

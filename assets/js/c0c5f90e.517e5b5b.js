@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[578058],{672503:e=>{e.exports=JSON.parse('{"moveId":659,"name":"Shore Up","desc":"The user regains up to half of its max HP. It restores more HP in a sandstorm.","type":4,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

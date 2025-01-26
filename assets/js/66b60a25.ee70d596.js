@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[999408],{776823:e=>{e.exports=JSON.parse('{"moveId":750,"name":"Magic Powder","desc":"The user scatters a cloud of magic powder that changes the target to Psychic type.","type":13,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

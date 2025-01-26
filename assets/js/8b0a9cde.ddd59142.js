@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[190685],{401738:e=>{e.exports=JSON.parse('{"moveId":119,"name":"Mirror Move","desc":"The user counters the target by mimicking the target\'s last move.","type":2,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[732664],{103174:e=>{e.exports=JSON.parse('{"moveId":129,"name":"Swift","desc":"Star-shaped rays are shot at opposing Pok\xe9mon. This attack never misses.","type":0,"damageType":2,"maxPP":32,"power":60,"accuracy":101}')}}]);

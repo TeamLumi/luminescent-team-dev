@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[954695],{439052:e=>{e.exports=JSON.parse('{"moveId":385,"name":"Guard Swap","desc":"The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

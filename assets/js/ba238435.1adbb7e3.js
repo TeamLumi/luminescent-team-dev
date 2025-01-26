@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[322411],{176618:e=>{e.exports=JSON.parse('{"moveId":614,"name":"Thousand Arrows","desc":"This move also hits opposing Pok\xe9mon that are in the air. Those Pok\xe9mon are knocked down to the ground.","type":4,"damageType":1,"maxPP":16,"power":90,"accuracy":100}')}}]);

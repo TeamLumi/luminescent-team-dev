@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[827972],{274068:e=>{e.exports=JSON.parse('{"moveId":198,"name":"Bone Rush","desc":"The user strikes the target with a hard bone two to five times in a row.","type":4,"damageType":1,"maxPP":16,"power":25,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[852378],{386078:e=>{e.exports=JSON.parse('{"moveId":345,"name":"Magical Leaf","desc":"The user scatters curious leaves that chase the target. This attack never misses.","type":11,"damageType":2,"maxPP":32,"power":60,"accuracy":101}')}}]);

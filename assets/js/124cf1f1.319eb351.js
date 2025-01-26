@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[488024],{896627:e=>{e.exports=JSON.parse('{"moveId":874,"name":"Make It Rain","desc":"Lowers user\u2019s Special Attack  Money is earned after the battle.","type":8,"damageType":1,"maxPP":8,"power":120,"accuracy":100}')}}]);

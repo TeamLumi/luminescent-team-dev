@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[500546],{679821:e=>{e.exports=JSON.parse('{"moveId":7,"name":"Fire Punch","desc":"The target is punched with a fiery fist. This may also leave the target with a burn.","type":9,"damageType":1,"maxPP":24,"power":75,"accuracy":100}')}}]);

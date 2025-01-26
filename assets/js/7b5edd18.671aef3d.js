@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[564266],{241864:e=>{e.exports=JSON.parse('{"moveId":825,"name":"Astral Barrage","desc":"The user attacks by sending a frightful amount of small ghosts at opposing Pok\xe9mon.","type":7,"damageType":2,"maxPP":8,"power":120,"accuracy":100}')}}]);

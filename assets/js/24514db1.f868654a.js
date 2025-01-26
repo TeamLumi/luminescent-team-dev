@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[803469],{167030:e=>{e.exports=JSON.parse('{"moveId":191,"name":"Spikes","desc":"The user lays a trap of spikes at the opposing team\u2019s feet. The trap hurts Pok\xe9mon that switch into battle.","type":4,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

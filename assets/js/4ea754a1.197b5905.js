@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[905796],{623515:e=>{e.exports=JSON.parse('{"moveId":292,"name":"Arm Thrust","desc":"The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row.","type":1,"damageType":1,"maxPP":32,"power":15,"accuracy":100}')}}]);

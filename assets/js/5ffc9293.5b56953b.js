@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[322082],{521719:e=>{e.exports=JSON.parse('{"moveId":684,"name":"Smart Strike","desc":"The user stabs the target with a sharp horn. This attack never misses.","type":8,"damageType":1,"maxPP":16,"power":70,"accuracy":101}')}}]);

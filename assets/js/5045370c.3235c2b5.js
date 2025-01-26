@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[406558],{308539:e=>{e.exports=JSON.parse('{"moveId":45,"name":"Growl","desc":"The user growls in an endearing way, making opposing Pok\xe9mon less wary. This lowers their Attack stats.","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":100}')}}]);

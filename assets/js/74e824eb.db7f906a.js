@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[292531],{696261:e=>{e.exports=JSON.parse('{"moveId":567,"name":"Trick-or-Treat","desc":"The user takes the target trick-or-treating. This adds Ghost type to the target\u2019s type.","type":7,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

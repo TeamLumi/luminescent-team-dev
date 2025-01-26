@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[529700],{160962:e=>{e.exports=JSON.parse('{"moveId":383,"name":"Copycat","desc":"The user mimics the move used immediately before it. The move fails if no other move has been used yet.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

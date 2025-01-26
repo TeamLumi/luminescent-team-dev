@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[339505],{397870:e=>{e.exports=JSON.parse('{"moveId":553,"name":"Freeze Shock","desc":"On the second turn, the user hits the target with electrically charged ice. This may also leave the target with paralysis.","type":14,"damageType":1,"maxPP":8,"power":140,"accuracy":90}')}}]);

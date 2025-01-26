@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[7311],{753583:e=>{e.exports=JSON.parse('{"moveId":164,"name":"Substitute","desc":"The user creates a substitute for itself using some of its HP. The substitute serves as the user\u2019s decoy.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

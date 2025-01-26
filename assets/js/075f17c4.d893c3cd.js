@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[130523],{580151:e=>{e.exports=JSON.parse('{"moveId":4,"name":"Comet Punch","desc":"The target is hit with a flurry of punches that strike two to five times in a row.","type":0,"damageType":1,"maxPP":24,"power":18,"accuracy":85}')}}]);

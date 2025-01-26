@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[763380],{315512:e=>{e.exports=JSON.parse('{"moveId":50,"name":"Disable","desc":"For four turns, this move prevents the target from using the move it last used.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

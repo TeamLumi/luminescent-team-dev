@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[973296],{322798:e=>{e.exports=JSON.parse('{"moveId":391,"name":"Heart Swap","desc":"The user employs its psychic power to switch stat changes with the target.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

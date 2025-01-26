@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[241819],{961929:e=>{e.exports=JSON.parse('{"moveId":796,"name":"Steel Beam","desc":"The user fires a beam of steel that it collected from its entire body. This also damages the user.","type":8,"damageType":2,"maxPP":8,"power":140,"accuracy":95}')}}]);

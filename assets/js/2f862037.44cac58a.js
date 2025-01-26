@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[328392],{366172:e=>{e.exports=JSON.parse('{"moveId":304,"name":"Hyper Voice","desc":"The user lets loose a horribly echoing shout with the power to inflict damage.","type":0,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

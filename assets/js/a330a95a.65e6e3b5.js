@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[837920],{138441:e=>{e.exports=JSON.parse('{"moveId":609,"name":"Nuzzle","desc":"The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.","type":12,"damageType":1,"maxPP":32,"power":20,"accuracy":100}')}}]);

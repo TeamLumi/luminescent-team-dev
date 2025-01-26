@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[503156],{633907:e=>{e.exports=JSON.parse('{"moveId":386,"name":"Punishment","desc":"The more the target has powered up with stat changes, the greater the move\'s power.","type":16,"damageType":1,"maxPP":8,"power":1,"accuracy":100}')}}]);

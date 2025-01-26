@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[66170],{921499:e=>{e.exports=JSON.parse('{"moveId":804,"name":"Rising Voltage","desc":"The user attacks with electric voltage rising from the ground. This move\'s power doubles when the target is on Electric Terrain.","type":12,"damageType":2,"maxPP":32,"power":70,"accuracy":100}')}}]);

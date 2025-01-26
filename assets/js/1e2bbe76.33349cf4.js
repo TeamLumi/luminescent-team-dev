@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[598146],{798743:e=>{e.exports=JSON.parse('{"moveId":783,"name":"Aura Wheel","desc":"Morpeko attacks and raises its Speed with the energy stored in its cheeks. This move\'s type changes depending on the user\'s form.","type":12,"damageType":1,"maxPP":16,"power":110,"accuracy":100}')}}]);

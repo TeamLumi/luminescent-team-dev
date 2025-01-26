@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[516134],{937284:e=>{e.exports=JSON.parse('{"moveId":401,"name":"Aqua Tail","desc":"The user attacks by swinging its tail as if it were a vicious wave in a raging storm.","type":10,"damageType":1,"maxPP":16,"power":90,"accuracy":90}')}}]);

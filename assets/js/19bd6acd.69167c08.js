@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[186728],{657570:e=>{e.exports=JSON.parse('{"moveId":220,"name":"Pain Split","desc":"The user adds its HP to the target\u2019s HP, then equally shares the combined HP with the target.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[519233],{150744:e=>{e.exports=JSON.parse('{"moveId":431,"name":"Rock Climb","desc":"A charging attack that may also leave the foe confused. It\u2019s also one of the Pok\xe9tch\u2019s hidden moves.","type":5,"damageType":1,"maxPP":16,"power":80,"accuracy":95}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[768666],{625975:e=>{e.exports=JSON.parse('{"moveId":902,"name":"Matcha Gotcha","desc":"Deals damage, restored HP, may burn opponent.","type":11,"damageType":1,"maxPP":24,"power":80,"accuracy":90}')}}]);

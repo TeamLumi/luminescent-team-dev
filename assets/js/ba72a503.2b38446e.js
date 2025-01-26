@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[65221],{876512:e=>{e.exports=JSON.parse('{"moveId":487,"name":"Soak","desc":"The user shoots a torrent of water at the target and changes the target\u2019s type to Water.","type":10,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

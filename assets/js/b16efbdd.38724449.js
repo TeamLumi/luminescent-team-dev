@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[775213],{597724:e=>{e.exports=JSON.parse('{"moveId":104,"name":"Double Team","desc":"By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

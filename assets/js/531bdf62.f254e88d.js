@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[611568],{999756:e=>{e.exports=JSON.parse('{"moveId":212,"name":"Mean Look","desc":"The user pins the target with a dark, arresting look. The target becomes unable to flee.","type":0,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

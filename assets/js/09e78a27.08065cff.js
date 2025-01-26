@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[646347],{860803:e=>{e.exports=JSON.parse('{"moveId":831,"name":"Springtide Storm","desc":"Boosts user\u2019s stats in Incarnate Forme, or lowers opponent\u2019s stats in Therian Forme.","type":17,"damageType":1,"maxPP":16,"power":100,"accuracy":80}')}}]);

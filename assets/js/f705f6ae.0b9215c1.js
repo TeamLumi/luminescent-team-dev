@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[174388],{350204:e=>{e.exports=JSON.parse('{"moveId":547,"name":"Relic Song","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":0,"damageType":2,"maxPP":16,"power":75,"accuracy":100}')}}]);

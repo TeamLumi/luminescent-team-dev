@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[313877],{877805:e=>{e.exports=JSON.parse('{"moveId":150,"name":"Splash","desc":"The user just flops and splashes around to no effect at all...","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

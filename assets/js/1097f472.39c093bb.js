@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[196687],{11991:e=>{e.exports=JSON.parse('{"moveId":272,"name":"Role Play","desc":"The user mimics the target completely, copying the target\u2019s Ability.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

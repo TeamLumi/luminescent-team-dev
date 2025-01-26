@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[947484],{559427:e=>{e.exports=JSON.parse('{"moveId":748,"name":"No Retreat","desc":"This move raises all the user\u2019s stats but prevents the user from switching out or fleeing.","type":1,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

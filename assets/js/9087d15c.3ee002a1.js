@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[770040],{520532:e=>{e.exports=JSON.parse('{"moveId":278,"name":"Recycle","desc":"The user recycles a held item that has been used in battle so it can be used again.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

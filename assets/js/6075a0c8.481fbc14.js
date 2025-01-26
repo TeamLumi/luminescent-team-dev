@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[583246],{389761:e=>{e.exports=JSON.parse('{"moveId":518,"name":"Water Pledge","desc":"A column of water hits the target. When used with its fire equivalent, its power increases and a rainbow appears.","type":10,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

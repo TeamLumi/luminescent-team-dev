@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[486802],{883270:e=>{e.exports=JSON.parse('{"moveId":541,"name":"Tail Slap","desc":"The user attacks by striking the target with its hard tail. It hits the target two to five times in a row.","type":0,"damageType":1,"maxPP":16,"power":25,"accuracy":100}')}}]);

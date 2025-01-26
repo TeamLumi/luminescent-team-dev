@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[303196],{823122:e=>{e.exports=JSON.parse('{"moveId":863,"name":"Revival Blessing","desc":"Revives a fainted party Pok\xe9mon to half HP.","type":0,"damageType":2,"maxPP":1.6,"power":0,"accuracy":0}')}}]);

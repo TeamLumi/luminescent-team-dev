@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[996343],{80737:e=>{e.exports=JSON.parse('{"moveId":896,"name":"Blazing Torque","desc":"This move inflicts damage and has a 30% chance of burning the target.","type":9,"damageType":0,"maxPP":16,"power":80,"accuracy":100}')}}]);

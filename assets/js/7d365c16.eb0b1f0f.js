@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[880328],{197515:e=>{e.exports=JSON.parse('{"moveId":452,"name":"Wood Hammer","desc":"The user slams its rugged body into the target to attack. This also damages the user quite a lot.","type":11,"damageType":1,"maxPP":24,"power":120,"accuracy":100}')}}]);

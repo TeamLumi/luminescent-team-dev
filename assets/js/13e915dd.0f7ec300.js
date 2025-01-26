@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[940810],{472468:e=>{e.exports=JSON.parse('{"moveId":758,"name":"Max Flutterby","desc":"This is a Bug-type attack Dynamax Pok\xe9mon use. This lowers the target\'s Sp. Atk stat.","type":6,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

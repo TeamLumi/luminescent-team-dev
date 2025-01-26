@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[549490],{479481:e=>{e.exports=JSON.parse('{"moveId":715,"name":"Tearful Look","desc":"The user gets teary eyed to make the target lose its combative spirit. This lowers the target\u2019s Attack and Sp. Atk stats.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

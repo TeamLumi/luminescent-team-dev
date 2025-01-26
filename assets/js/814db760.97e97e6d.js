@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[783119],{301627:e=>{e.exports=JSON.parse('{"moveId":694,"name":"Aurora Veil","desc":"This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.","type":14,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

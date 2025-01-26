@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[59e3],{223436:e=>{e.exports=JSON.parse('{"moveId":762,"name":"Max Phantasm","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":7,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

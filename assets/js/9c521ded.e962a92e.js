@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[972606],{338573:e=>{e.exports=JSON.parse('{"moveId":549,"name":"Glaciate","desc":"The user attacks by blowing freezing cold air at opposing Pok\xe9mon. This lowers their Speed stats.","type":14,"damageType":2,"maxPP":16,"power":65,"accuracy":95}')}}]);

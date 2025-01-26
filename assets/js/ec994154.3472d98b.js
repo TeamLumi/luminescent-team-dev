@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[541525],{761368:e=>{e.exports=JSON.parse('{"moveId":4,"name":"Comet Punch","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":0,"damageType":1,"maxPP":24,"power":18,"accuracy":85}')}}]);

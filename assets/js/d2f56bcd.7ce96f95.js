@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[642219],{761962:e=>{e.exports=JSON.parse('{"moveId":290,"name":"Secret Power","desc":"The additional effects of this attack depend upon where it was used.","type":0,"damageType":1,"maxPP":32,"power":70,"accuracy":100}')}}]);

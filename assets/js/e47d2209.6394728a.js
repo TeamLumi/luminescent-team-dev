@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[966105],{640999:e=>{e.exports=JSON.parse('{"moveId":11,"name":"Vise Grip","desc":"The target is gripped and squeezed from both sides to inflict damage.","type":0,"damageType":1,"maxPP":48,"power":55,"accuracy":100}')}}]);

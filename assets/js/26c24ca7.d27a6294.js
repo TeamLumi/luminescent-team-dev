@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[231951],{994296:e=>{e.exports=JSON.parse('{"moveId":674,"name":"Gear Up","desc":"The user engages its gears to raise the Attack and Sp. Atk stats of ally Pok\xe9mon with the Plus or Minus Ability.","type":8,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

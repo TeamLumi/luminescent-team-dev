@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[669451],{716318:e=>{e.exports=JSON.parse('{"moveId":136,"name":"High Jump Kick","desc":"The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.","type":1,"damageType":1,"maxPP":16,"power":130,"accuracy":90}')}}]);

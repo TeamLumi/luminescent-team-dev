@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[137397],{702024:e=>{e.exports=JSON.parse('{"moveId":32,"name":"Horn Drill","desc":"The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.","type":0,"damageType":1,"maxPP":8,"power":1,"accuracy":30}')}}]);

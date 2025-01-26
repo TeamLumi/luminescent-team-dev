@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[385070],{974709:e=>{e.exports=JSON.parse('{"moveId":511,"name":"Quash","desc":"The user suppresses the target and makes its move go last.","type":16,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[477911],{205081:e=>{e.exports=JSON.parse('{"moveId":308,"name":"Hydro Cannon","desc":"The target is hit with a watery blast. The user can\u2019t move on the next turn.","type":10,"damageType":2,"maxPP":8,"power":150,"accuracy":90}')}}]);

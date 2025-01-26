@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[54175],{897010:e=>{e.exports=JSON.parse('{"moveId":333,"name":"Icicle Spear","desc":"The user launches sharp icicles at the target two to five times in a row.","type":14,"damageType":1,"maxPP":48,"power":25,"accuracy":100}')}}]);

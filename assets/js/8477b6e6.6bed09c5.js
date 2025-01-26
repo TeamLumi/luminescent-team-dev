@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[338051],{365292:e=>{e.exports=JSON.parse('{"moveId":849,"name":"Lunar Blessing","desc":"Heals user\u2019s status conditions and recovers HP.","type":13,"damageType":2,"maxPP":8,"power":0,"accuracy":0}')}}]);

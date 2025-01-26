@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[370866],{181318:e=>{e.exports=JSON.parse('{"moveId":561,"name":"Mat Block","desc":"Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves.","type":1,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

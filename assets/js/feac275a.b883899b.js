@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[585989],{883955:e=>{e.exports=JSON.parse('{"moveId":759,"name":"Max Lightning","desc":"This is an Electric-type attack Dynamax Pok\xe9mon use. The user turns the ground into Electric Terrain for five turns.","type":12,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

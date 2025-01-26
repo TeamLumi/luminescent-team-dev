@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[145087],{471515:e=>{e.exports=JSON.parse('{"moveId":774,"name":"Max Steelspike","desc":"This is a Steel-type attack Dynamax Pok\xe9mon use. This raises ally Pok\xe9mon\u2019s Defense stats.","type":8,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

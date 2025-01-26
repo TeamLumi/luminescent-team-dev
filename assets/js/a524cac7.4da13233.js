@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[830736],{545653:e=>{e.exports=JSON.parse('{"moveId":114,"name":"Haze","desc":"The user creates a haze that eliminates every stat change among all the Pok\xe9mon engaged in battle.","type":14,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

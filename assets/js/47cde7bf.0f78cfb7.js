@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[45208],{719083:e=>{e.exports=JSON.parse('{"moveId":786,"name":"Overdrive","desc":"The user attacks opposing Pok\xe9mon by twanging a guitar or bass guitar, causing a huge echo and strong vibration.","type":12,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

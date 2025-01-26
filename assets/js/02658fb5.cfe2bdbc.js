@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[12345],{969458:e=>{e.exports=JSON.parse('{"moveId":55,"name":"Water Gun","desc":"The target is blasted with a forceful shot of water.","type":10,"damageType":2,"maxPP":40,"power":40,"accuracy":100}')}}]);

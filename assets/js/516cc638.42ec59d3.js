@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[462312],{212386:e=>{e.exports=JSON.parse('{"moveId":205,"name":"Rollout","desc":"The user continually rolls into the target over five turns. It becomes more powerful each time it hits.","type":5,"damageType":1,"maxPP":32,"power":30,"accuracy":90}')}}]);

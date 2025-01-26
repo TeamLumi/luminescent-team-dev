@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[938],{239435:e=>{e.exports=JSON.parse('{"moveId":533,"name":"Sacred Sword","desc":"The user attacks by slicing with a long horn. The target\'s stat changes don\'t affect this attack\'s damage.","type":1,"damageType":1,"maxPP":24,"power":90,"accuracy":100}')}}]);

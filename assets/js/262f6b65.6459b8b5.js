@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[53711],{426589:e=>{e.exports=JSON.parse('{"moveId":868,"name":"Fillet Away","desc":"Lowers HP but sharply boosts Attack, Special Attack, and Speed.","type":0,"damageType":2,"maxPP":16,"power":0,"accuracy":0}')}}]);

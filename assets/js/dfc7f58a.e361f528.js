@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[687410],{613135:e=>{e.exports=JSON.parse('{"moveId":767,"name":"Max Starfall","desc":"This is a Fairy-type attack Dynamax Pok\xe9mon use. The user turns the ground into Misty Terrain for five turns.","type":17,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

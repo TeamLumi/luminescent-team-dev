@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[271700],{522326:e=>{e.exports=JSON.parse('{"moveId":744,"name":"Dynamax Cannon","desc":"The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed.","type":15,"damageType":2,"maxPP":8,"power":100,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[110112],{850596:e=>{e.exports=JSON.parse('{"moveId":214,"name":"Sleep Talk","desc":"While it is asleep, the user randomly uses one of the moves it knows.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

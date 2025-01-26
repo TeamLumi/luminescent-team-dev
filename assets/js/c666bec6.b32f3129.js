@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[537720],{88500:e=>{e.exports=JSON.parse('{"moveId":848,"name":"Sandsear Storm","desc":"May burn target.","type":4,"damageType":1,"maxPP":16,"power":100,"accuracy":80}')}}]);

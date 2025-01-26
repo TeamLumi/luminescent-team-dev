@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[144879],{422306:e=>{e.exports=JSON.parse('{"moveId":481,"name":"Flame Burst","desc":"The user attacks the target with a bursting flame. The bursting flame damages Pok\xe9mon next to the target as well.","type":9,"damageType":2,"maxPP":24,"power":70,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[129483],{727415:e=>{e.exports=JSON.parse('{"moveId":167,"name":"Triple Kick","desc":"A consecutive three-kick attack that becomes more powerful with each successful hit.","type":1,"damageType":1,"maxPP":16,"power":10,"accuracy":90}')}}]);

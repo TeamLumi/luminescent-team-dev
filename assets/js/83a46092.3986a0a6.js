@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[185735],{741899:e=>{e.exports=JSON.parse('{"moveId":156,"name":"Rest","desc":"The user goes to sleep for two turns. This fully restores the user\u2019s HP and heals any status conditions.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

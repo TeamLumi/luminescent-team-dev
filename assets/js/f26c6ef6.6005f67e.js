@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[205964],{538557:e=>{e.exports=JSON.parse('{"moveId":562,"name":"Belch","desc":"The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.","type":3,"damageType":2,"maxPP":16,"power":120,"accuracy":90}')}}]);

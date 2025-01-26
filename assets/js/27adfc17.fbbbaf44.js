@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[157300],{238478:e=>{e.exports=JSON.parse('{"moveId":799,"name":"Scale Shot","desc":"The user attacks by shooting scales two to five times in a row. This move boosts the user\'s Speed stat but lowers its Defense stat.","type":15,"damageType":1,"maxPP":32,"power":25,"accuracy":90}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[98317],{729695:e=>{e.exports=JSON.parse('{"moveId":350,"name":"Rock Blast","desc":"The user hurls hard rocks at the target. Two to five rocks are launched in a row.","type":5,"damageType":1,"maxPP":16,"power":25,"accuracy":100}')}}]);

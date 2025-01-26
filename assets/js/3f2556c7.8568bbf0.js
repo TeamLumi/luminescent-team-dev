@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[848540],{549076:e=>{e.exports=JSON.parse('{"moveId":139,"name":"Poison Gas","desc":"A cloud of poison gas is sprayed in the face of opposing Pok\xe9mon, poisoning those it hits.","type":3,"damageType":0,"maxPP":64,"power":0,"accuracy":90}')}}]);

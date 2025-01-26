@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[276972],{891139:e=>{e.exports=JSON.parse('{"moveId":172,"name":"Flame Wheel","desc":"The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.","type":9,"damageType":1,"maxPP":40,"power":60,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[85918],{658253:e=>{e.exports=JSON.parse('{"moveId":895,"name":"Aqua Cutter","desc":"High critical hit ratio.","type":10,"damageType":0,"maxPP":32,"power":70,"accuracy":100}')}}]);

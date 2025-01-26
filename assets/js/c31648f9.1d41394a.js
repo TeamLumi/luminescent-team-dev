@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[506359],{899591:e=>{e.exports=JSON.parse('{"moveId":273,"name":"Wish","desc":"One turn after this move is used, the user\u2019s or its replacement\u2019s HP is restored by half the user\u2019s max HP.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

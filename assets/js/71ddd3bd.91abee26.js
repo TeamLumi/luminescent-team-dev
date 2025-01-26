@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[636759],{448444:e=>{e.exports=JSON.parse('{"moveId":388,"name":"Worry Seed","desc":"A seed that causes worry is planted on the target. It prevents sleep by making the target\u2019s Ability Insomnia.","type":11,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

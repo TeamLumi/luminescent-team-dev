@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[791948],{501756:e=>{e.exports=JSON.parse('{"moveId":323,"name":"Water Spout","desc":"The user spouts water to damage opposing Pok\xe9mon. The lower the user\u2019s HP, the lower the move\u2019s power.","type":10,"damageType":2,"maxPP":8,"power":150,"accuracy":100}')}}]);

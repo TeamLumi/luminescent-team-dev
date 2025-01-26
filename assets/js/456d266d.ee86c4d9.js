@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[8599],{589147:e=>{e.exports=JSON.parse('{"moveId":497,"name":"Echoed Voice","desc":"The user attacks the target with an echoing voice. If this move is used every turn, its power is increased.","type":0,"damageType":2,"maxPP":24,"power":40,"accuracy":100}')}}]);

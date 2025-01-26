@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[507026],{174898:e=>{e.exports=JSON.parse('{"moveId":63,"name":"Hyper Beam","desc":"The target is attacked with a powerful beam. The user can\u2019t move on the next turn.","type":0,"damageType":2,"maxPP":8,"power":150,"accuracy":90}')}}]);

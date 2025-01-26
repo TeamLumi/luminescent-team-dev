@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[758878],{55797:e=>{e.exports=JSON.parse('{"moveId":594,"name":"Water Shuriken","desc":"The user hits the target with throwing stars two to five times in a row. This move always goes first.","type":10,"damageType":2,"maxPP":32,"power":15,"accuracy":100}')}}]);

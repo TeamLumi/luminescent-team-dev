@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[599973],{275153:e=>{e.exports=JSON.parse('{"moveId":225,"name":"Dragon Breath","desc":"The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.","type":15,"damageType":2,"maxPP":32,"power":60,"accuracy":100}')}}]);

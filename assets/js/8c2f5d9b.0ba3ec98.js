@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[10001],{337451:e=>{e.exports=JSON.parse('{"moveId":375,"name":"Psycho Shift","desc":"Using its psychic power of suggestion, the user transfers its status conditions to the target.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

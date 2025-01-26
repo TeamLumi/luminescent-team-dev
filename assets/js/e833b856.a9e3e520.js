@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[788677],{430838:e=>{e.exports=JSON.parse('{"moveId":227,"name":"Encore","desc":"The user compels the target to keep using the move it encored for three turns.","type":0,"damageType":0,"maxPP":8,"power":0,"accuracy":100}')}}]);

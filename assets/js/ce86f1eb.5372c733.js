@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[465449],{170778:e=>{e.exports=JSON.parse('{"moveId":364,"name":"Feint","desc":"This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.","type":0,"damageType":1,"maxPP":16,"power":30,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[824013],{508493:e=>{e.exports=JSON.parse('{"moveId":177,"name":"Aeroblast","desc":"A vortex of air is shot at the target to inflict damage. Critical hits land more easily.","type":2,"damageType":2,"maxPP":8,"power":100,"accuracy":95}')}}]);

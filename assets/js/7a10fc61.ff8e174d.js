@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[138811],{716995:e=>{e.exports=JSON.parse('{"moveId":131,"name":"Spike Cannon","desc":"Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.","type":0,"damageType":1,"maxPP":24,"power":20,"accuracy":100}')}}]);

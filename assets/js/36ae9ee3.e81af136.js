@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[507551],{336071:e=>{e.exports=JSON.parse('{"moveId":276,"name":"Superpower","desc":"The user attacks the target with great power. However, this also lowers the user\u2019s Attack and Defense stats.","type":1,"damageType":1,"maxPP":8,"power":120,"accuracy":100}')}}]);

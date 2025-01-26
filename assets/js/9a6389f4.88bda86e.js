@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[956724],{75705:e=>{e.exports=JSON.parse('{"moveId":416,"name":"Giga Impact","desc":"The user charges at the target using every bit of its power. The user can\u2019t move on the next turn.","type":0,"damageType":1,"maxPP":8,"power":150,"accuracy":90}')}}]);

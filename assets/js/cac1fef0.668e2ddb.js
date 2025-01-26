@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[371183],{375019:e=>{e.exports=JSON.parse('{"moveId":75,"name":"Razor Leaf","desc":"Sharp-edged leaves are launched to slash at opposing Pok\xe9mon. Critical hits land more easily.","type":11,"damageType":1,"maxPP":40,"power":55,"accuracy":95}')}}]);

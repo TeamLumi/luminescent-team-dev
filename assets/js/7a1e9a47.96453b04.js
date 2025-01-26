@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[404577],{44492:e=>{e.exports=JSON.parse('{"moveId":519,"name":"Fire Pledge","desc":"A column of fire hits the target. When used with its grass equivalent, its power increases and a vast sea of fire appears.","type":9,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

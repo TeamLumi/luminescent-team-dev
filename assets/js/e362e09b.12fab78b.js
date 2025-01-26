@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[93841],{466743:e=>{e.exports=JSON.parse('{"moveId":509,"name":"Circle Throw","desc":"The target is thrown, and a different Pok\xe9mon is dragged out. In the wild, this ends a battle against a single Pok\xe9mon.","type":1,"damageType":1,"maxPP":16,"power":60,"accuracy":90}')}}]);

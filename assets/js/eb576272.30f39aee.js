@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[507849],{2604:e=>{e.exports=JSON.parse('{"moveId":320,"name":"Grass Whistle","desc":"The user plays a pleasant melody that lulls the target into a deep sleep.","type":11,"damageType":0,"maxPP":24,"power":0,"accuracy":55}')}}]);

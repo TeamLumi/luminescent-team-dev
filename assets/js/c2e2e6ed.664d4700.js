@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[656938],{193823:e=>{e.exports=JSON.parse('{"moveId":915,"name":"Temper Flare","desc":"Spurred by desperation, the user attacks the target. This move\u2019s power is doubled if the user\u2019s previous move failed.","type":9,"damageType":1,"maxPP":16,"power":75,"accuracy":100}')}}]);

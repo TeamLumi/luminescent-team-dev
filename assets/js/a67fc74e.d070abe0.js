@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[366144],{169919:e=>{e.exports=JSON.parse('{"moveId":175,"name":"Flail","desc":"The user flails about aimlessly to attack. The less HP the user has, the greater the move\u2019s power.","type":0,"damageType":1,"maxPP":24,"power":1,"accuracy":100}')}}]);

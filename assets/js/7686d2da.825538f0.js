@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[615398],{433551:e=>{e.exports=JSON.parse('{"moveId":461,"name":"Lunar Dance","desc":"The user faints. In return, the Pok\xe9mon taking its place will have its status and HP fully restored.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

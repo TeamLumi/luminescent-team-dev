@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[79235],{790721:e=>{e.exports=JSON.parse('{"moveId":87,"name":"Thunder","desc":"A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.","type":12,"damageType":2,"maxPP":16,"power":110,"accuracy":70}')}}]);

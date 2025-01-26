@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[396071],{257991:e=>{e.exports=JSON.parse('{"moveId":538,"name":"Cotton Guard","desc":"The user protects itself by wrapping its body in soft cotton, which drastically raises the user\u2019s Defense stat.","type":11,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

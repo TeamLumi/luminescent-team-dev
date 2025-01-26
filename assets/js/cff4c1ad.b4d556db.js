@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[490298],{835710:e=>{e.exports=JSON.parse('{"moveId":603,"name":"Happy Hour","desc":"Using Happy Hour doubles the amount of prize money received after battle.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

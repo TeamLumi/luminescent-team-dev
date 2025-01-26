@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[898286],{592687:e=>{e.exports=JSON.parse('{"moveId":196,"name":"Icy Wind","desc":"The user attacks with a gust of chilled air. This also lowers opposing Pok\xe9mon\u2019s Speed stats.","type":14,"damageType":2,"maxPP":24,"power":55,"accuracy":95}')}}]);

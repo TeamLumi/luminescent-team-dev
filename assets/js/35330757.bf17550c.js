@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[880493],{164615:e=>{e.exports=JSON.parse('{"moveId":280,"name":"Brick Break","desc":"The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.","type":1,"damageType":1,"maxPP":24,"power":75,"accuracy":100}')}}]);

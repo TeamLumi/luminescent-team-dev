@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[727641],{678973:e=>{e.exports=JSON.parse('{"moveId":462,"name":"Crush Grip","desc":"The target is crushed with great force. The more HP the target has left, the greater this move\u2019s power.","type":0,"damageType":1,"maxPP":8,"power":1,"accuracy":100}')}}]);

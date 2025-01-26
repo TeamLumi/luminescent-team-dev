@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[528558],{947781:e=>{e.exports=JSON.parse('{"moveId":408,"name":"Power Gem","desc":"The user attacks with a ray of light that sparkles as if it were made of gemstones.","type":5,"damageType":2,"maxPP":32,"power":80,"accuracy":100}')}}]);

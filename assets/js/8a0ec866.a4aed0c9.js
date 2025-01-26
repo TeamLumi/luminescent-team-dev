@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[945130],{822228:e=>{e.exports=JSON.parse('{"moveId":468,"name":"Hone Claws","desc":"The user sharpens its claws to boost its Attack stat and accuracy.","type":16,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[234529],{359191:e=>{e.exports=JSON.parse('{"moveId":582,"name":"Electrify","desc":"If the target is electrified before it uses a move during that turn, the target\u2019s move becomes Electric type.","type":12,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

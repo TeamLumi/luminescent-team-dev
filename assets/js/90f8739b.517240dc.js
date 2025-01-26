@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[410989],{861774:e=>{e.exports=JSON.parse('{"moveId":419,"name":"Avalanche","desc":"The power of this attack move is doubled if the user has been hurt by the target in the same turn.","type":14,"damageType":1,"maxPP":16,"power":60,"accuracy":100}')}}]);

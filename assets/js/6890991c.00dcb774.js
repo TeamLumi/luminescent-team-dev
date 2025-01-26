@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[667624],{722651:e=>{e.exports=JSON.parse('{"moveId":840,"name":"Esper Wing","desc":"High critical hit ratio  Raises user\u2019s Speed.","type":13,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

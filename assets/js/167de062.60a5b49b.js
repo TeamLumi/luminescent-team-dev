@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[374508],{332050:e=>{e.exports=JSON.parse('{"moveId":369,"name":"U-turn","desc":"After making its attack, the user rushes back to switch places with a party Pok\xe9mon in waiting.","type":6,"damageType":1,"maxPP":32,"power":70,"accuracy":100}')}}]);

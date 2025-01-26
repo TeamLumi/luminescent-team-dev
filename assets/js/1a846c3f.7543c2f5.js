@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[722729],{791271:e=>{e.exports=JSON.parse('{"moveId":876,"name":"Hydro Steam","desc":"Power increases in harsh sunlight.","type":10,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

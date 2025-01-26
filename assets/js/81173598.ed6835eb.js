@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[42077],{208721:e=>{e.exports=JSON.parse('{"moveId":71,"name":"Absorb","desc":"A nutrient-draining attack. The user\u2019s HP is restored by half the damage taken by the target.","type":11,"damageType":2,"maxPP":40,"power":20,"accuracy":100}')}}]);

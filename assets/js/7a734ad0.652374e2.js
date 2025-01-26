@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[192548],{227099:e=>{e.exports=JSON.parse('{"moveId":498,"name":"Chip Away","desc":"Looking for an opening, the user strikes consistently. The target\u2019s stat changes don\u2019t affect this attack\u2019s damage.","type":0,"damageType":1,"maxPP":32,"power":70,"accuracy":100}')}}]);

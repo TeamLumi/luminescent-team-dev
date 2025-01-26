@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[895836],{149714:e=>{e.exports=JSON.parse('{"moveId":9,"name":"Thunder Punch","desc":"The target is punched with an electrified fist. This may also leave the target with paralysis.","type":12,"damageType":1,"maxPP":24,"power":75,"accuracy":100}')}}]);

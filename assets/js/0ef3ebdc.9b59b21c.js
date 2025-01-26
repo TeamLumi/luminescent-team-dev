@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[652962],{49534:e=>{e.exports=JSON.parse('{"moveId":894,"name":"Comeuppance","desc":"Deals more damage to the opponent that last inflicted damage on it.","type":16,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

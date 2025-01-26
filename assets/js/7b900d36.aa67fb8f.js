@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[689625],{626269:e=>{e.exports=JSON.parse('{"moveId":735,"name":"Sizzly Slide","desc":"The user cloaks itself in fire and charges at the target. This also leaves the target with a burn.","type":9,"damageType":1,"maxPP":32,"power":60,"accuracy":100}')}}]);

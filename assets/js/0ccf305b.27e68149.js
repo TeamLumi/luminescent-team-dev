@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[74817],{853968:e=>{e.exports=JSON.parse('{"moveId":832,"name":"Mystical Power","desc":"Raises user\u2019s Attack or Defense.","type":13,"damageType":1,"maxPP":16,"power":70,"accuracy":90}')}}]);

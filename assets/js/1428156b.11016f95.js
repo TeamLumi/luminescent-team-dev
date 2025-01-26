@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[327358],{542027:e=>{e.exports=JSON.parse('{"moveId":235,"name":"Synthesis","desc":"The user restores its own HP. The amount of HP regained varies with the weather.","type":11,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

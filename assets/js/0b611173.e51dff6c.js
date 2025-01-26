@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[53752],{368440:e=>{e.exports=JSON.parse('{"moveId":106,"name":"Harden","desc":"The user stiffens all the muscles in its body to raise its Defense stat.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

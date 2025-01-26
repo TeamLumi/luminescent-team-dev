@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[89360],{471418:e=>{e.exports=JSON.parse('{"moveId":749,"name":"Tar Shot","desc":"The user pours sticky tar over the target, lowering the target\u2019s Speed stat. The target becomes weaker to Fire-type moves.","type":5,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

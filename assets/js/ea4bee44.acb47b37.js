@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[551537],{863123:e=>{e.exports=JSON.parse('{"moveId":404,"name":"X-Scissor","desc":"The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.","type":6,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

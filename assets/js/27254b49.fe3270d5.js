@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[993656],{536288:e=>{e.exports=JSON.parse('{"moveId":334,"name":"Iron Defense","desc":"The user hardens its body\u2019s surface like iron, sharply raising its Defense stat.","type":8,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[847684],{758257:e=>{e.exports=JSON.parse('{"moveId":550,"name":"Bolt Strike","desc":"The user surrounds itself with a great amount of electricity and charges its target. This may also leave the target with paralysis.","type":12,"damageType":1,"maxPP":8,"power":130,"accuracy":85}')}}]);

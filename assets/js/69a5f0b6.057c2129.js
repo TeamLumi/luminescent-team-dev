@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[581903],{87658:e=>{e.exports=JSON.parse('{"moveId":490,"name":"Low Sweep","desc":"The user makes a swift attack on the target\u2019s legs, which lowers the target\u2019s Speed stat.","type":1,"damageType":1,"maxPP":32,"power":65,"accuracy":100}')}}]);

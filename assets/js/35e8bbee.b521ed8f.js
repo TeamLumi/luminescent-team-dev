@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[127926],{378904:e=>{e.exports=JSON.parse('{"moveId":162,"name":"Super Fang","desc":"The user chomps hard on the target with its sharp front fangs. This cuts the target\u2019s HP in half.","type":0,"damageType":1,"maxPP":16,"power":1,"accuracy":90}')}}]);

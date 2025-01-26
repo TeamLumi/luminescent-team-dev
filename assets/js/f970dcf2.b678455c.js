@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[519694],{475222:e=>{e.exports=JSON.parse('{"moveId":21,"name":"Slam","desc":"The target is slammed with a long tail, vines, or the like to inflict damage.","type":0,"damageType":1,"maxPP":32,"power":80,"accuracy":75}')}}]);

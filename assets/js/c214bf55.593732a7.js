@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[145519],{52188:e=>{e.exports=JSON.parse('{"moveId":858,"name":"Spicy Extract","desc":"Harshly lowers the opponent\u2019s Defense and sharply raises their Attack.","type":11,"damageType":2,"maxPP":24,"power":0,"accuracy":0}')}}]);

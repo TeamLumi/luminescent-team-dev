@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[776530],{394056:e=>{e.exports=JSON.parse('{"moveId":583,"name":"Play Rough","desc":"The user plays rough with the target and attacks it. This may also lower the target\u2019s Attack stat.","type":17,"damageType":1,"maxPP":16,"power":90,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[749586],{993496:e=>{e.exports=JSON.parse('{"moveId":766,"name":"Max Airstream","desc":"This is a Flying-type attack Dynamax Pok\xe9mon use. This raises ally Pok\xe9mon\'s Speed stats.","type":2,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

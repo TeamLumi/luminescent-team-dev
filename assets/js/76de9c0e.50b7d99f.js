@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[261106],{500146:e=>{e.exports=JSON.parse('{"moveId":672,"name":"Toxic Thread","desc":"The user shoots poisonous threads to poison the target and lower the target\u2019s Speed stat.","type":3,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

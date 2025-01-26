@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[858718],{300890:e=>{e.exports=JSON.parse('{"moveId":93,"name":"Confusion","desc":"The target is hit by a weak telekinetic force. This may also confuse the target.","type":13,"damageType":2,"maxPP":40,"power":50,"accuracy":100}')}}]);

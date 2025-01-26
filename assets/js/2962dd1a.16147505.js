@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[753812],{648440:e=>{e.exports=JSON.parse('{"moveId":36,"name":"Take Down","desc":"A reckless, full-body charge attack for slamming into the target. This also damages the user a little.","type":0,"damageType":1,"maxPP":32,"power":90,"accuracy":85}')}}]);

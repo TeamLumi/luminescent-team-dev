@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[903993],{128101:e=>{e.exports=JSON.parse('{"moveId":752,"name":"Teatime","desc":"The user has teatime with all the Pok\xe9mon in the battle. Each Pok\xe9mon eats its held Berry.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

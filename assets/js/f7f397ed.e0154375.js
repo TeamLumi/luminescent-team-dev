@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[837200],{2077:e=>{e.exports=JSON.parse('{"moveId":311,"name":"Weather Ball","desc":"This attack move varies in power and type depending on the weather.","type":0,"damageType":2,"maxPP":16,"power":50,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[793324],{601918:e=>{e.exports=JSON.parse('{"moveId":372,"name":"Assurance","desc":"If the target has already taken some damage in the same turn, this attack\u2019s power is doubled.","type":16,"damageType":1,"maxPP":16,"power":60,"accuracy":100}')}}]);

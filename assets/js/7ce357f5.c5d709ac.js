@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[293905],{532228:e=>{e.exports=JSON.parse('{"moveId":606,"name":"Celebrate","desc":"The Pok\xe9mon congratulates you on your special day!","type":0,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

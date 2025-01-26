@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[394607],{378861:e=>{e.exports=JSON.parse('{"moveId":708,"name":"Shadow Bone","desc":"The user attacks by beating the target with a bone that contains a spirit. This may also lower the target\'s Defense stat.","type":7,"damageType":1,"maxPP":16,"power":85,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[800755],{635397:e=>{e.exports=JSON.parse('{"moveId":110,"name":"Withdraw","desc":"The user withdraws its body into its hard shell, raising its Defense stat.","type":10,"damageType":0,"maxPP":64,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[526072],{635596:e=>{e.exports=JSON.parse('{"moveId":340,"name":"Bounce","desc":"The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.","type":2,"damageType":1,"maxPP":8,"power":85,"accuracy":85}')}}]);

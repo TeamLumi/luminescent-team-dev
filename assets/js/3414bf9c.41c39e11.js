@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[101443],{167714:e=>{e.exports=JSON.parse('{"moveId":133,"name":"Amnesia","desc":"The user temporarily empties its mind to forget its concerns. This sharply raises the user\u2019s Sp. Def stat.","type":13,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

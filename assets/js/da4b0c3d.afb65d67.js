@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[982695],{993007:e=>{e.exports=JSON.parse('{"moveId":610,"name":"Hold Back","desc":"The user holds back when it attacks, and the target is left with at least 1 HP.","type":0,"damageType":1,"maxPP":64,"power":40,"accuracy":100}')}}]);

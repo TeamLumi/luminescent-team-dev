@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[872996],{849370:e=>{e.exports=JSON.parse('{"moveId":365,"name":"Pluck","desc":"The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.","type":2,"damageType":1,"maxPP":32,"power":60,"accuracy":100}')}}]);

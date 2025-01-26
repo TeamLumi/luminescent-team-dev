@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[139366],{792035:e=>{e.exports=JSON.parse('{"moveId":76,"name":"Solar Beam","desc":"In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.","type":11,"damageType":2,"maxPP":16,"power":120,"accuracy":100}')}}]);

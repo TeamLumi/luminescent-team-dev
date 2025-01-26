@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[843030],{396954:e=>{e.exports=JSON.parse('{"moveId":412,"name":"Energy Ball","desc":"The user draws power from nature and fires it at the target. This may also lower the target\u2019s Sp. Def stat.","type":11,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

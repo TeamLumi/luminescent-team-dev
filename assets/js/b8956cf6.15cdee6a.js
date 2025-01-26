@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[361526],{770032:e=>{e.exports=JSON.parse('{"moveId":155,"name":"Bonemerang","desc":"The user throws the bone it holds. The bone loops around to hit the target twice\u2014coming and going.","type":4,"damageType":1,"maxPP":16,"power":50,"accuracy":90}')}}]);

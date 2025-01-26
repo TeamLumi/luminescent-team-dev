@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[261965],{944296:e=>{e.exports=JSON.parse('{"moveId":362,"name":"Brine","desc":"If the target\u2019s HP is half or less, this attack will hit with double the power.","type":10,"damageType":2,"maxPP":16,"power":65,"accuracy":100}')}}]);

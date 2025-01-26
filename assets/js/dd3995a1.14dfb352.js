@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[165978],{819821:e=>{e.exports=JSON.parse('{"moveId":94,"name":"Psychic","desc":"The target is hit by a strong telekinetic force. This may also lower the target\u2019s Sp. Def stat.","type":13,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

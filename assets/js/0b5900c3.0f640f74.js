@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[876564],{502867:e=>{e.exports=JSON.parse('{"moveId":159,"name":"Sharpen","desc":"The user makes its edges more jagged, which raises its Attack stat.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

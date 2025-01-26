@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[563745],{167276:e=>{e.exports=JSON.parse('{"moveId":706,"name":"Psychic Fangs","desc":"The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.","type":13,"damageType":1,"maxPP":16,"power":85,"accuracy":100}')}}]);

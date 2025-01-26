@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[961540],{245512:e=>{e.exports=JSON.parse('{"moveId":269,"name":"Taunt","desc":"The target is taunted into a rage that allows it to use only attack moves for three turns.","type":16,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[507988],{200547:e=>{e.exports=JSON.parse('{"moveId":524,"name":"Frost Breath","desc":"The user blows its cold breath on the target. This attack always results in a critical hit.","type":14,"damageType":2,"maxPP":16,"power":60,"accuracy":90}')}}]);

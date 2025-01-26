@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[55616],{163623:e=>{e.exports=JSON.parse('{"moveId":545,"name":"Searing Shot","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":9,"damageType":2,"maxPP":8,"power":100,"accuracy":100}')}}]);

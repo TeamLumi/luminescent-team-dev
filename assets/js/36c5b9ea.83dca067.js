@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[200016],{438961:e=>{e.exports=JSON.parse('{"moveId":756,"name":"Court Change","desc":"With its mysterious power, the user swaps the effects on either side of the field.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

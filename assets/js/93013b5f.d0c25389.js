@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[299818],{945293:e=>{e.exports=JSON.parse('{"moveId":445,"name":"Captivate","desc":"If any opposing Pok\xe9mon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

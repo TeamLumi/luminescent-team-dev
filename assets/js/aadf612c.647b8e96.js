@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[108357],{314208:e=>{e.exports=JSON.parse('{"moveId":565,"name":"Fell Stinger","desc":"When the user knocks out a target with this move, the user\u2019s Attack stat rises drastically.","type":6,"damageType":1,"maxPP":40,"power":50,"accuracy":100}')}}]);

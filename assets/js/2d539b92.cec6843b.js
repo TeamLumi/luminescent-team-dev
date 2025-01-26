@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[465555],{37517:e=>{e.exports=JSON.parse('{"moveId":681,"name":"Power Trip","desc":"The user boasts its strength and attacks the target. The more the user\u2019s stats are raised, the greater the move\u2019s power.","type":16,"damageType":1,"maxPP":16,"power":20,"accuracy":100}')}}]);

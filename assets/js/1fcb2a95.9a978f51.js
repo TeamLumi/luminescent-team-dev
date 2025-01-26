@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[66513],{277918:e=>{e.exports=JSON.parse('{"moveId":44,"name":"Bite","desc":"The target is bitten with viciously sharp fangs. This may also make the target flinch.","type":16,"damageType":1,"maxPP":40,"power":60,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[939803],{368197:e=>{e.exports=JSON.parse('{"moveId":493,"name":"Simple Beam","desc":"The user\u2019s mysterious psychic wave changes the target\u2019s Ability to Simple.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

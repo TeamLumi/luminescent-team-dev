@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[490299],{645809:e=>{e.exports=JSON.parse('{"moveId":148,"name":"Flash","desc":"The user flashes a light that lowers the target\u2019s accuracy. It can also be used to illuminate caves.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

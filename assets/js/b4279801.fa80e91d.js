@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[869937],{449359:e=>{e.exports=JSON.parse('{"moveId":27,"name":"Rolling Kick","desc":"The user lashes out with a quick, spinning kick. This may also make the target flinch.","type":1,"damageType":1,"maxPP":24,"power":60,"accuracy":85}')}}]);

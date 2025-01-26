@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[50215],{20996:e=>{e.exports=JSON.parse('{"moveId":693,"name":"Brutal Swing","desc":"The user swings its body around violently to inflict damage on everything in its vicinity.","type":16,"damageType":1,"maxPP":32,"power":60,"accuracy":100}')}}]);

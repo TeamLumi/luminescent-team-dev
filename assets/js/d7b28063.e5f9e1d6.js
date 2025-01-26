@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[452501],{213771:e=>{e.exports=JSON.parse('{"moveId":69,"name":"Seismic Toss","desc":"The target is thrown using the power of gravity. It inflicts damage equal to the user\u2019s level.","type":1,"damageType":1,"maxPP":32,"power":1,"accuracy":100}')}}]);

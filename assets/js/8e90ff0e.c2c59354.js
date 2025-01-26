@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[456954],{376772:e=>{e.exports=JSON.parse('{"moveId":267,"name":"Nature Power","desc":"This attack makes use of nature\u2019s power. Its effects vary depending on the user\u2019s environment.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[570371],{827499:e=>{e.exports=JSON.parse('{"moveId":543,"name":"Head Charge","desc":"The user charges its head into its target, using its powerful guard hair. This also damages the user a little.","type":0,"damageType":1,"maxPP":24,"power":120,"accuracy":100}')}}]);

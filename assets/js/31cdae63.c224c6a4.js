@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[224248],{444496:e=>{e.exports=JSON.parse('{"moveId":24,"name":"Double Kick","desc":"The target is quickly kicked twice in succession using both feet.","type":1,"damageType":1,"maxPP":48,"power":30,"accuracy":100}')}}]);

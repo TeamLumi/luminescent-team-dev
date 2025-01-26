@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[168266],{347378:e=>{e.exports=JSON.parse('{"moveId":451,"name":"Charge Beam","desc":"The user attacks the target with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.","type":12,"damageType":2,"maxPP":16,"power":50,"accuracy":100}')}}]);

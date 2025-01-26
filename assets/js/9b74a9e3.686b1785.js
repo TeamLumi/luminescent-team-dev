@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[921902],{994299:e=>{e.exports=JSON.parse('{"moveId":367,"name":"Acupressure","desc":"The user applies pressure to stress points, sharply boosting one of its or its allies\u2019 stats.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":101}')}}]);

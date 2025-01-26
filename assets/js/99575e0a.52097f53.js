@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[226136],{903188:e=>{e.exports=JSON.parse('{"moveId":589,"name":"Play Nice","desc":"The user and the target become friends, and the target loses its will to fight. This lowers the target\u2019s Attack stat.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

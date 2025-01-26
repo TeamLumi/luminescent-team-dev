@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[742907],{111111:e=>{e.exports=JSON.parse('{"moveId":245,"name":"Extreme Speed","desc":"The user charges the target at blinding speed. This move always goes first.","type":0,"damageType":1,"maxPP":8,"power":80,"accuracy":100}')}}]);

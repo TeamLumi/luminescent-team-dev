@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[503926],{878948:e=>{e.exports=JSON.parse('{"moveId":718,"name":"Multi-Attack","desc":"Cloaking itself in high energy, the user slams into the target. The memory held determines the move\'s type.","type":0,"damageType":1,"maxPP":16,"power":120,"accuracy":100}')}}]);

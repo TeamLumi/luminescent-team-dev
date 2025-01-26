@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[51401],{774096:e=>{e.exports=JSON.parse('{"moveId":121,"name":"Egg Bomb","desc":"A large egg is hurled at the target with maximum force to inflict damage.","type":0,"damageType":1,"maxPP":16,"power":100,"accuracy":75}')}}]);

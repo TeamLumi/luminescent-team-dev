@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[139531],{346105:e=>{e.exports=JSON.parse('{"moveId":429,"name":"Mirror Shot","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":8,"damageType":2,"maxPP":16,"power":65,"accuracy":85}')}}]);

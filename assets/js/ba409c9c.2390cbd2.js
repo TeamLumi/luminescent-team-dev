@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[480227],{108628:e=>{e.exports=JSON.parse('{"moveId":99,"name":"Rage","desc":"As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle.","type":0,"damageType":1,"maxPP":32,"power":20,"accuracy":100}')}}]);

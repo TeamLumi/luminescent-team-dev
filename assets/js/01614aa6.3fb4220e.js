@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[143068],{657070:e=>{e.exports=JSON.parse('{"moveId":287,"name":"Refresh","desc":"The user rests to cure itself of poisoning, a burn, or paralysis.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

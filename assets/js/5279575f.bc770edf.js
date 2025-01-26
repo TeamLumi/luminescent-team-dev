@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[239212],{382315:e=>{e.exports=JSON.parse('{"moveId":183,"name":"Mach Punch","desc":"The user throws a punch at blinding speed. This move always goes first.","type":1,"damageType":1,"maxPP":48,"power":40,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[145787],{659263:e=>{e.exports=JSON.parse('{"moveId":28,"name":"Sand Attack","desc":"Sand is hurled in the target\u2019s face, reducing the target\u2019s accuracy.","type":4,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

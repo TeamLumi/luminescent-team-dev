@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[836562],{972310:e=>{e.exports=JSON.parse('{"moveId":247,"name":"Shadow Ball","desc":"The user hurls a shadowy blob at the target. This may also lower the target\u2019s Sp. Def stat.","type":7,"damageType":2,"maxPP":24,"power":80,"accuracy":100}')}}]);

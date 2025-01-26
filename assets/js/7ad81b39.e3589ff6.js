@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[416394],{772494:e=>{e.exports=JSON.parse('{"moveId":361,"name":"Healing Wish","desc":"The user faints. In return, the Pok\xe9mon taking its place will have its HP restored and status conditions cured.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

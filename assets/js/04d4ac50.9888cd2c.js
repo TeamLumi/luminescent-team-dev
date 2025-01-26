@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[424894],{688548:e=>{e.exports=JSON.parse('{"moveId":819,"name":"Thunder Cage","desc":"The user traps the target in a cage of sparking electricity for four to five turns.","type":12,"damageType":2,"maxPP":24,"power":80,"accuracy":90}')}}]);

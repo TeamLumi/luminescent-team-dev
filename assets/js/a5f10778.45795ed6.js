@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[483734],{986637:e=>{e.exports=JSON.parse('{"moveId":670,"name":"Leafage","desc":"The user attacks by pelting the target with leaves.","type":11,"damageType":1,"maxPP":64,"power":40,"accuracy":100}')}}]);

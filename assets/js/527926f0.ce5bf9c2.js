@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[876117],{910498:e=>{e.exports=JSON.parse('{"moveId":716,"name":"Zing Zap","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":12,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[180371],{333923:e=>{e.exports=JSON.parse('{"moveId":754,"name":"Bolt Beak","desc":"The user stabs the target with its electrified beak. If the user attacks before the target, the power of this move is doubled.","type":12,"damageType":1,"maxPP":16,"power":85,"accuracy":100}')}}]);

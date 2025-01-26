@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[202595],{71272:e=>{e.exports=JSON.parse('{"moveId":178,"name":"Cotton Spore","desc":"The user releases cotton-like spores that cling to opposing Pok\xe9mon, which harshly lowers their Speed stats.","type":11,"damageType":0,"maxPP":64,"power":0,"accuracy":100}')}}]);

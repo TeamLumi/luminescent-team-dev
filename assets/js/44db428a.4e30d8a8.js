@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[980130],{310396:e=>{e.exports=JSON.parse('{"moveId":101,"name":"Night Shade","desc":"The user makes the target see a frightening mirage. It inflicts damage equal to the user\u2019s level.","type":7,"damageType":2,"maxPP":24,"power":1,"accuracy":100}')}}]);

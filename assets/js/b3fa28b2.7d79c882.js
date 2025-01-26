@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[328605],{693549:e=>{e.exports=JSON.parse('{"moveId":393,"name":"Magnet Rise","desc":"The user levitates using electrically generated magnetism for five turns.","type":12,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

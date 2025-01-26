@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[302256],{420216:e=>{e.exports=JSON.parse('{"moveId":557,"name":"V-create","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":9,"damageType":1,"maxPP":8,"power":180,"accuracy":95}')}}]);

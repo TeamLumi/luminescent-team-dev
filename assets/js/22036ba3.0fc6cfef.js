@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[323315],{251728:e=>{e.exports=JSON.parse('{"moveId":873,"name":"Raging Bull","desc":"Type depends on the user\u2019s form  Breaks through Reflect and Light Screen barriers.","type":0,"damageType":0,"maxPP":16,"power":90,"accuracy":100}')}}]);

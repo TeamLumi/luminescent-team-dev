@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[820587],{334044:e=>{e.exports=JSON.parse('{"moveId":255,"name":"Spit Up","desc":"The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move\u2019s power.","type":0,"damageType":2,"maxPP":16,"power":1,"accuracy":100}')}}]);

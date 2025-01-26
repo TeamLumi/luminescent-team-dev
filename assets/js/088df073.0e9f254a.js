@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[499372],{476328:e=>{e.exports=JSON.parse('{"moveId":417,"name":"Nasty Plot","desc":"The user stimulates its brain by thinking bad thoughts. This sharply raises the user\u2019s Sp. Atk stat.","type":16,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

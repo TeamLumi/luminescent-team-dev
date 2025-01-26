@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[616636],{801335:e=>{e.exports=JSON.parse('{"moveId":770,"name":"Max Rockfall","desc":"This is a Rock-type attack Dynamax Pok\xe9mon use. The user summons a sandstorm lasting five turns.","type":5,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[216216],{129887:e=>{e.exports=JSON.parse('{"moveId":257,"name":"Heat Wave","desc":"The user attacks by exhaling hot breath on opposing Pok\xe9mon. This may also leave those Pok\xe9mon with a burn.","type":9,"damageType":2,"maxPP":16,"power":95,"accuracy":90}')}}]);

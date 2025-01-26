@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[400928],{504453:e=>{e.exports=JSON.parse('{"moveId":307,"name":"Blast Burn","desc":"The target is razed by a fiery explosion. The user can\u2019t move on the next turn.","type":9,"damageType":2,"maxPP":8,"power":150,"accuracy":90}')}}]);

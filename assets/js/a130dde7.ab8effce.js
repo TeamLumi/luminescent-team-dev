@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[718830],{190610:e=>{e.exports=JSON.parse('{"moveId":201,"name":"Sandstorm","desc":"A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.","type":5,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

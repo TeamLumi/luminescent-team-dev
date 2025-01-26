@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[983684],{44526:e=>{e.exports=JSON.parse('{"moveId":315,"name":"Overheat","desc":"The user attacks the target at full power. The attack\u2019s recoil harshly lowers the user\u2019s Sp. Atk stat.","type":9,"damageType":2,"maxPP":8,"power":130,"accuracy":90}')}}]);

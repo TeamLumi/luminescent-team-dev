@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[370869],{689236:e=>{e.exports=JSON.parse('{"moveId":762,"name":"Max Phantasm","desc":"This is a Ghost-type attack Dynamax Pok\xe9mon use. This lowers the target\'s Defense stat.","type":7,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[866585],{838994:e=>{e.exports=JSON.parse('{"moveId":161,"name":"Tri Attack","desc":"The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.","type":0,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

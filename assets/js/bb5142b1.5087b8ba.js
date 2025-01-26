@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[955859],{820741:e=>{e.exports=JSON.parse('{"moveId":380,"name":"Gastro Acid","desc":"The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target\u2019s Ability.","type":3,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

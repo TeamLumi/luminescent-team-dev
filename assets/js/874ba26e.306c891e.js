@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[307875],{110133:e=>{e.exports=JSON.parse('{"moveId":747,"name":"Stuff Cheeks","desc":"The user eats its held Berry, then sharply raises its Defense stat.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

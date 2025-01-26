@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[110792],{813697:e=>{e.exports=JSON.parse('{"moveId":128,"name":"Clamp","desc":"The target is clamped and squeezed by the user\'s very thick and sturdy shell for four to five turns.","type":10,"damageType":1,"maxPP":24,"power":35,"accuracy":85}')}}]);

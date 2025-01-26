@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[812318],{227863:e=>{e.exports=JSON.parse('{"moveId":732,"name":"Pika Papow","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":12,"damageType":2,"maxPP":32,"power":1,"accuracy":101}')}}]);

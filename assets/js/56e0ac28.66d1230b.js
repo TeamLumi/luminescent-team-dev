@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[43120],{897227:e=>{e.exports=JSON.parse('{"moveId":12,"name":"Guillotine","desc":"A vicious, tearing attack with big pincers. The target faints instantly if this attack hits.","type":0,"damageType":1,"maxPP":8,"power":1,"accuracy":30}')}}]);

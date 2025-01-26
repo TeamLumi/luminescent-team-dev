@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[989493],{590819:e=>{e.exports=JSON.parse('{"moveId":215,"name":"Heal Bell","desc":"The user makes a soothing bell chime to heal the status conditions of all the party Pok\xe9mon.","type":0,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

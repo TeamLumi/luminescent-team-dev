@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[895166],{797614:e=>{e.exports=JSON.parse('{"moveId":246,"name":"Ancient Power","desc":"The user attacks with a prehistoric power. This may also raise all the user\u2019s stats at once.","type":5,"damageType":2,"maxPP":8,"power":60,"accuracy":100}')}}]);

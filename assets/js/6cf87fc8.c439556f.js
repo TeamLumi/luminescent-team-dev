@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[905461],{407623:e=>{e.exports=JSON.parse('{"moveId":573,"name":"Freeze-Dry","desc":"The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.","type":14,"damageType":2,"maxPP":32,"power":70,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[981278],{445286:e=>{e.exports=JSON.parse('{"moveId":801,"name":"Shell Side Arm","desc":"This move inflicts physical or special damage, whichever will be more effective. This may also poison the target.","type":3,"damageType":2,"maxPP":16,"power":90,"accuracy":100}')}}]);

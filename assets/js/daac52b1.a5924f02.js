@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[720653],{697416:e=>{e.exports=JSON.parse('{"moveId":140,"name":"Barrage","desc":"Round objects are hurled at the target to strike two to five times in a row.","type":0,"damageType":1,"maxPP":32,"power":15,"accuracy":85}')}}]);

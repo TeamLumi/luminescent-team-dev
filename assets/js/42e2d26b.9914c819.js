@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[138351],{842834:e=>{e.exports=JSON.parse('{"moveId":875,"name":"Psyblade","desc":"Power increases on Electric Terrain.","type":13,"damageType":0,"maxPP":24,"power":80,"accuracy":100}')}}]);

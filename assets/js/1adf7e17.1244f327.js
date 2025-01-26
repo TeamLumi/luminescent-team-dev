@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[572537],{173588:e=>{e.exports=JSON.parse('{"moveId":861,"name":"Ice Spinner","desc":"Removes effects of Terrain.","type":14,"damageType":0,"maxPP":24,"power":80,"accuracy":100}')}}]);

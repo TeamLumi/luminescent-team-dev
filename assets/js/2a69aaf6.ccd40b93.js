@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[420672],{639373:e=>{e.exports=JSON.parse('{"moveId":125,"name":"Bone Club","desc":"The user clubs the target with a bone. This may also make the target flinch.","type":4,"damageType":1,"maxPP":32,"power":65,"accuracy":85}')}}]);

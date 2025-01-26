@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[87408],{989355:e=>{e.exports=JSON.parse('{"moveId":735,"name":"Sizzly Slide","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":9,"damageType":1,"maxPP":32,"power":60,"accuracy":100}')}}]);

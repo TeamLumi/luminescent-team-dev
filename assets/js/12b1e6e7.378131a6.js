@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[993701],{561e3:e=>{e.exports=JSON.parse('{"moveId":505,"name":"Heal Pulse","desc":"The user emits a healing pulse that restores the target\u2019s HP by up to half of its max HP.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

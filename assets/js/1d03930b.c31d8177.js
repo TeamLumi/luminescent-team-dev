@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[339969],{882343:e=>{e.exports=JSON.parse('{"moveId":512,"name":"Acrobatics","desc":"The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.","type":2,"damageType":1,"maxPP":24,"power":55,"accuracy":100}')}}]);

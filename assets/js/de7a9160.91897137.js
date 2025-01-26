@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[823175],{296024:e=>{e.exports=JSON.parse('{"moveId":520,"name":"Grass Pledge","desc":"A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears.","type":11,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

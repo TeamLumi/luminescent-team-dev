@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[192691],{695446:e=>{e.exports=JSON.parse('{"moveId":22,"name":"Vine Whip","desc":"The target is struck with slender, whiplike vines to inflict damage.","type":11,"damageType":1,"maxPP":40,"power":45,"accuracy":100}')}}]);

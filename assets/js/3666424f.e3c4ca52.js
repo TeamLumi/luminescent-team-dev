@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[841137],{555268:e=>{e.exports=JSON.parse('{"moveId":88,"name":"Rock Throw","desc":"The user picks up and throws a small rock at the target to attack.","type":5,"damageType":1,"maxPP":24,"power":50,"accuracy":90}')}}]);

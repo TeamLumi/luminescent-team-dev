@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[704906],{565197:e=>{e.exports=JSON.parse('{"moveId":302,"name":"Needle Arm","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":11,"damageType":1,"maxPP":24,"power":60,"accuracy":100}')}}]);

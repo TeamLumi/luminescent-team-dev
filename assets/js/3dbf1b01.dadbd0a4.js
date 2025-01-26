@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[322264],{826335:e=>{e.exports=JSON.parse('{"moveId":39,"name":"Tail Whip","desc":"The user wags its tail cutely, making opposing Pok\xe9mon less wary and lowering their Defense stats.","type":0,"damageType":0,"maxPP":48,"power":0,"accuracy":100}')}}]);

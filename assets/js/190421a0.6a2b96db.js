@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[40053],{745107:e=>{e.exports=JSON.parse('{"moveId":806,"name":"Skitter Smack","desc":"The user skitters behind the target to attack. This also lowers the target\u2019s Sp. Atk stat.","type":6,"damageType":1,"maxPP":16,"power":70,"accuracy":90}')}}]);

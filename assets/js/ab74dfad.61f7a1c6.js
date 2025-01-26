@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[305389],{140215:e=>{e.exports=JSON.parse('{"moveId":495,"name":"After You","desc":"The user helps the target and makes it use its move right after the user.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

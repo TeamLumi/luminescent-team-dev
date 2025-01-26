@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[724777],{842370:e=>{e.exports=JSON.parse('{"moveId":464,"name":"Dark Void","desc":"Opposing Pok\xe9mon are dragged into a world of total darkness that makes them sleep.","type":16,"damageType":0,"maxPP":16,"power":0,"accuracy":50}')}}]);

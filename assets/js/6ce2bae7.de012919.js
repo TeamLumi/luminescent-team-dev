@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[334339],{424262:e=>{e.exports=JSON.parse('{"moveId":387,"name":"Last Resort","desc":"This move can be used only after the user has used all the other moves it knows in the battle.","type":0,"damageType":1,"maxPP":8,"power":140,"accuracy":100}')}}]);

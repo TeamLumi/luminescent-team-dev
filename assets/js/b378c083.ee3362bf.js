@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[820312],{377458:e=>{e.exports=JSON.parse('{"moveId":887,"name":"Hyper Drill","desc":"Can strike through Protect/Detect.","type":0,"damageType":0,"maxPP":8,"power":100,"accuracy":100}')}}]);

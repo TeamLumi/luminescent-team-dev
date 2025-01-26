@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[633644],{563193:e=>{e.exports=JSON.parse('{"moveId":318,"name":"Silver Wind","desc":"The target is attacked with powdery scales blown by the wind. This may also raise all the user\u2019s stats.","type":6,"damageType":2,"maxPP":8,"power":60,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[740612],{418111:e=>{e.exports=JSON.parse('{"moveId":741,"name":"Veevee Volley","desc":"The more Eevee loves its Trainer, the greater the move\u2019s power. It never misses.","type":0,"damageType":1,"maxPP":32,"power":70,"accuracy":101}')}}]);

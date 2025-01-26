@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[647011],{392299:e=>{e.exports=JSON.parse('{"moveId":237,"name":"Hidden Power","desc":"A unique attack that varies in type depending on the Pok\xe9mon using it.","type":0,"damageType":2,"maxPP":24,"power":60,"accuracy":100}')}}]);

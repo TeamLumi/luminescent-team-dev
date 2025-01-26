@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[203267],{72041:e=>{e.exports=JSON.parse('{"moveId":395,"name":"Force Palm","desc":"The target is attacked with a shock wave. This may also leave the target with paralysis.","type":1,"damageType":1,"maxPP":16,"power":60,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[676943],{496964:e=>{e.exports=JSON.parse('{"moveId":61,"name":"Bubble Beam","desc":"A spray of bubbles is forcefully ejected at the target. This may also lower the target\u2019s Speed stat.","type":10,"damageType":2,"maxPP":24,"power":75,"accuracy":100}')}}]);

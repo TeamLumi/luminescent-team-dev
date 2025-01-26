@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[661430],{580563:e=>{e.exports=JSON.parse('{"moveId":838,"name":"Headlong Rush","desc":"Lowers user\u2019s Defense.","type":4,"damageType":0,"maxPP":8,"power":120,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[691834],{237625:e=>{e.exports=JSON.parse('{"moveId":817,"name":"Wicked Blow","desc":"The user, having mastered the Dark style, strikes the target with a fierce blow. This attack always results in a critical hit.","type":16,"damageType":1,"maxPP":8,"power":80,"accuracy":100}')}}]);

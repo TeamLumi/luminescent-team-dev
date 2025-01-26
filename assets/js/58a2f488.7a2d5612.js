@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[96573],{710917:e=>{e.exports=JSON.parse('{"moveId":833,"name":"Raging Fury","desc":"User keeps repeating the same move over and over.","type":9,"damageType":0,"maxPP":16,"power":120,"accuracy":100}')}}]);

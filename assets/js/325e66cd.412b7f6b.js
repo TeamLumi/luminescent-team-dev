@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[850313],{139781:e=>{e.exports=JSON.parse('{"moveId":398,"name":"Poison Jab","desc":"The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target.","type":3,"damageType":1,"maxPP":32,"power":80,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[156089],{295408:e=>{e.exports=JSON.parse('{"moveId":195,"name":"Perish Song","desc":"Any Pok\xe9mon that hears this song faints in three turns, unless it switches out of battle.","type":0,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

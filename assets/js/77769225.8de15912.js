@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[294925],{496868:e=>{e.exports=JSON.parse('{"moveId":378,"name":"Wring Out","desc":"The user powerfully wrings the target. The more HP the target has, the greater the move\u2019s power.","type":0,"damageType":2,"maxPP":8,"power":1,"accuracy":100}')}}]);

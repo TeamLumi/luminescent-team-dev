@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[387655],{220742:e=>{e.exports=JSON.parse('{"moveId":883,"name":"Snowscape","desc":"Raises Defense of Ice types for 5 turns.","type":14,"damageType":2,"maxPP":16,"power":0,"accuracy":0}')}}]);

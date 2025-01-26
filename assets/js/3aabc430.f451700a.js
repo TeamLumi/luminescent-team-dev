@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[358897],{889110:e=>{e.exports=JSON.parse('{"moveId":339,"name":"Bulk Up","desc":"The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.","type":1,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

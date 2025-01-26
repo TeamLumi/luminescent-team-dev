@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[688822],{790063:e=>{e.exports=JSON.parse('{"moveId":557,"name":"V-create","desc":"With a hot flame on its forehead, the user hurls itself at its target. This lowers the user\u2019s Defense, Sp. Def, and Speed stats.","type":9,"damageType":1,"maxPP":8,"power":180,"accuracy":95}')}}]);

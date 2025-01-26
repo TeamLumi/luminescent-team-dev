@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[163578],{886188:e=>{e.exports=JSON.parse('{"moveId":428,"name":"Zen Headbutt","desc":"The user focuses its willpower to its head and attacks the target. This may also make the target flinch.","type":13,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

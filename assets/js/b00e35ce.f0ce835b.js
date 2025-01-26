@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[16990],{723173:e=>{e.exports=JSON.parse('{"moveId":266,"name":"Follow Me","desc":"The user draws attention to itself, making all targets take aim only at the user.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

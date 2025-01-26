@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[840800],{524625:e=>{e.exports=JSON.parse('{"moveId":41,"name":"Twineedle","desc":"The user damages the target twice in succession by jabbing it with two spikes. This may also poison the target.","type":6,"damageType":1,"maxPP":32,"power":25,"accuracy":100}')}}]);

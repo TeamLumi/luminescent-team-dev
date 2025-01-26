@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[495193],{183904:e=>{e.exports=JSON.parse('{"moveId":834,"name":"Wave Crash","desc":"User receives recoil damage.","type":10,"damageType":0,"maxPP":16,"power":120,"accuracy":100}')}}]);

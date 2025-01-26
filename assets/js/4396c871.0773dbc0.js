@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[735699],{557421:e=>{e.exports=JSON.parse('{"moveId":60,"name":"Psybeam","desc":"The target is attacked with a peculiar ray. This may also leave the target confused.","type":13,"damageType":2,"maxPP":32,"power":65,"accuracy":100}')}}]);

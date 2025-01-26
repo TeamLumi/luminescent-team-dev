@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[949486],{847593:e=>{e.exports=JSON.parse('{"moveId":207,"name":"Swagger","desc":"The user enrages and confuses the target. However, this also sharply raises the target\u2019s Attack stat.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":85}')}}]);

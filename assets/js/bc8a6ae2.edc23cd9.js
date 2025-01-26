@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[982246],{345773:e=>{e.exports=JSON.parse('{"moveId":168,"name":"Thief","desc":"The user attacks and steals the target\u2019s held item simultaneously. The user can\u2019t steal anything if it already holds an item.","type":16,"damageType":1,"maxPP":40,"power":60,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[387591],{654823:e=>{e.exports=JSON.parse('{"moveId":751,"name":"Dragon Darts","desc":"The user attacks twice using Dreepy. If there are two targets, this move hits each target once.","type":15,"damageType":1,"maxPP":16,"power":50,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[558286],{672401:e=>{e.exports=JSON.parse('{"moveId":556,"name":"Icicle Crash","desc":"The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch.","type":14,"damageType":1,"maxPP":16,"power":85,"accuracy":100}')}}]);

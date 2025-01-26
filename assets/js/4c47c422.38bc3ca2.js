@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[805638],{964189:e=>{e.exports=JSON.parse('{"moveId":348,"name":"Leaf Blade","desc":"The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.","type":11,"damageType":1,"maxPP":24,"power":90,"accuracy":100}')}}]);

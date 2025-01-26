@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[265967],{227222:e=>{e.exports=JSON.parse('{"moveId":788,"name":"Grav Apple","desc":"The user inflicts damage by dropping an apple from high above. This also lowers the target\u2019s Defense stat.","type":11,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

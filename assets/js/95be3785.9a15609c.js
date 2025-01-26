@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[472631],{64849:e=>{e.exports=JSON.parse('{"moveId":456,"name":"Heal Order","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":6,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[326748],{840054:e=>{e.exports=JSON.parse('{"moveId":662,"name":"Spirit Shackle","desc":"The user attacks while simultaneously stitching the target\'s shadow to the ground to prevent the target from escaping.","type":7,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

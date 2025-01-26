@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[567261],{610448:e=>{e.exports=JSON.parse('{"moveId":611,"name":"Infestation","desc":"The target is infested and attacked for four to five turns. The target can\u2019t flee during this time.","type":6,"damageType":2,"maxPP":32,"power":20,"accuracy":100}')}}]);

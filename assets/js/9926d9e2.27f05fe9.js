@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[77022],{922535:e=>{e.exports=JSON.parse('{"moveId":399,"name":"Dark Pulse","desc":"The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.","type":16,"damageType":2,"maxPP":24,"power":80,"accuracy":100}')}}]);

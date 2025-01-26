@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[806812],{930964:e=>{e.exports=JSON.parse('{"moveId":242,"name":"Crunch","desc":"The user crunches up the target with sharp fangs. This may also lower the target\u2019s Defense stat.","type":16,"damageType":1,"maxPP":24,"power":80,"accuracy":100}')}}]);

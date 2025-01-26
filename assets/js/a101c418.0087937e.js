@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[666341],{464625:e=>{e.exports=JSON.parse('{"moveId":579,"name":"Flower Shield","desc":"The user raises the Defense stats of all Grass-type Pok\xe9mon in battle with a mysterious power.","type":17,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

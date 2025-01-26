@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[303792],{555616:e=>{e.exports=JSON.parse('{"moveId":880,"name":"Shed Tail","desc":"Creates a substitute, then swaps places with a party Pok\xe9mon in waiting.","type":0,"damageType":2,"maxPP":16,"power":0,"accuracy":0}')}}]);

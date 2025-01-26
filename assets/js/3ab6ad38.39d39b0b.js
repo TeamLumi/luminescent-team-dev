@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[445477],{881225:e=>{e.exports=JSON.parse('{"moveId":853,"name":"Axe Kick","desc":"May confuse opponent  If it misses, the user loses HP.","type":1,"damageType":0,"maxPP":16,"power":120,"accuracy":90}')}}]);

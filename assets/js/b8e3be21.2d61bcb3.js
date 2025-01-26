@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[963034],{897771:e=>{e.exports=JSON.parse('{"moveId":291,"name":"Dive","desc":"Diving on the first turn, the user floats up and attacks on the next turn.","type":10,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[820220],{742561:e=>{e.exports=JSON.parse('{"moveId":233,"name":"Vital Throw","desc":"The user attacks last. In return, this throw move never misses.","type":1,"damageType":1,"maxPP":16,"power":70,"accuracy":101}')}}]);

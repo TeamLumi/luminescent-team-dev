@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[67977],{887851:e=>{e.exports=JSON.parse('{"moveId":492,"name":"Foul Play","desc":"The user turns the target\u2019s power against it. The higher the target\u2019s Attack stat, the greater the damage it deals.","type":16,"damageType":1,"maxPP":24,"power":95,"accuracy":100}')}}]);

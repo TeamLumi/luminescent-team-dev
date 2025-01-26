@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[940182],{87795:e=>{e.exports=JSON.parse('{"moveId":448,"name":"Chatter","desc":"The user attacks the target with sound waves of deafening chatter. This confuses the target.","type":2,"damageType":2,"maxPP":32,"power":65,"accuracy":100}')}}]);

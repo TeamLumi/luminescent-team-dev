@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[165954],{159427:e=>{e.exports=JSON.parse('{"moveId":396,"name":"Aura Sphere","desc":"The user lets loose a blast of aura power from deep within its body at the target. This attack never misses.","type":1,"damageType":2,"maxPP":32,"power":80,"accuracy":101}')}}]);

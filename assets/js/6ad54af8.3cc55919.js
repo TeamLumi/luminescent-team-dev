@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[364482],{719813:e=>{e.exports=JSON.parse('{"moveId":521,"name":"Volt Switch","desc":"After making its attack, the user rushes back to switch places with a party Pok\xe9mon in waiting.","type":12,"damageType":2,"maxPP":32,"power":70,"accuracy":100}')}}]);

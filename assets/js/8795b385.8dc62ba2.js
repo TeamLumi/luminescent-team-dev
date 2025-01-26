@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[466296],{270993:e=>{e.exports=JSON.parse('{"moveId":166,"name":"Sketch","desc":"It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.","type":0,"damageType":0,"maxPP":1.6,"power":0,"accuracy":101}')}}]);

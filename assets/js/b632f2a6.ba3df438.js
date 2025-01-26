@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[582345],{956444:e=>{e.exports=JSON.parse('{"moveId":232,"name":"Metal Claw","desc":"The target is raked with steel claws. This may also raise the user\u2019s Attack stat.","type":8,"damageType":1,"maxPP":56,"power":50,"accuracy":100}')}}]);

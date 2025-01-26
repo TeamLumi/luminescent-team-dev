@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[430187],{701477:e=>{e.exports=JSON.parse('{"moveId":305,"name":"Poison Fang","desc":"The user bites the target with toxic fangs. This may also leave the target badly poisoned.","type":3,"damageType":1,"maxPP":24,"power":65,"accuracy":100}')}}]);

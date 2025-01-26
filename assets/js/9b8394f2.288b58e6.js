@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[630362],{809440:e=>{e.exports=JSON.parse('{"moveId":108,"name":"Smokescreen","desc":"The user releases an obscuring cloud of smoke or ink. This lowers the target\u2019s accuracy.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

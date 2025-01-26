@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[85705],{992923:e=>{e.exports=JSON.parse('{"moveId":376,"name":"Trump Card","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":0,"damageType":2,"maxPP":8,"power":1,"accuracy":101}')}}]);

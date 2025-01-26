@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[751434],{703521:e=>{e.exports=JSON.parse('{"moveId":590,"name":"Confide","desc":"The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target\u2019s Sp. Atk stat.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

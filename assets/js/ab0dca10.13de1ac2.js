@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[417607],{72230:e=>{e.exports=JSON.parse('{"moveId":829,"name":"Power Shift","desc":"Switches offensive and defensive stats.","type":0,"damageType":2,"maxPP":16,"power":0,"accuracy":0}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[933199],{354095:e=>{e.exports=JSON.parse('{"moveId":132,"name":"Constrict","desc":"The target is attacked with long, creeping tentacles, vines, or the like. This may also lower the target\'s Speed stat.","type":0,"damageType":1,"maxPP":56,"power":10,"accuracy":100}')}}]);

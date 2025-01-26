@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[4786],{161017:e=>{e.exports=JSON.parse('{"moveId":284,"name":"Eruption","desc":"The user attacks opposing Pok\xe9mon with explosive fury. The lower the user\u2019s HP, the lower the move\u2019s power.","type":9,"damageType":2,"maxPP":8,"power":150,"accuracy":100}')}}]);

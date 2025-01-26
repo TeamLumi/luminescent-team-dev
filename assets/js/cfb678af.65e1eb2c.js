@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[338855],{205541:e=>{e.exports=JSON.parse('{"moveId":525,"name":"Dragon Tail","desc":"The target is knocked away, and a different Pok\xe9mon is dragged out. In the wild, this ends a battle against a single Pok\xe9mon.","type":15,"damageType":1,"maxPP":16,"power":60,"accuracy":90}')}}]);

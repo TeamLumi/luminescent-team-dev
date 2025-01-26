@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[73881],{817707:e=>{e.exports=JSON.parse('{"moveId":660,"name":"First Impression","desc":"Although this move has great power, it only works the first turn each time the user enters battle.","type":6,"damageType":1,"maxPP":16,"power":90,"accuracy":100}')}}]);

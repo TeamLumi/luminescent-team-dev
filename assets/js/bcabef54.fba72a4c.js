@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[55700],{768616:e=>{e.exports=JSON.parse('{"moveId":84,"name":"Thunder Shock","desc":"A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.","type":12,"damageType":2,"maxPP":48,"power":40,"accuracy":100}')}}]);

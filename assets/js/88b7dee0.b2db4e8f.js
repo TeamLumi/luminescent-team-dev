@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[426190],{620676:e=>{e.exports=JSON.parse('{"moveId":859,"name":"Spin Out","desc":"Harshly lowers user\u2019s Speed.","type":8,"damageType":0,"maxPP":8,"power":100,"accuracy":100}')}}]);

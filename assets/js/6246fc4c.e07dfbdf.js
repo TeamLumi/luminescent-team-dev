@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[874654],{627429:e=>{e.exports=JSON.parse('{"moveId":785,"name":"Branch Poke","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":11,"damageType":1,"maxPP":64,"power":40,"accuracy":100}')}}]);

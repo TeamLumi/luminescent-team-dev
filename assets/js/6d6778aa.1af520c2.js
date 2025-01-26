@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[985093],{136260:e=>{e.exports=JSON.parse('{"moveId":474,"name":"Venoshock","desc":"The user drenches the target in a special poisonous liquid. This move\u2019s power is doubled if the target is poisoned.","type":3,"damageType":2,"maxPP":16,"power":65,"accuracy":100}')}}]);

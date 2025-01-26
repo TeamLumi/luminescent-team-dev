@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[657676],{415260:e=>{e.exports=JSON.parse('{"moveId":617,"name":"Light of Ruin","desc":"Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot.","type":17,"damageType":2,"maxPP":8,"power":140,"accuracy":90}')}}]);

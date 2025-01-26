@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[484632],{313441:e=>{e.exports=JSON.parse('{"moveId":329,"name":"Sheer Cold","desc":"The target faints instantly. It\u2019s less likely to hit the target if it\u2019s used by Pok\xe9mon other than Ice types.","type":14,"damageType":2,"maxPP":8,"power":1,"accuracy":30}')}}]);

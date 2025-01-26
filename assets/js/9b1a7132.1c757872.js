@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[452354],{938922:e=>{e.exports=JSON.parse('{"moveId":349,"name":"Dragon Dance","desc":"The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.","type":15,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

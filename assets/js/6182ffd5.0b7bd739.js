@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[535796],{77618:e=>{e.exports=JSON.parse('{"moveId":795,"name":"Eternabeam","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":15,"damageType":2,"maxPP":8,"power":160,"accuracy":90}')}}]);

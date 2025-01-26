@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[275802],{331311:e=>{e.exports=JSON.parse('{"moveId":425,"name":"Shadow Sneak","desc":"The user extends its shadow and attacks the target from behind. This move always goes first.","type":7,"damageType":1,"maxPP":48,"power":40,"accuracy":100}')}}]);

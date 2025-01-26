@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[652470],{134894:e=>{e.exports=JSON.parse('{"moveId":438,"name":"Power Whip","desc":"The user violently whirls its vines, tentacles, or the like to harshly lash the target.","type":11,"damageType":1,"maxPP":16,"power":120,"accuracy":85}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[977408],{836044:e=>{e.exports=JSON.parse('{"moveId":149,"name":"Psywave","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":13,"damageType":2,"maxPP":24,"power":1,"accuracy":100}')}}]);

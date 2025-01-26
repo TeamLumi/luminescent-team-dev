@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[822783],{559509:e=>{e.exports=JSON.parse('{"moveId":331,"name":"Bullet Seed","desc":"The user forcefully shoots seeds at the target two to five times in a row.","type":11,"damageType":1,"maxPP":48,"power":25,"accuracy":100}')}}]);

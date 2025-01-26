@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[241491],{317282:e=>{e.exports=JSON.parse('{"moveId":322,"name":"Cosmic Power","desc":"The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.","type":13,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

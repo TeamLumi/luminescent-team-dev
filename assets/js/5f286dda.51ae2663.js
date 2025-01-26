@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[125924],{31782:e=>{e.exports=JSON.parse('{"moveId":470,"name":"Guard Split","desc":"The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[904663],{800470:e=>{e.exports=JSON.parse('{"moveId":820,"name":"Dragon Energy","desc":"Converting its life-force into power, the user attacks opposing Pok\xe9mon. The lower the user\'s HP, the lower the move\'s power.","type":15,"damageType":2,"maxPP":8,"power":150,"accuracy":100}')}}]);

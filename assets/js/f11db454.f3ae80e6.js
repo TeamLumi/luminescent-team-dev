@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[132660],{502328:e=>{e.exports=JSON.parse('{"moveId":897,"name":"Wicked Torque","desc":"Wicked Torque inflicts damage and has a 10% chance of putting the target to sleep.","type":16,"damageType":0,"maxPP":16,"power":80,"accuracy":100}')}}]);

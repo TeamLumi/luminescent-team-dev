@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[34215],{556244:e=>{e.exports=JSON.parse('{"moveId":560,"name":"Flying Press","desc":"The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously.","type":1,"damageType":1,"maxPP":16,"power":100,"accuracy":95}')}}]);

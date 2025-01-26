@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[92680],{887386:e=>{e.exports=JSON.parse('{"moveId":74,"name":"Growth","desc":"The user\u2019s body grows all at once, raising the Attack and Sp. Atk stats.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

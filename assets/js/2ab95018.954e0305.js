@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[345305],{836280:e=>{e.exports=JSON.parse('{"moveId":373,"name":"Embargo","desc":"This move prevents the target from using its held item for five turns. Its Trainer is also prevented from using items on it.","type":16,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

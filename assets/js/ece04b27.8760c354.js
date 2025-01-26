@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[540328],{547781:e=>{e.exports=JSON.parse('{"moveId":10,"name":"Scratch","desc":"Hard, pointed, sharp claws rake the target to inflict damage.","type":0,"damageType":1,"maxPP":56,"power":40,"accuracy":100}')}}]);

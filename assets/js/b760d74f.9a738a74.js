@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[149261],{298111:e=>{e.exports=JSON.parse('{"moveId":197,"name":"Detect","desc":"This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.","type":1,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

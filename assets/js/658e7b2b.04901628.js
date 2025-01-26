@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[527558],{469296:e=>{e.exports=JSON.parse('{"moveId":467,"name":"Shadow Force","desc":"The user disappears, then strikes the target on the next turn. This move hits even if the target protects itself.","type":7,"damageType":1,"maxPP":8,"power":120,"accuracy":100}')}}]);

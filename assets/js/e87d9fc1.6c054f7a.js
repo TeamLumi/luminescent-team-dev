@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[410946],{338486:e=>{e.exports=JSON.parse('{"moveId":795,"name":"Eternabeam","desc":"This is Eternatus\'s most powerful attack in its original form. The user can\'t move on the next turn.","type":15,"damageType":2,"maxPP":8,"power":160,"accuracy":90}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[202277],{35150:e=>{e.exports=JSON.parse('{"moveId":16,"name":"Gust","desc":"A gust of wind is whipped up by wings and launched at the target to inflict damage.","type":2,"damageType":2,"maxPP":56,"power":40,"accuracy":100}')}}]);

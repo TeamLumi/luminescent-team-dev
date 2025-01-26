@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[457695],{448389:e=>{e.exports=JSON.parse('{"moveId":277,"name":"Magic Coat","desc":"Moves like Leech Seed and moves that inflict status conditions are blocked by a barrier and reflected back to the user of those moves.","type":13,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[69532],{545088:e=>{e.exports=JSON.parse('{"moveId":914,"name":"Alluring Voice","desc":"The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn.","type":17,"damageType":2,"maxPP":16,"power":80,"accuracy":100}')}}]);

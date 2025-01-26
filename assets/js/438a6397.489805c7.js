@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[119839],{763704:e=>{e.exports=JSON.parse('{"moveId":19,"name":"Fly","desc":"The user flies up into the sky and then strikes its target on the next turn. It\u2019s also one of the Pok\xe9tch\u2019s hidden moves.","type":2,"damageType":1,"maxPP":24,"power":100,"accuracy":100}')}}]);

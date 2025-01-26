@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[972057],{262114:e=>{e.exports=JSON.parse('{"moveId":765,"name":"Max Geyser","desc":"This is a Water-type attack Dynamax Pok\xe9mon use. The user summons a heavy rain that falls for five turns.","type":10,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

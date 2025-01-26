@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[987776],{495907:e=>{e.exports=JSON.parse('{"moveId":516,"name":"Bestow","desc":"The user passes its held item to the target when the target isn\u2019t holding an item.","type":0,"damageType":0,"maxPP":24,"power":0,"accuracy":101}')}}]);

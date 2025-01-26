@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[910450],{167320:e=>{e.exports=JSON.parse('{"moveId":109,"name":"Confuse Ray","desc":"The target is exposed to a sinister ray that triggers confusion.","type":7,"damageType":0,"maxPP":16,"power":0,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[828846],{381597:e=>{e.exports=JSON.parse('{"moveId":279,"name":"Revenge","desc":"This attack move\u2019s power is doubled if the user has been hurt by the opponent in the same turn.","type":1,"damageType":1,"maxPP":16,"power":60,"accuracy":100}')}}]);

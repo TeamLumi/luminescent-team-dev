@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[93203],{387275:e=>{e.exports=JSON.parse('{"moveId":731,"name":"Floaty Fall","desc":"The user floats in the air, and then dives at a steep angle to attack the target. This may also make the target flinch.","type":2,"damageType":1,"maxPP":24,"power":90,"accuracy":95}')}}]);

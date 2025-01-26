@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[903629],{81389:e=>{e.exports=JSON.parse('{"moveId":752,"name":"Teatime","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

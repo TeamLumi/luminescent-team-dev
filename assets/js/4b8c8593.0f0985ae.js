@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[491228],{170650:e=>{e.exports=JSON.parse('{"moveId":230,"name":"Sweet Scent","desc":"A sweet scent that harshly lowers opposing Pok\xe9mon\u2019s evasiveness. It also lures wild Pok\xe9mon if used in grass, etc.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

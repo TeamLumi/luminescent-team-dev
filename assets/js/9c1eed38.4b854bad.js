@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[322919],{132310:e=>{e.exports=JSON.parse('{"moveId":784,"name":"Breaking Swipe","desc":"The user swings its tough tail wildly and attacks opposing Pok\xe9mon. This also lowers their Attack stats.","type":15,"damageType":1,"maxPP":24,"power":60,"accuracy":100}')}}]);

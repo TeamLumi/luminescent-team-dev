@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[201236],{457169:e=>{e.exports=JSON.parse('{"moveId":239,"name":"Twister","desc":"The user whips up a vicious tornado to tear at opposing Pok\xe9mon. This may also make them flinch.","type":15,"damageType":2,"maxPP":32,"power":40,"accuracy":100}')}}]);

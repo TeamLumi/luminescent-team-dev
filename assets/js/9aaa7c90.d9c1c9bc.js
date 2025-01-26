@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[637417],{845536:e=>{e.exports=JSON.parse('{"moveId":551,"name":"Blue Flare","desc":"The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn.","type":9,"damageType":2,"maxPP":8,"power":130,"accuracy":85}')}}]);

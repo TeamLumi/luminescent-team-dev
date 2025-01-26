@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[206593],{498394:e=>{e.exports=JSON.parse('{"moveId":703,"name":"Genesis Supernova","desc":"After obtaining Z-Power, the user, Mew, attacks the target with full force. The terrain will be charged with psychic energy.","type":13,"damageType":2,"maxPP":1.6,"power":185,"accuracy":101}')}}]);

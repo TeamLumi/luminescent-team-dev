@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[490634],{193923:e=>{e.exports=JSON.parse('{"moveId":604,"name":"Electric Terrain","desc":"The user electrifies the ground for five turns, powering up Electric-type moves. Pok\xe9mon on the ground no longer fall asleep.","type":12,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

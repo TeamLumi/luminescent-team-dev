@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[529019],{221974:e=>{e.exports=JSON.parse('{"moveId":885,"name":"Trailblaze","desc":"Raises user\u2019s Speed.","type":11,"damageType":0,"maxPP":32,"power":50,"accuracy":100}')}}]);

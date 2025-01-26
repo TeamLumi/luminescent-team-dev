@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[620421],{437560:e=>{e.exports=JSON.parse('{"moveId":312,"name":"Aromatherapy","desc":"The user releases a soothing scent that heals all status conditions affecting the user\u2019s party.","type":11,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

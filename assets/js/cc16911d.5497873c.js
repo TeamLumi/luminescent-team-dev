@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[500257],{459236:e=>{e.exports=JSON.parse('{"moveId":705,"name":"Fleur Cannon","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":17,"damageType":2,"maxPP":8,"power":130,"accuracy":90}')}}]);

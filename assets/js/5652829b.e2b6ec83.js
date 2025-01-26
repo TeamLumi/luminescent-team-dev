@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[137394],{5238:e=>{e.exports=JSON.parse('{"moveId":739,"name":"Freezy Frost","desc":"The user attacks with a crystal made of cold frozen haze. It eliminates every stat change among all the Pok\xe9mon engaged in battle.","type":14,"damageType":2,"maxPP":16,"power":100,"accuracy":90}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[939498],{184624:e=>{e.exports=JSON.parse('{"moveId":867,"name":"Doodle","desc":"Changes the abilities of the user and its teammates to that of the target.","type":0,"damageType":2,"maxPP":16,"power":0,"accuracy":100}')}}]);

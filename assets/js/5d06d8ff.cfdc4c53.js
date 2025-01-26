@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[573610],{637165:e=>{e.exports=JSON.parse('{"moveId":370,"name":"Close Combat","desc":"The user fights the target up close without guarding itself. This also lowers the user\u2019s Defense and Sp. Def stats.","type":1,"damageType":1,"maxPP":8,"power":120,"accuracy":100}')}}]);

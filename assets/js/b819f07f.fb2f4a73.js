@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[882653],{336735:e=>{e.exports=JSON.parse('{"moveId":711,"name":"Prismatic Laser","desc":"The user shoots powerful lasers using the power of a prism. The user can\'t move on the next turn.","type":13,"damageType":2,"maxPP":16,"power":160,"accuracy":100}')}}]);

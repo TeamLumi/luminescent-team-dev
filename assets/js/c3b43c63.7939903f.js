@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[627728],{254266:e=>{e.exports=JSON.parse('{"moveId":564,"name":"Sticky Web","desc":"The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle.","type":6,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

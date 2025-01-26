@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[255597],{97455:e=>{e.exports=JSON.parse('{"moveId":283,"name":"Endeavor","desc":"This attack move cuts down the target\u2019s HP to equal the user\u2019s HP.","type":0,"damageType":1,"maxPP":8,"power":1,"accuracy":100}')}}]);

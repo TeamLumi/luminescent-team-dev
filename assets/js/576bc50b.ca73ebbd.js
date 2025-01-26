@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[414715],{95476:e=>{e.exports=JSON.parse('{"moveId":85,"name":"Thunderbolt","desc":"A strong electric blast crashes down on the target. This may also leave the target with paralysis.","type":12,"damageType":2,"maxPP":24,"power":90,"accuracy":100}')}}]);

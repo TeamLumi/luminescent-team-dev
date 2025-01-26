@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[45486],{717722:e=>{e.exports=JSON.parse('{"moveId":314,"name":"Air Cutter","desc":"The user launches razor-like wind to slash opposing Pok\xe9mon. Critical hits land more easily.","type":2,"damageType":2,"maxPP":40,"power":60,"accuracy":95}')}}]);

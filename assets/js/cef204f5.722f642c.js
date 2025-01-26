@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[945565],{119299:e=>{e.exports=JSON.parse('{"moveId":872,"name":"Aqua Step","desc":"Raises user\u2019s Speed.","type":10,"damageType":0,"maxPP":16,"power":80,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[434883],{289943:e=>{e.exports=JSON.parse('{"moveId":65,"name":"Drill Peck","desc":"A corkscrewing attack that strikes the target with a sharp beak acting as a drill.","type":2,"damageType":1,"maxPP":32,"power":80,"accuracy":100}')}}]);

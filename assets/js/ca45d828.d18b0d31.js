@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[324041],{890419:e=>{e.exports=JSON.parse('{"moveId":891,"name":"Bitter Blade","desc":"User recovers half the HP inflicted on opponent.","type":9,"damageType":0,"maxPP":16,"power":90,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[990465],{679866:e=>{e.exports=JSON.parse('{"moveId":25,"name":"Mega Kick","desc":"The target is attacked by a kick launched with muscle-packed power.","type":0,"damageType":1,"maxPP":8,"power":120,"accuracy":85}')}}]);

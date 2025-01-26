@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[844031],{642677:e=>{e.exports=JSON.parse('{"moveId":130,"name":"Skull Bash","desc":"The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn.","type":0,"damageType":1,"maxPP":16,"power":130,"accuracy":100}')}}]);

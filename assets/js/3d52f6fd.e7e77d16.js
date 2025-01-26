@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[431151],{842413:e=>{e.exports=JSON.parse('{"moveId":869,"name":"Kowtow Cleave","desc":"Always hits.","type":16,"damageType":0,"maxPP":16,"power":85,"accuracy":0}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[200912],{117265:e=>{e.exports=JSON.parse('{"moveId":83,"name":"Fire Spin","desc":"The target becomes trapped within a fierce vortex of fire that rages for four to five turns.","type":9,"damageType":2,"maxPP":24,"power":35,"accuracy":85}')}}]);

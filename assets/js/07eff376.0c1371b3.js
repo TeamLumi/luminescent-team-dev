@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[19827],{314997:e=>{e.exports=JSON.parse('{"moveId":440,"name":"Cross Poison","desc":"A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.","type":3,"damageType":1,"maxPP":32,"power":70,"accuracy":100}')}}]);

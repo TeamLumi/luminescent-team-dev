@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[141533],{259095:e=>{e.exports=JSON.parse('{"moveId":889,"name":"Rage Fist","desc":"The more times the user has been hit by attacks, the greater the move\u2019s power.","type":7,"damageType":0,"maxPP":16,"power":50,"accuracy":100}')}}]);

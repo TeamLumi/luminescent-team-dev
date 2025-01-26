@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[158621],{891458:e=>{e.exports=JSON.parse('{"moveId":599,"name":"Venom Drench","desc":"Opposing Pok\xe9mon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.","type":3,"damageType":0,"maxPP":32,"power":0,"accuracy":100}')}}]);

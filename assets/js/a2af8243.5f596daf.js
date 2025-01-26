@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[602093],{436494:e=>{e.exports=JSON.parse('{"moveId":597,"name":"Aromatic Mist","desc":"The user raises the Sp. Def stat of an ally Pok\xe9mon by using a mysterious aroma.","type":17,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[434843],{678928:e=>{e.exports=JSON.parse('{"moveId":683,"name":"Speed Swap","desc":"The user exchanges Speed stats with the target.","type":13,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[979488],{327795:e=>{e.exports=JSON.parse('{"moveId":450,"name":"Bug Bite","desc":"The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.","type":6,"damageType":1,"maxPP":32,"power":60,"accuracy":100}')}}]);

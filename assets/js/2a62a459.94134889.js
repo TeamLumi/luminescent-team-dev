@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[476754],{485238:e=>{e.exports=JSON.parse('{"moveId":782,"name":"Behemoth Bash","desc":"The user becomes a gigantic shield and slams into the target. This move deals twice the damage if the target is Dynamaxed.","type":8,"damageType":1,"maxPP":8,"power":100,"accuracy":100}')}}]);

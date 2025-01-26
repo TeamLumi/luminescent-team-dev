@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[436612],{765290:e=>{e.exports=JSON.parse('{"moveId":343,"name":"Covet","desc":"The user endearingly approaches the target, then steals the target\u2019s held item.","type":0,"damageType":1,"maxPP":40,"power":60,"accuracy":100}')}}]);

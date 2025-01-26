@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[516143],{930329:e=>{e.exports=JSON.parse('{"moveId":484,"name":"Heavy Slam","desc":"The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move\u2019s power.","type":8,"damageType":1,"maxPP":16,"power":1,"accuracy":100}')}}]);

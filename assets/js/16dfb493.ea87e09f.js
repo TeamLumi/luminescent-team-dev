@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[824867],{198935:e=>{e.exports=JSON.parse('{"moveId":249,"name":"Rock Smash","desc":"The user attacks with a punch that may lower the target\u2019s Defense stat. It\u2019s also one of the Pok\xe9tch\u2019s hidden moves.","type":1,"damageType":1,"maxPP":24,"power":60,"accuracy":100}')}}]);

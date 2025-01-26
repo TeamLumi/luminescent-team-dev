@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[322072],{740218:e=>{e.exports=JSON.parse('{"moveId":636,"name":"Never-Ending Nightmare","desc":"Deep-seated grudges summoned by the user\'s Z-Power trap the target. The power varies, depending on the original move.","type":7,"damageType":1,"maxPP":1.6,"power":1,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[936450],{680526:e=>{e.exports=JSON.parse('{"moveId":814,"name":"Dual Wingbeat","desc":"The user slams the target with its wings. The target is hit twice in a row.","type":2,"damageType":1,"maxPP":16,"power":40,"accuracy":90}')}}]);

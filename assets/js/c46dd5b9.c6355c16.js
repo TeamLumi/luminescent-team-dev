@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[599425],{936331:e=>{e.exports=JSON.parse('{"moveId":857,"name":"Jet Punch","desc":"Always goes first.","type":10,"damageType":0,"maxPP":24,"power":60,"accuracy":100}')}}]);

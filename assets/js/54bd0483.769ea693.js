@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[800450],{144644:e=>{e.exports=JSON.parse('{"moveId":102,"name":"Mimic","desc":"The user copies the target\u2019s last move. The move can be used during battle until the Pok\xe9mon is switched out.","type":0,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

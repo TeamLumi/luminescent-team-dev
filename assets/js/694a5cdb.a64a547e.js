@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[618672],{921490:e=>{e.exports=JSON.parse('{"moveId":59,"name":"Blizzard","desc":"A howling blizzard is summoned to strike opposing Pok\xe9mon. This may also leave the opposing Pok\xe9mon frozen.","type":14,"damageType":2,"maxPP":8,"power":110,"accuracy":70}')}}]);

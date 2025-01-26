@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[554994],{190606:e=>{e.exports=JSON.parse('{"moveId":570,"name":"Parabolic Charge","desc":"The user attacks everything around it. The user\u2019s HP is restored by half the damage taken by those hit.","type":12,"damageType":2,"maxPP":32,"power":65,"accuracy":100}')}}]);

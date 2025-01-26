@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[487392],{654963:e=>{e.exports=JSON.parse('{"moveId":23,"name":"Stomp","desc":"The target is stomped with a big foot. This may also make the target flinch.","type":0,"damageType":1,"maxPP":32,"power":65,"accuracy":100}')}}]);

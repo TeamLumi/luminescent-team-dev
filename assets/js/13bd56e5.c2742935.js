@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[422811],{812617:e=>{e.exports=JSON.parse('{"moveId":482,"name":"Sludge Wave","desc":"The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.","type":3,"damageType":2,"maxPP":16,"power":95,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[841494],{165345:e=>{e.exports=JSON.parse('{"moveId":30,"name":"Horn Attack","desc":"The target is jabbed with a sharply pointed horn to inflict damage.","type":0,"damageType":1,"maxPP":40,"power":65,"accuracy":100}')}}]);

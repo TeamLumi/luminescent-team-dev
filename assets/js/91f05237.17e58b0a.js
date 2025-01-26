@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[484943],{583536:e=>{e.exports=JSON.parse('{"moveId":677,"name":"Anchor Shot","desc":"The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.","type":8,"damageType":1,"maxPP":32,"power":80,"accuracy":100}')}}]);

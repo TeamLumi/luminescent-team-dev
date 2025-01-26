@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[802150],{319834:e=>{e.exports=JSON.parse('{"moveId":596,"name":"Spiky Shield","desc":"In addition to protecting the user from attacks, this move also damages any attacker that makes direct contact.","type":11,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

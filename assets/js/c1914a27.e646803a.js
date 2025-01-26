@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[612006],{630172:e=>{e.exports=JSON.parse('{"moveId":458,"name":"Double Hit","desc":"The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.","type":0,"damageType":1,"maxPP":16,"power":35,"accuracy":90}')}}]);

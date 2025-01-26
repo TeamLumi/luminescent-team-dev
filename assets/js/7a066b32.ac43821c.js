@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[901270],{199881:e=>{e.exports=JSON.parse('{"moveId":241,"name":"Sunny Day","desc":"The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves.","type":9,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

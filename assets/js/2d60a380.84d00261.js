@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[701095],{78706:e=>{e.exports=JSON.parse('{"moveId":663,"name":"Darkest Lariat","desc":"The user swings both arms and hits the target. The target\u2019s stat changes don\u2019t affect this attack\u2019s damage.","type":16,"damageType":1,"maxPP":16,"power":85,"accuracy":100}')}}]);

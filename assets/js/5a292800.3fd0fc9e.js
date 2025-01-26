@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[579991],{606949:e=>{e.exports=JSON.parse('{"moveId":91,"name":"Dig","desc":"The user burrows into the ground, then attacks on the next turn. It can also be used to exit dungeons.","type":4,"damageType":1,"maxPP":16,"power":80,"accuracy":100}')}}]);

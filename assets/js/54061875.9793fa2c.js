@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[846280],{192735:e=>{e.exports=JSON.parse('{"moveId":352,"name":"Water Pulse","desc":"The user attacks the target with a pulsing blast of water. This may also confuse the target.","type":10,"damageType":2,"maxPP":32,"power":60,"accuracy":100}')}}]);

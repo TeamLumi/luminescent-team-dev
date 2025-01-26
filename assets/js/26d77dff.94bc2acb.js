@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[837979],{367373:e=>{e.exports=JSON.parse('{"moveId":485,"name":"Synchronoise","desc":"Using an odd shock wave, the user inflicts damage on any Pok\xe9mon of the same type in the area around it.","type":13,"damageType":2,"maxPP":16,"power":120,"accuracy":100}')}}]);

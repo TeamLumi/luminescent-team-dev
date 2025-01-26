@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[919462],{980555:e=>{e.exports=JSON.parse('{"moveId":202,"name":"Giga Drain","desc":"A nutrient-draining attack. The user\u2019s HP is restored by half the damage taken by the target.","type":11,"damageType":2,"maxPP":16,"power":75,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[689028],{762017:e=>{e.exports=JSON.parse('{"moveId":771,"name":"Max Quake","desc":"This is a Ground-type attack Dynamax Pok\xe9mon use. This raises ally Pok\xe9mon\'s Sp. Def stats.","type":4,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

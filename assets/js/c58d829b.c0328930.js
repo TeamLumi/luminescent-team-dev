@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[634918],{666284:e=>{e.exports=JSON.parse('{"moveId":20,"name":"Bind","desc":"Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns.","type":0,"damageType":1,"maxPP":32,"power":15,"accuracy":85}')}}]);

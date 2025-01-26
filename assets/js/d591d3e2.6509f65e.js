@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[348248],{826646:e=>{e.exports=JSON.parse('{"moveId":886,"name":"Chilling Water","desc":"Lowers opponent\u2019s Attack.","type":10,"damageType":1,"maxPP":32,"power":50,"accuracy":100}')}}]);

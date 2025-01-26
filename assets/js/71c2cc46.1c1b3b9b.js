@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[70483],{467786:e=>{e.exports=JSON.parse('{"moveId":335,"name":"Block","desc":"The user blocks the target\u2019s way with arms spread wide to prevent escape.","type":0,"damageType":0,"maxPP":8,"power":0,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[188191],{634100:e=>{e.exports=JSON.parse('{"moveId":696,"name":"Malicious Moonsault","desc":"The user, Incineroar, strengthens its body using its Z-Power and crashes into the target with full force.","type":16,"damageType":1,"maxPP":1.6,"power":180,"accuracy":101}')}}]);

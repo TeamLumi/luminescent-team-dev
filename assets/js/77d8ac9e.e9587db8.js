@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[477539],{238449:e=>{e.exports=JSON.parse('{"moveId":297,"name":"Feather Dance","desc":"The user covers the target\u2019s body with a mass of down that harshly lowers its Attack stat.","type":2,"damageType":0,"maxPP":24,"power":0,"accuracy":100}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[858711],{364384:e=>{e.exports=JSON.parse('{"moveId":169,"name":"Spider Web","desc":"The user ensnares the target with thin, gooey silk so it can\u2019t flee from battle.","type":6,"damageType":0,"maxPP":16,"power":0,"accuracy":101}')}}]);

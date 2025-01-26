@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[73880],{512566:e=>{e.exports=JSON.parse('{"moveId":695,"name":"Sinister Arrow Raid","desc":"The user, Decidueye, creates countless arrows using its Z-Power and shoots the target with full force.","type":7,"damageType":1,"maxPP":1.6,"power":180,"accuracy":101}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[784149],{363138:e=>{e.exports=JSON.parse('{"moveId":374,"name":"Fling","desc":"The user flings its held item at the target to attack. This move\u2019s power and effects depend on the item.","type":16,"damageType":1,"maxPP":16,"power":1,"accuracy":100}')}}]);

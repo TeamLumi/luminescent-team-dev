@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[844426],{618593:e=>{e.exports=JSON.parse('{"moveId":219,"name":"Safeguard","desc":"The user creates a protective field that prevents status conditions for five turns.","type":0,"damageType":0,"maxPP":40,"power":0,"accuracy":101}')}}]);

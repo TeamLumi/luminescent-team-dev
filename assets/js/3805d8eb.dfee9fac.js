@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[315962],{148539:e=>{e.exports=JSON.parse('{"moveId":903,"name":"Syrup Bomb","desc":"Lowers opponent\u2019s Speed each turn for 3 turns.","type":11,"damageType":1,"maxPP":16,"power":60,"accuracy":85}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[804122],{698142:e=>{e.exports=JSON.parse('{"moveId":403,"name":"Air Slash","desc":"The user attacks with a blade of air that slices even the sky. This may also make the target flinch.","type":2,"damageType":2,"maxPP":24,"power":75,"accuracy":95}')}}]);

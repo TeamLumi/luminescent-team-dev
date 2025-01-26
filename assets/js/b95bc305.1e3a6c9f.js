@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[962904],{671172:e=>{e.exports=JSON.parse('{"moveId":779,"name":"Snap Trap","desc":"The user snares the target in a snap trap for four to five turns.","type":11,"damageType":1,"maxPP":24,"power":35,"accuracy":100}')}}]);

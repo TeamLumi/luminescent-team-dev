@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[629191],{40802:e=>{e.exports=JSON.parse('{"moveId":763,"name":"Max Hailstorm","desc":"This is an Ice-type attack Dynamax Pok\xe9mon use. The user summons a hailstorm lasting five turns.","type":14,"damageType":1,"maxPP":16,"power":10,"accuracy":101}')}}]);

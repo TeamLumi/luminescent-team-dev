@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[2745],{555333:e=>{e.exports=JSON.parse('{"moveId":628,"name":"Acid Downpour","desc":"This move can\u2019t be used. It\u2019s recommended that this move is forgotten. Once forgotten, this move can\u2019t be remembered.","type":3,"damageType":1,"maxPP":1.6,"power":1,"accuracy":101}')}}]);

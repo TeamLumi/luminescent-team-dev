@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[944455],{462301:e=>{e.exports=JSON.parse('{"moveId":18,"name":"Whirlwind","desc":"The target is blown away, and a different Pok\xe9mon is dragged out. In the wild, this ends a battle against a single Pok\xe9mon.","type":0,"damageType":0,"maxPP":32,"power":0,"accuracy":101}')}}]);
