@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[353175],{820108:e=>{e.exports="/luminescent-team-dev/pokedex/curly-form-false-dragon-titan-tatsugiri"}}]);

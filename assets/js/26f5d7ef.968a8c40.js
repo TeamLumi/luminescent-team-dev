@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[252998],{474295:e=>{e.exports="/luminescent-team-dev/pokedex/morelull"}}]);

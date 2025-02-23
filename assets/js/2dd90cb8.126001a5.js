@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[101497],{556524:e=>{e.exports="/luminescent-team-dev/pokedex/stretchy-form-false-dragon-titan-tatsugiri"}}]);

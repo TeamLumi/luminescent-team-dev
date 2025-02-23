@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[985756],{833570:e=>{e.exports="/luminescent-team-dev/pokedex/bunnelby"}}]);

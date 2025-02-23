@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[923730],{798653:e=>{e.exports="/luminescent-team-dev/pokedex/hisui-lilligant"}}]);

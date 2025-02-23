@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[406311],{534038:e=>{e.exports="/luminescent-team-dev/pokedex/popplio"}}]);

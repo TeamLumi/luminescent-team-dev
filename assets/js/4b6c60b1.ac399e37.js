@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[734779],{340737:e=>{e.exports="/luminescent-team-dev/pokedex/phantump"}}]);

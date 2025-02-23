@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[77098],{487182:e=>{e.exports="/luminescent-team-dev/pokedex/hisui-growlithe"}}]);

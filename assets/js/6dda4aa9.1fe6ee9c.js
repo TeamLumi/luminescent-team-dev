@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[591536],{772543:e=>{e.exports="/luminescent-team-dev/pokedex/hoenn-cap-pikachu"}}]);

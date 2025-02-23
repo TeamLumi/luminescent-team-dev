@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[768451],{162313:e=>{e.exports="/luminescent-team-dev/pokedex/virizion"}}]);

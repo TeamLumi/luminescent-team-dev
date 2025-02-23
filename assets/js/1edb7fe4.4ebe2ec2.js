@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[989217],{853658:e=>{e.exports="/luminescent-team-dev/pokedex/sobble"}}]);

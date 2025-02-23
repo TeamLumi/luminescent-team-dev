@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[429006],{996134:e=>{e.exports="/luminescent-team-dev/pokedex/aerodactyl"}}]);

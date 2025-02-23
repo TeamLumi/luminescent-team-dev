@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[852153],{958039:e=>{e.exports="/luminescent-team-dev/pokedex/sylveon"}}]);

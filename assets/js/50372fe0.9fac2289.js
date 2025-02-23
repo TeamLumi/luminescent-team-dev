@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[264304],{600156:e=>{e.exports="/luminescent-team-dev/pokedex/dusclops"}}]);
