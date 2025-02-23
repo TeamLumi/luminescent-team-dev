@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[236848],{436454:e=>{e.exports="/luminescent-team-dev/pokedex/ruby-cream-clover-alcremie"}}]);

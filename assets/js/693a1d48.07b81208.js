@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[581861],{492545:e=>{e.exports="/luminescent-team-dev/pokedex/zygarde-10-power-construct"}}]);

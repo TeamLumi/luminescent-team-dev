@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[879885],{692939:e=>{e.exports="/luminescent-team-dev/pokedex/nosepass"}}]);
