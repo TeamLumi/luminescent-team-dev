@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[154955],{780374:e=>{e.exports="/luminescent-team-dev/pokedex/flygon"}}]);

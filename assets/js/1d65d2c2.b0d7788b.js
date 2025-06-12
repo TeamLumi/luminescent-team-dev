@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[914694],{427733:e=>{e.exports="/luminescent-team-dev/pokedex/alola-cap-pikachu"}}]);

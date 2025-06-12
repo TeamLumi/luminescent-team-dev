@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[624975],{81224:e=>{e.exports="/luminescent-team-dev/pokedex/rabsca"}}]);

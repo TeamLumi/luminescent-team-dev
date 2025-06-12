@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[689407],{704058:e=>{e.exports="/luminescent-team-dev/pokedex/gardevoir"}}]);

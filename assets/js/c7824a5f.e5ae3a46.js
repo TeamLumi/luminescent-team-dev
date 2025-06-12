@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[712476],{755297:e=>{e.exports="/luminescent-team-dev/pokedex/mega-heracross"}}]);
