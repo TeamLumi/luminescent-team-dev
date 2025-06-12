@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[851130],{174849:e=>{e.exports="/luminescent-team-dev/pokedex/swinub"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[656390],{719626:e=>{e.exports="/luminescent-team-dev/pokedex/sunshine-form-cherrim"}}]);

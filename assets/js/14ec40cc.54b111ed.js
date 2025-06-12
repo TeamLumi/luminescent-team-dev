@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[924498],{689686:e=>{e.exports="/luminescent-team-dev/pokedex/swellow"}}]);

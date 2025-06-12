@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[22287],{415134:e=>{e.exports="/luminescent-team-dev/pokedex/skiddo"}}]);

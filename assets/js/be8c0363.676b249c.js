@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[332808],{53546:e=>{e.exports="/luminescent-team-dev/pokedex/frenzied-lord-of-the-hollow-hisui-electrode"}}]);

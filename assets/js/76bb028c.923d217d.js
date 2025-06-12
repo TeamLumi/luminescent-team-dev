@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[200207],{769310:e=>{e.exports="/luminescent-team-dev/pokedex/flapple"}}]);

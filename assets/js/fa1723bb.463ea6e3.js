@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[366147],{840564:e=>{e.exports="/luminescent-team-dev/pokedex/scraggy"}}]);

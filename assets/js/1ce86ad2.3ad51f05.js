@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[921501],{410192:e=>{e.exports="/luminescent-team-dev/pokedex/bisharp"}}]);

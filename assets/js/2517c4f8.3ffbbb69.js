@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[393650],{275827:e=>{e.exports="/luminescent-team-dev/pokedex/lileep"}}]);

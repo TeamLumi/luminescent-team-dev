@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[725812],{611027:e=>{e.exports="/luminescent-team-dev/pokedex/dondozo"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[520375],{427068:e=>{e.exports="/luminescent-team-dev/pokedex/ruby-swirl-love-alcremie"}}]);

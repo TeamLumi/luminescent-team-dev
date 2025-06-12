@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[610047],{479910:e=>{e.exports="/luminescent-team-dev/pokedex/alola-raichu"}}]);

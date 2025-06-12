@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[719105],{916033:e=>{e.exports="/luminescent-team-dev/pokedex/fidough"}}]);

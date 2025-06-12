@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[943730],{502866:e=>{e.exports="/luminescent-team-dev/pokedex/yanma"}}]);
