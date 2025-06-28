@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[996956],{885674:e=>{e.exports="/luminescent-team-dev/pokedex/titanic-munkidori"}}]);

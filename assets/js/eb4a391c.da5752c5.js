@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[762714],{370386:e=>{e.exports="/luminescent-team-dev/pokedex/open-sky-titan-bombirdier"}}]);

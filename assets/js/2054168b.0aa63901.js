@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[391131],{282567:e=>{e.exports="/luminescent-team-dev/pokedex/onix"}}]);

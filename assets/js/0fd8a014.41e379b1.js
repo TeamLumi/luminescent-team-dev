@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[600906],{990962:e=>{e.exports="/luminescent-team-dev/pokedex/ceruledge"}}]);

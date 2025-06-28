@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[711869],{5195:e=>{e.exports="/luminescent-team-dev/pokedex/vileplume"}}]);
