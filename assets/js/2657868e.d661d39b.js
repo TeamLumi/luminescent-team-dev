@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[186655],{413728:e=>{e.exports="/luminescent-team-dev/pokedex/surskit"}}]);

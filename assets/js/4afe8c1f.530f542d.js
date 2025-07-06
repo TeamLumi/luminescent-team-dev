@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[427410],{738473:e=>{e.exports="/luminescent-team-dev/pokedex/salted-cream-berry-alcremie"}}]);

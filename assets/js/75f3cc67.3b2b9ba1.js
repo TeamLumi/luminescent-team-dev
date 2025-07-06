@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[566429],{516332:e=>{e.exports="/luminescent-team-dev/pokedex/winter-form-sawsbuck"}}]);

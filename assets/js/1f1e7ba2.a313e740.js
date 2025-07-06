@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[256470],{150425:e=>{e.exports="/luminescent-team-dev/pokedex/pawniard"}}]);

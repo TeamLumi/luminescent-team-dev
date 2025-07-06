@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[109129],{982736:e=>{e.exports="/luminescent-team-dev/pokedex/totem-salazzle"}}]);

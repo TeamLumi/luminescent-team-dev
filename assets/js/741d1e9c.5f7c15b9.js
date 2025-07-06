@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[997845],{45886:e=>{e.exports="/luminescent-team-dev/pokedex/trumbeak"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[997510],{124442:e=>{e.exports="/luminescent-team-dev/pokedex/solo-form-wishiwashi"}}]);

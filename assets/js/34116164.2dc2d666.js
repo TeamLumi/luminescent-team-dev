@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[174019],{38116:e=>{e.exports="/luminescent-team-dev/pokedex/swirlix"}}]);
