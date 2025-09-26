@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[372173],{342590:e=>{e.exports="/luminescent-team-dev/pokedex/dusk-form-lycanroc"}}]);

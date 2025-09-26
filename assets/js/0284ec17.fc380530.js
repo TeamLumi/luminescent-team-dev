@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[180055],{129290:e=>{e.exports="/luminescent-team-dev/pokedex/ledyba"}}]);

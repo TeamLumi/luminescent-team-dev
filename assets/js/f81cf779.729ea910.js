@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[278014],{857044:e=>{e.exports="/luminescent-team-dev/pokedex/-bug-silvally"}}]);

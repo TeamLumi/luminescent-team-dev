@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[230009],{741509:e=>{e.exports="/luminescent-team-dev/pokedex/watchog"}}]);

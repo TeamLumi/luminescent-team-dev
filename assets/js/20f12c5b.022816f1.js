@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[999522],{74334:e=>{e.exports="/luminescent-team-dev/pokedex/venomoth"}}]);

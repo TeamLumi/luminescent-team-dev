@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[737246],{424524:e=>{e.exports="/luminescent-team-dev/pokedex/trash-cloak-burmy"}}]);

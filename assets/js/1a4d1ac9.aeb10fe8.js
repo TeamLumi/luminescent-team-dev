@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[639238],{172832:e=>{e.exports="/luminescent-team-dev/pokedex/alola-vulpix"}}]);
