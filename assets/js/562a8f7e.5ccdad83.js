@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[475769],{972679:e=>{e.exports="/luminescent-team-dev/pokedex/spinarak"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[695914],{24364:e=>{e.exports="/luminescent-team-dev/pokedex/totem-alola-marowak"}}]);

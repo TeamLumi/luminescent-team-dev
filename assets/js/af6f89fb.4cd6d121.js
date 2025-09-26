@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[624570],{92716:e=>{e.exports="/luminescent-team-dev/pokedex/greedent"}}]);

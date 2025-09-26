@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[804688],{675749:e=>{e.exports="/luminescent-team-dev/pokedex/shadow-lugia"}}]);

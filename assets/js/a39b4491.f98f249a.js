@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[511703],{356905:e=>{e.exports="/luminescent-team-dev/pokedex/falinks"}}]);
