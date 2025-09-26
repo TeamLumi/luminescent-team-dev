@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[69362],{483057:e=>{e.exports="/luminescent-team-dev/pokedex/snorunt"}}]);

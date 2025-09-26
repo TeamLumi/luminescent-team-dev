@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[43303],{363527:e=>{e.exports="/luminescent-team-dev/pokedex/chikorita"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[116056],{858487:e=>{e.exports="/luminescent-team-dev/pokedex/salandit"}}]);

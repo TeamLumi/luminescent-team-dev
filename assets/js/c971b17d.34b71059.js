@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[145485],{563690:e=>{e.exports="/luminescent-team-dev/pokedex/combusken"}}]);

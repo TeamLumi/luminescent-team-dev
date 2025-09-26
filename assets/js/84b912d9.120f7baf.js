@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[94076],{315369:e=>{e.exports="/luminescent-team-dev/pokedex/beldum"}}]);
