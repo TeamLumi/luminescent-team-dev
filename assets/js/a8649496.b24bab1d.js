@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[53926],{67576:e=>{e.exports="/luminescent-team-dev/pokedex/revavroom"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[664857],{90474:e=>{e.exports="/luminescent-team-dev/pokedex/hattrem"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[585322],{835368:e=>{e.exports="/luminescent-team-dev/pokedex/tentacool"}}]);
