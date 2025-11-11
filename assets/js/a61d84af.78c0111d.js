@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[645286],{576709:e=>{e.exports="/luminescent-team-dev/pokedex/weezing"}}]);

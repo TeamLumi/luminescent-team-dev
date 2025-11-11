@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[286829],{250453:e=>{e.exports="/luminescent-team-dev/pokedex/sudowoodo"}}]);

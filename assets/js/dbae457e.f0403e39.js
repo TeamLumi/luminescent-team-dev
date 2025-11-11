@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[874511],{83387:e=>{e.exports="/luminescent-team-dev/pokedex/grovyle"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[306773],{766415:e=>{e.exports="/luminescent-team-dev/pokedex/amaura"}}]);

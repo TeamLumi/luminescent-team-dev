@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[720200],{666241:e=>{e.exports="/luminescent-team-dev/pokedex/sandile"}}]);

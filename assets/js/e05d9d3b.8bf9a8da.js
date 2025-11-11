@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[502387],{906182:e=>{e.exports="/luminescent-team-dev/pokedex/lokix"}}]);
