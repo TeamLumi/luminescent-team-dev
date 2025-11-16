@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[753122],{536577:e=>{e.exports="/luminescent-team-dev/pokedex/alola-graveler"}}]);

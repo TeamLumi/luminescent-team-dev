@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[177293],{416311:e=>{e.exports="/luminescent-team-dev/pokedex/yungoos"}}]);

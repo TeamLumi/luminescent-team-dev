@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[763666],{520892:e=>{e.exports="/luminescent-team-dev/pokedex/galvantula"}}]);
