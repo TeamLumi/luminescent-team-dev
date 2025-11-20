@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[200447],{613741:e=>{e.exports="/pokedex/noctowl"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[931045],{563493:e=>{e.exports="/pokedex/iron-leaves"}}]);

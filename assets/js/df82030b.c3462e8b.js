@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[164724],{317023:e=>{e.exports="/pokedex/zeraora"}}]);

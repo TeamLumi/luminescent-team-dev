@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[992434],{845850:e=>{e.exports="/pokedex/pidove"}}]);

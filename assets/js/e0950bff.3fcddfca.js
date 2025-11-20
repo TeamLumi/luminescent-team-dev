@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[506372],{935273:e=>{e.exports="/pokedex/iron-treads"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[47103],{819010:e=>{e.exports="/pokedex/horsea"}}]);

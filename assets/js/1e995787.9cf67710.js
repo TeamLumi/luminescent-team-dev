@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[341250],{689942:e=>{e.exports="/pokedex/zangoose"}}]);

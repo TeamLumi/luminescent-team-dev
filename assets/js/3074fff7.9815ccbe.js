@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[777863],{859914:e=>{e.exports="/pokedex/morgrem"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[296314],{603188:e=>{e.exports="/pokedex/shelgon"}}]);

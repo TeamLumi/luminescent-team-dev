@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[372857],{423233:e=>{e.exports="/pokedex/therian-forme-enamorus"}}]);

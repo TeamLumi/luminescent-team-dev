@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[393580],{946577:e=>{e.exports="/pokedex/carbink"}}]);

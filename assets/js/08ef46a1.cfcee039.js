@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[408582],{182562:e=>{e.exports="/pokedex/raboot"}}]);

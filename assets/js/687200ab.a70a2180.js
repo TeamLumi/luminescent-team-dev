@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[28384],{529971:e=>{e.exports="/pokedex/poipole"}}]);

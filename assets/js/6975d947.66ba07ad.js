@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[294207],{360929:e=>{e.exports="/pokedex/origin-forme-palkia"}}]);

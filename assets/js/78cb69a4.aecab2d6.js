@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[812852],{192998:e=>{e.exports="/pokedex/gossifleur"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[13537],{506088:e=>{e.exports="/pokedex/toxicroak"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[917488],{999335:e=>{e.exports="/pokedex/sandstorm-pattern-vivillon"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[477619],{796324:e=>{e.exports="/pokedex/bellsprout"}}]);

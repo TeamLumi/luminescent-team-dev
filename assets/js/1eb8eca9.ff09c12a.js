@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[150394],{853400:e=>{e.exports="/luminescent-team-dev/pokedex/cinccino"}}]);

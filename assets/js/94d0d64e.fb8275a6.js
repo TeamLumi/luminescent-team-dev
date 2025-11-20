@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[854758],{691241:e=>{e.exports="/pokedex/cetitan"}}]);

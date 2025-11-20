@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[653968],{525931:e=>{e.exports="/pokedex/female-oinkologne"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[625234],{76325:e=>{e.exports="/pokedex/scatterbug"}}]);

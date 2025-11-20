@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[957310],{829402:e=>{e.exports="/pokedex/bruxish"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[32867],{613965:e=>{e.exports="/pokedex/koffing"}}]);

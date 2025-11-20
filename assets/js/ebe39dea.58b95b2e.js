@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[533855],{461079:e=>{e.exports="/pokedex/terastal-hearthflame-mask-ogerpon"}}]);

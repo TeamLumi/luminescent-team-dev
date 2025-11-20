@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[702806],{483466:e=>{e.exports="/luminescent-team-dev/pokedex/mega-pidgeot"}}]);

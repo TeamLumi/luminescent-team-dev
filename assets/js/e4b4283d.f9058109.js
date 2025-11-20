@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[93655],{932005:e=>{e.exports="/pokedex/vanillish"}}]);

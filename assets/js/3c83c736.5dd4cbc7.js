@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[630421],{652791:e=>{e.exports="/pokedex/munkidori"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[817322],{435862:e=>{e.exports="/pokedex/toxapex"}}]);

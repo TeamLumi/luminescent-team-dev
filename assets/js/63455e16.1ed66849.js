@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[514882],{256173:e=>{e.exports="/pokedex/wurmple"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[286293],{141278:e=>{e.exports="/pokedex/ampharos"}}]);

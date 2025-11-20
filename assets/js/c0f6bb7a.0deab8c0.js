@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[10172],{554257:e=>{e.exports="/pokedex/lombre"}}]);

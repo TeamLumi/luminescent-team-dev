@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[338098],{877591:e=>{e.exports="/luminescent-team-dev/pokedex/venonat"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[304275],{756002:e=>{e.exports="/pokedex/azelf"}}]);

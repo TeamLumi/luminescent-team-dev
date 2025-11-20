@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[404687],{712202:e=>{e.exports="/pokedex/fennekin"}}]);

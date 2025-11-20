@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[824484],{514914:e=>{e.exports="/pokedex/happiny"}}]);

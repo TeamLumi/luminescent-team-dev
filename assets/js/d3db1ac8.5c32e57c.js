@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[324127],{281582:e=>{e.exports="/pokedex/feraligatr"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[298116],{872637:e=>{e.exports="/pokedex/gmax-duraludon"}}]);

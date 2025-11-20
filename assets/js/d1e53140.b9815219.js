@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[439160],{224457:e=>{e.exports="/pokedex/brionne"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[210960],{88896:e=>{e.exports="/luminescent-team-dev/pokedex/fuecoco"}}]);

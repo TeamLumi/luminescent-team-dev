@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[603584],{645777:e=>{e.exports="/pokedex/chatot"}}]);

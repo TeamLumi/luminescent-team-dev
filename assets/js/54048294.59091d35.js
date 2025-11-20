@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[91064],{105707:e=>{e.exports="/pokedex/mega-beedrill"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[970300],{934969:e=>{e.exports="/pokedex/copperajah"}}]);

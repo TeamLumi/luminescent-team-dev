@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[258039],{12551:e=>{e.exports="/pokedex/gothitelle"}}]);

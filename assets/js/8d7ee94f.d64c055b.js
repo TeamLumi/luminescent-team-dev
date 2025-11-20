@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[840308],{430351:e=>{e.exports="/pokedex/rainy-form-cast"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[692749],{289516:e=>{e.exports="/pokedex/geodude"}}]);

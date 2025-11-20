@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[729937],{373430:e=>{e.exports="/pokedex/corviknight"}}]);

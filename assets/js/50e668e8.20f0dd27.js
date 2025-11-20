@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[179536],{948557:e=>{e.exports="/pokedex/mega-sableye"}}]);

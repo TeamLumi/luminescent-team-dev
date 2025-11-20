@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[624048],{132388:e=>{e.exports="/pokedex/orange-meteor-form-minior"}}]);

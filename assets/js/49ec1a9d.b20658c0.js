@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[440810],{464536:e=>{e.exports="/pokedex/qwilfish"}}]);

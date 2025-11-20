@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[363338],{336208:e=>{e.exports="/pokedex/melmetal"}}]);

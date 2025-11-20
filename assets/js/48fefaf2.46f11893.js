@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[238750],{332226:e=>{e.exports="/luminescent-team-dev/pokedex/sensu-style-oricorio"}}]);

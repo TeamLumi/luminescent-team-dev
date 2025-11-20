@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[868447],{344414:e=>{e.exports="/luminescent-team-dev/pokedex/debutante-trim-furfrou"}}]);

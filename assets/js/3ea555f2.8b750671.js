@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[354391],{932569:e=>{e.exports="/pokedex/delibird"}}]);

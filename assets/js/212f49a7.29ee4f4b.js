@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[657684],{114864:e=>{e.exports="/pokedex/volcarona"}}]);

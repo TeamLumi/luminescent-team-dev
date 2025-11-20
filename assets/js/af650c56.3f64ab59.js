@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[719303],{272408:e=>{e.exports="/pokedex/mega-abomasnow"}}]);

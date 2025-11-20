@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[488093],{700096:e=>{e.exports="/pokedex/dusknoir"}}]);

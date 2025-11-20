@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[715428],{152059:e=>{e.exports="/luminescent-team-dev/pokedex/alola-sandshrew"}}]);

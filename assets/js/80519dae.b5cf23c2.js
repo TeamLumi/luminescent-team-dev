@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[738477],{236707:e=>{e.exports="/pokedex/misdreavus"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[781236],{221394:e=>{e.exports="/pokedex/cosplay-phd-pikachu"}}]);

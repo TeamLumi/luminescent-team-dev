@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[923254],{977893:e=>{e.exports="/pokedex/arcanine"}}]);

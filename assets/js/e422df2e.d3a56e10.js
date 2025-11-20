@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[262401],{238119:e=>{e.exports="/pokedex/school-form-wishiwashi"}}]);

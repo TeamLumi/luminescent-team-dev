@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[63399],{87650:e=>{e.exports="/pokedex/paras"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[500083],{448898:e=>{e.exports="/pokedex/clone-blastoise"}}]);

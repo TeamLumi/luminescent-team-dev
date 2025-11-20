@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[649653],{397272:e=>{e.exports="/pokedex/golem"}}]);

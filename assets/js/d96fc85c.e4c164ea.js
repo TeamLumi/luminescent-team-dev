@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[680744],{135636:e=>{e.exports="/pokedex/pincurchin"}}]);

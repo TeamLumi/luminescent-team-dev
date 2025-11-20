@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[128517],{34529:e=>{e.exports="/pokedex/gmax-cinderace"}}]);

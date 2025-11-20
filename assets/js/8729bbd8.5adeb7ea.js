@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[862370],{658561:e=>{e.exports="/pokedex/abomasnow"}}]);

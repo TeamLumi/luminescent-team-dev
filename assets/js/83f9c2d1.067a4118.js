@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[403185],{989075:e=>{e.exports="/pokedex/yveltal"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[454656],{662408:e=>{e.exports="/pokedex/clone-charizard"}}]);

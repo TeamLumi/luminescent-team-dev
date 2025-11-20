@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[267819],{983949:e=>{e.exports="/pokedex/magby"}}]);

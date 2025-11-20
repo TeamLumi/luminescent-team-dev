@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[533187],{37579:e=>{e.exports="/pokedex/poliwhirl"}}]);

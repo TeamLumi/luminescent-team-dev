@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[35153],{431492:e=>{e.exports="/pokedex/magneton"}}]);

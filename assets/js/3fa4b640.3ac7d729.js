@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[950343],{95297:e=>{e.exports="/pokedex/mega-medicham"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[832475],{267685:e=>{e.exports="/pokedex/stellar-form-terapagos"}}]);

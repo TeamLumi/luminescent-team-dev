@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[297097],{426618:e=>{e.exports="/pokedex/alola-grimer"}}]);

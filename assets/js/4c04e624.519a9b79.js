@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[185102],{394001:e=>{e.exports="/pokedex/fearow"}}]);

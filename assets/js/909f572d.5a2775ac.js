@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[285960],{910079:e=>{e.exports="/luminescent-team-dev/pokedex/gengar"}}]);

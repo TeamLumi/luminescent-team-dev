@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[37563],{458494:e=>{e.exports="/luminescent-team-dev/pokedex/normal-form-cast"}}]);

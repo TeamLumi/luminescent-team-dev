@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[899121],{114500:e=>{e.exports="/pokedex/glaceon"}}]);

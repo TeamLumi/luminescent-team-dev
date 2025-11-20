@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[48889],{864005:e=>{e.exports="/pokedex/tyrantrum"}}]);

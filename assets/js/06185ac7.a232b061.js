@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[935468],{535781:e=>{e.exports="/pokedex/honedge"}}]);

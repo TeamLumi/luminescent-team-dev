@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[414709],{868647:e=>{e.exports="/pokedex/avalugg"}}]);

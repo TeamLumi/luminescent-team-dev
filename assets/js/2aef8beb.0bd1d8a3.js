@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[144343],{735751:e=>{e.exports="/pokedex/clone-pikachu"}}]);

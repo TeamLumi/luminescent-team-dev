@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[353563],{899355:e=>{e.exports="/pokedex/veluza"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[236003],{425598:e=>{e.exports="/pokedex/scorbunny"}}]);

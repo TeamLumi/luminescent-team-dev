@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[920138],{926296:e=>{e.exports="/pokedex/bombirdier"}}]);

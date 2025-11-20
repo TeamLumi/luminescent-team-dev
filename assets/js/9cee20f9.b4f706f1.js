@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[268414],{586804:e=>{e.exports="/luminescent-team-dev/pokedex/metang"}}]);

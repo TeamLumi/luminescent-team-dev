@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[557487],{699643:e=>{e.exports="/pokedex/articuno"}}]);

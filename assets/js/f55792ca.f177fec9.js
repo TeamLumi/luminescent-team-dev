@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[808858],{205189:e=>{e.exports="/pokedex/varoom"}}]);

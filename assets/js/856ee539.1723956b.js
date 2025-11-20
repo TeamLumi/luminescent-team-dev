@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[263716],{837480:e=>{e.exports="/pokedex/seel"}}]);

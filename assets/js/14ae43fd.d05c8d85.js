@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[577191],{48497:e=>{e.exports="/pokedex/exploud"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[810710],{4348:e=>{e.exports="/pokedex/zekrom"}}]);
