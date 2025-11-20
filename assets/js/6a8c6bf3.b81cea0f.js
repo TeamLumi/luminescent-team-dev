@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[446302],{453765:e=>{e.exports="/pokedex/greavard"}}]);

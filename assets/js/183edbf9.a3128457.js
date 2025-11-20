@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[806462],{898123:e=>{e.exports="/pokedex/tympole"}}]);

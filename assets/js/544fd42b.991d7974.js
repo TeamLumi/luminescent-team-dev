@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[455892],{271894:e=>{e.exports="/pokedex/palossand"}}]);

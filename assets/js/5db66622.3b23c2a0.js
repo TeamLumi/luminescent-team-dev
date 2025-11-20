@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[784456],{30075:e=>{e.exports="/pokedex/annihilape"}}]);

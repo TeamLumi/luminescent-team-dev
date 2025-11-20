@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[247733],{878673:e=>{e.exports="/pokedex/galar-articuno"}}]);

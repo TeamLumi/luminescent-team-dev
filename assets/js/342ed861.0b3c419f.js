@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[705515],{152386:e=>{e.exports="/pokedex/mienshao"}}]);

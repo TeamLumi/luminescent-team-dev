@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[7682],{571588:e=>{e.exports="/pokedex/cosplay-rock-star-pikachu"}}]);

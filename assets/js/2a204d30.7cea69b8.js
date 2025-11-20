@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[635410],{541773:e=>{e.exports="/pokedex/kabuki-trim-furfrou"}}]);

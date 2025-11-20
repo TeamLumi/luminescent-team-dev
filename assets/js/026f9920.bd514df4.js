@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[328689],{342578:e=>{e.exports="/pokedex/samurott"}}]);

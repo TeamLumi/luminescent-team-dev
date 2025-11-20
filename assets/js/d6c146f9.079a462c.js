@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[825299],{696160:e=>{e.exports="/pokedex/pangoro"}}]);

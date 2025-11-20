@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[75459],{527947:e=>{e.exports="/pokedex/shroomish"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[48428],{611949:e=>{e.exports="/pokedex/hypno"}}]);

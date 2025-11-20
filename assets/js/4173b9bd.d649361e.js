@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[855449],{995576:e=>{e.exports="/pokedex/bergmite"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[792287],{461009:e=>{e.exports="/pokedex/claydol"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[81171],{44832:e=>{e.exports="/pokedex/tepig"}}]);

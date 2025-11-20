@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[416600],{93479:e=>{e.exports="/pokedex/tundra-pattern-vivillon"}}]);

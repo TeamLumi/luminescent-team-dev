@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[237833],{75636:e=>{e.exports="/pokedex/jirachi"}}]);

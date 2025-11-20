@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[962979],{812975:e=>{e.exports="/pokedex/whiscash"}}]);

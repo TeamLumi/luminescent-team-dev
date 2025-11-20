@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[226920],{739934:e=>{e.exports="/pokedex/aromatisse"}}]);

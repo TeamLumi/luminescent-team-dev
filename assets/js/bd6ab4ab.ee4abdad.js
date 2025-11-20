@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[450436],{139725:e=>{e.exports="/pokedex/hisui-voltorb"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[762610],{255253:e=>{e.exports="/luminescent-team-dev/pokedex/gmax-orbeetle"}}]);

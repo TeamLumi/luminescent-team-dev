@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[763680],{427512:e=>{e.exports="/pokedex/houndour"}}]);

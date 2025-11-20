@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[238437],{244555:e=>{e.exports="/pokedex/ice-face-eiscue"}}]);

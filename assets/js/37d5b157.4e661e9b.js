@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[585968],{271158:e=>{e.exports="/pokedex/houndoom"}}]);

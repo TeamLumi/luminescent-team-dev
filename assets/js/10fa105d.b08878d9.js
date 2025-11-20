@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[646052],{815630:e=>{e.exports="/pokedex/naganadel"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[356246],{544278:e=>{e.exports="/pokedex/accelgor"}}]);

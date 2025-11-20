@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[836026],{149008:e=>{e.exports="/pokedex/slakoth"}}]);

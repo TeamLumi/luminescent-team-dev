@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[642767],{6932:e=>{e.exports="/pokedex/skrelp"}}]);

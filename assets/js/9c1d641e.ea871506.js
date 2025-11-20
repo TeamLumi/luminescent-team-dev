@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[921226],{230376:e=>{e.exports="/pokedex/gallade"}}]);

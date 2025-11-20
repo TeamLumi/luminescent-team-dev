@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[509481],{820588:e=>{e.exports="/pokedex/kommo-o"}}]);

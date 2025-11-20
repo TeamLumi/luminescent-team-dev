@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[455971],{133032:e=>{e.exports="/pokedex/nuzleaf"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[423676],{185034:e=>{e.exports="/pokedex/archaludon"}}]);

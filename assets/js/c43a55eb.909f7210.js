@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[157223],{274394:e=>{e.exports="/pokedex/mega-metagross"}}]);

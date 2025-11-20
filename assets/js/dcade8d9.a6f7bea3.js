@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[64128],{519057:e=>{e.exports="/pokedex/golett"}}]);

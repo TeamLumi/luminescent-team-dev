@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[222011],{260779:e=>{e.exports="/pokedex/helioptile"}}]);

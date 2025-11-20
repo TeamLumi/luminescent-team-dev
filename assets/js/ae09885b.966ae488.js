@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[535378],{412111:e=>{e.exports="/pokedex/dottler"}}]);

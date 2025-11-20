@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[720783],{623318:e=>{e.exports="/pokedex/cutiefly"}}]);

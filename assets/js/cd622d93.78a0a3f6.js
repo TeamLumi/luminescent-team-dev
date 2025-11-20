@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[23876],{913196:e=>{e.exports="/pokedex/grumpig"}}]);

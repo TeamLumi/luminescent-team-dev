@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[12253],{210338:e=>{e.exports="/pokedex/confined-hoopa"}}]);

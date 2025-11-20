@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[16302],{405043:e=>{e.exports="/pokedex/volbeat"}}]);

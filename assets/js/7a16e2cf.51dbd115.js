@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[137711],{3418:e=>{e.exports="/pokedex/lickitung"}}]);

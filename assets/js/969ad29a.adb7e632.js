@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[970847],{565853:e=>{e.exports="/pokedex/seadra"}}]);

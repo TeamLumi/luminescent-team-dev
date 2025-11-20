@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[514180],{549092:e=>{e.exports="/pokedex/hitmonchan"}}]);

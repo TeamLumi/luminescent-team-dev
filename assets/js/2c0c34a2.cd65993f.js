@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[862134],{720150:e=>{e.exports="/pokedex/spheal"}}]);

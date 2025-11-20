@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[896243],{952673:e=>{e.exports="/pokedex/sharpedo"}}]);

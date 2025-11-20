@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[942326],{405217:e=>{e.exports="/pokedex/nincada"}}]);

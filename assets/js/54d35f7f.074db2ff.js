@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[875898],{105121:e=>{e.exports="/pokedex/foongus"}}]);

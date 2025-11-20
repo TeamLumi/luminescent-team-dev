@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[653565],{261623:e=>{e.exports="/pokedex/deino"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[775421],{998595:e=>{e.exports="/pokedex/gmax-alcremie"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[571677],{457667:e=>{e.exports="/pokedex/weepinbell"}}]);

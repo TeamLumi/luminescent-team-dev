@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[351883],{524078:e=>{e.exports="/pokedex/cyclizar"}}]);

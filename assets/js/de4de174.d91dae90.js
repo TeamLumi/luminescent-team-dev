@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[611592],{395578:e=>{e.exports="/pokedex/tangela"}}]);

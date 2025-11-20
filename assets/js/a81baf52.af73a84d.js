@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[490882],{706729:e=>{e.exports="/pokedex/durant"}}]);

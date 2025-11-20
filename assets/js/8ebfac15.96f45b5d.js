@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[421087],{997933:e=>{e.exports="/pokedex/nacli"}}]);

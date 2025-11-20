@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[312198],{705702:e=>{e.exports="/pokedex/alola-muk"}}]);

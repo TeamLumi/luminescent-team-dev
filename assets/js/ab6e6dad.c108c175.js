@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[718765],{858770:e=>{e.exports="/pokedex/stakataka"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[183673],{572325:e=>{e.exports="/pokedex/gliscor"}}]);

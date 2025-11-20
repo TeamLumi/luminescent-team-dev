@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[946855],{88205:e=>{e.exports="/pokedex/blastoise"}}]);

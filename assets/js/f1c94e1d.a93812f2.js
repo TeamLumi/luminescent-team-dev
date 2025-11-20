@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[807002],{159525:e=>{e.exports="/pokedex/haunter"}}]);

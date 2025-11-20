@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[705028],{418150:e=>{e.exports="/pokedex/druddigon"}}]);

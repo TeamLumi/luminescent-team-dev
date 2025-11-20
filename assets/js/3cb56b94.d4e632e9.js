@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[559653],{461411:e=>{e.exports="/pokedex/savanna-pattern-vivillon"}}]);

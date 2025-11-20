@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[779399],{400904:e=>{e.exports="/pokedex/kingambit"}}]);

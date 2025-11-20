@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[25145],{929804:e=>{e.exports="/pokedex/klang"}}]);

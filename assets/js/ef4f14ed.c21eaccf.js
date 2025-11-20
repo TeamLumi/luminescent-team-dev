@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[247021],{181457:e=>{e.exports="/pokedex/spooky-plate-arceus"}}]);

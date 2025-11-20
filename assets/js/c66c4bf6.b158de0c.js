@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[124787],{422621:e=>{e.exports="/pokedex/simisage"}}]);

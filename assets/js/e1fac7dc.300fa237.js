@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[785919],{430952:e=>{e.exports="/pokedex/spidops"}}]);

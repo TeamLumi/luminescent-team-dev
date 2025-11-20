@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[789322],{555720:e=>{e.exports="/pokedex/gmax-flapple"}}]);

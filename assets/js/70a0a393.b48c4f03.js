@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[126069],{397990:e=>{e.exports="/pokedex/ducklett"}}]);

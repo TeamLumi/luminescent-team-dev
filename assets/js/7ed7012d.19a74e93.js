@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[957605],{983918:e=>{e.exports="/pokedex/rhyhorn"}}]);

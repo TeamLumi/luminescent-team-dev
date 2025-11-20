@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[257969],{166314:e=>{e.exports="/pokedex/doduo"}}]);

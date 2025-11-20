@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[961848],{912833:e=>{e.exports="/pokedex/ledian"}}]);

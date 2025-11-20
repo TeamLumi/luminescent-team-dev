@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[384510],{2857:e=>{e.exports="/pokedex/raichu"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[135403],{740016:e=>{e.exports="/pokedex/hisui-braviary"}}]);

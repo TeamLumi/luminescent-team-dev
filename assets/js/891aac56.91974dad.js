@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[397174],{965460:e=>{e.exports="/pokedex/silicobra"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[117213],{598877:e=>{e.exports="/pokedex/stoutland"}}]);

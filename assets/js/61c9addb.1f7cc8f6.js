@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[278889],{75629:e=>{e.exports="/pokedex/lugia"}}]);

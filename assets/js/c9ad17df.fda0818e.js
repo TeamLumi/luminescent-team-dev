@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[735515],{989114:e=>{e.exports="/pokedex/hoothoot"}}]);

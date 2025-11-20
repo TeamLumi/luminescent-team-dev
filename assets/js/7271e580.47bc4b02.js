@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[322949],{344105:e=>{e.exports="/pokedex/blipbug"}}]);

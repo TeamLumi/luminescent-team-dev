@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[952187],{117660:e=>{e.exports="/pokedex/seismitoad"}}]);

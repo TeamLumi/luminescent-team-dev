@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[238580],{722325:e=>{e.exports="/pokedex/mega-altaria"}}]);

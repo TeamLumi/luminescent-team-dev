@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[534769],{401717:e=>{e.exports="/pokedex/primal-kyogre"}}]);

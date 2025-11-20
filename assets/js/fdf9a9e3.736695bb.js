@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[903247],{497833:e=>{e.exports="/pokedex/paldea-wooper"}}]);

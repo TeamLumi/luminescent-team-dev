@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[704738],{405055:e=>{e.exports="/pokedex/heat-rotom"}}]);

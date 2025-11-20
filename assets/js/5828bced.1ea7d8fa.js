@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[640527],{943253:e=>{e.exports="/pokedex/phione"}}]);

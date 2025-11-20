@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[78944],{30454:e=>{e.exports="/pokedex/grapploct"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[540400],{18506:e=>{e.exports="/pokedex/swoobat"}}]);

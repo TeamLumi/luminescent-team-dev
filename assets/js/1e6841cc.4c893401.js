@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[803675],{378941:e=>{e.exports="/pokedex/magnezone"}}]);

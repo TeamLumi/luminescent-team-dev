@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[235498],{84882:e=>{e.exports="/pokedex/-psychic-silvally"}}]);

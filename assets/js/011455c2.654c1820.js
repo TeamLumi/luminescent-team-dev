@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[983330],{820698:e=>{e.exports="/pokedex/braixen"}}]);

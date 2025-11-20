@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[141457],{944823:e=>{e.exports="/pokedex/wattrel"}}]);

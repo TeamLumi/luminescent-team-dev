@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[922727],{368757:e=>{e.exports="/pokedex/glimmet"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[679119],{317574:e=>{e.exports="/pokedex/sunflora"}}]);

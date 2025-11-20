@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[334351],{421722:e=>{e.exports="/pokedex/galar-slowking"}}]);

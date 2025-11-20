@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[305726],{582229:e=>{e.exports="/pokedex/mega-venusaur"}}]);

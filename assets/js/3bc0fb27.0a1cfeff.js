@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[101937],{323214:e=>{e.exports="/pokedex/budew"}}]);

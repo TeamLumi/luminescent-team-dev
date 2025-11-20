@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[593584],{323695:e=>{e.exports="/pokedex/sandy-cloak-burmy"}}]);

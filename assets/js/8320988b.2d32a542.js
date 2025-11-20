@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[890575],{539201:e=>{e.exports="/pokedex/incineroar"}}]);

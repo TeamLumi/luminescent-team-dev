@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[144975],{802720:e=>{e.exports="/pokedex/ultra-necrozma"}}]);

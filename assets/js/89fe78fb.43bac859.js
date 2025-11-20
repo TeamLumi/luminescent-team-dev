@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[209316],{667776:e=>{e.exports="/pokedex/red-flower-florges"}}]);

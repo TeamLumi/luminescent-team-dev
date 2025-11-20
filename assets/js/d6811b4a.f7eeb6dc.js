@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[668995],{666955:e=>{e.exports="/pokedex/celesteela"}}]);

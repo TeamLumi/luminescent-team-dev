@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[444379],{946036:e=>{e.exports="/pokedex/iron-thorns"}}]);
