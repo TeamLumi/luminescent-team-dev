@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[53621],{767315:e=>{e.exports="/luminescent-team-dev/pokedex/shelmet"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[843570],{624419:e=>{e.exports="/luminescent-team-dev/pokedex/white-flower-flabb"}}]);
