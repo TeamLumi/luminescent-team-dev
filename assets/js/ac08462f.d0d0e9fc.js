@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[408830],{172306:e=>{e.exports="/luminescent-team-dev/pokedex/malamar"}}]);

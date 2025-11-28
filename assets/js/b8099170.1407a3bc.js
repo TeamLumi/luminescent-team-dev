@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[748803],{9020:e=>{e.exports="/luminescent-team-dev/pokedex/charjabug"}}]);

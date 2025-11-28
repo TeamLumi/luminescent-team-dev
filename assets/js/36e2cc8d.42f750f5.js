@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[287115],{285455:e=>{e.exports="/luminescent-team-dev/pokedex/mudsdale"}}]);

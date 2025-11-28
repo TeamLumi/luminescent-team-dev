@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[576365],{801473:e=>{e.exports="/luminescent-team-dev/pokedex/yellow-flower-florges"}}]);

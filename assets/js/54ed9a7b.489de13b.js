@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[691017],{783950:e=>{e.exports="/luminescent-team-dev/pokedex/shadow-mewtwo"}}]);

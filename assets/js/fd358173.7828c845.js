@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[564309],{703483:e=>{e.exports="/luminescent-team-dev/pokedex/hydrapple"}}]);

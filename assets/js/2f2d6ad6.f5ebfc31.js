@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[155387],{95755:e=>{e.exports="/luminescent-team-dev/pokedex/throh"}}]);

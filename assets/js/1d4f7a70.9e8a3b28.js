@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[638401],{663164:e=>{e.exports="/luminescent-team-dev/pokedex/hangry-mode-morpeko"}}]);

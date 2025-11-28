@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[722492],{12956:e=>{e.exports="/luminescent-team-dev/pokedex/west-sea-shellos"}}]);

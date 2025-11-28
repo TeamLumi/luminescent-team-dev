@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[724154],{714270:e=>{e.exports="/luminescent-team-dev/pokedex/gorebyss"}}]);

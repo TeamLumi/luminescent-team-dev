@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[478705],{259616:e=>{e.exports="/luminescent-team-dev/pokedex/typhlosion"}}]);

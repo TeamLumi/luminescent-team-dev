@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[25871],{381833:e=>{e.exports="/luminescent-team-dev/pokedex/gmax-blastoise"}}]);

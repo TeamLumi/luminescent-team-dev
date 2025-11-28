@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[709159],{985708:e=>{e.exports="/luminescent-team-dev/pokedex/kabutops"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[328834],{659003:e=>{e.exports="/luminescent-team-dev/pokedex/fraxure"}}]);

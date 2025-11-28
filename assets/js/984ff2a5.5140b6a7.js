@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[931613],{220072:e=>{e.exports="/luminescent-team-dev/pokedex/spectrier"}}]);

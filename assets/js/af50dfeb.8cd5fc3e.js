@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[680430],{162192:e=>{e.exports="/luminescent-team-dev/pokedex/runerigus"}}]);

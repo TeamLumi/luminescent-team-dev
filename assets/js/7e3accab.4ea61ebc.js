@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[235635],{100998:e=>{e.exports="/luminescent-team-dev/pokedex/solosis"}}]);

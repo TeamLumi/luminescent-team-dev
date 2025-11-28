@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[883575],{604470:e=>{e.exports="/luminescent-team-dev/pokedex/pecharunt"}}]);

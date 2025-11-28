@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[968773],{180694:e=>{e.exports="/luminescent-team-dev/pokedex/leafeon"}}]);

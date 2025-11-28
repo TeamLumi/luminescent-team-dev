@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[310293],{886601:e=>{e.exports="/luminescent-team-dev/pokedex/aqua-breed-paldea-tauros"}}]);
