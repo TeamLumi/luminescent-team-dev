@@ -133,6 +133,7 @@ function getMoveProperties(moveId = 0, mode = GAMEDATA2, extendedDetails = false
   let statusEffects = null;
   let critRatio = null;
   let statChanges = null;
+  let aiSeqNo = null;
 
   if (extendedDetails) {
     const moveFlags = move.flags;
@@ -162,6 +163,8 @@ function getMoveProperties(moveId = 0, mode = GAMEDATA2, extendedDetails = false
       {statType: STATS_TO_CHANGE[move.rankEffType2], stages: move.rankEffValue2, rate: move.rankEffPer2},
       {statType: STATS_TO_CHANGE[move.rankEffType3], stages: move.rankEffValue3, rate: move.rankEffPer3},
     ];
+
+    aiSeqNo = move.aiSeqNo;
   }
 
   return {
@@ -187,6 +190,7 @@ function getMoveProperties(moveId = 0, mode = GAMEDATA2, extendedDetails = false
       hpRecover: move.hpRecoverRatio,
       target: MOVE_TARGETING[move.target],
       moveFlags: flagArray,
+      aiSeqNo,
     })
   };
 }

@@ -20,6 +20,7 @@ import {
   FormGroup,
   FormControlLabel,
   switchClasses,
+  TextField,
 } from '@mui/material';
 import CloseIcon from '@mui/icons-material/Close';
 
@@ -78,6 +79,7 @@ export const defaultSearchTable = {
   healDamage: { label: null, value: null },
   hpRecover: { label: null, value: null },
   target: { label: null, value: null },
+  aiSeqNo: { label: null, value: null },
   moveFlags: [
     { label: null, value: null },
     { label: null, value: null },
@@ -846,6 +848,19 @@ const MoveFilterDrawer = ({
               );
             })}
           </Box>
+        </PokemonAccordion>
+        {/* TODO DEV ONLY FEATURE!!! REMOVE BEFORE SENDING TO MAIN!!! */}
+        <PokemonAccordion title="AI Sequence Number">
+          <TextField
+            id="ai-sequence-number"
+            label="AI Sequence Number"
+            variant="outlined"
+            type="number"
+            value={searchTable.aiSeqNo?.value ?? ""}
+            onChange={(event) => {
+              handleChange("aiSeqNo", {value: parseInt(event.target.value), label: event.target.value});
+            }}
+          />
         </PokemonAccordion>
         <PokemonAccordion title={"Flags"}>
           <Typography display="flex" justifyContent="center">Click twice to search the opposite.</Typography>
