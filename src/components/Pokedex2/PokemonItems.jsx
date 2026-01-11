@@ -68,7 +68,8 @@ export const PokemonItems = ({ item1, item2, item3 }) => {
                 <Box gridColumn="span 3">
                   <Typography >
                     If the Lead Pokémon has Frisk,<br />
-                    Super Luck or Compound Eyes:</Typography>
+                    Super Luck or Compound Eyes:
+                  </Typography>
                 </Box>
                 {(item1 !== "None" && !allItems) && (<ItemContainer item={item1} percentage={60} span='span 1' />)}
                 {(item3 !== "None" && !allItems) && (<ItemContainer item={item3} percentage={20} span='span 1' />)}
@@ -91,7 +92,7 @@ const ItemContainer = ({item, percentage, span='span 2'}) => {
       <Box gridColumn={span}>
         <ImageWithFallback
           key={item}
-          src={item}
+          src={useBaseUrl(`${getItemImageUrl(item)}`)}
           fallbackSrc={`/img/pkm/pm0000_00_00_00_L.webp`}
           width="40"
           alt={item}

@@ -7,11 +7,11 @@ import { ImageWithFallback } from '../common/ImageWithFallback';
 import { useGlobalState } from '../common/GlobalState';
 import { getPokemonName } from '../../utils/dex/name';
 
-export const PokemonLocations = ({ locations, showMore, setShowMoreLocations, pokemonId }) => {
+export const PokemonLocations = ({ locations, showMore, setShowMoreLocations, pokemonId, itemContainerHeight }) => {
   const [globalState, updateMode] = useGlobalState();
   const containerRef = useRef(null);
   const [containerHeight, setContainerHeight] = useState(0);
-  const [showButton, setShowButton] = useState(locations.length >= 5 || containerHeight > 256 || showMore)
+  const [showButton, setShowButton] = useState(locations.length >= 5 || containerHeight > itemContainerHeight || showMore)
   const theme = useTheme();
   const largerThanSmall = useMediaQuery(theme.breakpoints.up("sm"));
   const largeTheme = useMediaQuery(theme.breakpoints.up("lg"));
@@ -20,15 +20,15 @@ export const PokemonLocations = ({ locations, showMore, setShowMoreLocations, po
   useEffect(() => {
     if (containerRef.current) {
       const newContainerHeight = containerRef.current.getBoundingClientRect().height;
-      if (newContainerHeight > 256 && !showMore) {
+      if (newContainerHeight > itemContainerHeight && !showMore) {
         setShowButton(true);
-        setContainerHeight(256);
+        setContainerHeight(itemContainerHeight);
       } else if (newContainerHeight > 0 && showMore && !largeTheme) {
         setShowButton(true);
         setContainerHeight(newContainerHeight);
       } else if (newContainerHeight > 0) {
         if (largeTheme && !showMore) {
-          containerRef.current.style.height = "256px";
+          containerRef.current.style.height = `${itemContainerHeight}px`;
         }
         setContainerHeight(newContainerHeight);
         if (showMore) {
@@ -60,7 +60,7 @@ export const PokemonLocations = ({ locations, showMore, setShowMoreLocations, po
         <Box sx={{
           display: "flex",
           alignItems: "center",
-          height: {xs: "min-content", md: "min-content", lg: "256px"},
+          height: {xs: "min-content", md: "min-content", lg: `${itemContainerHeight}px`},
           padding: "12px !important",
           borderRadius: "5px",
           border: "2px solid var(--ifm-table-border-color)",
@@ -99,8 +99,8 @@ export const PokemonLocations = ({ locations, showMore, setShowMoreLocations, po
           padding: "12px !important",
           width: {md: "80%", lg: showMore ? "80%" : "unset"},
           maxHeight: {
-            xs: showMore || locations.length < 5 ? "unset" : "256px",
-            lg: showMore ? "unset" : "257px",
+            xs: showMore || locations.length < 5 ? "unset" : `${itemContainerHeight}px`,
+            lg: showMore ? "unset" : `${itemContainerHeight + 1}px`,
           },
           gridAutoRows: "min-content",
           overflow: "hidden",
