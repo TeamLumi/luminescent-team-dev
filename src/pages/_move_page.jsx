@@ -3,6 +3,7 @@ import Layout from "@theme/Layout";
 
 import MovePageContent from '../components/MoveDex/MovePageContent';
 import { GlobalState } from "../components/common/GlobalState";
+import LumiReactThemeProvider from '../theme/LumiThemeProvider';
 
 export default function MovePage({ move2, move3, moveV, moveList }) {
   // required for webpack SSR
@@ -13,14 +14,16 @@ export default function MovePage({ move2, move3, moveV, moveList }) {
 
   return (
     <Layout>
-      <GlobalState>
-        <MovePageContent
-          move2={move2}
-          move3={move3}
-          moveV={moveV}
-          movesList={moveList}
-        />
-      </GlobalState>
+      <LumiReactThemeProvider>
+        <GlobalState>
+          <MovePageContent
+            move2={move2}
+            move3={move3}
+            moveV={moveV}
+            movesList={moveList}
+          />
+        </GlobalState>
+      </LumiReactThemeProvider>
     </Layout>
   );
 };
