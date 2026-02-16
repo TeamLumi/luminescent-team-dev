@@ -28,6 +28,7 @@ const sidebars = {
       items: [
         'installation/atmosphere',
         'installation/ryujinx',
+        'installation/android',
       ],
     },
   'features',
