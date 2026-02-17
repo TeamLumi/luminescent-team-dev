@@ -11,6 +11,6 @@ To get started you will need the following. Please note that some guides may sug
 
 - **Unity 2019.4.27f1:** https://unity.com/releases/editor/whats-new/2019.4.27
 - **AssetRipper 1.1.8:** https://github.com/AssetRipper/AssetRipper/releases/tag/1.1.8
-- **Precompiled Unity Scripts:** https://mega.nz/file/y9I02TTB#Aldq-8QofYstekC-GYjKou_31_NTrO_foSJaooD2_g4
+- **Precompiled Unity Scripts:** https://mega.nz/file/OsgFlKqZ#zfoEpim1x7MbyNqJdlZkR4KLWyWg6LtnZ0nf3DmSZqA
 - **LumiTool:** https://github.com/SaltContainer/LumiTool
 - **A legally acquired romfs dump of BDSP 1.3.0**
