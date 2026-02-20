@@ -70,6 +70,13 @@ function getPokemon(pokemonId, mode = GAMEDATA2) {
   const item1 = getItemString(p.item1, mode)
   const item2 = getItemString(p.item2, mode)
   const item3 = getItemString(p.item3, mode)
+  const items = [item1, item2, item3]
+  const uniqueItemCount =
+    items.every((item) => item === "None")
+      ? 0
+      : new Set(items.filter((item) => item && item !== "None")).size
+
+  const catchChance = p.get_rate;
 
   return {
     id,
@@ -100,6 +107,8 @@ function getPokemon(pokemonId, mode = GAMEDATA2) {
     item1,
     item2,
     item3,
+    uniqueItemCount,
+    catchChance,
   };
 }
 

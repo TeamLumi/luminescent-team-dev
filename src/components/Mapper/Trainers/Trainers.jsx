@@ -53,14 +53,13 @@ export const TrainerDropdown = ({ trainer, setTrainer, trainerList, smallest }) 
       <Autocomplete
         id="trainer-input"
         options={[defaultTrainer, ...trainerList]}
-        getOptionLabel={(option) => `${option.team_name} (${option.trainer_id})`}
+        getOptionLabel={(option) => option.team_name}
         defaultValue={defaultTrainer}
         value={trainer}
         onChange={(e, value) => setTrainer(value)}
         renderInput={(params) => (
           <TextField
             {...params}
-            type="search"
             label="Select Trainer"
           />
         )}
@@ -116,7 +115,7 @@ const MonDetails = ({smallest, pokemon, pokemonInfo}) => {
         height="64px"
       />
       <Typography sx={{ ...responsiveFontSize }}>
-        {`${getPokemonName(pokemon.id, GAMEDATA3)} Lv. ${pokemon.level}`}
+        {`${getPokemonName(pokemon.id)} Lv. ${pokemon.level}`}
       </Typography>
       <Box display={"flex"}>
         <Box
@@ -131,13 +130,13 @@ const MonDetails = ({smallest, pokemon, pokemonInfo}) => {
           marginLeft="5px"
         >
           <PokemonMoveType
-            typeName={TYPE_COLOR_MAP[pokemonInfo.type1].name}
-            typeColor={TYPE_COLOR_MAP[pokemonInfo.type1].color}
+            typeName={TYPE_COLOR_MAP[pokemonInfo.types.type1].name}
+            typeColor={TYPE_COLOR_MAP[pokemonInfo.types.type1].color}
             fontSize={[".7rem", ".875rem"]}
             smallest={smallest}
           />
         </Box>
-        {pokemonInfo.type1 !== pokemonInfo.type2 && (
+        {pokemonInfo.types.type1 !== pokemonInfo.types.type2 && (
           <Box
             sx={{
               ...getSmallestResponsiveStyle(smallest, "width", {
@@ -150,8 +149,8 @@ const MonDetails = ({smallest, pokemon, pokemonInfo}) => {
             marginLeft="5px"
           >
             <PokemonMoveType
-              typeName={TYPE_COLOR_MAP[pokemonInfo.type2].name}
-              typeColor={TYPE_COLOR_MAP[pokemonInfo.type2].color}
+              typeName={TYPE_COLOR_MAP[pokemonInfo.types.type2].name}
+              typeColor={TYPE_COLOR_MAP[pokemonInfo.types.type2].color}
               fontSize={[".7rem", ".875rem"]}
               smallest={smallest}
             />
@@ -189,7 +188,7 @@ const MoveList = ({smallest, pokemon}) => {
       }}
     >
       {pokemon.moves.map((move, index) => {
-        const moveInfo = getMoveProperties(move, GAMEDATA3);
+        const moveInfo = getMoveProperties(move);
         return (
           <Box
             key={`${move}-${index}`}
