@@ -16,7 +16,7 @@ With this you can be sure that your model is rigged and animating properly and y
 
 1. Make sure that your custom prefab is named appropriately. If you are overwriting an existing character then name the prefab the same as theirs. If you are wanting to insert a new character without overwriting one, name it something unique. It is recommended to use the prefix "tr" for "trainer".
 2. Ensure that all of the materials on your model are using a character shader. I find that it is best to duplicate similar materials from those that were ripped with the Unity project and then to apply custom textures and tweak the material settings from there.
-3. Add the Animator, Battle Character Entity and (optionally) the Color Variation and UV connection components to your prefab. Fill out the information for each as described in the [Character Monobehaviours and Components]{.underline} section. To save time, you can copy the components from one of your ripped prefabs and paste them onto your custom one; modifying data as appropriate.
+3. Add the Animator, Battle Character Entity and (optionally) the Color Variation and UV connection components to your prefab. Fill out the information for each as described in the [Character Monobehaviours and Components](/rom-hacking/category/character-monobehaviours-and-components) section. To save time, you can copy the components from one of your ripped prefabs and paste them onto your custom one; modifying data as appropriate.
 4. Select each of your Mesh objects and in the Skinned Mesh Renderer component, ensure that Receive Shadows is disabled.
 
     ![lighting](/img/lumitool-guides/characters/lighting.webp)

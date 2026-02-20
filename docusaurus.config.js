@@ -4,8 +4,9 @@
 require('dotenv').config();
 
 const BASE_URL = '/luminescent-team-dev/';
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {themes} = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 // Pokedex is disabled by default
 const isDexEnabled = process.env.DEX_ENABLED === 'true';
@@ -99,6 +100,36 @@ const config = {
         ]
       },
     ],
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        // Index the documentation and pages
+        indexDocs: true,
+        indexPages: false,
+        indexBlog: true,
+        // Instead of using the blog page, we replace it with the romhacking page
+        blogRouteBasePath: "/rom-hacking",
+        blogDir: "rom-hacking",
+        // Set the maximum number of search results
+        searchResultLimits: 10,
+        // hashed file names help with long-term caching
+        hashed: true,
+        // language to index
+        language: 'en',
+        highlightSearchTermsOnTargetPage: true,
+        searchBarShortcut: true,
+        searchBarShortcutKeymap: "ctrl+g",
+        searchBarShortcutHint: true,
+        ignoreFiles: [
+          "/docs/devquests",
+          "/docs/testing",
+          "/docs2",
+          "docs/installation/yuzu",
+          "/_move_list_page",
+          "_dexlist"
+        ]
+      },
+    ],
     // enable plugin
     ...(isPokedexEnabled
       ? [
@@ -149,10 +180,12 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
+            type: 'dropdown',
             position: 'left',
-            label: 'Luminescent Documents',
+            label: 'Documents',
+            items: [
+              { to: '/docs', label: "Luminescent" }
+            ]
           },
           { to: '/rom-hacking', label: 'ROM Hacking', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
@@ -167,7 +200,8 @@ const config = {
             ],
           },
           {
-            label: 'Discord',
+            'aria-label': 'Discord Invite',
+            className: 'navbar--discord-link',
             href: 'https://discord.gg/luminescent',
             position: 'right',
           },

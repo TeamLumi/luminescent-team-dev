@@ -3,16 +3,19 @@ import Layout from '@theme/Layout';
 
 import MoveListPageContent from '../components/MoveDex/MoveListPageContent';
 import { GlobalState } from '../components/common/GlobalState';
+import LumiReactThemeProvider from '../theme/LumiThemeProvider';
 
 const MoveDexListPage = ({ movesList }) => {
   return(
     <Layout
-      title="Move Dex"
-      description="A Rom Hack for Pokémon Brilliant Diamond."
+    title="Move Dex"
+    description="A Rom Hack for Pokémon Brilliant Diamond."
     >
-      <GlobalState>
-        <MoveListPageContent movesList={movesList}/>
-      </GlobalState>
+      <LumiReactThemeProvider>
+        <GlobalState>
+          <MoveListPageContent movesList={movesList}/>
+        </GlobalState>
+      </LumiReactThemeProvider>
     </Layout>
   );
 };

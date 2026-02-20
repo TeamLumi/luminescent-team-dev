@@ -13,7 +13,7 @@ function getStatBarValues(stat) {
   return { width, color };
 }
 
-export const PokemonStats = ({ baseStats, baseStatsTotal }) => {
+export const PokemonStats = ({ baseStats, baseStatsTotal, itemContainerHeight }) => {
   const [level, setLevel] = useState(100);
   const pokemonStatValues = [
     { label: 'HP:', value: baseStats.hp, isHpStat: true },
@@ -33,7 +33,10 @@ export const PokemonStats = ({ baseStats, baseStatsTotal }) => {
         sx={{
           border: "2px solid var(--ifm-table-border-color)",
           borderRadius: "5px",
-          padding: "12px !important"
+          padding: "12px !important",
+          height: `${itemContainerHeight}px`,
+          alignContent: "center",
+          alignItems: "center",
         }}
       >
         <Box display="grid" gridTemplateColumns="repeat(5, 1fr)" gap={1}>
@@ -72,7 +75,7 @@ export const PokemonStats = ({ baseStats, baseStatsTotal }) => {
                 <Box gridColumn="span 1">
                   <Typography>{stat.value}</Typography>
                 </Box>
-                <Box gridColumn="span 3">
+                <Box gridColumn="span 3" alignContent={"center"}>
                   <Box>
                     <PokemonStatBar width={width} color={color} />
                   </Box>

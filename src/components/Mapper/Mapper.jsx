@@ -385,7 +385,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     setSelectedZone(location.name);
     setSelectedZoneId(location.zoneId)
     setEncounterList(setAllEncounters(location.zoneId));
-    setTrainerList(getTrainersFromZoneId(location.zoneId, GAMEDATA3));
+    setTrainerList(getTrainersFromZoneId(location.zoneId));
 
     setFieldItems(getFieldItemsFromZoneID(location.zoneId));
     setHiddenItems(getHiddenItemsFromZoneID(location.zoneId));

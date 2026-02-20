@@ -21,6 +21,7 @@ import { getPokemonIdFromMonsNoAndForm } from '../../utils/dex';
 import { PokemonLocations } from './PokemonLocations';
 import { getRoutesFromPokemonId } from '../../../plugins/pokedex-data-plugin/dex/encounters';
 import { GAMEDATA2, GAMEDATA3, GAMEDATAV } from '../../../__gamedata';
+import { ITEM_CONTAINER_HEIGHTS } from '../../../plugins/pokedex-data-plugin/dex/itemConstants';
 
 function padNumberWithZeros(number) {
   const strNumber = String(number);
@@ -64,6 +65,8 @@ export const PokemonPageContent = ({
   }, [globalState.mode]);
 
   const [showMoreLocations, setShowMoreLocations] = useState(false);
+
+  const containerHeight = ITEM_CONTAINER_HEIGHTS[pokemonInfo.uniqueItemCount]
 
   if (pokemon === pokemon3 && globalState.mode === GAMEDATA2) {
     return (
@@ -169,7 +172,7 @@ export const PokemonPageContent = ({
             />
           </Box>
           <Box className={style.pokeColumn} gridColumn="span 1">
-          <Type type1={pokemonInfo.type1} type2={pokemonInfo.type2} />
+            <Type type1={pokemonInfo.type1} type2={pokemonInfo.type2} />
           </Box>
           <Box className={style.pokeColumn} gridColumn="span 1">
             <Typography variant="h6" component="h6">
@@ -214,7 +217,11 @@ export const PokemonPageContent = ({
           marginBottom="12px"
         >
           <Box gridColumn="span 1" width={{sm: "80%", md: "unset"}} className={style.secondPokeColumn}>
-            <PokemonStats baseStats={pokemonInfo.baseStats} baseStatsTotal={pokemonInfo.baseStatsTotal} />
+            <PokemonStats
+              baseStats={pokemonInfo.baseStats}
+              baseStatsTotal={pokemonInfo.baseStatsTotal}
+              itemContainerHeight={containerHeight}
+            />
           </Box>
           <Box display={{xs: "none", sm: "none", md: "none", lg: showMoreLocations ? "none" : "unset"}}>
             <PokemonLocations
@@ -222,6 +229,7 @@ export const PokemonPageContent = ({
               showMore={showMoreLocations}
               setShowMoreLocations={setShowMoreLocations}
               pokemonId={pokemon.id}
+              itemContainerHeight={containerHeight}
             />
           </Box>
           <Box width={{sm: "80%", md: "unset"}} gridColumn="span 1">
@@ -232,13 +240,19 @@ export const PokemonPageContent = ({
               sx={{
                 border: "2px solid var(--ifm-table-border-color)",
                 borderRadius: "5px",
-                height: {xs: "min-content", md: "244px"},
+                height: {xs: "min-content", md: `${containerHeight}px`},
                 padding: "12px !important"
               }}
             >
               <PokemonItems item1={pokemonInfo.item1} item2={pokemonInfo.item2} item3={pokemonInfo.item3}/>
               <PokemonEggGroups eggGroupNames={pokemonInfo.eggGroupNames} sx={{ marginTop: '16px' }} />
               <PokemonGenderRatio genderDecimalValue={pokemonInfo.genderDecimalValue} sx={{ marginTop: '16px' }} />
+              <Box sx={{ marginTop: "16px"}}>
+                <Typography sx={{ fontWeight: 800, fontSize: '0.8rem' }}>Catch Chance:</Typography>
+                <Container>
+                  <Typography>{pokemonInfo.catchChance}</Typography>
+                </Container>
+              </Box>
             </Container>
           </Box>
           <Box
