@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[38302],{920400(e){e.exports="/luminescent-team-dev/pokedex/shield-forme-aegislash"}}]);

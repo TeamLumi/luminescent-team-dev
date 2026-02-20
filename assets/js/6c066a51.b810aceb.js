@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[274905],{940615(e){e.exports="/luminescent-team-dev/pokedex/dawn-necrozma"}}]);

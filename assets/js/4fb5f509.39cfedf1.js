@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[56948],{781724(e){e.exports="/luminescent-team-dev/pokedex/snubbull"}}]);

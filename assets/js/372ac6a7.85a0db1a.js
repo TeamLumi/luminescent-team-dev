@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[488066],{808919:e=>{e.exports="/luminescent-team-dev/pokedex/golem"}}]);

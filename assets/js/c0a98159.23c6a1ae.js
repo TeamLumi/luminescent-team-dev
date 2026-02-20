@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[789855],{646548(e){e.exports="/luminescent-team-dev/pokedex/droopy-form-tatsugiri"}}]);

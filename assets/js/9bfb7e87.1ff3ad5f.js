@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[141765],{433699(e){e.exports="/luminescent-team-dev/pokedex/infernape"}}]);

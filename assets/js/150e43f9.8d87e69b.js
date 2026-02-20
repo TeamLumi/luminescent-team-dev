@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[417068],{80208(e){e.exports="/luminescent-team-dev/pokedex/fist-plate-arceus"}}]);

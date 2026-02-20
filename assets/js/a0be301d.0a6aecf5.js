@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[859417],{156575(e){e.exports="/luminescent-team-dev/pokedex/monferno"}}]);

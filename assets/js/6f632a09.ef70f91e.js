@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[884285],{203978:e=>{e.exports="/luminescent-team-dev/pokedex/blaze-breed-paldea-tauros"}}]);

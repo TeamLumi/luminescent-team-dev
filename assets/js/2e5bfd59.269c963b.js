@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[464405],{224541:e=>{e.exports="/luminescent-team-dev/pokedex/krokorok"}}]);

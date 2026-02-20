@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[696140],{30615(e){e.exports="/luminescent-team-dev/pokedex/zekrom"}}]);

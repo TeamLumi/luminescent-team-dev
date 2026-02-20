@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[34994],{851862(e){e.exports="/luminescent-team-dev/pokedex/sunny-form-cast"}}]);

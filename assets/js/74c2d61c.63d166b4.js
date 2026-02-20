@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[565119],{376280(e){e.exports="/luminescent-team-dev/pokedex/woobat"}}]);

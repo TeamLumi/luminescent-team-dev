@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[568803],{994468:e=>{e.exports="/luminescent-team-dev/pokedex/corsola"}}]);

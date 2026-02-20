@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[297322],{952951:e=>{e.exports="/luminescent-team-dev/pokedex/smeargle"}}]);

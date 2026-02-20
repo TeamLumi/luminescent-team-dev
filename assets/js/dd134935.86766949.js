@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[190623],{696810:e=>{e.exports="/luminescent-team-dev/pokedex/pau-style-oricorio"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[122225],{673751:e=>{e.exports="/luminescent-team-dev/pokedex/crabominable"}}]);

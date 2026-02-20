@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[119585],{654170:e=>{e.exports="/luminescent-team-dev/pokedex/mind-plate-arceus"}}]);

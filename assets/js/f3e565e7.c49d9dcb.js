@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[562190],{306350:e=>{e.exports="/luminescent-team-dev/pokedex/poliwag"}}]);

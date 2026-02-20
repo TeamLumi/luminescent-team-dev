@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[278989],{942167(e){e.exports="/luminescent-team-dev/pokedex/blacephalon"}}]);

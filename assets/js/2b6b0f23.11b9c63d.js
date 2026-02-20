@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[112692],{652729(e){e.exports="/luminescent-team-dev/pokedex/frigibax"}}]);

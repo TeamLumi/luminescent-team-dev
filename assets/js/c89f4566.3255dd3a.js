@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[757609],{73264:e=>{e.exports="/luminescent-team-dev/pokedex/arrokuda"}}]);

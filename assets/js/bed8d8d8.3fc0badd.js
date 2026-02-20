@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[635725],{725664:e=>{e.exports="/luminescent-team-dev/pokedex/cacnea"}}]);

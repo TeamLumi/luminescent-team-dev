@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[753384],{53500(e){e.exports="/luminescent-team-dev/pokedex/diamond-trim-furfrou"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[609872],{306414(e){e.exports="/luminescent-team-dev/pokedex/simisear"}}]);

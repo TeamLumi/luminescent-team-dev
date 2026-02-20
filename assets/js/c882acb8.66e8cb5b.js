@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[763278],{160037(e){e.exports="/luminescent-team-dev/pokedex/gallade"}}]);

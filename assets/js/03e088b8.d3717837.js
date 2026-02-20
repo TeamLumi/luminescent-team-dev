@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[677337],{174054(e){e.exports="/luminescent-team-dev/pokedex/okidogi"}}]);

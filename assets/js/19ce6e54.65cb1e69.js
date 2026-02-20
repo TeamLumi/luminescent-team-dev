@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[258941],{72779(e){e.exports="/luminescent-team-dev/pokedex/pineco"}}]);

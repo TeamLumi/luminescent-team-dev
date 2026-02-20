@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[43650],{443211:e=>{e.exports="/luminescent-team-dev/pokedex/purrloin"}}]);

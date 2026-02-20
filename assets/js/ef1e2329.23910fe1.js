@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[951893],{253260:e=>{e.exports="/luminescent-team-dev/pokedex/pansage"}}]);

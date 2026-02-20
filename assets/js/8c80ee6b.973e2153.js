@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[891742],{409652(e){e.exports="/luminescent-team-dev/pokedex/passimian"}}]);

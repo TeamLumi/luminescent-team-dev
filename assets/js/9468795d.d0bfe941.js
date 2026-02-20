@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[681326],{838965:e=>{e.exports="/luminescent-team-dev/pokedex/meowscarada"}}]);

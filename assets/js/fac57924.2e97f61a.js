@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[739002],{374951(e){e.exports="/luminescent-team-dev/pokedex/skarmory"}}]);

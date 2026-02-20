@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[19168],{873714(e){e.exports="/luminescent-team-dev/pokedex/male-oinkologne"}}]);

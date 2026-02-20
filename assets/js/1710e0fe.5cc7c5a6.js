@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[927758],{21771:e=>{e.exports="/luminescent-team-dev/pokedex/lopunny"}}]);

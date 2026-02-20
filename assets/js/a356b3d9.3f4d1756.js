@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[3206],{93028(e){e.exports="/luminescent-team-dev/pokedex/zarude"}}]);

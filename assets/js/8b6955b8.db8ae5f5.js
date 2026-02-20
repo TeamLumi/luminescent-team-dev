@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[82438],{755631:e=>{e.exports="/luminescent-team-dev/pokedex/ursaluna"}}]);

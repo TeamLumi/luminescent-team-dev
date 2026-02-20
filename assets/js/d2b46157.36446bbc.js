@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluminescent_team=self.webpackChunkluminescent_team||[]).push([[813476],{582411:e=>{e.exports="/luminescent-team-dev/pokedex/gmax-sandaconda"}}]);
