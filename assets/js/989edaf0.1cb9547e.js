@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[426209],{112820(e){e.exports="/luminescent-team-dev/pokedex/marill"}}]);

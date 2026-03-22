@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[169168],{740688(e){e.exports="/luminescent-team-dev/pokedex/plusle"}}]);

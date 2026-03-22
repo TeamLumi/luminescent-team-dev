@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[461550],{738471(e){e.exports="/luminescent-team-dev/pokedex/slowbro"}}]);

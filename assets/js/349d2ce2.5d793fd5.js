@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[685505],{841631(e){e.exports="/luminescent-team-dev/pokedex/turtwig"}}]);

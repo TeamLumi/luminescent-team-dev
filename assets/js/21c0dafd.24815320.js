@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[669694],{809038(e){e.exports="/luminescent-team-dev/pokedex/noivern"}}]);

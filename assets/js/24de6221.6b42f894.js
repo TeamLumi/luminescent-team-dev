@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[599343],{527127(e){e.exports="/luminescent-team-dev/pokedex/galar-linoone"}}]);

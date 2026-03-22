@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[368865],{110715(e){e.exports="/luminescent-team-dev/pokedex/thwackey"}}]);

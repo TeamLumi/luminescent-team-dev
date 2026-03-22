@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[419485],{454204(e){e.exports="/luminescent-team-dev/pokedex/panpour"}}]);

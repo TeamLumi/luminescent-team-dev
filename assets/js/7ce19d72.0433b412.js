@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[178359],{624929(e){e.exports="/luminescent-team-dev/pokedex/barboach"}}]);

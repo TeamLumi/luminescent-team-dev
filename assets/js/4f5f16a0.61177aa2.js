@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[488242],{94103(e){e.exports="/luminescent-team-dev/pokedex/jellicent"}}]);

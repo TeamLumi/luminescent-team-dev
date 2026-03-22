@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[244420],{202832(e){e.exports="/luminescent-team-dev/pokedex/grumpig"}}]);

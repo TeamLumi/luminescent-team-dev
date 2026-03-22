@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[829548],{770047(e){e.exports="/luminescent-team-dev/pokedex/pawmot"}}]);

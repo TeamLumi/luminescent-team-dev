@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[329196],{126348(e){e.exports="/luminescent-team-dev/pokedex/swablu"}}]);

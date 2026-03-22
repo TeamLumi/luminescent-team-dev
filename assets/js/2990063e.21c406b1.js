@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[499173],{730128(e){e.exports="/luminescent-team-dev/pokedex/crocalor"}}]);

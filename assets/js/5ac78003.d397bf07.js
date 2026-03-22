@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[643724],{831361(e){e.exports="/luminescent-team-dev/pokedex/drampa"}}]);

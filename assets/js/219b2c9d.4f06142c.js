@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[1019],{135838(e){e.exports="/luminescent-team-dev/pokedex/barbaracle"}}]);

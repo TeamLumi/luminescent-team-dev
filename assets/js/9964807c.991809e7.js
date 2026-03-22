@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[667581],{36750(e){e.exports="/luminescent-team-dev/pokedex/average-size-pumpkaboo"}}]);

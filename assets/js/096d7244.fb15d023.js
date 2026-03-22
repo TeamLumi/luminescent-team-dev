@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[562903],{421054(e){e.exports="/luminescent-team-dev/pokedex/grimmsnarl"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[879613],{190461(e){e.exports="/luminescent-team-dev/pokedex/sawk"}}]);

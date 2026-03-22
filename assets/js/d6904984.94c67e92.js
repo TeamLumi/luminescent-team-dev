@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[27379],{451766(e){e.exports="/luminescent-team-dev/pokedex/incarnate-forme-tornadus"}}]);
