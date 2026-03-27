@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[823459],{361584(e){e.exports="/luminescent-team-dev/pokedex/-dragon-silvally"}}]);

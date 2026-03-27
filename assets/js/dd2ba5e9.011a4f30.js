@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[216107],{724019(e){e.exports="/luminescent-team-dev/pokedex/white-plumage-squawkabilly"}}]);

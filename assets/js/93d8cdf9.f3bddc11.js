@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[727457],{808735(e){e.exports="/luminescent-team-dev/pokedex/wingull"}}]);

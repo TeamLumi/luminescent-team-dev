@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[68080],{895717(e){e.exports="/luminescent-team-dev/pokedex/iron-boulder"}}]);

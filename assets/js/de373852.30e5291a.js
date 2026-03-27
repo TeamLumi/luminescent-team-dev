@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[479708],{683725(e){e.exports="/luminescent-team-dev/pokedex/litleo"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[993867],{34642(e){e.exports="/luminescent-team-dev/pokedex/nidoran-m"}}]);

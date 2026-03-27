@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[559390],{629945(e){e.exports="/luminescent-team-dev/pokedex/bellossom"}}]);

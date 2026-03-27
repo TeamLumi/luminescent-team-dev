@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[312113],{397727(e){e.exports="/luminescent-team-dev/pokedex/single-strike-style-urshifu"}}]);

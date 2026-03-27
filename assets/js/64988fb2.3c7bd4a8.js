@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[909120],{132559(e){e.exports="/luminescent-team-dev/pokedex/gmax-garbodor"}}]);

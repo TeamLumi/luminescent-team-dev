@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[194692],{276096(e){e.exports="/luminescent-team-dev/pokedex/pyroar"}}]);

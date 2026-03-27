@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[265299],{45373(e){e.exports="/luminescent-team-dev/pokedex/zigzagoon"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[850516],{298626(e){e.exports="/luminescent-team-dev/pokedex/mudbray"}}]);

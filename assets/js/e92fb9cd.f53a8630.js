@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[199615],{559857(e){e.exports="/luminescent-team-dev/pokedex/shuckle"}}]);

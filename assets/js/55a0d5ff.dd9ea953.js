@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[166955],{276809(e){e.exports="/luminescent-team-dev/pokedex/heatmor"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[271273],{857897(e){e.exports="/luminescent-team-dev/pokedex/linoone"}}]);

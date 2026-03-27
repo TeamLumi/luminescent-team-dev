@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[685171],{45210(e){e.exports="/luminescent-team-dev/pokedex/iron-crown"}}]);

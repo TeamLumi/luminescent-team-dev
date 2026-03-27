@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[880519],{10400(e){e.exports="/luminescent-team-dev/pokedex/aurorus"}}]);

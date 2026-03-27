@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[209466],{354662(e){e.exports="/luminescent-team-dev/pokedex/indigo-meteor-form-minior"}}]);

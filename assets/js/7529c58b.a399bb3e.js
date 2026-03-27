@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[139854],{827510(e){e.exports="/luminescent-team-dev/pokedex/budew"}}]);

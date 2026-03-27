@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[376784],{814673(e){e.exports="/luminescent-team-dev/pokedex/kricketune"}}]);

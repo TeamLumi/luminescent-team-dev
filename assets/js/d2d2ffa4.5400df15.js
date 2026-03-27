@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[704800],{617884(e){e.exports="/luminescent-team-dev/pokedex/psyduck"}}]);

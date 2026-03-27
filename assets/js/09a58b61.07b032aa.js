@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[882533],{830868(e){e.exports="/luminescent-team-dev/pokedex/probopass"}}]);

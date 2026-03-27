@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[576173],{498587(e){e.exports="/luminescent-team-dev/pokedex/goldeen"}}]);

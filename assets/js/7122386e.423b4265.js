@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[992933],{12347(e){e.exports="/luminescent-team-dev/pokedex/rockruff"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[693951],{982952(e){e.exports="/luminescent-team-dev/pokedex/quagsire"}}]);

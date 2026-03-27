@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[710913],{266211(e){e.exports="/luminescent-team-dev/pokedex/delcatty"}}]);

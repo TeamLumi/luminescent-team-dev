@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[886513],{585767(e){e.exports="/luminescent-team-dev/pokedex/emolga"}}]);

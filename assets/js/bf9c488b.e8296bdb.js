@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[100501],{389044(e){e.exports="/luminescent-team-dev/pokedex/pixie-plate-arceus"}}]);

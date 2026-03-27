@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[508980],{393811(e){e.exports="/luminescent-team-dev/pokedex/hero-of-many-battles-zacian"}}]);

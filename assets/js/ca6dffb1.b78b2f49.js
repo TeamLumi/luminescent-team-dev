@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[819362],{111270(e){e.exports="/luminescent-team-dev/pokedex/zebstrika"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[962697],{976017(e){e.exports="/luminescent-team-dev/pokedex/autumn-form-deerling"}}]);

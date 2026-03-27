@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[670644],{548383(e){e.exports="/luminescent-team-dev/pokedex/cascoon"}}]);

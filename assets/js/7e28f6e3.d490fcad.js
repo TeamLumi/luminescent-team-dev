@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[12281],{450356(e){e.exports="/luminescent-team-dev/pokedex/rainbow-swirl-alcremie"}}]);

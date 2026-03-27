@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[234364],{452350(e){e.exports="/luminescent-team-dev/pokedex/zubat"}}]);

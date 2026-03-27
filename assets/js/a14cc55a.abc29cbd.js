@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[990536],{535342(e){e.exports="/luminescent-team-dev/pokedex/hearthflame-mask-ogerpon"}}]);

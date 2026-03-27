@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[341712],{187146(e){e.exports="/luminescent-team-dev/pokedex/solrock"}}]);

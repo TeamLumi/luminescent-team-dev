@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[136719],{469377(a){a.exports="/luminescent-team-dev/pokedex/aerodactyl-qmarkqmarkqmarkqmarkqmarkqmarkqmarkqmarkqmarkqmark"}}]);

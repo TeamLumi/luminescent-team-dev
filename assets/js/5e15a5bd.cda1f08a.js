@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[26415],{62393(e){e.exports="/luminescent-team-dev/pokedex/regidrago"}}]);

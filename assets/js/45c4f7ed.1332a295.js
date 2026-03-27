@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[308529],{969038(e){e.exports="/luminescent-team-dev/pokedex/attack-forme-deoxys"}}]);

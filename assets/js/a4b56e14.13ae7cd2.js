@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[276799],{749640(e){e.exports="/luminescent-team-dev/pokedex/kabutops-missingno"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[542302],{402161(e){e.exports="/luminescent-team-dev/pokedex/hisui-qwilfish"}}]);

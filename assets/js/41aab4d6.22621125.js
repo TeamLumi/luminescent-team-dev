@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[30604],{685666(e){e.exports="/luminescent-team-dev/pokedex/therian-forme-landorus"}}]);

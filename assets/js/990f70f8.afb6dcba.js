@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[71600],{26848(e){e.exports="/luminescent-team-dev/pokedex/roaming-form-gimmighoul"}}]);

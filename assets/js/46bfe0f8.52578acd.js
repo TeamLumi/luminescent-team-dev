@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[90248],{470543(e){e.exports="/luminescent-team-dev/pokedex/beedrill"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[357541],{100453(e){e.exports="/luminescent-team-dev/pokedex/pirouette-forme-meloetta"}}]);

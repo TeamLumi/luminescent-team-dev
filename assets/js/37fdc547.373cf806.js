@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[107116],{91048(e){e.exports="/luminescent-team-dev/pokedex/tapu-bulu"}}]);

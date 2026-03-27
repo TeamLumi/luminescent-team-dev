@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[696694],{151245(e){e.exports="/luminescent-team-dev/pokedex/bewear"}}]);

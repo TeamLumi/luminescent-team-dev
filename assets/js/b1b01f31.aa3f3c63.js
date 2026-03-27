@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[861711],{338196(e){e.exports="/luminescent-team-dev/pokedex/latios"}}]);

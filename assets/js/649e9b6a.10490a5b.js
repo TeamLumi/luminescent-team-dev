@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[951741],{699158(e){e.exports="/luminescent-team-dev/pokedex/primeape"}}]);
