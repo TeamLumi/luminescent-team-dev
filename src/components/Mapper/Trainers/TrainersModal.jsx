@@ -1,6 +1,7 @@
 import React from "react";
-import { Dialog, DialogContent, DialogTitle, IconButton, Snackbar } from "@mui/material"
+import { Dialog, DialogContent, DialogTitle, IconButton, Link, Snackbar } from "@mui/material"
 import { ContentPasteGo } from "@mui/icons-material";
+import CatchingPokemonIcon from '@mui/icons-material/CatchingPokemon';
 import CloseIcon from '@mui/icons-material/Close';
 import Tooltip from '@mui/material/Tooltip';
 import { getMoveProperties, getPokemonName } from '../../../utils/dex';
@@ -27,6 +28,13 @@ const TrainersModal = ({
 
   const handleCloseSnackbar = () => {
     setShowSnackbar(false);
+  };
+
+  const handleOpenShowdown = () => {
+    if (!selectedTrainer?.trainer_id) return;
+
+    const url = `https://calc.relumishowdown.dpdns.org/?mode=ingame&setSource=ingame&trainerId=${selectedTrainer.trainer_id}`;
+    window.open(url, '_blank', 'noopener,noreferrer');
   };
 
   function transformToText(pokemon) {
@@ -84,6 +92,19 @@ ${moves}`;
             top: 12,
           }}>
           <ContentPasteGo />
+        </IconButton>
+      </Tooltip>
+      <Tooltip title="Open In Showdown">
+        <IconButton
+          aria-label="Open In Showdown"
+          onClick={handleOpenShowdown}
+          to={`https://calc.relumishowdown.dpdns.org/?mode=ingame&setSource=ingame&trainerId=` + selectedTrainer?.trainer_id}
+          sx={{
+            position: 'absolute',
+            right: 108,
+            top: 12,
+          }}>
+          <CatchingPokemonIcon />
         </IconButton>
       </Tooltip>
       <DialogContent dividers sx={{ maxWidth: "1108px" }}>
