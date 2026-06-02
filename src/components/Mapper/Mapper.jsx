@@ -19,6 +19,7 @@ import './style.css';
 import {
   getAreaEncounters,
   getTrainersFromZoneId,
+  getZoneIdFromTrainerId,
   getFieldItemsFromZoneID,
   getHiddenItemsFromZoneID,
   getPokemonIdFromName
@@ -158,6 +159,52 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     SELECT: "select",
     ENCOUNTER: "enc",
   }
+
+  // Handle URL query parameters for trainer ID
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const trainerId = params.get('trainerId');
+
+    if (trainerId && canvasRef.current) {
+      const zoneId = getZoneIdFromTrainerId(trainerId, GAMEDATA3);
+      if (zoneId) {
+        const location = getLocationCoordsFromZoneId(zoneId);
+        if (location) {
+          // Select the location
+          if (previousRectangle.select !== null) {
+            clearRect(CLEAR_MODE.SELECT);
+          }
+          drawRect(location, CLEAR_MODE.SELECT);
+          previousRectangle.select = { x: location.x, y: location.y, width: location.width, height: location.height };
+          locationId.current = location.zoneId;
+          setSelectedZone(location.name);
+          setSelectedZoneId(location.zoneId);
+          setEncounterList(setAllEncounters(location.zoneId));
+          setTrainerList(getTrainersFromZoneId(location.zoneId, GAMEDATA3));
+          setFieldItems(getFieldItemsFromZoneID(location.zoneId));
+          setHiddenItems(getHiddenItemsFromZoneID(location.zoneId));
+          setShopItems(getRegularShopItems(location.zoneId));
+          setScriptItems(getScriptItems(location.zoneId));
+          setFixedShops(getFixedShops(location.zoneId));
+          setHeartScaleShop(getHeartScaleShopItems(location.zoneId));
+        }
+      }
+    }
+  }, [canvasRef.current]);
+
+  // Select trainer after trainerList is populated
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const trainerId = params.get('trainerId');
+
+    if (trainerId && trainerList.length > 0) {
+      const trainer = trainerList.find(t => t.trainer_id === parseInt(trainerId));
+      if (trainer) {
+        setSelectedTrainer(trainer);
+        setShowTrainerModal(true);
+      }
+    }
+  }, [trainerList]);
   //Component onMount
   useEffect(() => {
     const context = canvasRef.current.getContext('2d', {willReadFrequently: true});

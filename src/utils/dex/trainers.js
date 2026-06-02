@@ -12,6 +12,22 @@ function getTrainersFromZoneId(zoneId, mode = GAMEDATA2) {
   return [];
 };
 
+function getZoneIdFromTrainerId(trainerId, mode = GAMEDATA2) {
+  if (!trainerId) return null;
+  
+  for (const zoneKey in TrainerLocations[mode]) {
+    const trainers = TrainerLocations[mode][zoneKey];
+    const trainer = trainers.find(t => t.trainer_id === parseInt(trainerId));
+    if (trainer) {
+      return parseInt(zoneKey);
+    }
+  }
+  
+  console.warn(`Trainer ID ${trainerId} not found in any zone.`);
+  return null;
+};
+
 export {
-  getTrainersFromZoneId
+  getTrainersFromZoneId,
+  getZoneIdFromTrainerId
 }
