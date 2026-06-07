@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[536055],{384310(e){e.exports="/luminescent-team-dev/pokedex/cobalion"}}]);

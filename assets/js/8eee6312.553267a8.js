@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[326936],{974161(e){e.exports="/luminescent-team-dev/pokedex/trash-cloak-wormadam"}}]);

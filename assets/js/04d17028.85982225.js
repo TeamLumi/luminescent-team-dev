@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[136245],{911613(e){e.exports="/luminescent-team-dev/pokedex/galar-meowth"}}]);

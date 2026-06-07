@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[562837],{612197(e){e.exports="/luminescent-team-dev/pokedex/typhlosion"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[452746],{554660(e){e.exports="/luminescent-team-dev/pokedex/chewtle"}}]);

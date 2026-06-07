@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[355137],{587690(e){e.exports="/luminescent-team-dev/pokedex/patrat"}}]);

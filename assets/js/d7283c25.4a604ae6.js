@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[814367],{303602(e){e.exports="/luminescent-team-dev/pokedex/staravia"}}]);

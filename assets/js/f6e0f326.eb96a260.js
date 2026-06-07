@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[268085],{208846(e){e.exports="/luminescent-team-dev/pokedex/seel"}}]);

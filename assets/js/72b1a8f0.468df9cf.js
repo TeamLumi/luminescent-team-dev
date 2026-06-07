@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[204538],{31546(e){e.exports="/luminescent-team-dev/pokedex/roselia"}}]);

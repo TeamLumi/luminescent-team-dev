@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[37115],{414542(e){e.exports="/luminescent-team-dev/pokedex/primal-kyogre"}}]);

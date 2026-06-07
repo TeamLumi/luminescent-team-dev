@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[34454],{307118(e){e.exports="/luminescent-team-dev/pokedex/terastal-form-terapagos"}}]);

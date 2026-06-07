@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[132831],{524215(e){e.exports="/luminescent-team-dev/pokedex/mr-rime"}}]);
