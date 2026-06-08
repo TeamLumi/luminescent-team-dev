@@ -1,17 +1,12 @@
 import React, { useEffect, useRef, useState } from 'react';
-import IconButton from '@mui/material/IconButton';
-import SettingsIcon from '@mui/icons-material/Settings';
+import { Canvas, Image, Rect } from '@bucky24/react-canvas';
 import useIsBrowser from '@docusaurus/useIsBrowser';
 
 import {
-  MapperCoordinates,
-  getLocationCoordsFromName,
-  getLocationCoordsFromZoneId,
+  sortedCoordinates,
   getSelectedLocation,
-  isLocationExactlyEqual
 } from './coordinates';
 import { SearchBar } from './SearchBar';
-import { RodButtons, TimeOfDayButtons } from './Encounters/Buttons';
 import { MapperTabPanel } from './TabPanel/MapperTabPanel';
 import SettingsModal from './Settings/SettingsModal';
 import './style.css';
@@ -24,7 +19,6 @@ import {
   getHiddenItemsFromZoneID,
   getPokemonIdFromName
 } from '../../utils/dex';
-import { getZoneIdFromZoneName } from '../../utils/dex/location';
 import {
   getFixedShops,
   getItemPrice,
@@ -49,40 +43,32 @@ import {
 } from '../../utils/dex/encounters';
 import TrainersModal from './Trainers/TrainersModal';
 import { GAMEDATA3 } from '../../../__gamedata';
+import { Location } from './Location';
+import mapperImage from "../../../static/img/new_small_mapper.png";
 
 const canvasDimensions = {
   width: 1280,
   height: 720
 }
 
-const versionNumber = "Beta 1.1.2";
+const versionNumber = "Beta 1.2.0";
 
-function useDebouncedValue(value, delay) {
-  const [debouncedValue, setDebouncedValue] = useState(value);
-
-  useEffect(() => {
-    const timeoutId = setTimeout(() => {
-      setDebouncedValue(value);
-    }, delay);
-
-    return () => {
-      clearTimeout(timeoutId);
-    };
-  }, [value, delay]);
-
-  return debouncedValue;
-}
+export const CLEAR_MODE = {
+  HIGHLIGHT: "highlight",
+  SELECT: "select",
+  ENCOUNTER: "enc",
+};
 
 export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const isBrowser = useIsBrowser();
   if (!isBrowser) {
     return null;
   }
-  const [rect, setRect] = useState(null);
-  const [hoveredZone, setHoveredZone] = useState(null);
-  const [selectedZone, setSelectedZone] = useState(null);
-  const [selectedZoneId, setSelectedZoneId] = useState(null);
-  const locationId = useRef("");
+  const [mouseCoords, setMouseCoords] = useState({ x: 0, y: 0 });
+  const [selectedLocation, setSelectedLocation] = useState(null);
+  const [selectedZone, setSelectedZone] = useState("");
+
+  const [encounterLocations, setEncounterLocations] = useState([]);
   const [encOptions, setEncOptions] = useState({
     swarm: false,
     radar: false,
@@ -91,51 +77,19 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     rod: "1",
   });
 
-  const [selectedPokemon, setSelectedPokemon] = useState(pokemonList3[0] || '');
+  const [selectedPokemon, setSelectedPokemon] = useState(null);
   const [pokemonName, setPokemonName] = useState('');
-  const completedPokemonName = useDebouncedValue(pokemonName, 1500);
 
-  const selectedRef = useRef(selectedZone);
   const [selectedTrainer, setSelectedTrainer] = useState(null);
-
-  useEffect(() => {
-    if (selectedRef.current !== selectedZone) {
-      setSelectedTrainer(null);
-      selectedRef.current = selectedZone;
-    }
-  }, [selectedZone]);
-
+  const [trainerList, setTrainerList] = useState([]);
   const [showTrainerModal, setShowTrainerModal] = useState(false);
-  const openTrainerModal = () => {
-    setShowTrainerModal(true);
-  };
-  const closeTrainerModal = () => {
-    setShowTrainerModal(false);
-  };
 
-  let originalImageData = {
-    highlight: {},
-    select: {},
-    enc: {},
-  };
-  let previousRectangle = {
-    highlight: null,
-    select: null,
-    enc: null,
-  };
-
-  let colorSettings = {
+  const [showSettings, setShowSettings] = useState(false);
+  const [colors, setColors] = useState({
     hov: { r: 247, g: 100, b: 200, a: 0.7 },
     sel: { r: 72, g: 113, b: 247, a: 0.8 },
     enc: { r: 247, g: 0, b: 0, a: 0.7 },
-  }
-
-  const [locationList, setLocationList] = useState([]);
-  const [showSettings, setShowSettings] = useState(false);
-  const [colors, setColors] = useState({
-    hov: { r: 247, g: 148, b: 72, a: 0.7 },
-    sel: { r: 72, g: 113, b: 247, a: 0.8 },
-    enc: { r: 247, g: 0, b: 0, a: 0.7 },
+    default: "transparent"
   });
 
   const [encounterList, setEncounterList] = useState({
@@ -145,7 +99,6 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     honey: [],
     event: [],
   });
-  const [trainerList, setTrainerList] = useState([]);
   const [fieldItemsList, setFieldItems] = useState([]);
   const [hiddenItemsList, setHiddenItems] = useState([]);
   const [shopItemsList, setShopItems] = useState([]);
@@ -525,19 +478,23 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     }
   }, [canvasRef.current]); // Add canvasRef.current to the dependency array
 
+  const locationId = useRef(null);
   useEffect(() => {
     if(locationId !== null) {
       setEncounterList(setAllEncounters(locationId.current))
     }
-  }, [encOptions, selectedZoneId])
+  }, [encOptions]);
 
   useEffect(() => {
-    setLocationList(getMapperRoutesFromPokemonId(getPokemonIdFromName(completedPokemonName)))
-  }, [completedPokemonName])
+    setEncounterLocations(getMapperRoutesFromPokemonId(selectedPokemon?.id, GAMEDATA3));
+  }, [selectedPokemon]);
 
-  useEffect(() => {
-    setTrainerList(getTrainersFromZoneId(selectedZoneId, GAMEDATA3) || []) ;
-  }, [selectedZoneId])
+  const openTrainerModal = () => {
+    setShowTrainerModal(true);
+  };
+  const closeTrainerModal = () => {
+    setShowTrainerModal(false);
+  };
 
   const handleOptionChange = (option, value) => {
     setEncOptions({
@@ -559,7 +516,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   };
 
   const setAllEncounters = (zoneId) => {
-    const areaEncounters = getAreaEncounters(zoneId);
+    const areaEncounters = getAreaEncounters(zoneId, GAMEDATA3);
     if (!areaEncounters) {
       return {
         GroundEnc: [],
@@ -634,95 +591,51 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     }
   }
 
-  function getHoverFillStyle() {
-    const { r, g, b, a } = colorSettings.hov;
-    return `rgba(${r}, ${g}, ${b}, ${a})`;
-  }
+  const handleNewMouseMove = ({ x, y, button }) => {
+    setMouseCoords({ x, y });
+  };
 
-  function getSelFillStyle() {
-    const { r, g, b, a } = colorSettings.sel;
-    return `rgba(${r}, ${g}, ${b}, ${a})`;
-  }
-
-  function getEncFillStyle() {
-    const { r, g, b, a } = colorSettings.enc;
-    return `rgba(${r}, ${g}, ${b}, ${a})`;
-  }
-
-  function drawRect(location, mode=CLEAR_MODE.HIGHLIGHT) {
-    //If there was no previous rectangle, don't clear it
-    if(previousRectangle[mode] !== null && mode !== CLEAR_MODE.ENCOUNTER) {
-      clearRect(mode);
-    }
-    const { x, y, width, height } = location;
-
-    const modeMap = {
-      highlight: getHoverFillStyle(),
-      select: getSelFillStyle(),
-      enc: getEncFillStyle()
-    };
-
-    const ctx = canvasRef.current.getContext('2d', {willReadFrequently: true});
-
-    //Store the important data
-    if (mode === CLEAR_MODE.ENCOUNTER) {
-      if (previousRectangle[mode] !== null) {
-        previousRectangle[mode] = [...previousRectangle[mode], {x, y, width, height}];
-        originalImageData[mode] = [...originalImageData[mode], ctx.getImageData(x, y, width, height)];
-      } else {
-        previousRectangle[mode] = [{x, y, width, height}];
-        originalImageData[mode] = [ctx.getImageData(x, y, width, height)];
-      }
+  const handleMouseUpClick = ({ x, y }) => {
+    const location = getSelectedLocation(x, y);
+    if (location) {
+      setSelectedLocation(location.zoneId);
+      locationId.current = location.zoneId;
+      setTrainerList(getTrainersFromZoneId(location.zoneId, GAMEDATA3) || []);
+      setEncounterList(setAllEncounters(location.zoneId) || []);
+      setSelectedZone(location.name);
+      setFieldItems(getFieldItemsFromZoneID(location.zoneId, GAMEDATA3));
+      setHiddenItems(getHiddenItemsFromZoneID(location.zoneId, GAMEDATA3));
+      setShopItems(getRegularShopItems(location.zoneId, GAMEDATA3));
+      setScriptItems(getScriptItems(location.zoneId, GAMEDATA3));
+      setFixedShops(getFixedShops(location.zoneId, GAMEDATA3));
+      setHeartScaleShop(getHeartScaleShopItems(location.zoneId, GAMEDATA3));
     } else {
-      previousRectangle[mode] = {x, y, width, height};
-      originalImageData[mode] = ctx.getImageData(x, y, width, height);
+      setSelectedLocation(null);
+      locationId.current = null;
+      setTrainerList([]);
+      setSelectedZone("");
+      setFieldItems([]);
+      setHiddenItems([]);
+      setShopItems([]);
+      setScriptItems([]);
+      setFixedShops([]);
+      setHeartScaleShop([]);
     }
+  };
 
-    //Draw the rectangle
-    ctx.fillStyle = modeMap[mode];
-    ctx.fillRect(x, y, width, height);
-  }
-
-  function clearRect(mode=CLEAR_MODE.HIGHLIGHT, encLocation) { // coords defined for Encounters
-    //Clears the old location and restores the image data at that position.
-    const ctx = canvasRef.current.getContext('2d', {willReadFrequently: true});
-    if (mode !== CLEAR_MODE.ENCOUNTER) {
-      const {x, y, width, height} = previousRectangle[mode];
-      ctx.clearRect(x, y, width, height);
-      if (mode === CLEAR_MODE.SELECT) {
-        // This adds a hierarchy of which highlights override others
-        // In order to do this, it will first clear the lower mode's rect
-        // Then it will set that lower mode's rect to null
-        // This way it won't clear the higher mode's rect when the lower mode is called again
-        // The hierarchy will be 1: Select, 2: Highlight, 3: Encounter.
-
-        if (previousRectangle.highlight !== null) {
-          clearRect(CLEAR_MODE.HIGHLIGHT);
-          previousRectangle.highlight = null;
-        }
-      }
-      ctx.putImageData(originalImageData[mode], x, y);
-    } else {
-      const { x, y, width, height } = encLocation;
-      const location = getSelectedLocation(x, y);
-      if (!location) {
-        throw new Error("Try again with your location bozo :P");
-      }
-      const { zoneId } = location;
-      const prevRectangleDataIndex = previousRectangle.enc.findIndex((rect) =>
-        isLocationExactlyEqual(rect, encLocation)
-      );
-      const ogImageData = originalImageData.enc[prevRectangleDataIndex];
-      if (zoneId !== locationId.current) {
-        ctx.clearRect(x, y, width, height);
-        ctx.putImageData(ogImageData, x, y);
-      } else {
-        ctx.clearRect(x, y, width, height);
-        ctx.putImageData(ogImageData, x, y);
-        drawRect(encLocation, CLEAR_MODE.SELECT);
-      }
-    }
-  }
+  const handleSetLocationZoneId = (zoneId) => {
+    const newZoneId = zoneId ?? null;
+    setSelectedLocation(newZoneId);
+    locationId.current = newZoneId;
+    setTrainerList(getTrainersFromZoneId(newZoneId, GAMEDATA3));
+    setEncounterList(setAllEncounters(newZoneId) || []);
+    setFieldItems(getFieldItemsFromZoneID(newZoneId, GAMEDATA3));
+    setHiddenItems(getHiddenItemsFromZoneID(newZoneId, GAMEDATA3));
+    setShopItems(getRegularShopItems(newZoneId, GAMEDATA3));
+    setScriptItems(getScriptItems(newZoneId, GAMEDATA3));
+    setFixedShops(getFixedShops(newZoneId, GAMEDATA3));
+    setHeartScaleShop(getHeartScaleShopItems(newZoneId, GAMEDATA3));
+  };
 
   return (
     <div className="mapper">
@@ -733,13 +646,42 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
         className="canvasCol"
         style={{gridTemplate: `${canvasDimensions.height}px / ${canvasDimensions.width}px auto`}}
       >
-        <canvas
-          ref={canvasRef}
-          height={`${canvasDimensions.height}px`}
-          width={`${canvasDimensions.width}px`}
+        <Canvas
+          width={canvasDimensions.width}
+          height={canvasDimensions.height}
+          onMouseMove={handleNewMouseMove}
+          onMouseUp={handleMouseUpClick}
+          captureAllKeyEvents={false}
         >
-          Your browser does not support the canvas element.
-        </canvas>
+          <Image
+            x={0}
+            y={0}
+            width={canvasDimensions.width}
+            height={canvasDimensions.height}
+            src={mapperImage}
+          />
+          {sortedCoordinates.map((location, locationIndex) => (
+            <>
+              <Location
+                key={`${location.zoneId}-${locationIndex}`}
+                location={location}
+                mouseCoords={mouseCoords}
+                selectedLocation={selectedLocation}
+                encounterLocations={encounterLocations}
+                colors={colors}
+              />
+              <Rect
+                key={`outline-${location.zoneId}-${locationIndex}`}
+                x={location.x}
+                y={location.y}
+                x2={location.x + location.width}
+                y2={location.y + location.height}
+                color={"#000"}
+                fill={false}
+              />
+            </>
+          ))}
+        </Canvas>
         <MapperTabPanel
           encOptions={encOptions}
           handleOptionChange={handleOptionChange}
@@ -750,7 +692,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
           selectedTrainer={selectedTrainer}
           setSelectedTrainer={setSelectedTrainer}
           openTrainerModal={openTrainerModal}
-          routeId={selectedZoneId}
+          routeId={selectedLocation}
         />
       </div>
       <SearchBar
@@ -760,8 +702,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
         handleDebouncedTextChange={handlePokemonNameChange}
         locationName={selectedZone}
         setLocationName={setSelectedZone}
-        setLocationZoneId={setSelectedZoneId}
-        canvasRef={canvasRef.current}
+        setLocationZoneId={handleSetLocationZoneId}
         selectedPokemon={selectedPokemon}
         setSelectedPokemon={setSelectedPokemon}
         handleShowSettings={handleShowSettings}
@@ -849,7 +790,6 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
         setColors={setColors}
         showModal={showSettings}
         onHide={handleCloseSettings}
-        canvasRef={canvasRef.current}
       />
     </div>
   );

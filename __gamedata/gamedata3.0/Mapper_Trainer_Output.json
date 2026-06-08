@@ -4374,8 +4374,8 @@
           "evspeed": 0
         }
       ],
-      "team_name": "Pok\u00e9mon Trainer Steven (Oreburgh City)",
-      "name": "Pok\u00e9mon Trainer Steven",
+      "team_name": "Hoenn Champion Steven (Oreburgh City)",
+      "name": "Hoenn Champion Steven",
       "route": "Oreburgh City",
       "zoneId": 53,
       "trainerType": "Single Battle",
@@ -6701,7 +6701,7 @@
         {
           "ability": "Fur Coat",
           "gender": "FEMALE",
-          "id": 1300,
+          "id": 1302,
           "item": "Muscle Band",
           "level": 18,
           "moves": [
@@ -6995,7 +6995,7 @@
       "name": "Team Galactic Grunt 3",
       "route": "Floaroma Meadow",
       "zoneId": 253,
-      "trainerType": "Double Battle",
+      "trainerType": "Single Battle",
       "trainer_id": 222
     },
     {
@@ -7057,7 +7057,7 @@
       "name": "Team Galactic Grunt 4",
       "route": "Floaroma Meadow",
       "zoneId": 253,
-      "trainerType": "Single Battle",
+      "trainerType": "Double Battle",
       "trainer_id": 222
     }
   ],
@@ -8462,7 +8462,7 @@
         {
           "ability": "Mimicry",
           "gender": "MALE",
-          "id": 1246,
+          "id": 1248,
           "item": null,
           "level": 18,
           "moves": [
@@ -9078,7 +9078,7 @@
         {
           "ability": "Sharpness",
           "gender": "FEMALE",
-          "id": 1227,
+          "id": 1229,
           "item": "Life Orb",
           "level": 95,
           "moves": [
@@ -9784,7 +9784,7 @@
         {
           "ability": "Mind's Eye",
           "gender": "FEMALE",
-          "id": 1409,
+          "id": 1411,
           "item": "Assault Vest",
           "level": 80,
           "moves": [
@@ -9924,7 +9924,7 @@
         {
           "ability": "Illusion",
           "gender": "MALE",
-          "id": 1239,
+          "id": 1241,
           "item": "Focus Sash",
           "level": 80,
           "moves": [
@@ -10152,7 +10152,7 @@
         {
           "ability": "Shell Armor",
           "gender": "FEMALE",
-          "id": 1305,
+          "id": 1307,
           "item": "Assault Vest",
           "level": 80,
           "moves": [
@@ -12244,7 +12244,7 @@
         {
           "ability": "Serene Grace",
           "gender": "FEMALE",
-          "id": 1207,
+          "id": 1209,
           "item": "Focus Sash",
           "level": 100,
           "moves": [
@@ -14198,8 +14198,8 @@
           "item": null,
           "level": 55,
           "moves": [
-            253,
-            130,
+            662,
+            834,
             37,
             38
           ],
@@ -14664,7 +14664,7 @@
         {
           "ability": "Chlorophyll",
           "gender": "FEMALE",
-          "id": 1242,
+          "id": 1244,
           "item": null,
           "level": 22,
           "moves": [
@@ -14840,7 +14840,7 @@
         {
           "ability": "Inner Focus",
           "gender": "MALE",
-          "id": 1232,
+          "id": 1234,
           "item": null,
           "level": 20,
           "moves": [
@@ -17432,7 +17432,7 @@
         {
           "ability": "Illusion",
           "gender": "FEMALE",
-          "id": 1238,
+          "id": 1240,
           "item": "Wise Glasses",
           "level": 27,
           "moves": [
@@ -21002,7 +21002,7 @@
         {
           "ability": "Weak Armor",
           "gender": "FEMALE",
-          "id": 1383,
+          "id": 1385,
           "item": "Focus Sash",
           "level": 32,
           "moves": [
@@ -21168,7 +21168,7 @@
         {
           "ability": "Dancer",
           "gender": "FEMALE",
-          "id": 1325,
+          "id": 1327,
           "item": "Leftovers",
           "level": 32,
           "moves": [
@@ -21474,7 +21474,7 @@
         {
           "ability": "Cursed Body",
           "gender": "FEMALE",
-          "id": 1383,
+          "id": 1385,
           "item": "White Herb",
           "level": 100,
           "moves": [
@@ -22922,7 +22922,7 @@
       "name": "Team Galactic Grunt 6",
       "route": "Route 212 (North)",
       "zoneId": 379,
-      "trainerType": "Double Battle",
+      "trainerType": "Single Battle",
       "trainer_id": 965
     },
     {
@@ -22984,7 +22984,7 @@
       "name": "Team Galactic Grunt 7",
       "route": "Route 212 (North)",
       "zoneId": 379,
-      "trainerType": "Single Battle",
+      "trainerType": "Double Battle",
       "trainer_id": 965
     }
   ],
@@ -30528,7 +30528,7 @@
         {
           "ability": "Psychic Surge",
           "gender": "FEMALE",
-          "id": 1396,
+          "id": 1398,
           "item": "Terrain Extender",
           "level": 35,
           "moves": [
@@ -34338,7 +34338,7 @@
         {
           "ability": "Chlorophyll",
           "gender": "MALE",
-          "id": 1229,
+          "id": 1231,
           "item": null,
           "level": 35,
           "moves": [
@@ -34602,7 +34602,7 @@
         {
           "ability": "Scrappy",
           "gender": "FEMALE",
-          "id": 1322,
+          "id": 1324,
           "item": "Razor Claw",
           "level": 38,
           "moves": [
@@ -35676,7 +35676,7 @@
         {
           "ability": "No Guard",
           "gender": "FEMALE",
-          "id": 1322,
+          "id": 1324,
           "item": "Focus Sash",
           "level": 100,
           "moves": [
@@ -35842,7 +35842,7 @@
         {
           "ability": "No Guard",
           "gender": "FEMALE",
-          "id": 1322,
+          "id": 1324,
           "item": "Focus Sash",
           "level": 100,
           "moves": [
@@ -37942,7 +37942,7 @@
         {
           "ability": "Illusion",
           "gender": "MALE",
-          "id": 1239,
+          "id": 1241,
           "item": "Red Card",
           "level": 57,
           "moves": [
@@ -38020,7 +38020,7 @@
         {
           "ability": "RKS System",
           "gender": "FEMALE",
-          "id": 1346,
+          "id": 1348,
           "item": "King\u2019s Rock",
           "level": 57,
           "moves": [
@@ -43974,7 +43974,7 @@
         {
           "ability": "Adaptability",
           "gender": "FEMALE",
-          "id": 1231,
+          "id": 1233,
           "item": null,
           "level": 39,
           "moves": [
@@ -44772,7 +44772,7 @@
         {
           "ability": "Sharpness",
           "gender": "FEMALE",
-          "id": 1227,
+          "id": 1229,
           "item": "Muscle Band",
           "level": 43,
           "moves": [
@@ -45234,7 +45234,7 @@
         {
           "ability": "Unseen Fist",
           "gender": "MALE",
-          "id": 1403,
+          "id": 1405,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -45270,7 +45270,7 @@
         {
           "ability": "Sharpness",
           "gender": "FEMALE",
-          "id": 1227,
+          "id": 1229,
           "item": "Focus Sash",
           "level": 100,
           "moves": [
@@ -45462,7 +45462,7 @@
         {
           "ability": "Unseen Fist",
           "gender": "MALE",
-          "id": 1403,
+          "id": 1405,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -45692,7 +45692,7 @@
         {
           "ability": "Illusion",
           "gender": "MALE",
-          "id": 1239,
+          "id": 1241,
           "item": "Wise Glasses",
           "level": 45,
           "moves": [
@@ -47260,7 +47260,7 @@
         {
           "ability": "RKS System",
           "gender": "FEMALE",
-          "id": 1339,
+          "id": 1341,
           "item": "Choice Specs",
           "level": 60,
           "moves": [
@@ -47400,7 +47400,7 @@
         {
           "ability": "RKS System",
           "gender": "FEMALE",
-          "id": 1340,
+          "id": 1342,
           "item": "Sitrus Berry",
           "level": 60,
           "moves": [
@@ -47426,7 +47426,7 @@
         {
           "ability": "Illusion",
           "gender": "MALE",
-          "id": 1239,
+          "id": 1241,
           "item": "Choice Specs",
           "level": 59,
           "moves": [
@@ -47566,7 +47566,7 @@
         {
           "ability": "Illusion",
           "gender": "MALE",
-          "id": 1239,
+          "id": 1241,
           "item": "Choice Specs",
           "level": 59,
           "moves": [
@@ -47618,7 +47618,7 @@
         {
           "ability": "RKS System",
           "gender": "FEMALE",
-          "id": 1338,
+          "id": 1340,
           "item": "Choice Band",
           "level": 60,
           "moves": [
@@ -47758,7 +47758,7 @@
         {
           "ability": "Illusion",
           "gender": "MALE",
-          "id": 1239,
+          "id": 1241,
           "item": "Choice Specs",
           "level": 59,
           "moves": [
@@ -48364,7 +48364,7 @@
       "name": "Team Galactic Grunt 3",
       "route": "Spear Pillar",
       "zoneId": 216,
-      "trainerType": "Single Battle",
+      "trainerType": "Double Battle",
       "trainer_id": 400
     },
     {
@@ -48530,7 +48530,7 @@
       "name": "Team Galactic Grunt 4",
       "route": "Spear Pillar",
       "zoneId": 216,
-      "trainerType": "Double Battle",
+      "trainerType": "Single Battle",
       "trainer_id": 400
     },
     {
@@ -49114,7 +49114,7 @@
         {
           "ability": "Chlorophyll",
           "gender": "FEMALE",
-          "id": 1229,
+          "id": 1231,
           "item": "Big Root",
           "level": 57,
           "moves": [
@@ -53122,7 +53122,7 @@
         {
           "ability": "Shell Armor",
           "gender": "FEMALE",
-          "id": 1305,
+          "id": 1307,
           "item": "Choice Specs",
           "level": 52,
           "moves": [
@@ -53262,7 +53262,7 @@
         {
           "ability": "Shell Armor",
           "gender": "MALE",
-          "id": 1305,
+          "id": 1307,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -53428,7 +53428,7 @@
         {
           "ability": "Shell Armor",
           "gender": "MALE",
-          "id": 1305,
+          "id": 1307,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -53568,7 +53568,7 @@
         {
           "ability": "Shell Armor",
           "gender": "MALE",
-          "id": 1305,
+          "id": 1307,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -53760,7 +53760,7 @@
         {
           "ability": "Shell Armor",
           "gender": "MALE",
-          "id": 1305,
+          "id": 1307,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -55758,7 +55758,7 @@
         {
           "ability": "Chlorophyll",
           "gender": "FEMALE",
-          "id": 1229,
+          "id": 1231,
           "item": "Big Root",
           "level": 52,
           "moves": [
@@ -56691,7 +56691,7 @@
       "name": "Ace Trainer Aran",
       "route": "Snowpoint City",
       "zoneId": 159,
-      "trainerType": "Single Battle",
+      "trainerType": "Double Battle",
       "trainer_id": 735
     },
     {
@@ -56779,7 +56779,7 @@
       "name": "Ace Trainer Aran",
       "route": "Snowpoint City",
       "zoneId": 159,
-      "trainerType": "Double Battle",
+      "trainerType": "Single Battle",
       "trainer_id": 735
     },
     {
@@ -56989,7 +56989,7 @@
         {
           "ability": "Zen Mode",
           "gender": "FEMALE",
-          "id": 1234,
+          "id": 1236,
           "item": null,
           "level": 53,
           "moves": [
@@ -57683,7 +57683,7 @@
         {
           "ability": "Gorilla Tactics",
           "gender": "FEMALE",
-          "id": 1234,
+          "id": 1236,
           "item": "Choice Scarf",
           "level": 55,
           "moves": [
@@ -57875,7 +57875,7 @@
         {
           "ability": "Ice Body",
           "gender": "FEMALE",
-          "id": 1312,
+          "id": 1314,
           "item": "Chople Berry",
           "level": 55,
           "moves": [
@@ -58155,7 +58155,7 @@
         {
           "ability": "Zen Mode",
           "gender": "FEMALE",
-          "id": 1234,
+          "id": 1236,
           "item": "Focus Sash",
           "level": 100,
           "moves": [
@@ -58425,7 +58425,7 @@
         {
           "ability": "As One",
           "gender": "FEMALE",
-          "id": 1407,
+          "id": 1409,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -58591,7 +58591,7 @@
         {
           "ability": "As One",
           "gender": "FEMALE",
-          "id": 1407,
+          "id": 1409,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -58757,7 +58757,7 @@
         {
           "ability": "As One",
           "gender": "FEMALE",
-          "id": 1407,
+          "id": 1409,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -60221,7 +60221,7 @@
         {
           "ability": "Punk Rock",
           "gender": "FEMALE",
-          "id": 1378,
+          "id": 1380,
           "item": null,
           "level": 60,
           "moves": [
@@ -61449,7 +61449,7 @@
         {
           "ability": "Volt Absorb",
           "gender": "MALE",
-          "id": 1249,
+          "id": 1251,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -61667,7 +61667,7 @@
         {
           "ability": "Volt Absorb",
           "gender": "MALE",
-          "id": 1249,
+          "id": 1251,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -61885,7 +61885,7 @@
         {
           "ability": "Volt Absorb",
           "gender": "MALE",
-          "id": 1249,
+          "id": 1251,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -61999,7 +61999,7 @@
         {
           "ability": "Volt Absorb",
           "gender": "MALE",
-          "id": 1249,
+          "id": 1251,
           "item": "Weakness Policy",
           "level": 100,
           "moves": [
@@ -62171,7 +62171,7 @@
           "item": null,
           "level": 59,
           "moves": [
-            130,
+            834,
             37,
             38,
             457
@@ -63847,7 +63847,7 @@
         {
           "ability": "Keen Eye",
           "gender": "FEMALE",
-          "id": 1247,
+          "id": 1249,
           "item": null,
           "level": 63,
           "moves": [
@@ -64867,7 +64867,7 @@
         {
           "ability": "Gooey",
           "gender": "FEMALE",
-          "id": 1305,
+          "id": 1307,
           "item": null,
           "level": 63,
           "moves": [
@@ -66251,7 +66251,7 @@
         {
           "ability": "Torrent",
           "gender": "FEMALE",
-          "id": 1227,
+          "id": 1229,
           "item": null,
           "level": 64,
           "moves": [
@@ -66401,7 +66401,7 @@
         {
           "ability": "Adaptability",
           "gender": "FEMALE",
-          "id": 1410,
+          "id": 1412,
           "item": "Expert Belt",
           "level": 65,
           "moves": [
@@ -71217,7 +71217,7 @@
         {
           "ability": "Sharpness",
           "gender": "FEMALE",
-          "id": 1227,
+          "id": 1229,
           "item": "Choice Scarf",
           "level": 77,
           "moves": [
@@ -71295,7 +71295,7 @@
         {
           "ability": "Tinted Lens",
           "gender": "FEMALE",
-          "id": 1247,
+          "id": 1249,
           "item": "Wise Glasses",
           "level": 77,
           "moves": [
@@ -71409,7 +71409,7 @@
         {
           "ability": "Scrappy",
           "gender": "FEMALE",
-          "id": 1322,
+          "id": 1324,
           "item": "Heavy-Duty Boots",
           "level": 77,
           "moves": [
@@ -71627,7 +71627,7 @@
         {
           "ability": "Hustle",
           "gender": "FEMALE",
-          "id": 1229,
+          "id": 1231,
           "item": "Wide Lens",
           "level": 77,
           "moves": [
@@ -71715,7 +71715,7 @@
         {
           "ability": "Illusion",
           "gender": "FEMALE",
-          "id": 1239,
+          "id": 1241,
           "item": "Choice Specs",
           "level": 77,
           "moves": [
@@ -72763,7 +72763,7 @@
         {
           "ability": "Aura Break",
           "gender": "FEMALE",
-          "id": 1316,
+          "id": 1318,
           "item": "Assault Vest",
           "level": 100,
           "moves": [
@@ -73147,7 +73147,7 @@
         {
           "ability": "Aura Break",
           "gender": "FEMALE",
-          "id": 1316,
+          "id": 1318,
           "item": "Assault Vest",
           "level": 100,
           "moves": [
@@ -74895,7 +74895,7 @@
         {
           "ability": "Illusion",
           "gender": "FEMALE",
-          "id": 1239,
+          "id": 1241,
           "item": "Focus Sash",
           "level": 100,
           "moves": [
@@ -75009,7 +75009,7 @@
         {
           "ability": "RKS System",
           "gender": "FEMALE",
-          "id": 1339,
+          "id": 1341,
           "item": "Water Memory",
           "level": 100,
           "moves": [
@@ -75305,7 +75305,7 @@
         {
           "ability": "Mind's Eye",
           "gender": "FEMALE",
-          "id": 1409,
+          "id": 1411,
           "item": "Assault Vest",
           "level": 80,
           "moves": [
@@ -78861,7 +78861,7 @@
         {
           "ability": "Friend Guard",
           "gender": "FEMALE",
-          "id": 1266,
+          "id": 1268,
           "item": null,
           "level": 73,
           "moves": [
@@ -79615,7 +79615,7 @@
         {
           "ability": "Illusion",
           "gender": "MALE",
-          "id": 1239,
+          "id": 1241,
           "item": "Choice Specs",
           "level": 80,
           "moves": [
@@ -79667,7 +79667,7 @@
         {
           "ability": "Technician",
           "gender": "MALE",
-          "id": 1312,
+          "id": 1314,
           "item": "Assault Vest",
           "level": 80,
           "moves": [
@@ -81385,7 +81385,7 @@
         {
           "ability": "Chlorophyll",
           "gender": "FEMALE",
-          "id": 1229,
+          "id": 1231,
           "item": "Big Root",
           "level": 83,
           "moves": [
