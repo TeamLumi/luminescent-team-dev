@@ -5,6 +5,7 @@ import useIsBrowser from '@docusaurus/useIsBrowser';
 import {
   sortedCoordinates,
   getSelectedLocation,
+  getLocationCoordsFromZoneId,
 } from './coordinates';
 import { SearchBar } from './SearchBar';
 import { MapperTabPanel } from './TabPanel/MapperTabPanel';
@@ -53,12 +54,6 @@ const canvasDimensions = {
 
 const versionNumber = "Beta 1.2.0";
 
-export const CLEAR_MODE = {
-  HIGHLIGHT: "highlight",
-  SELECT: "select",
-  ENCOUNTER: "enc",
-};
-
 export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const isBrowser = useIsBrowser();
   if (!isBrowser) {
@@ -106,44 +101,22 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const [fixedShopList, setFixedShops] = useState([]);
   const [heartScaleShopList, setHeartScaleShop] = useState([]);
 
-  const canvasRef = useRef(null);
-  const CLEAR_MODE = {
-    HIGHLIGHT: "highlight",
-    SELECT: "select",
-    ENCOUNTER: "enc",
-  }
-
   // Handle URL query parameters for trainer ID
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const trainerId = params.get('trainerId');
 
-    if (trainerId && canvasRef.current) {
+    if (trainerId) {
       const zoneId = getZoneIdFromTrainerId(trainerId, GAMEDATA3);
       if (zoneId) {
         const location = getLocationCoordsFromZoneId(zoneId);
         if (location) {
-          // Select the location
-          if (previousRectangle.select !== null) {
-            clearRect(CLEAR_MODE.SELECT);
-          }
-          drawRect(location, CLEAR_MODE.SELECT);
-          previousRectangle.select = { x: location.x, y: location.y, width: location.width, height: location.height };
-          locationId.current = location.zoneId;
           setSelectedZone(location.name);
-          setSelectedZoneId(location.zoneId);
-          setEncounterList(setAllEncounters(location.zoneId));
-          setTrainerList(getTrainersFromZoneId(location.zoneId, GAMEDATA3));
-          setFieldItems(getFieldItemsFromZoneID(location.zoneId));
-          setHiddenItems(getHiddenItemsFromZoneID(location.zoneId));
-          setShopItems(getRegularShopItems(location.zoneId));
-          setScriptItems(getScriptItems(location.zoneId));
-          setFixedShops(getFixedShops(location.zoneId));
-          setHeartScaleShop(getHeartScaleShopItems(location.zoneId));
         }
+        handleSetLocationZoneId(zoneId);
       }
     }
-  }, [canvasRef.current]);
+  }, []);
 
   // Select trainer after trainerList is populated
   useEffect(() => {
@@ -158,326 +131,6 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
       }
     }
   }, [trainerList]);
-  //Component onMount
-  useEffect(() => {
-    const context = canvasRef.current.getContext('2d', {willReadFrequently: true});
-    const image = new Image();
-    image.src = require('@site/static/img/new_small_mapper.png').default;
-    image.onload = () => {
-      context.drawImage(image, 0, 0);
-      drawOverlay(context);
-    };
-
-  }, []) // Empty dependency array means this effect runs once after the initial render
-
-  function drawOverlay(ctx) {
-    MapperCoordinates.forEach(coord => {
-      // Draw zone outlines
-      ctx.beginPath();
-      ctx.moveTo(coord.x, coord.y);
-      ctx.lineTo(coord.x + coord.width, coord.y);
-      ctx.lineTo(coord.x + coord.width, coord.y + coord.height);
-      ctx.lineTo(coord.x, coord.y + coord.height);
-      ctx.closePath();
-      ctx.strokeStyle = 'rgba(0, 0, 0, 1)';
-      ctx.lineWidth = 1;
-      ctx.stroke();
-    });
-  };
-
-  /** Listener Events for the Canvas updates */
-  const updateLocationDataFromDropdown = (event) => {
-    // This is using the custom event that was created by the SearchBar
-    // After adding a listener, this is used to directly interact with the canvas
-    // This CANNOT pull the state from a useState or other async func.
-    // You must add a customEvent alongside where a state is updated
-    const selectedName = event.detail;
-    if (!selectedName) {
-      return;
-    }
-    const location = getLocationCoordsFromName(selectedName);
-    const locationCheck = { x: location.x, y: location.y, width: location.width, height: location.height}
-
-    for (let key in previousRectangle) {
-      if (previousRectangle[key] === locationCheck && previousRectangle[key] !== null) {
-        // This is to delete any highlights that are present in the current area
-        // specifically enc highlights when that comes up.
-        clearRect(key);
-      }
-    }
-    if(previousRectangle.select !== null) {
-      clearRect(CLEAR_MODE.SELECT);
-    }
-    drawRect(location, CLEAR_MODE.SELECT);
-    previousRectangle.select = { x: location.x, y: location.y, width: location.width, height: location.height };
-    locationId.current = location.zoneId;
-
-    setEncounterList(setAllEncounters(location.zoneId));
-    setTrainerList(getTrainersFromZoneId(location.zoneId, GAMEDATA3));
-
-    setFieldItems(getFieldItemsFromZoneID(location.zoneId));
-    setHiddenItems(getHiddenItemsFromZoneID(location.zoneId));
-    setShopItems(getRegularShopItems(location.zoneId));
-    setScriptItems(getScriptItems(location.zoneId));
-    setFixedShops(getFixedShops(location.zoneId));
-    setHeartScaleShop(getHeartScaleShopItems(location.zoneId));
-  };
-
-  const updatePokemonLocationsFromDropdown = (event) => {
-    // This is using the custom event that was created by the SearchBar
-    // After adding a listener, this is used to directly interact with the canvas
-    // This CANNOT pull the state from a useState or other async func.
-    // You must add a customEvent alongside where a state is updated
-    const selectedName = event.detail;
-    if (!selectedName) {
-      return;
-    }
-    const locations = getMapperRoutesFromPokemonId(selectedName.id);
-    const locationChecks = locations.map(([locationName, zoneId]) => {
-      const zoneLocationCoords = getLocationCoordsFromZoneId(zoneId);
-      const locationCoords = getLocationCoordsFromName(locationName);
-      if (zoneLocationCoords) {
-        const locationCheck = {
-          name: locationName,
-          x: zoneLocationCoords.x,
-          y: zoneLocationCoords.y,
-          width: zoneLocationCoords.width,
-          height: zoneLocationCoords.height,
-          zoneId: zoneLocationCoords.zoneId,
-          zone: "",
-        };
-        return locationCheck
-      } else if (locationCoords) {
-        const locationCheck = {
-          name: locationName,
-          x: locationCoords.x,
-          y: locationCoords.y,
-          width: locationCoords.width,
-          height: locationCoords.height,
-          zoneId: location.zoneId,
-          location: "",
-        };
-        return locationCheck
-      }
-      return null;
-    });
-    const prevLocations = previousRectangle.enc // There are multiple rectangles that are highlighted
-    const prevSelected = previousRectangle.select;
-    if (prevLocations) {
-      for (const locationIndex in prevLocations) {
-        if (
-          prevSelected &&
-          !isLocationExactlyEqual(
-            prevLocations[locationIndex],
-            prevSelected
-          )
-        ) {
-          clearRect(CLEAR_MODE.ENCOUNTER, prevLocations[locationIndex]);
-        } else {
-          clearRect(CLEAR_MODE.ENCOUNTER, prevLocations[locationIndex]);
-          drawRect(prevLocations[locationIndex], CLEAR_MODE.SELECT)
-        }
-      }
-      previousRectangle.enc = null;
-    }
-
-    for (const locationIndex in locationChecks) {
-      const location = locationChecks[locationIndex];
-      if (location) {
-        if (location.zoneId !== locationId.current && location.name !== hoveredZone) {
-          drawRect(location, CLEAR_MODE.ENCOUNTER);
-        } else if (location.name === hoveredZone) {
-          drawRect(location);
-        } else if (location.zoneId === locationId.current) {
-          drawRect(location, CLEAR_MODE.SELECT);
-        }
-      }
-    }
-  };
-
-  const updateColorSettings = (event) => {
-    const newColorSettings = event.detail;
-    colorSettings = newColorSettings;
-    const prevLocations = previousRectangle.enc // There are multiple rectangles that are highlighted
-    const prevHighlight = previousRectangle.highlight;
-    const prevSelected = previousRectangle.select;
-    if (prevLocations) {
-      for (const locationIndex in prevLocations) {
-        if (
-          prevHighlight &&
-          isLocationExactlyEqual(
-            prevLocations[locationIndex],
-            prevHighlight
-          )
-        ) {
-          clearRect(CLEAR_MODE.HIGHLIGHT);
-          setHoveredZone(null);
-          previousRectangle.highlight = null;
-        }
-        if (
-          prevSelected &&
-          !isLocationExactlyEqual(
-            prevLocations[locationIndex],
-            prevSelected
-          )
-        ) {
-          clearRect(CLEAR_MODE.ENCOUNTER, prevLocations[locationIndex]);
-        } else {
-          clearRect(CLEAR_MODE.ENCOUNTER, prevLocations[locationIndex]);
-        }
-      }
-      previousRectangle.enc = null;
-    }
-    if (previousRectangle.select !== null) {
-      const location = previousRectangle.select;
-      drawRect(location, CLEAR_MODE.SELECT);
-    }
-    setPokemonName("Bulbasaur");
-    setSelectedPokemon(pokemonList3[0])
-  }
-
-  const handleClick = (event) => {
-    if(rect === null) {
-      console.error('Bad Rect:', rect, canvasRef.current)
-      return setRect(canvasRef.current.getBoundingClientRect());
-    }
-
-    let scrollLeft = window.scrollX || document.documentElement.scrollLeft;
-    let scrollTop = window.scrollY || document.documentElement.scrollTop;
-
-    const x = event.clientX - rect.left + scrollLeft;
-    const y = event.clientY - rect.top + scrollTop;
-
-    const location = getSelectedLocation( x,y )
-    if(location === null || location.length === 0) return;
-
-    if (previousRectangle.highlight !== null) {
-      // Make sure to clear any lower hierarchy rects before setting higher ones
-      // If this is not done, the lower mode's highlight will be set as the previous state for the higher mode
-      // Here's how the bug would come up:
-      // 1. Hover over an area.
-      // 2. Select that area.
-      // 3. Hover over a different area.
-      // 4. Select that different area.
-      // 5. From this you'll see how the first area selected will have the hover color.
-      // This will also affect any future areas in the same way.
-      // We want the old selected area to not have the hover's color.
-      // See clearRect for hierarchy info.
-      clearRect(CLEAR_MODE.HIGHLIGHT);
-    }
-    if (previousRectangle.enc !== null) {
-      const selectedEnc = previousRectangle.enc.find(
-        (encLocation) => {
-          return (isLocationExactlyEqual(location, encLocation));
-        }
-      )
-      if (selectedEnc) {
-        clearRect(CLEAR_MODE.ENCOUNTER, selectedEnc);
-      }
-    }
-    if(previousRectangle.select !== null) {
-      clearRect(CLEAR_MODE.SELECT);
-    }
-    drawRect(location, CLEAR_MODE.SELECT); // Change the fill color
-    previousRectangle.select = { x: location.x, y: location.y, width: location.width, height: location.height };
-
-    locationId.current = location.zoneId;
-    setSelectedZone(location.name);
-    setSelectedZoneId(location.zoneId)
-    setEncounterList(setAllEncounters(location.zoneId));
-    setTrainerList(getTrainersFromZoneId(location.zoneId, GAMEDATA3));
-
-    setFieldItems(getFieldItemsFromZoneID(location.zoneId));
-    setHiddenItems(getHiddenItemsFromZoneID(location.zoneId));
-    setShopItems(getRegularShopItems(location.zoneId));
-    setScriptItems(getScriptItems(location.zoneId));
-    setFixedShops(getFixedShops(location.zoneId));
-    setHeartScaleShop(getHeartScaleShopItems(location.zoneId));
-  };
-
-  function handleMouseMove(event) {
-    if(rect === null) {//Shouldn't happen but let's make sure
-      return setRect(canvasRef.current.getBoundingClientRect());
-    }
-
-    // This system allows mobile users to make use of the mapper too
-    let scrollLeft = window.scrollX || document.documentElement.scrollLeft;
-    let scrollTop = window.scrollY || document.documentElement.scrollTop;
-
-    const mouseX = event.clientX - rect.left + scrollLeft;
-    const mouseY = event.clientY - rect.top + scrollTop;
-
-    const location = getSelectedLocation(mouseX, mouseY);
-    if (location && location.zoneId !== locationId.current) {
-      setHoveredZone(location.name);
-      drawRect(location); // Change the fill color
-    } else if (location && location.zoneId === locationId.current) {
-      // This prevents the selected location from being highlighted by the hover color
-      drawRect(location, CLEAR_MODE.SELECT);
-    } else {
-      if (location && previousRectangle.enc !== null) {
-        const hoveredEnc = previousRectangle.enc.find(
-          (encLocation) => {
-            return (isLocationExactlyEqual(location, encLocation));
-          }
-        )
-        if (hoveredEnc) {
-          clearRect(CLEAR_MODE.ENCOUNTER, hoveredEnc);
-        }
-      }
-      setHoveredZone(null);
-      if (previousRectangle.highlight !== null) {
-        clearRect(CLEAR_MODE.HIGHLIGHT);
-        previousRectangle.highlight = null;
-      }
-    }
-  }
-
-  const handleMouseLeave = () => {
-    // Clear the hovered zone when mouse leaves
-    setHoveredZone(null);
-    if (previousRectangle.highlight !== null) {
-      clearRect(CLEAR_MODE.HIGHLIGHT);
-    }
-    if (previousRectangle.enc !== null) {
-      clearRect(CLEAR_MODE.ENCOUNTER);
-    }
-  };
-
-  useEffect(() => {
-    const canvas = canvasRef.current;
-    if (canvas) {
-      // Get the bounding rectangle of the canvas
-      const r = canvas.getBoundingClientRect();
-      setRect(r);
-
-      // The passLocationNameToParent event was required so that the child could update the DOM
-      // This listener is created in the SearchBar.jsx and is listened to here
-      // This is how you would allow a useState from react to partially interact with the canvas
-      // Partially because useState is async and this is direct dom manipulation.
-      const eventListener = (locationNameEvent) => updateLocationDataFromDropdown(locationNameEvent);
-      const pokemonLocationsListener = (pokemonName) => updatePokemonLocationsFromDropdown(pokemonName);
-      const colorListener = (changeColorSettings) => updateColorSettings(changeColorSettings);
-
-      canvas.addEventListener('click', handleClick);
-      canvas.addEventListener('mousemove', handleMouseMove);
-      canvas.addEventListener('mouseleave', handleMouseLeave);
-      canvas.addEventListener('passLocationNameToParent', eventListener);
-      canvas.addEventListener('passPokemonNameLocation', pokemonLocationsListener);
-      canvas.addEventListener('changeColorSettings', colorListener);
-
-      // Clean up the event listener when the component is unmounted
-      return () => {
-        canvas.removeEventListener('click', handleClick);
-        canvas.removeEventListener('mousemove', handleMouseMove);
-        canvas.removeEventListener('mouseleave', handleMouseLeave);
-        canvas.removeEventListener('passLocationNameToParent', eventListener);
-        canvas.removeEventListener('passPokemonNameLocation', pokemonLocationsListener);
-        canvas.removeEventListener('changeColorSettings', colorListener);
-      };
-    }
-  }, [canvasRef.current]); // Add canvasRef.current to the dependency array
-
   const locationId = useRef(null);
   useEffect(() => {
     if(locationId !== null) {
