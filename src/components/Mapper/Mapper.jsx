@@ -163,7 +163,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
 
   const handleTrainerSelect = (trainer) => {
     const zoneId = trainer.zoneId;
-    if (zoneId) {
+    if (zoneId || zoneId === 0) {
       const location = getLocationCoordsFromZoneId(zoneId);
       if (location) {
         setSelectedZone(location.name);
