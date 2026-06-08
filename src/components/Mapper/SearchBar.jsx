@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import IconButton from '@mui/material/IconButton';
 import SettingsIcon from '@mui/icons-material/Settings';
 import { Autocomplete, TextField, createFilterOptions } from '@mui/material';
-import Fuse from 'fuse.js';
 
 const trainerFilterOptions = createFilterOptions({
   limit: 100,
@@ -68,7 +67,6 @@ const LocationNameDropdown = ({
   locationName,
   setLocationName,
   setLocationZoneId,
-  canvasRef
 }) => {
   const locations = getLocationNames();
   const handleLocationChange = (e, value, reason) => {
