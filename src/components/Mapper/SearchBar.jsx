@@ -1,8 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import IconButton from '@mui/material/IconButton';
 import SettingsIcon from '@mui/icons-material/Settings';
-import { Autocomplete, TextField } from '@mui/material';
+import { Autocomplete, TextField, createFilterOptions } from '@mui/material';
 import Fuse from 'fuse.js';
+
+const trainerFilterOptions = createFilterOptions({
+  limit: 100,
+});
 
 import { getLocationCoordsFromName, getLocationNames } from './coordinates';
 import './style.css';
@@ -105,6 +109,53 @@ const LocationNameDropdown = ({
   );
 };
 
+const TrainerSearchInput = ({
+  allTrainers,
+  onTrainerSelect,
+}) => {
+  const [searchText, setSearchText] = useState("");
+  const [selectedTrainer, setSelectedTrainer] = useState(null);
+
+  const handleTrainerChange = (_, value, reason) => {
+    if (reason !== "clear" && value) {
+      setSelectedTrainer(value);
+      setSearchText(value.label);
+      onTrainerSelect(value);
+    } else {
+      setSelectedTrainer(null);
+      setSearchText("");
+    }
+  };
+
+  const handleInputChange = (_, value) => {
+    setSearchText(value);
+  };
+
+  return (
+    <div className="monSearchBar">
+      <Autocomplete
+        id="trainer-search-input"
+        clearOnBlur={false}
+        blurOnSelect
+        options={allTrainers}
+        filterOptions={trainerFilterOptions}
+        getOptionLabel={(option) => option.label}
+        value={selectedTrainer}
+        onChange={handleTrainerChange}
+        inputValue={searchText}
+        onInputChange={handleInputChange}
+        renderInput={(params) => (
+          <TextField
+            {...params}
+            label="Search Trainer"
+            fullWidth
+          />
+        )}
+      />
+    </div>
+  );
+};
+
 const SettingsButton = ({handleShowSettings}) => {
   return (
     <div className="settings">
@@ -126,6 +177,8 @@ export const SearchBar = ({
   selectedPokemon,
   setSelectedPokemon,
   handleShowSettings,
+  allTrainers,
+  onTrainerSelect,
 }) => {
   return (
     <div
@@ -140,6 +193,10 @@ export const SearchBar = ({
         setDebouncedText={handleDebouncedTextChange}
         selectedPokemon={selectedPokemon}
         setSelectedPokemon={setSelectedPokemon}
+      />
+      <TrainerSearchInput
+        allTrainers={allTrainers}
+        onTrainerSelect={onTrainerSelect}
       />
       <LocationNameDropdown
         locationName={locationName}

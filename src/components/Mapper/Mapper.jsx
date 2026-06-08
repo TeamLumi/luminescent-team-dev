@@ -16,6 +16,8 @@ import {
   getAreaEncounters,
   getTrainersFromZoneId,
   getZoneIdFromTrainerId,
+  getFullTrainerById,
+  getAllTrainers,
   getFieldItemsFromZoneID,
   getHiddenItemsFromZoneID,
   getPokemonIdFromName
@@ -101,7 +103,13 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const [fixedShopList, setFixedShops] = useState([]);
   const [heartScaleShopList, setHeartScaleShop] = useState([]);
 
-  const defaultTab = new URLSearchParams(window.location.search).has('trainerId') ? 1 : 0;
+  const [selectedTab, setSelectedTab] = useState(
+    new URLSearchParams(window.location.search).has('trainerId') ? 1 : 0
+  );
+
+  const handleTabChange = (newTab) => {
+    setSelectedTab(newTab);
+  };
 
   // Handle URL query parameters for trainer ID
   useEffect(() => {
@@ -149,6 +157,23 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   };
   const closeTrainerModal = () => {
     setShowTrainerModal(false);
+  };
+
+  const allTrainers = React.useMemo(() => getAllTrainers(GAMEDATA3), []);
+
+  const handleTrainerSelect = (trainer) => {
+    const zoneId = trainer.zoneId;
+    if (zoneId) {
+      const location = getLocationCoordsFromZoneId(zoneId);
+      if (location) {
+        setSelectedZone(location.name);
+      }
+      handleSetLocationZoneId(zoneId);
+      const fullTrainer = getFullTrainerById(trainer.trainer_id, GAMEDATA3);
+      setSelectedTrainer(fullTrainer || trainer);
+      setShowTrainerModal(true);
+      setSelectedTab(1);
+    }
   };
 
   const handleOptionChange = (option, value) => {
@@ -348,7 +373,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
           setSelectedTrainer={setSelectedTrainer}
           openTrainerModal={openTrainerModal}
           routeId={selectedLocation}
-          defaultTab={defaultTab}
+          selectedTab={selectedTab}
+          onTabChange={handleTabChange}
         />
       </div>
       <SearchBar
@@ -362,6 +388,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
         selectedPokemon={selectedPokemon}
         setSelectedPokemon={setSelectedPokemon}
         handleShowSettings={handleShowSettings}
+        allTrainers={allTrainers}
+        onTrainerSelect={handleTrainerSelect}
       />
       <TrainersModal
         showModal={showTrainerModal}
