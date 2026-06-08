@@ -30,9 +30,10 @@ const PokemonTabs = ({ tabNames, selectedTab, handleTabChange  }) => {
 
 const PokemonTabPanel = ({
   tabNames,
-  children
+  children,
+  initialTab = 0,
 }) => {
-  const [selectedTab, setSelectedTab] = useState(0);
+  const [selectedTab, setSelectedTab] = useState(initialTab);
   const handleTabChange = (event, newTab) => {
     setSelectedTab(newTab);
   };

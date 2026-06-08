@@ -101,6 +101,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const [fixedShopList, setFixedShops] = useState([]);
   const [heartScaleShopList, setHeartScaleShop] = useState([]);
 
+  const defaultTab = new URLSearchParams(window.location.search).has('trainerId') ? 1 : 0;
+
   // Handle URL query parameters for trainer ID
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
@@ -346,6 +348,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
           setSelectedTrainer={setSelectedTrainer}
           openTrainerModal={openTrainerModal}
           routeId={selectedLocation}
+          defaultTab={defaultTab}
         />
       </div>
       <SearchBar
