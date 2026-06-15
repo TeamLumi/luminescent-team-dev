@@ -258,7 +258,7 @@ function getTMCompatibility(pokemonId = 0, mode = GAMEDATA2) {
     return tmCompatibility;
   } else {
     const [monsNo, formNo] = getPokemonMonsNoAndFormNoFromPokemonId(pokemonId, mode);
-    const tmFile = TMLearnset[mode][monsNo][formNo];
+    const tmFile = TMLearnset[mode][monsNo][`formno_${formNo}`];
     const {
       machine1,
       machine2,

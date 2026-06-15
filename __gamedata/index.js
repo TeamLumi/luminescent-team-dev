@@ -140,7 +140,7 @@ const smogonMoves3 = require('./gamedata3.0/smogonMoves.json');
 const tutorMoves3 = require('./gamedata3.0/tutorMoves.json');
 const ItemMap3 = require('./gamedata3.0/item_map.json');
 const FixedShop3 = require('./gamedata3.0/fixed_shop.json');
-const TMLearnset3 = require('./gamedata3.0/TMLearnset');
+const TMLearnset3 = require('./gamedata3.0/TMLearnset_consolidated.json');
 
 /*************************** Gamedata Exports ***************************/
 /**                                                                    **/
