@@ -295,7 +295,7 @@ function getTechMachineLearnset(pokemonId = 0, mode = GAMEDATA2) {
 
   if (mode === GAMEDATA2 || mode === GAMEDATAV) {
     const canLearn = [];
-    for (let i = 0; i < learnset.length; i++) {
+    for (let i = 0; i <= learnset.length; i++) {
       const tm = ModeItemTable.WazaMachine[i];
 
       const legalitySetValue = ModeItemTable.Item[tm.itemNo].group_id;
@@ -309,7 +309,7 @@ function getTechMachineLearnset(pokemonId = 0, mode = GAMEDATA2) {
     return canLearn;
   } else {
     const canLearn = [];
-    for (let i = 0; i < learnset.length; i++) {
+    for (let i = 0; i <= learnset.length; i++) {
       const tm = ModeItemTable.WazaMachine[i];
 
       const isLearnable = learnset[i];
