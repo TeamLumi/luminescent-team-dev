@@ -210,12 +210,10 @@ function getTMCompatibility(pokemonId = 0, mode = GAMEDATA2) {
 }
 
 function getTechMachineLearnset(pokemonId = 0, mode = GAMEDATA2) {
-  console.log("Starting the TM Learnset");
   if (pokemonId === 0) {
     return [];
   }
   const learnset = getTMCompatibility(pokemonId, mode);
-  console.log(learnset.length);
   const ModeItemTable = ItemTable[mode];
 
   if (mode === GAMEDATA2 || mode === GAMEDATAV) {
