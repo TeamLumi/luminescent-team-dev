@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[846439],{150814(e){e.exports="/luminescent-team-dev/pokedex/yellow-flower-flabb"}}]);

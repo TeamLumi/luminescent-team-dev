@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[735484],{268038(e){e.exports="/luminescent-team-dev/pokedex/gmax-venusaur"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[985411],{273811(e){e.exports="/luminescent-team-dev/pokedex/golisopod"}}]);

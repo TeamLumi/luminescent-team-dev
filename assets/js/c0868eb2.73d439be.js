@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[273689],{487377(e){e.exports="/luminescent-team-dev/pokedex/sneasler"}}]);

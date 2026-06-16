@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[80474],{790847(e){e.exports="/luminescent-team-dev/pokedex/axew"}}]);

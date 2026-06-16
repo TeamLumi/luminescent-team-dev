@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[569173],{486297(e){e.exports="/luminescent-team-dev/pokedex/slither-wing"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[537110],{301160(e){e.exports="/luminescent-team-dev/pokedex/nidoking"}}]);

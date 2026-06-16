@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[96986],{608530(e){e.exports="/luminescent-team-dev/pokedex/meadow-pattern-vivillon"}}]);

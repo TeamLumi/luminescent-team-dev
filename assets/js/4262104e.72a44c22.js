@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[386315],{548110(e){e.exports="/luminescent-team-dev/pokedex/floatzel"}}]);

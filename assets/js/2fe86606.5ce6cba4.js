@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[338486],{838494(e){e.exports="/luminescent-team-dev/pokedex/summer-form-deerling"}}]);

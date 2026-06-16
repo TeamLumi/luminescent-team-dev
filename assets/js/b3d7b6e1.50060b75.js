@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[208747],{61535(e){e.exports="/luminescent-team-dev/pokedex/abomasnow"}}]);
