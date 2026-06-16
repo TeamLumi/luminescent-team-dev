@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[359248],{919556(e){e.exports="/luminescent-team-dev/pokedex/toxic-plate-arceus"}}]);

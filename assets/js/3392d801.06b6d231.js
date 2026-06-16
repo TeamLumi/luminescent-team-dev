@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[646689],{189064(e){e.exports="/luminescent-team-dev/pokedex/mega-aggron"}}]);

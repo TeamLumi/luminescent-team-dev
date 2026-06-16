@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[278786],{945694(e){e.exports="/luminescent-team-dev/pokedex/flaaffy"}}]);

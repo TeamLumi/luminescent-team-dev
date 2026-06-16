@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[601644],{716349(e){e.exports="/luminescent-team-dev/pokedex/ferroseed"}}]);

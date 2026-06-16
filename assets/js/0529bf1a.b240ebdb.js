@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[297559],{928335(e){e.exports="/luminescent-team-dev/pokedex/mega-diancie"}}]);

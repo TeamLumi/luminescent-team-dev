@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[15710],{940436(e){e.exports="/luminescent-team-dev/pokedex/wooloo"}}]);

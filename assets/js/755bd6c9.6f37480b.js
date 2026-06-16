@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[294084],{415744(e){e.exports="/luminescent-team-dev/pokedex/espathra"}}]);

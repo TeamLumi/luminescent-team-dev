@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[998708],{202173(e){e.exports="/luminescent-team-dev/pokedex/voltorb"}}]);

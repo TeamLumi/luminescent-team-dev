@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[816230],{354861(e){e.exports="/luminescent-team-dev/pokedex/kilowattrel"}}]);

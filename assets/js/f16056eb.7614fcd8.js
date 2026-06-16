@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[442898],{496254(e){e.exports="/luminescent-team-dev/pokedex/vanillite"}}]);

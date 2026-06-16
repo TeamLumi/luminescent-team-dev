@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[244703],{159018(e){e.exports="/luminescent-team-dev/pokedex/galar-weezing"}}]);

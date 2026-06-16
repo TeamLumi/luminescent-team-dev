@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[156175],{538684(e){e.exports="/luminescent-team-dev/pokedex/gmax-melmetal"}}]);

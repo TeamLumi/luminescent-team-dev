@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[458314],{415222(e){e.exports="/luminescent-team-dev/pokedex/gothitelle"}}]);

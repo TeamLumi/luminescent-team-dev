@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[795299],{721041(e){e.exports="/luminescent-team-dev/pokedex/draco-plate-arceus"}}]);

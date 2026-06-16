@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[136118],{276655(e){e.exports="/luminescent-team-dev/pokedex/icicle-plate-arceus"}}]);

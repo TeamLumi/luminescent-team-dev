@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[157034],{53818(e){e.exports="/luminescent-team-dev/pokedex/xurkitree"}}]);

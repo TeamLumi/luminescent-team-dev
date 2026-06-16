@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[499673],{311665(e){e.exports="/luminescent-team-dev/pokedex/-fire-silvally"}}]);

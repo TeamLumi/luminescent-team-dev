@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[724549],{623159(e){e.exports="/luminescent-team-dev/pokedex/shedinja"}}]);

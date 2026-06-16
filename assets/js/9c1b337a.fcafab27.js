@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[490252],{339610(e){e.exports="/luminescent-team-dev/pokedex/entei"}}]);

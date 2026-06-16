@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[924466],{38815(e){e.exports="/luminescent-team-dev/pokedex/simipour"}}]);

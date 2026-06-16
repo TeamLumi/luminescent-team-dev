@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[897180],{243757(e){e.exports="/luminescent-team-dev/pokedex/staryu"}}]);

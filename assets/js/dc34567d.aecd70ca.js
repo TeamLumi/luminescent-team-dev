@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[621798],{110966(e){e.exports="/luminescent-team-dev/pokedex/tapu-koko"}}]);

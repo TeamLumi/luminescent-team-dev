@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[225769],{290376(e){e.exports="/luminescent-team-dev/pokedex/yamask"}}]);

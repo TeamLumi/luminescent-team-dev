@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[317861],{709020(e){e.exports="/luminescent-team-dev/pokedex/ponyta"}}]);

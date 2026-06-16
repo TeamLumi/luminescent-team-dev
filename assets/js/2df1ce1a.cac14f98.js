@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[137168],{676625(e){e.exports="/luminescent-team-dev/pokedex/arboliva"}}]);

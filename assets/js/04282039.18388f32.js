@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[519871],{322755(e){e.exports="/luminescent-team-dev/pokedex/hydreigon"}}]);
