@@ -54,7 +54,7 @@ const canvasDimensions = {
   height: 720
 }
 
-const versionNumber = "Beta 1.2.0";
+const versionNumber = "Beta 1.2.1";
 
 export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const isBrowser = useIsBrowser();
@@ -124,23 +124,16 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
           setSelectedZone(location.name);
         }
         handleSetLocationZoneId(zoneId);
+
+        const trainers = getTrainersFromZoneId(zoneId, GAMEDATA3);
+        const trainer = trainers.find(t => t.trainerId === parseInt(trainerId));
+        if (trainer) {
+          setSelectedTrainer(trainer);
+          setShowTrainerModal(true);
+        }
       }
     }
   }, []);
-
-  // Select trainer after trainerList is populated
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const trainerId = params.get('trainerId');
-
-    if (trainerId && trainerList.length > 0) {
-      const trainer = trainerList.find(t => t.trainer_id === parseInt(trainerId));
-      if (trainer) {
-        setSelectedTrainer(trainer);
-        setShowTrainerModal(true);
-      }
-    }
-  }, [trainerList]);
   const locationId = useRef(null);
   useEffect(() => {
     if(locationId !== null) {
@@ -169,7 +162,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
         setSelectedZone(location.name);
       }
       handleSetLocationZoneId(zoneId);
-      const fullTrainer = getFullTrainerById(trainer.trainer_id, GAMEDATA3);
+      const fullTrainer = getFullTrainerById(trainer.trainerId, GAMEDATA3);
       setSelectedTrainer(fullTrainer || trainer);
       setShowTrainerModal(true);
       setSelectedTab(1);

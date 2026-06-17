@@ -9,7 +9,7 @@ function getTrainersFromZoneId(zoneId, mode = GAMEDATA2) {
     zoneKey = "326" // To be at the Lake Valor After for ease of use.
   }
   if (zoneKey in TrainerLocations[mode]) {
-    return TrainerLocations[mode][zoneKey];
+    return TrainerLocations[mode][zoneKey].map(t => ({ ...t, trainerId: t.trainer_id }));
   }
   console.warn(`${zoneKey} is not in the Trainer List.`);
   return [];
@@ -37,7 +37,7 @@ function getFullTrainerById(trainerId, mode = GAMEDATA2) {
     const trainers = TrainerLocations[mode][zoneKey];
     const trainer = trainers.find(t => t.trainer_id === parseInt(trainerId));
     if (trainer) {
-      return { ...trainer, zoneId: parseInt(zoneKey) };
+      return { ...trainer, trainerId: trainer.trainer_id, zoneId: parseInt(zoneKey) };
     }
   }
 
@@ -52,7 +52,7 @@ function getAllTrainers(mode = GAMEDATA2) {
       if (seen.has(trainer.trainer_id)) continue;
       seen.add(trainer.trainer_id);
       trainers.push({
-        trainer_id: trainer.trainer_id,
+        trainerId: trainer.trainer_id,
         zoneId: parseInt(zoneKey),
         name: trainer.name,
         route: trainer.route,

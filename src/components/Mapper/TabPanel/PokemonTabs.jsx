@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { Box, Tab, Tabs } from '@mui/material';
 
 const PokemonPanel = ({ id, selectedTab, children }) => {
@@ -31,17 +31,13 @@ const PokemonTabs = ({ tabNames, selectedTab, handleTabChange  }) => {
 const PokemonTabPanel = ({
   tabNames,
   children,
-  initialTab = 0,
-  selectedTab: controlledTab,
+  selectedTab = 0,
   onTabChange,
 }) => {
-  const [internalTab, setInternalTab] = useState(initialTab);
-  const selectedTab = controlledTab !== undefined ? controlledTab : internalTab;
   const handleTabChange = (event, newTab) => {
     if (onTabChange) {
       onTabChange(newTab);
     }
-    setInternalTab(newTab);
   };
 
   return (

@@ -1,11 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import IconButton from '@mui/material/IconButton';
 import SettingsIcon from '@mui/icons-material/Settings';
-import { Autocomplete, TextField, createFilterOptions } from '@mui/material';
-
-const trainerFilterOptions = createFilterOptions({
-  limit: 100,
-});
+import { Autocomplete, TextField } from '@mui/material';
+import { FixedSizeList } from 'react-window';
 
 import { getLocationCoordsFromName, getLocationNames } from './coordinates';
 import './style.css';
@@ -107,6 +104,43 @@ const LocationNameDropdown = ({
   );
 };
 
+const LISTBOX_PADDING = 8;
+const ITEM_SIZE = 48;
+const MAX_VISIBLE_ITEMS = 8;
+
+const ListboxComponent = React.forwardRef(function ListboxComponent(props, ref) {
+  const { children, ...other } = props;
+  const itemData = React.Children.toArray(children);
+  const itemCount = itemData.length;
+
+  const height = itemCount > MAX_VISIBLE_ITEMS
+    ? MAX_VISIBLE_ITEMS * ITEM_SIZE + 2 * LISTBOX_PADDING
+    : itemCount * ITEM_SIZE + 2 * LISTBOX_PADDING;
+
+  return (
+    <div ref={ref} {...other}>
+      <FixedSizeList
+        itemData={itemData}
+        height={height}
+        width="100%"
+        itemSize={ITEM_SIZE}
+        itemCount={itemCount}
+        innerElementType="ul"
+        style={{ overflowX: 'hidden' }}
+      >
+        {({ data, index, style }) =>
+          React.cloneElement(data[index], {
+            style: {
+              ...data[index].props.style,
+              ...style,
+            },
+          })
+        }
+      </FixedSizeList>
+    </div>
+  );
+});
+
 const TrainerSearchInput = ({
   allTrainers,
   onTrainerSelect,
@@ -136,7 +170,7 @@ const TrainerSearchInput = ({
         clearOnBlur={false}
         blurOnSelect
         options={allTrainers}
-        filterOptions={trainerFilterOptions}
+        ListboxComponent={ListboxComponent}
         getOptionLabel={(option) => option.label}
         value={selectedTrainer}
         onChange={handleTrainerChange}
