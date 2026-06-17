@@ -106,7 +106,7 @@ const LocationNameDropdown = ({
 
 const LISTBOX_PADDING = 8;
 const ITEM_SIZE = 48;
-const MAX_VISIBLE_ITEMS = 8;
+const MAX_VISIBLE_ITEMS = 14;
 
 const ListboxComponent = React.forwardRef(function ListboxComponent(props, ref) {
   const { children, ...other } = props;
