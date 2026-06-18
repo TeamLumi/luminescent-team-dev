@@ -108,6 +108,28 @@ const LISTBOX_PADDING = 8;
 const ITEM_SIZE = 48;
 const MAX_VISIBLE_ITEMS = 14;
 
+function renderRow(props) {
+  const { data, index, style } = props;
+  const inlineStyle = {
+    ...style,
+    top: (style.top ?? 0) + LISTBOX_PADDING,
+  };
+
+  return React.cloneElement(data[index], {
+    style: {
+      ...data[index].props.style,
+      ...inlineStyle,
+    },
+  });
+}
+
+const OuterElementContext = React.createContext({});
+
+const OuterElementType = React.forwardRef(function OuterElementType(props, ref) {
+  const outerProps = React.useContext(OuterElementContext);
+  return <div ref={ref} {...props} {...outerProps} />;
+});
+
 const ListboxComponent = React.forwardRef(function ListboxComponent(props, ref) {
   const { children, ...other } = props;
   const itemData = React.Children.toArray(children);
@@ -118,25 +140,20 @@ const ListboxComponent = React.forwardRef(function ListboxComponent(props, ref) 
     : itemCount * ITEM_SIZE + 2 * LISTBOX_PADDING;
 
   return (
-    <div ref={ref} {...other}>
-      <FixedSizeList
-        itemData={itemData}
-        height={height}
-        width="100%"
-        itemSize={ITEM_SIZE}
-        itemCount={itemCount}
-        innerElementType="ul"
-        style={{ overflowX: 'hidden' }}
-      >
-        {({ data, index, style }) =>
-          React.cloneElement(data[index], {
-            style: {
-              ...data[index].props.style,
-              ...style,
-            },
-          })
-        }
-      </FixedSizeList>
+    <div ref={ref}>
+      <OuterElementContext.Provider value={other}>
+        <FixedSizeList
+          itemData={itemData}
+          height={height}
+          width="100%"
+          itemSize={ITEM_SIZE}
+          itemCount={itemCount}
+          outerElementType={OuterElementType}
+          innerElementType="ul"
+        >
+          {renderRow}
+        </FixedSizeList>
+      </OuterElementContext.Provider>
     </div>
   );
 });
