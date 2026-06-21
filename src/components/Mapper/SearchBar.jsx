@@ -161,23 +161,31 @@ const ListboxComponent = React.forwardRef(function ListboxComponent(props, ref) 
 const TrainerSearchInput = ({
   allTrainers,
   onTrainerSelect,
+  value,
+  onChange,
 }) => {
   const [searchText, setSearchText] = useState("");
-  const [selectedTrainer, setSelectedTrainer] = useState(null);
 
-  const handleTrainerChange = (_, value, reason) => {
-    if (reason !== "clear" && value) {
-      setSelectedTrainer(value);
-      setSearchText(value.label);
-      onTrainerSelect(value);
+  // Clear internal text when value is cleared externally
+  useEffect(() => {
+    if (!value) {
+      setSearchText("");
+    }
+  }, [value]);
+
+  const handleTrainerChange = (_, newValue, reason) => {
+    if (reason !== "clear" && newValue) {
+      onChange(newValue);
+      setSearchText(newValue.label);
+      onTrainerSelect(newValue);
     } else {
-      setSelectedTrainer(null);
+      onChange(null);
       setSearchText("");
     }
   };
 
-  const handleInputChange = (_, value) => {
-    setSearchText(value);
+  const handleInputChange = (_, newInputValue) => {
+    setSearchText(newInputValue);
   };
 
   return (
@@ -189,7 +197,7 @@ const TrainerSearchInput = ({
         options={allTrainers}
         ListboxComponent={ListboxComponent}
         getOptionLabel={(option) => option.label}
-        value={selectedTrainer}
+        value={value}
         onChange={handleTrainerChange}
         inputValue={searchText}
         onInputChange={handleInputChange}
@@ -228,6 +236,8 @@ export const SearchBar = ({
   handleShowSettings,
   allTrainers,
   onTrainerSelect,
+  searchBarTrainer,
+  setSearchBarTrainer,
 }) => {
   return (
     <div
@@ -246,6 +256,8 @@ export const SearchBar = ({
       <TrainerSearchInput
         allTrainers={allTrainers}
         onTrainerSelect={onTrainerSelect}
+        value={searchBarTrainer}
+        onChange={setSearchBarTrainer}
       />
       <LocationNameDropdown
         locationName={locationName}

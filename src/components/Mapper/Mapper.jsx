@@ -81,6 +81,9 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const [trainerList, setTrainerList] = useState([]);
   const [showTrainerModal, setShowTrainerModal] = useState(false);
 
+  const [searchBarTrainer, setSearchBarTrainer] = useState(null);
+  const skipSearchClear = useRef(false);
+
   const [showSettings, setShowSettings] = useState(false);
   const [colors, setColors] = useState({
     hov: { r: 247, g: 100, b: 200, a: 0.7 },
@@ -145,6 +148,15 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     setEncounterLocations(getMapperRoutesFromPokemonId(selectedPokemon?.id, GAMEDATA3));
   }, [selectedPokemon]);
 
+  // Clear SearchBar trainer selection when location or selected trainer changes
+  useEffect(() => {
+    if (skipSearchClear.current) {
+      skipSearchClear.current = false;
+      return;
+    }
+    setSearchBarTrainer(null);
+  }, [selectedZone, selectedTrainer]);
+
   const openTrainerModal = () => {
     setShowTrainerModal(true);
   };
@@ -155,6 +167,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const allTrainers = React.useMemo(() => getAllTrainers(GAMEDATA3), []);
 
   const handleTrainerSelect = (trainer) => {
+    skipSearchClear.current = true;
+    setSearchBarTrainer(trainer);
     const zoneId = trainer.zoneId;
     if (zoneId || zoneId === 0) {
       const location = getLocationCoordsFromZoneId(zoneId);
@@ -383,6 +397,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
         handleShowSettings={handleShowSettings}
         allTrainers={allTrainers}
         onTrainerSelect={handleTrainerSelect}
+        searchBarTrainer={searchBarTrainer}
+        setSearchBarTrainer={setSearchBarTrainer}
       />
       <TrainersModal
         showModal={showTrainerModal}
