@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[531143],{515524(e){e.exports="/luminescent-team-dev/pokedex/scorbunny"}}]);

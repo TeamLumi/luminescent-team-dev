@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[4726],{576467(e){e.exports="/luminescent-team-dev/pokedex/grookey"}}]);

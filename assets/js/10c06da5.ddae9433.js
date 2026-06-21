@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[727337],{84395(e){e.exports="/luminescent-team-dev/pokedex/pom-pom-style-oricorio"}}]);

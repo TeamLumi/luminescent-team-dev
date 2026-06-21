@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[356488],{766080(e){e.exports="/luminescent-team-dev/pokedex/mow-rotom"}}]);

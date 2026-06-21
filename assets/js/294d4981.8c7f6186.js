@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[457168],{995469(e){e.exports="/luminescent-team-dev/pokedex/natural-form-furfrou"}}]);

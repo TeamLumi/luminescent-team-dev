@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[743092],{616953(e){e.exports="/luminescent-team-dev/pokedex/baile-style-oricorio"}}]);

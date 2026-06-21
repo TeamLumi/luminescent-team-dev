@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[371247],{842428(e){e.exports="/luminescent-team-dev/pokedex/artisan-form-poltchageist"}}]);

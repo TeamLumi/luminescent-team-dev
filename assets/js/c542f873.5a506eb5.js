@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[417821],{284591(e){e.exports="/luminescent-team-dev/pokedex/yellow-meteor-form-minior"}}]);

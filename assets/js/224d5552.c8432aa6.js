@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[80924],{209344(e){e.exports="/luminescent-team-dev/pokedex/sneasel"}}]);

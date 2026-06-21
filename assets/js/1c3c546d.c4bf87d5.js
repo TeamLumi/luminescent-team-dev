@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[205712],{351105(e){e.exports="/luminescent-team-dev/pokedex/vanilla-cream-alcremie"}}]);

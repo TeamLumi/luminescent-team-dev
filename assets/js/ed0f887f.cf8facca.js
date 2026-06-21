@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[735341],{243190(e){e.exports="/luminescent-team-dev/pokedex/combat-breed-paldea-tauros"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[918872],{751672(e){e.exports="/luminescent-team-dev/pokedex/snowy-form-cast"}}]);

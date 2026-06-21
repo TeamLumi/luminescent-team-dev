@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[764090],{363442(e){e.exports="/luminescent-team-dev/pokedex/male-indeedee"}}]);

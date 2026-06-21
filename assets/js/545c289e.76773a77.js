@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[472596],{847272(e){e.exports="/luminescent-team-dev/pokedex/tepig"}}]);

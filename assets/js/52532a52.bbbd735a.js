@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[348364],{584082(e){e.exports="/luminescent-team-dev/pokedex/krookodile"}}]);

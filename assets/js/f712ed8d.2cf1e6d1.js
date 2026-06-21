@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[882524],{811982(e){e.exports="/luminescent-team-dev/pokedex/alola-sandslash"}}]);

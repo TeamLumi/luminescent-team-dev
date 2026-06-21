@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[776339],{357716(e){e.exports="/luminescent-team-dev/pokedex/palossand"}}]);
