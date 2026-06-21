@@ -5,6 +5,7 @@ import useIsBrowser from '@docusaurus/useIsBrowser';
 import {
   sortedCoordinates,
   getSelectedLocation,
+  getLocationCoordsFromZoneId,
 } from './coordinates';
 import { SearchBar } from './SearchBar';
 import { MapperTabPanel } from './TabPanel/MapperTabPanel';
@@ -14,6 +15,9 @@ import './style.css';
 import {
   getAreaEncounters,
   getTrainersFromZoneId,
+  getZoneIdFromTrainerId,
+  getFullTrainerById,
+  getAllTrainers,
   getFieldItemsFromZoneID,
   getHiddenItemsFromZoneID,
   getPokemonIdFromName
@@ -50,13 +54,7 @@ const canvasDimensions = {
   height: 720
 }
 
-const versionNumber = "Beta 1.2.0";
-
-export const CLEAR_MODE = {
-  HIGHLIGHT: "highlight",
-  SELECT: "select",
-  ENCOUNTER: "enc",
-};
+const versionNumber = "Beta 1.2.1";
 
 export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const isBrowser = useIsBrowser();
@@ -83,6 +81,9 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const [trainerList, setTrainerList] = useState([]);
   const [showTrainerModal, setShowTrainerModal] = useState(false);
 
+  const [searchBarTrainer, setSearchBarTrainer] = useState(null);
+  const skipSearchClear = useRef(false);
+
   const [showSettings, setShowSettings] = useState(false);
   const [colors, setColors] = useState({
     hov: { r: 247, g: 100, b: 200, a: 0.7 },
@@ -105,6 +106,37 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const [fixedShopList, setFixedShops] = useState([]);
   const [heartScaleShopList, setHeartScaleShop] = useState([]);
 
+  const [selectedTab, setSelectedTab] = useState(
+    new URLSearchParams(window.location.search).has('trainerId') ? 1 : 0
+  );
+
+  const handleTabChange = (newTab) => {
+    setSelectedTab(newTab);
+  };
+
+  // Handle URL query parameters for trainer ID
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const trainerId = params.get('trainerId');
+
+    if (trainerId) {
+      const zoneId = getZoneIdFromTrainerId(trainerId, GAMEDATA3);
+      if (zoneId) {
+        const location = getLocationCoordsFromZoneId(zoneId);
+        if (location) {
+          setSelectedZone(location.name);
+        }
+        handleSetLocationZoneId(zoneId);
+
+        const trainers = getTrainersFromZoneId(zoneId, GAMEDATA3);
+        const trainer = trainers.find(t => t.trainerId === parseInt(trainerId));
+        if (trainer) {
+          setSelectedTrainer(trainer);
+          setShowTrainerModal(true);
+        }
+      }
+    }
+  }, []);
   const locationId = useRef(null);
   useEffect(() => {
     if(locationId !== null) {
@@ -116,11 +148,39 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     setEncounterLocations(getMapperRoutesFromPokemonId(selectedPokemon?.id, GAMEDATA3));
   }, [selectedPokemon]);
 
+  // Clear SearchBar trainer selection when location or selected trainer changes
+  useEffect(() => {
+    if (skipSearchClear.current) {
+      skipSearchClear.current = false;
+      return;
+    }
+    setSearchBarTrainer(null);
+  }, [selectedZone, selectedTrainer]);
+
   const openTrainerModal = () => {
     setShowTrainerModal(true);
   };
   const closeTrainerModal = () => {
     setShowTrainerModal(false);
+  };
+
+  const allTrainers = React.useMemo(() => getAllTrainers(GAMEDATA3), []);
+
+  const handleTrainerSelect = (trainer) => {
+    skipSearchClear.current = true;
+    setSearchBarTrainer(trainer);
+    const zoneId = trainer.zoneId;
+    if (zoneId || zoneId === 0) {
+      const location = getLocationCoordsFromZoneId(zoneId);
+      if (location) {
+        setSelectedZone(location.name);
+      }
+      handleSetLocationZoneId(zoneId);
+      const fullTrainer = getFullTrainerById(trainer.trainerId, GAMEDATA3);
+      setSelectedTrainer(fullTrainer || trainer);
+      setShowTrainerModal(true);
+      setSelectedTab(1);
+    }
   };
 
   const handleOptionChange = (option, value) => {
@@ -320,6 +380,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
           setSelectedTrainer={setSelectedTrainer}
           openTrainerModal={openTrainerModal}
           routeId={selectedLocation}
+          selectedTab={selectedTab}
+          onTabChange={handleTabChange}
         />
       </div>
       <SearchBar
@@ -333,6 +395,10 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
         selectedPokemon={selectedPokemon}
         setSelectedPokemon={setSelectedPokemon}
         handleShowSettings={handleShowSettings}
+        allTrainers={allTrainers}
+        onTrainerSelect={handleTrainerSelect}
+        searchBarTrainer={searchBarTrainer}
+        setSearchBarTrainer={setSearchBarTrainer}
       />
       <TrainersModal
         showModal={showTrainerModal}

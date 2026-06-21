@@ -31,9 +31,9 @@ const TrainersModal = ({
   };
 
   const handleOpenShowdown = () => {
-    if (!selectedTrainer?.trainer_id) return;
+    if (!selectedTrainer?.trainerId) return;
 
-    const url = `https://calc.relumishowdown.dpdns.org/?mode=ingame&setSource=ingame&trainerId=${selectedTrainer.trainer_id}`;
+    const url = `https://calc.relumishowdown.dpdns.org/?mode=ingame&setSource=ingame&trainerId=${selectedTrainer.trainerId}`;
     window.open(url, '_blank', 'noopener,noreferrer');
   };
 
@@ -69,7 +69,7 @@ ${moves}`;
       maxWidth="1108px"
     >
       <DialogTitle>
-        Trainer: {selectedTrainer?.team_name} ({selectedTrainer?.trainer_id})
+        Trainer: {selectedTrainer?.team_name} ({selectedTrainer?.trainerId})
       </DialogTitle>
       <IconButton
         aria-label="close"
@@ -98,7 +98,7 @@ ${moves}`;
         <IconButton
           aria-label="Open In Showdown"
           onClick={handleOpenShowdown}
-          to={`https://calc.relumishowdown.dpdns.org/?mode=ingame&setSource=ingame&trainerId=` + selectedTrainer?.trainer_id}
+          to={`https://calc.relumishowdown.dpdns.org/?mode=ingame&setSource=ingame&trainerId=` + selectedTrainer?.trainerId}
           sx={{
             position: 'absolute',
             right: 108,
