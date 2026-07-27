@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[663512],{75423(e){e.exports="/luminescent-team-dev/pokedex/dugtrio"}}]);

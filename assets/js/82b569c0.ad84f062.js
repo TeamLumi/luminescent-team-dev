@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[559192],{43059(e){e.exports="/luminescent-team-dev/pokedex/tentacruel"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[430922],{312476(e){e.exports="/luminescent-team-dev/pokedex/aron"}}]);

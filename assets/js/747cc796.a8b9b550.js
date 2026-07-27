@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[585575],{904245(e){e.exports="/luminescent-team-dev/pokedex/mega-lopunny"}}]);

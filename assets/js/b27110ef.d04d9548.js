@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[944861],{200431(e){e.exports="/luminescent-team-dev/pokedex/swalot"}}]);

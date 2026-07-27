@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[315896],{775941(e){e.exports="/luminescent-team-dev/pokedex/caramel-swirl-alcremie"}}]);

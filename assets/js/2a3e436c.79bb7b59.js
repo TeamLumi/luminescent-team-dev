@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[879786],{589801(e){e.exports="/luminescent-team-dev/pokedex/gloom"}}]);

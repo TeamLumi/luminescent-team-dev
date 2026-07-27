@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[898195],{42532(e){e.exports="/luminescent-team-dev/pokedex/white-flower-floette"}}]);

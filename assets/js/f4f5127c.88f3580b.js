@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[787942],{233565(e){e.exports="/luminescent-team-dev/pokedex/star-trim-furfrou"}}]);

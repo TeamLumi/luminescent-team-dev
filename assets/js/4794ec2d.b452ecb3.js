@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[246145],{81302(e){e.exports="/luminescent-team-dev/pokedex/forretress"}}]);

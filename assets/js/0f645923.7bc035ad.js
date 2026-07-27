@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[448444],{667541(e){e.exports="/luminescent-team-dev/pokedex/seedot"}}]);

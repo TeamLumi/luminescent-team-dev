@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[719e3],{419562(e){e.exports="/luminescent-team-dev/pokedex/mega-altaria"}}]);

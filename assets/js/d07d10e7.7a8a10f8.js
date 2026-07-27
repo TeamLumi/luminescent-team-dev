@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[263037],{322871(e){e.exports="/luminescent-team-dev/pokedex/xatu"}}]);

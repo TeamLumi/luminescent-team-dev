@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[811361],{51782(e){e.exports="/luminescent-team-dev/pokedex/alola-diglett"}}]);

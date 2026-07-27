@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[520278],{178662(e){e.exports="/luminescent-team-dev/pokedex/own-tempo-rockruff"}}]);

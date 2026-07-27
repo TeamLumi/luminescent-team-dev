@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[813652],{910605(e){e.exports="/luminescent-team-dev/pokedex/milcery"}}]);
