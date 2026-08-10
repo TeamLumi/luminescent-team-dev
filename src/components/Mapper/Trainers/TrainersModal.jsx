@@ -36,6 +36,7 @@ const TrainersModal = ({
   const [activeTab, setActiveTab] = useState(0);
   const [showSnackbar, setShowSnackbar] = useState(false);
   const [showCloseConfirm, setShowCloseConfirm] = useState(false);
+  const [isAllTeamsMode, setIsAllTeamsMode] = useState(false);
   const prevShowModal = useRef(false);
   const wasModalOpen = useRef(false);
 
@@ -49,6 +50,7 @@ const TrainersModal = ({
 
     if (!prevShowModal.current) {
       // Modal just opened, initialize with initialTrainers array if provided, else single trainer
+      setIsAllTeamsMode(false);
       if (initialTrainers && initialTrainers.length > 0) {
         setTrainerTabs(initialTrainers);
       } else {
@@ -142,6 +144,7 @@ const TrainersModal = ({
 
   const handleCloseTab = (index) => (event) => {
     event.stopPropagation();
+    setIsAllTeamsMode(false);
     setTrainerTabs(prev => {
       const newTabs = prev.filter((_, i) => i !== index);
       if (newTabs.length === 0) {
@@ -174,6 +177,7 @@ const TrainersModal = ({
       return;
     }
     setTrainerTabs(prev => [...prev, fullTrainer]);
+    setIsAllTeamsMode(false);
     setActiveTab(trainerTabs.length);
   };
 
@@ -226,6 +230,16 @@ ${moves}`;
 
   const showBossButton = bossTeamIds.length >= 2;
 
+  const getTabLabel = (trainer) => {
+    if (isAllTeamsMode) {
+      const match = trainer.team_name?.match(/\s*\[Team (\d+)\]\s*$/);
+      if (match) {
+        return `Team ${match[1]} (${trainer.trainerId})`;
+      }
+    }
+    return trainer.team_name || `Trainer ${trainer.trainerId}`;
+  };
+
   const handleLoadAllBossTeams = () => {
     const fullTrainers = bossTeamIds
       .map(id => getFullTrainerById(id, GAMEDATA3))
@@ -233,6 +247,7 @@ ${moves}`;
     if (fullTrainers.length > 1) {
       setTrainerTabs(fullTrainers);
       setActiveTab(0);
+      setIsAllTeamsMode(true);
     }
   };
 
@@ -250,6 +265,8 @@ ${moves}`;
     <Dialog
       open={showModal}
       onClose={handleDialogClose}
+      fullWidth
+      maxWidth={false}
       PaperProps={{ sx: { maxWidth: 1108, overflow: 'hidden' } }}
     >
       {/* Header with tabs and action buttons */}
@@ -296,7 +313,7 @@ ${moves}`;
                       whiteSpace: 'nowrap',
                     }}
                   >
-                    {trainer.team_name || `Trainer ${trainer.trainerId}`}
+                    {getTabLabel(trainer)}
                   </Typography>
                   <IconButton
                     size="small"
@@ -315,11 +332,13 @@ ${moves}`;
               }
             />
           ))}
-          <Tab
-            icon={<AddIcon />}
-            aria-label="Add trainer tab"
-            sx={{ minWidth: 40 }}
-          />
+          {!isAllTeamsMode && (
+            <Tab
+              icon={<AddIcon />}
+              aria-label="Add trainer tab"
+              sx={{ minWidth: 40 }}
+            />
+          )}
         </Tabs>
         {showBossButton && (
           <Tooltip title={`Load all ${bossTeamIds.length} boss teams`}>
@@ -376,7 +395,7 @@ ${moves}`;
       {/* Content */}
       <DialogContent
         dividers
-        sx={hasMultipleTabs ? { minHeight: 942 } : { maxWidth: "1108px" }}
+        sx={{ maxWidth: "1108px", ...(hasMultipleTabs ? { minHeight: 942 } : {}) }}
       >
         {isSearchTab ? (
           <Box
