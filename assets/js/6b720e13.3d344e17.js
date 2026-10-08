@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[234241],{377950(e){e.exports="/luminescent-team-dev/pokedex/small-variety-gourgeist"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[237444],{832494(e){e.exports="/luminescent-team-dev/pokedex/jumbo-variety-gourgeist"}}]);

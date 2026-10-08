@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[762995],{97782(e){e.exports="/luminescent-team-dev/pokedex/medium-variety-pumpkaboo"}}]);
