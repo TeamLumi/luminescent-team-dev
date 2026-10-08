@@ -158,7 +158,7 @@ const ListboxComponent = React.forwardRef(function ListboxComponent(props, ref) 
   );
 });
 
-const TrainerSearchInput = ({
+export const TrainerSearchInput = ({
   allTrainers,
   onTrainerSelect,
   value,
