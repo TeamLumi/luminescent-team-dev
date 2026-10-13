@@ -204,9 +204,9 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   };
 
   const getAllItems = (zoneId) => {
-    const fieldItems = getFieldItemsFromZoneID(zoneId);
-    const hiddenItems = getHiddenItemsFromZoneID(zoneId);
-    const scriptItems = getScriptItems(zoneId);
+    const fieldItems = getFieldItemsFromZoneID(zoneId, GAMEDATA3);
+    const hiddenItems = getHiddenItemsFromZoneID(zoneId, GAMEDATA3);
+    const scriptItems = getScriptItems(zoneId, GAMEDATA3);
     return {
       field: fieldItems,
       hidden: hiddenItems,
@@ -303,10 +303,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
       setTrainerList(getTrainersFromZoneId(location.zoneId, GAMEDATA3) || []);
       setEncounterList(setAllEncounters(location.zoneId) || []);
       setSelectedZone(location.name);
-      setFieldItems(getFieldItemsFromZoneID(location.zoneId, GAMEDATA3));
-      setHiddenItems(getHiddenItemsFromZoneID(location.zoneId, GAMEDATA3));
+      setItemsList(getAllItems(location.zoneId));
       setShopItems(getRegularShopItems(location.zoneId, GAMEDATA3));
-      setScriptItems(getScriptItems(location.zoneId, GAMEDATA3));
       setFixedShops(getFixedShops(location.zoneId, GAMEDATA3));
       setHeartScaleShop(getHeartScaleShopItems(location.zoneId, GAMEDATA3));
     } else {
@@ -314,10 +312,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
       locationId.current = null;
       setTrainerList([]);
       setSelectedZone("");
-      setFieldItems([]);
-      setHiddenItems([]);
+      setItemsList({ field: [], hidden: [], scripted: [] });
       setShopItems([]);
-      setScriptItems([]);
       setFixedShops([]);
       setHeartScaleShop([]);
     }
@@ -329,10 +325,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     locationId.current = newZoneId;
     setTrainerList(getTrainersFromZoneId(newZoneId, GAMEDATA3));
     setEncounterList(setAllEncounters(newZoneId) || []);
-    setFieldItems(getFieldItemsFromZoneID(newZoneId, GAMEDATA3));
-    setHiddenItems(getHiddenItemsFromZoneID(newZoneId, GAMEDATA3));
+    setItemsList(getAllItems(location.zoneId));
     setShopItems(getRegularShopItems(newZoneId, GAMEDATA3));
-    setScriptItems(getScriptItems(newZoneId, GAMEDATA3));
     setFixedShops(getFixedShops(newZoneId, GAMEDATA3));
     setHeartScaleShop(getHeartScaleShopItems(newZoneId, GAMEDATA3));
   };
