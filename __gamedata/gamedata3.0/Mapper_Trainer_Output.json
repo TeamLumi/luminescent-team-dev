@@ -6608,7 +6608,7 @@
       "name": "Team Galactic Grunt 1",
       "route": "Floaroma Meadow",
       "zoneId": 253,
-      "trainerType": "Double Battle",
+      "trainerType": "Single Battle",
       "trainer_id": 221
     },
     {
@@ -6670,7 +6670,7 @@
       "name": "Team Galactic Grunt 2",
       "route": "Floaroma Meadow",
       "zoneId": 253,
-      "trainerType": "Single Battle",
+      "trainerType": "Double Battle",
       "trainer_id": 221
     },
     {
@@ -48239,7 +48239,7 @@
       "name": "Team Galactic Grunt 3",
       "route": "Spear Pillar",
       "zoneId": 216,
-      "trainerType": "Single Battle",
+      "trainerType": "Double Battle",
       "trainer_id": 400
     },
     {
@@ -48405,7 +48405,7 @@
       "name": "Team Galactic Grunt 4",
       "route": "Spear Pillar",
       "zoneId": 216,
-      "trainerType": "Double Battle",
+      "trainerType": "Single Battle",
       "trainer_id": 400
     },
     {
@@ -56566,7 +56566,7 @@
       "name": "Ace Trainer Aran",
       "route": "Snowpoint City",
       "zoneId": 159,
-      "trainerType": "Double Battle",
+      "trainerType": "Single Battle",
       "trainer_id": 735
     },
     {
@@ -56654,7 +56654,7 @@
       "name": "Ace Trainer Aran",
       "route": "Snowpoint City",
       "zoneId": 159,
-      "trainerType": "Single Battle",
+      "trainerType": "Double Battle",
       "trainer_id": 735
     },
     {
