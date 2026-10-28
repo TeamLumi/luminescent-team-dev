@@ -209,6 +209,17 @@ function getTMCompatibility(pokemonId = 0, mode = GAMEDATA2) {
   }
 }
 
+function isTMItem(itemId, mode = GAMEDATA2) {
+  if (!Number.isInteger(itemId)) {
+    return false;
+  }
+  const ModeItemTable = ItemTable[mode];
+  if (!ModeItemTable?.WazaMachine) {
+    throw new Error(`Invalid ItemTable for mode: ${mode}`);
+  }
+  return ModeItemTable.WazaMachine.some((machine) => machine.itemNo === itemId);
+}
+
 function getTechMachineLearnset(pokemonId = 0, mode = GAMEDATA2) {
   if (pokemonId === 0) {
     return [];
@@ -302,4 +313,5 @@ export {
   getMoveLevelLearned,
   getTutorMoves,
   getTMCompatibility,
+  isTMItem,
 };

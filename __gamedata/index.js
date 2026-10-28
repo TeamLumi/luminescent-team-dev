@@ -17,8 +17,8 @@ const mapInfoVanilla =  require('./gamedataVanilla/MapInfo.json');
 const encounterLocationsVanilla =  require('./gamedataVanilla/encounter_locations.json');
 const pokemonLocationsVanilla =  require('./gamedataVanilla/pokemon_locations.json');
 const trainerLocationsVanilla =  require('./gamedataVanilla/Mapper_Trainer_Output.json');
-const field_itemsVanilla =  require('./gamedataVanilla/item_list.json');
-const hidden_itemsVanilla =  require('./gamedataVanilla/hide_item_list.json');
+const field_itemsVanilla =  require('./gamedataVanilla/field_items.json');
+const hidden_itemsVanilla =  require('./gamedataVanilla/hidden_items.json');
 const staticLocationsVanilla =  require('./gamedataVanilla/static_pokemon_locations.json');
 const staticAreaLocationsVanilla =  require('./gamedataVanilla/static_area_locations.json');
 
@@ -66,8 +66,8 @@ const mapInfo2 =  require('./gamedata2.0/MapInfo.json');
 const encounterLocations2 =  require('./gamedata2.0/encounter_locations.json');
 const pokemonLocations2 =  require('./gamedata2.0/pokemon_locations.json');
 const trainerLocations2 =  require('./gamedata2.0/Mapper_Trainer_Output.json');
-const field_items2 =  require('./gamedata2.0/item_list.json');
-const hidden_items2 =  require('./gamedata2.0/hide_item_list.json');
+const field_items2 =  require('./gamedata2.0/field_items.json');
+const hidden_items2 =  require('./gamedata2.0/hidden_items.json');
 const staticLocations2 =  require('./gamedata2.0/static_pokemon_locations.json');
 const staticAreaLocations2 =  require('./gamedata2.0/static_area_locations.json');
 
@@ -114,8 +114,8 @@ const mapInfo3 = require('./gamedata3.0/MapInfo.json');
 const encounterLocations3 = require('./gamedata3.0/encounter_locations.json');
 const pokemonLocations3 = require('./gamedata3.0/pokemon_locations.json');
 const trainerLocations3 = require('./gamedata3.0/Mapper_Trainer_Output.json');
-const field_items3 = require('./gamedata3.0/item_list.json');
-const hidden_items3 = require('./gamedata3.0/hide_item_list.json');
+const field_items3 = require('./gamedata3.0/field_items.json');
+const hidden_items3 = require('./gamedata3.0/hidden_items.json');
 const staticLocations3 = require('./gamedata3.0/static_pokemon_locations.json');
 const staticAreaLocations3 = require('./gamedata3.0/static_area_locations.json');
 
