@@ -78,6 +78,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   const [pokemonName, setPokemonName] = useState('');
 
   const [selectedTrainer, setSelectedTrainer] = useState(null);
+  const [initialTrainers, setInitialTrainers] = useState(null);
   const [trainerList, setTrainerList] = useState([]);
   const [showTrainerModal, setShowTrainerModal] = useState(false);
 
@@ -114,26 +115,40 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     setSelectedTab(newTab);
   };
 
-  // Handle URL query parameters for trainer ID
+  // Handle URL query parameters for trainer ID(s)
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
-    const trainerId = params.get('trainerId');
+    const trainerIdParam = params.get('trainerId');
 
-    if (trainerId) {
-      const zoneId = getZoneIdFromTrainerId(trainerId, GAMEDATA3);
+    if (trainerIdParam) {
+      const trainerIds = trainerIdParam
+        .split(',')
+        .map(id => parseInt(id.trim()))
+        .filter(Boolean);
+
+      if (trainerIds.length === 0) return;
+
+      // Use the first trainer's zone to set map location
+      const firstId = trainerIds[0];
+      const zoneId = getZoneIdFromTrainerId(firstId, GAMEDATA3);
       if (zoneId) {
         const location = getLocationCoordsFromZoneId(zoneId);
         if (location) {
           setSelectedZone(location.name);
         }
         handleSetLocationZoneId(zoneId);
+      }
 
-        const trainers = getTrainersFromZoneId(zoneId, GAMEDATA3);
-        const trainer = trainers.find(t => t.trainerId === parseInt(trainerId));
-        if (trainer) {
-          setSelectedTrainer(trainer);
-          setShowTrainerModal(true);
-        }
+      // Fetch full trainer data for all requested IDs
+      const fullTrainers = trainerIds
+        .map(id => getFullTrainerById(id, GAMEDATA3))
+        .filter(Boolean);
+
+      if (fullTrainers.length > 0) {
+        setSelectedTrainer(fullTrainers[0]);
+        // If multiple trainers requested, pass them all for tab initialization
+        setInitialTrainers(fullTrainers.length > 1 ? fullTrainers : null);
+        setShowTrainerModal(true);
       }
     }
   }, []);
@@ -158,10 +173,12 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
   }, [selectedZone, selectedTrainer]);
 
   const openTrainerModal = () => {
+    setInitialTrainers(null);
     setShowTrainerModal(true);
   };
   const closeTrainerModal = () => {
     setShowTrainerModal(false);
+    setInitialTrainers(null);
   };
 
   const allTrainers = React.useMemo(() => getAllTrainers(GAMEDATA3), []);
@@ -178,6 +195,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
       handleSetLocationZoneId(zoneId);
       const fullTrainer = getFullTrainerById(trainer.trainerId, GAMEDATA3);
       setSelectedTrainer(fullTrainer || trainer);
+      setInitialTrainers(null);
       setShowTrainerModal(true);
       setSelectedTab(1);
     }
@@ -405,6 +423,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
         onHide={closeTrainerModal}
         pokemonList={pokemonList3}
         selectedTrainer={selectedTrainer}
+        allTrainers={allTrainers}
+        initialTrainers={initialTrainers}
       />
       {/* <div>
         Field Items: 
