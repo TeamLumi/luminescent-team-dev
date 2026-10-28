@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "PDollar";
+  src: url("/fonts/ori_font.woff2") format("woff2");
+  font-display: swap;
+}
+
 .canvasCol {
     display: grid;
 }
@@ -45,6 +51,12 @@
     height: 672px;
 }
 
+.shop-panel {
+    width: 416px;
+    border: 2px solid var(--ifm-table-border-color);
+    height: 672px;
+}
+
 .itemAccordions {
     max-height: 620px;
     overflow-y: auto;
@@ -55,6 +67,19 @@
 }
 
 .itemAccordions > * {
+    margin-bottom: 5px;
+}
+
+.shop-accordions {
+    max-height: 620px;
+    overflow-y: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    border-top: 2px solid var(--ifm-table-border-color);
+}
+
+.shop-accordions > * {
     margin-bottom: 5px;
 }
 

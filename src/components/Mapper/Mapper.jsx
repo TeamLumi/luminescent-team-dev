@@ -100,11 +100,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     event: [],
   });
   const [itemsList, setItemsList] = useState({ field: [], hidden: [], scripted: [] })
-  const [fieldItemsList, setFieldItems] = useState([]);
-  const [hiddenItemsList, setHiddenItems] = useState([]);
-  const [shopItemsList, setShopItems] = useState([]);
-  const [fixedShopList, setFixedShops] = useState([]);
-  const [heartScaleShopList, setHeartScaleShop] = useState([]);
+  const [shopItemsList, setShopItems] = useState({mart: [], fixed: [], heartScale: []});
 
 
   const [selectedTab, setSelectedTab] = useState(
@@ -214,6 +210,16 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     }
   };
 
+  const getAllShopItems = (zoneId, mode = GAMEDATA3) => {
+    const martItems = getRegularShopItems(zoneId, mode) ?? [];
+    const fixedShopItems = getFixedShops(zoneId, mode) ?? [];
+    const heartScaleShopItems = getHeartScaleShopItems(zoneId, mode) ?? [];
+    return {
+      mart: martItems,
+      fixed: fixedShopItems,
+      heartScale: heartScaleShopItems
+    }
+  }
 
   const setAllEncounters = (zoneId) => {
     const areaEncounters = getAreaEncounters(zoneId, GAMEDATA3);
@@ -304,18 +310,14 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
       setEncounterList(setAllEncounters(location.zoneId) || []);
       setSelectedZone(location.name);
       setItemsList(getAllItems(location.zoneId));
-      setShopItems(getRegularShopItems(location.zoneId, GAMEDATA3));
-      setFixedShops(getFixedShops(location.zoneId, GAMEDATA3));
-      setHeartScaleShop(getHeartScaleShopItems(location.zoneId, GAMEDATA3));
+      setShopItems(getAllShopItems(location.zoneId, GAMEDATA3))
     } else {
       setSelectedLocation(null);
       locationId.current = null;
       setTrainerList([]);
       setSelectedZone("");
       setItemsList({ field: [], hidden: [], scripted: [] });
-      setShopItems([]);
-      setFixedShops([]);
-      setHeartScaleShop([]);
+      setShopItems({mart: [], fixed: [], heartScale: []})
     }
   };
 
@@ -325,10 +327,8 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
     locationId.current = newZoneId;
     setTrainerList(getTrainersFromZoneId(newZoneId, GAMEDATA3));
     setEncounterList(setAllEncounters(newZoneId) || []);
-    setItemsList(getAllItems(location.zoneId));
-    setShopItems(getRegularShopItems(newZoneId, GAMEDATA3));
-    setFixedShops(getFixedShops(newZoneId, GAMEDATA3));
-    setHeartScaleShop(getHeartScaleShopItems(newZoneId, GAMEDATA3));
+    setItemsList(getAllItems(zoneId));
+    setShopItems(getAllShopItems(zoneId, GAMEDATA3))
   };
 
   return (
@@ -387,6 +387,7 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
           setSelectedTrainer={setSelectedTrainer}
           openTrainerModal={openTrainerModal}
           itemsList={itemsList}
+          shopItemsList={shopItemsList}
           routeId={selectedLocation}
           selectedTab={selectedTab}
           onTabChange={handleTabChange}
@@ -414,78 +415,6 @@ export const Mapper = ({ pokemonList3, pokemonList, pokemonListV }) => {
         pokemonList={pokemonList3}
         selectedTrainer={selectedTrainer}
       />
-      {/* <div>
-        Field Items: 
-        {fieldItemsList && fieldItemsList.map((fieldItem, index) => (
-          <div key={index}>
-            {`${getItemString(fieldItem)}`}
-          </div>
-        ))}
-      </div>
-      <div>
-        Hidden Items: 
-        {hiddenItemsList && hiddenItemsList.map((hiddenItem, index) => (
-          <div key={index}>
-            {`${getItemString(hiddenItem)}`}
-          </div>
-        ))}
-      </div>
-      <div>
-        Scripted Items: 
-        {scriptItemsList && scriptItemsList.map((scriptItem, index) => (
-          <div key={index}>
-            {`${getItemString(scriptItem)}`}
-          </div>
-        ))}
-      </div>
-      <div>
-        Shop Items:
-        {shopItemsList && shopItemsList.map((shopItem, index) => (
-          <div key={index}>
-            {`${getItemString(shopItem.ItemNo)} `}
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pok%C3%A9mon_Dollar_sign.svg/73px-Pok%C3%A9mon_Dollar_sign.svg.png"
-              height="12px"
-              style={{filter: colorMode === "dark" ? "invert(80%)" : "invert(0%)"}}
-            />
-            {` ${getItemPrice(shopItem.ItemNo)}`}
-            {shopItem.BadgeNum > 0 && (
-              ` (${shopItem.BadgeNum}+ Badges)`
-            )}
-          </div>
-        ))}
-      </div>
-      <div>
-        {fixedShopList && fixedShopList.map((section, index) => (
-          <div key={index}>
-            {`${section.sectionTitle} Items:`}
-            {section.items && section.items.map((shop, itemIndex) => (
-              <div key={itemIndex}>
-                {getFixedShopsItems(shop).map((itemNo, itemNoIndex) => (
-                  <div key={itemNoIndex}>
-                    {`${getItemString(itemNo)} `}
-                    <img
-                      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pok%C3%A9mon_Dollar_sign.svg/73px-Pok%C3%A9mon_Dollar_sign.svg.png"
-                      height="12px"
-                      style={{filter: colorMode === "dark" ? "invert(80%)" : "invert(0%)"}}
-                    />
-                    {` ${getItemPrice(itemNo)}`}
-
-                  </div>
-                ))}
-              </div>
-            ))}
-          </div>
-        ))}
-      </div>
-      <div>
-        Heart Scale Shop Items: 
-        {heartScaleShopList && heartScaleShopList.map((heartScaleItem, index) => (
-          <div key={index}>
-            {`${getItemString(heartScaleItem.ItemNo)} Price: ${heartScaleItem.Price} Heart Scale(s)`}
-          </div>
-        ))}
-      </div> */}
       <SettingsModal
         colors={colors}
         setColors={setColors}

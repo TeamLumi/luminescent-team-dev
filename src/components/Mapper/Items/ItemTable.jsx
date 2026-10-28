@@ -50,9 +50,9 @@ const ItemTable = ({ itemList, selectedItem, showQuantity = false, showLocation 
                   <span style={{ display: "inline-flex", alignItems: "center", gap: "4px" }}>
                     Location
                     <Link
-                      to="https://www.nexusmods.com/pokemonbdsp/mods/1"
-                      aria-label="View location information on Nexus Mods"
-                      title="View location information on Nexus Mods"
+                      to="https://www.nexusmods.com/pokemonbdsp/mods/54"
+                      aria-label="Download the 'Coordinates Item Only' on Nexus Mods"
+                      title="Download the 'Coordinates Item Only' on Nexus Mods"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{display: "flex"}}
