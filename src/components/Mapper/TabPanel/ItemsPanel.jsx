@@ -25,7 +25,11 @@ const ItemsPanel = ({ itemsList, selectedItem = "" }) => { // Might add an Item 
           bgColor={"success.main"}
           textColor={itemsList.field.length !== 0 ? "#F5FBF5" : modeChangeTextColor}
         >
-          <ItemTable itemList={itemsList.field} selectedItem={selectedItem} />
+          <ItemTable
+            itemList={itemsList.field}
+            selectedItem={selectedItem}
+            showLocation
+          />
         </PokemonAccordion>
         <PokemonAccordion
           disabled={itemsList.hidden.length === 0}
@@ -34,7 +38,11 @@ const ItemsPanel = ({ itemsList, selectedItem = "" }) => { // Might add an Item 
           bgColor={"primary.dark"}
           textColor={itemsList.hidden.length !== 0 ? "#F5FBF5" : modeChangeTextColor}
         >
-          <ItemTable itemList={itemsList.hidden} selectedItem={selectedItem} />
+          <ItemTable
+            itemList={itemsList.hidden}
+            selectedItem={selectedItem}
+            showLocation
+          />
         </PokemonAccordion>
         <PokemonAccordion
           disabled={itemsList.scripted.length === 0}
@@ -43,7 +51,7 @@ const ItemsPanel = ({ itemsList, selectedItem = "" }) => { // Might add an Item 
           bgColor={"warning.main"}
           textColor={itemsList.scripted.length === 0 && colorMode === "dark" ? "#F5FBF5" : "#000000"}
         >
-          <ItemTable itemList={itemsList.scripted} selectedItem={selectedItem} />
+          <ItemTable itemList={itemsList.scripted} selectedItem={selectedItem} showQuantity />
         </PokemonAccordion>
       </Box>
     </Box>
