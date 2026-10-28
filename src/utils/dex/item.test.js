@@ -38,8 +38,9 @@ describe('Dex utils Item getter tests', () => {
 
 function getRegularShopItemImageData(mode = "2.0") {
   const itemImageData = {};
+  const modeShopTable = ShopTable[mode];
 
-  ShopTable.FS.map((itemEntry) => {
+  modeShopTable.FS.map((itemEntry) => {
     let zoneName = "BaseShop"
     if (itemEntry.ZoneID !== -1) {
       zoneName = getZoneNameFromZoneIdCSV(itemEntry.ZoneID);
@@ -79,10 +80,11 @@ Object.entries(getRegularShopItemImageData("2.0")).forEach(([zoneName, itemImage
 
 function getFixedShopItemImageData(mode = "2.0") {
   const itemImageData = {};
+  const modeFixedShop = FixedShop[mode];
 
-  Object.keys(FixedShop).forEach(zoneCode => {
+  Object.keys(modeFixedShop).forEach(zoneCode => {
     const zoneName = getZoneNameFromZoneCode(zoneCode);
-    const shopId = FixedShop[zoneCode];
+    const shopId = modeFixedShop[zoneCode];
     const itemArray = getFixedShopsItems(shopId);
     const itemUrls = itemArray.map((item) => (getItemImageUrl(getItemString(item))))
     itemImageData[zoneName] = itemUrls
@@ -114,7 +116,7 @@ Object.entries(getFixedShopItemImageData("2.0")).forEach(([zoneName, itemImageAr
 })
 
 function getHeartScaleItemImageData(mode = "2.0") {
-  const heartScaleItems = getHeartScaleShopItems(110);
+  const heartScaleItems = getHeartScaleShopItems(110, mode);
 
   const item_images = heartScaleItems.map((itemObject) => {
     const itemId = itemObject.ItemNo;
@@ -126,7 +128,7 @@ function getHeartScaleItemImageData(mode = "2.0") {
   return item_images;
 }
 
-test.skip.each([...getHeartScaleItemImageData()])(`2.0 Item Image %s does not exist in Heart Scale Shop`, (filename, done) => {
+test.skip.each([...getHeartScaleItemImageData("2.0")])(`2.0 Item Image %s does not exist in Heart Scale Shop`, (filename, done) => {
   if (filename.includes("_TM") || filename.includes("_TR")) {
     return done()
   }
