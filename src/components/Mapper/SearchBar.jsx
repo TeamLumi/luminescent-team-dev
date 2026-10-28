@@ -230,7 +230,6 @@ export const SearchBar = ({
   locationName,
   setLocationName,
   setLocationZoneId,
-  canvasRef,
   selectedPokemon,
   setSelectedPokemon,
   handleShowSettings,

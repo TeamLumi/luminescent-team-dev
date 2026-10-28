@@ -8,6 +8,7 @@ import {
   getMoveProperties,
   getPokemonLearnset,
   getTMCompatibility,
+  isTMItem,
 } from './moves';
 
 describe('Dex Utils Move Getters', () => {
@@ -267,6 +268,20 @@ describe('Dex Utils Move Getters', () => {
     it('returns a 32-character string for any input', () => {
       const learnsetArray = getTMCompatibility(8);
       expect(learnsetArray).toHaveLength(128);
+    });
+
+  });
+  describe('isTMItem', () => {
+    it('returns true for a TM item ID', () => {
+      expect(isTMItem(328)).toBe(true);
+    });
+
+    it('returns false for a non-TM item ID', () => {
+      expect(isTMItem(1)).toBe(false);
+    });
+
+    it.each(['328', null, undefined])('returns false for an invalid item ID: %s', (itemId) => {
+      expect(isTMItem(itemId)).toBe(false);
     });
   });
   describe('getTechMachineLearnset', () => {

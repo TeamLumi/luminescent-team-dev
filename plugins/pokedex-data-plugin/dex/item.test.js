@@ -1,10 +1,33 @@
-const { getItemIdFromItemName, getItemString, getItemImageUrl } = require('./item');
+const { getItemIdFromItemName, getItemString, getItemImageUrl, getTMImageUrl, getTMInfoFromItemNo } = require('./item');
 const { getPokemonInfo } = require('./info');
 const fs = require('fs');
 const path = require('path');
 const { getPokemon } = require('./pokemon');
 const { FORM_MAP, isValidPokemon } = require('./functions');
-const { GAMEDATA2 } = require('../../../__gamedata');
+const {
+  GAMEDATA2,
+  GAMEDATA3,
+  GAMEDATAV,
+  FieldItems,
+  HiddenItems,
+  ItemMap,
+  ItemInfo
+} = require('../../../__gamedata');
+const { isTMItem } = require('../../../src/utils/dex/moves');
+const { getTypeName } = require('./types');
+
+function getItemIds(data) {
+  if (Array.isArray(data)) {
+    return data.flatMap(getItemIds);
+  }
+  if (data === null || typeof data !== 'object') {
+    return typeof data === 'number' ? [data] : [];
+  }
+  if (Object.hasOwn(data, 'itemId')) {
+    return getItemIds(data.itemId);
+  }
+  return Object.values(data).flatMap(getItemIds);
+}
 
 describe('Dex utils Item getter tests', () => {
   describe('getItemIdFromItemName', () => {
@@ -90,6 +113,46 @@ describe('Dex utils Item getter tests', () => {
           }
         });
       }
+    });
+
+    test('should have an image for all field, hidden, and mapped items', () => {
+      const itemDatasets = [
+        ['FieldItems', FieldItems],
+        ['HiddenItems', HiddenItems],
+        ['ItemMap', ItemMap]
+      ];
+      const gameModes = [GAMEDATAV, GAMEDATA2, GAMEDATA3];
+      const missingImages = [];
+
+      itemDatasets.forEach(([datasetName, datasetByMode]) => {
+        gameModes.forEach((mode) => {
+          const itemIds = getItemIds(datasetByMode[mode]);
+          itemIds.forEach((itemId) => {
+            const itemName = getItemString(itemId, mode);
+            if (itemName === 'None') return;
+
+            let moveType = null;
+            const isTM = isTMItem(itemId, mode);
+            if (isTM) {
+              const moveInfo = getTMInfoFromItemNo(itemId, mode);
+              moveType = getTypeName(moveInfo.type, mode);
+            }
+            const imageUrl = isTM ? getTMImageUrl(moveType) : getItemImageUrl(itemName);
+            const imagePath = path.resolve(
+              __dirname,
+              '../../../static',
+              imageUrl.slice(1)
+            );
+            if (!fs.existsSync(imagePath)) {
+              missingImages.push(
+                `${datasetName} (${mode}): item ${itemId} (${itemName}) -> ${imageUrl}`
+              );
+            }
+          });
+        });
+      });
+
+      expect(missingImages).toEqual([]);
     });
   });
 });

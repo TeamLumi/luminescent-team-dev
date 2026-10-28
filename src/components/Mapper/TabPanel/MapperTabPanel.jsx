@@ -16,6 +16,8 @@ export const MapperTabPanel = ({
   selectedTrainer,
   setSelectedTrainer,
   openTrainerModal,
+  itemsList,
+  shopItemsList,
   routeId,
   selectedTab,
   onTabChange,
@@ -36,8 +38,8 @@ export const MapperTabPanel = ({
         pokemonList={pokemonList}
         openTrainerModal={openTrainerModal}
       />
-      <ItemsPanel />
-      <ShopsPanel />
+      <ItemsPanel itemsList={itemsList} />
+      <ShopsPanel shopItemsList={shopItemsList} />
     </PokemonTabPanel>
   );
 };

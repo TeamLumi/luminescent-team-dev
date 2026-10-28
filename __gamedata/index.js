@@ -17,8 +17,8 @@ const mapInfoVanilla =  require('./gamedataVanilla/MapInfo.json');
 const encounterLocationsVanilla =  require('./gamedataVanilla/encounter_locations.json');
 const pokemonLocationsVanilla =  require('./gamedataVanilla/pokemon_locations.json');
 const trainerLocationsVanilla =  require('./gamedataVanilla/Mapper_Trainer_Output.json');
-const field_itemsVanilla =  require('./gamedataVanilla/item_list.json');
-const hidden_itemsVanilla =  require('./gamedataVanilla/hide_item_list.json');
+const field_itemsVanilla =  require('./gamedataVanilla/field_items.json');
+const hidden_itemsVanilla =  require('./gamedataVanilla/hidden_items.json');
 const staticLocationsVanilla =  require('./gamedataVanilla/static_pokemon_locations.json');
 const staticAreaLocationsVanilla =  require('./gamedataVanilla/static_area_locations.json');
 
@@ -38,6 +38,7 @@ const typeNameVanilla = require('./gamedataVanilla/english_ss_typename.json');
 const moveNamesVanilla = require('./gamedataVanilla/english_ss_wazaname.json');
 const moveInfoVanilla = require('./gamedataVanilla/english_ss_wazainfo.json');
 const itemNamesVanilla = require('./gamedataVanilla/english_ss_itemname.json');
+const itemInfoVanilla = require('./gamedataVanilla/english_ss_iteminfo.json');
 
 //Custom files
 const moveEnumVanilla = require('./gamedataVanilla/moveEnum.json');
@@ -65,8 +66,8 @@ const mapInfo2 =  require('./gamedata2.0/MapInfo.json');
 const encounterLocations2 =  require('./gamedata2.0/encounter_locations.json');
 const pokemonLocations2 =  require('./gamedata2.0/pokemon_locations.json');
 const trainerLocations2 =  require('./gamedata2.0/Mapper_Trainer_Output.json');
-const field_items2 =  require('./gamedata2.0/item_list.json');
-const hidden_items2 =  require('./gamedata2.0/hide_item_list.json');
+const field_items2 =  require('./gamedata2.0/field_items.json');
+const hidden_items2 =  require('./gamedata2.0/hidden_items.json');
 const staticLocations2 =  require('./gamedata2.0/static_pokemon_locations.json');
 const staticAreaLocations2 =  require('./gamedata2.0/static_area_locations.json');
 
@@ -86,6 +87,7 @@ const typeName2 = require('./gamedata2.0/english_ss_typename.json');
 const moveNames2 = require('./gamedata2.0/english_ss_wazaname.json');
 const moveInfo2 = require('./gamedata2.0/english_ss_wazainfo.json');
 const itemNames2 = require('./gamedata2.0/english_ss_itemname.json');
+const itemInfo2 = require('./gamedata2.0/english_ss_iteminfo.json');
 
 //Custom files
 const moveEnum2 = require('./gamedata2.0/moveEnum.json');
@@ -112,8 +114,8 @@ const mapInfo3 = require('./gamedata3.0/MapInfo.json');
 const encounterLocations3 = require('./gamedata3.0/encounter_locations.json');
 const pokemonLocations3 = require('./gamedata3.0/pokemon_locations.json');
 const trainerLocations3 = require('./gamedata3.0/Mapper_Trainer_Output.json');
-const field_items3 = require('./gamedata3.0/item_list.json');
-const hidden_items3 = require('./gamedata3.0/hide_item_list.json');
+const field_items3 = require('./gamedata3.0/field_items.json');
+const hidden_items3 = require('./gamedata3.0/hidden_items.json');
 const staticLocations3 = require('./gamedata3.0/static_pokemon_locations.json');
 const staticAreaLocations3 = require('./gamedata3.0/static_area_locations.json');
 
@@ -133,6 +135,7 @@ const typeName3 = require('./gamedata3.0/english_ss_typename.json');
 const moveNames3 = require('./gamedata3.0/english_ss_wazaname.json');
 const moveInfo3 = require('./gamedata3.0/english_ss_wazainfo.json');
 const itemNames3 = require('./gamedata3.0/english_ss_itemname.json');
+const itemInfo3 = require('./gamedata3.0/english_ss_iteminfo.json');
 
 //Custom files
 const moveEnum3 = require('./gamedata3.0/moveEnum.json');
@@ -174,6 +177,11 @@ const ItemNames = { // english_ss_itemname.json
   [GAMEDATAV]: itemNamesVanilla,
   [GAMEDATA2]: itemNames2,
   [GAMEDATA3]: itemNames3, // found in common_msbt for 3.0
+};
+const ItemInfo = {
+  [GAMEDATAV]: itemInfoVanilla,
+  [GAMEDATA2]: itemInfo2,
+  [GAMEDATA3]: itemInfo3,
 };
 const NatureNames = { // english_ss_seikaku.json
   [GAMEDATAV]: natureNamesVanilla,
@@ -371,6 +379,7 @@ module.exports = {
   AreaNames,
   DisplayNames,
   ItemNames,
+  ItemInfo,
   NatureNames,
   AbilityNames,
   AbilityInfo,
